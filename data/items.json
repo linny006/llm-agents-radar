@@ -1,12 +1,120 @@
 [
   {
+    "description": "\u8f93\u5165\u4e00\u6bb5\u9700\u6c42\u8bf4\u660e\uff0c\u751f\u6210\u5e26\u7acb\u9879\u6587\u6863\u3001\u95e8\u7981\u68c0\u67e5\u548c\u8fdb\u5ea6\u8bb0\u5f55\u7684\u9879\u76ee\u76ee\u5f55\uff0c\u9644\u5e26\u81ea\u68c0\u811a\u672c\u3002\u53ef\u4f5c\u4e3a\u7f16\u7a0b\u52a9\u624b\u7684\u6280\u80fd\u5b89\u88c5\uff0c\u4e5f\u53ef\u4ee5\u76f4\u63a5\u5728\u547d\u4ee4\u884c\u8fd0\u884c\uff0c\u53ea\u4f9d\u8d56 Python \u6807\u51c6\u5e93\u3002",
+    "id": "ivercurry99/everyone-can-projects",
+    "language": "Python",
+    "name": "ivercurry99/everyone-can-projects",
+    "stars": 1,
+    "updated_at": "2026-10-24T16:43:42Z",
+    "url": "https://github.com/ivercurry99/everyone-can-projects"
+  },
+  {
+    "description": "Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-24T16:43:02Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "CE \u6267\u884c\u5916\u9aa8\u9abc\uff1a\u8ba9\u5c0f\u6a21\u578b\u5728 8K \u4e0a\u4e0b\u6587\u91cc\u5e72\u5b8c 32K \u7684\u6d3b\u3002\u5355\u6587\u4ef6\u3001\u7eaf\u6807\u51c6\u5e93\u3001\u96f6\u4f9d\u8d56\uff1b\u9632\u5e7b\u89c9\u5b88\u536b\u3001\u5206\u6bb5\u5582\u517b\u3001\u65ad\u70b9\u56de\u6eda\u3001\u9884\u7b97\u7194\u65ad\u3002AGPL-3.0\u3002\u5df2\u5728 qwen3-9B / 8192 \u4e0a\u4e0b\u6587 / RTX 2070S \u4e0a\u9a8c\u8bc1\u3002",
+    "id": "zhugeweimu/CE-NeuroFusion",
+    "language": "Python",
+    "name": "zhugeweimu/CE-NeuroFusion",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:41:35Z",
+    "url": "https://github.com/zhugeweimu/CE-NeuroFusion"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:41:09Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
+    "id": "brutal-45/Nexus-LLM",
+    "language": "Python",
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:40:48Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-24T16:41:02Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 2,
-    "updated_at": "2026-10-24T16:29:56Z",
+    "updated_at": "2026-10-24T16:37:48Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 4,
+    "updated_at": "2026-10-24T16:35:33Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
+    "id": "giridhar1103/NYCynapse.Ai",
+    "language": "Python",
+    "name": "giridhar1103/NYCynapse.Ai",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:35:21Z",
+    "url": "https://github.com/giridhar1103/NYCynapse.Ai"
+  },
+  {
+    "description": "\ud83c\udf3f Describe it. Kvist builds it. Your code, your machine, your rules: a sandboxed coding agent that plans, edits, tests a",
+    "id": "davud-d/Kvist",
+    "language": "Python",
+    "name": "davud-d/Kvist",
+    "stars": 2,
+    "updated_at": "2026-10-24T16:35:19Z",
+    "url": "https://github.com/davud-d/Kvist"
+  },
+  {
+    "description": "Non-custodial Hyperliquid execution + tracking CLI for autonomous LLM agents. Signs EIP-712 actions with an agent wallet",
+    "id": "erickuhn19/deliverator",
+    "language": "Go",
+    "name": "erickuhn19/deliverator",
+    "stars": 5,
+    "updated_at": "2026-10-24T16:37:06Z",
+    "url": "https://github.com/erickuhn19/deliverator"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:32:52Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 133,
+    "updated_at": "2026-10-24T16:30:31Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
     "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
@@ -27,15 +135,6 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
-    "id": "giridhar1103/NYCynapse.Ai",
-    "language": "Python",
-    "name": "giridhar1103/NYCynapse.Ai",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:28:44Z",
-    "url": "https://github.com/giridhar1103/NYCynapse.Ai"
-  },
-  {
     "description": "Talk2Stock \u00b7 \u5bf9\u8bdd\u5f0f\u8fdb\u9500\u5b58\u667a\u80fd\u4f53\uff08Conversational ERP Agent\uff09\uff1a\u4e00\u53e5\u8bdd \u2192 \u5355\u636e\u8349\u7a3f \u2192 \u5b57\u6bb5\u6765\u5386\u6807\u6ce8 \u2192 \u4eba\u5de5\u786e\u8ba4 \u2192 \u5199\u5165\u771f\u5b9e ERP\uff0c\u670d\u52a1\u7aef\u5199\u5165\u95f8\u95e8 + \u5ba1\u8ba1\u7559\u75d5 + \u51bb\u7ed3\u8bed\u6599\u8bc4\u6d4b",
     "id": "honlam6/talk2stock",
     "language": "Java",
@@ -43,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T16:26:16Z",
     "url": "https://github.com/honlam6/talk2stock"
-  },
-  {
-    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:25:45Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-24T16:25:33Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -139,7 +220,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 324,
+    "stars": 325,
     "updated_at": "2026-10-24T16:06:54Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -151,15 +232,6 @@
     "stars": 998,
     "updated_at": "2026-10-24T16:26:25Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "CE \u6267\u884c\u5916\u9aa8\u9abc\uff1a\u8ba9\u5c0f\u6a21\u578b\u5728 8K \u4e0a\u4e0b\u6587\u91cc\u5e72\u5b8c 32K \u7684\u6d3b\u3002\u5355\u6587\u4ef6\u3001\u7eaf\u6807\u51c6\u5e93\u3001\u96f6\u4f9d\u8d56\uff1b\u9632\u5e7b\u89c9\u5b88\u536b\u3001\u5206\u6bb5\u5582\u517b\u3001\u65ad\u70b9\u56de\u6eda\u3001\u9884\u7b97\u7194\u65ad\u3002AGPL-3.0\u3002\u5df2\u5728 qwen3-9B / 8192 \u4e0a\u4e0b\u6587 / RTX 2070S \u4e0a\u9a8c\u8bc1\u3002",
-    "id": "zhugeweimu/CE-NeuroFusion",
-    "language": "Python",
-    "name": "zhugeweimu/CE-NeuroFusion",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:03:48Z",
-    "url": "https://github.com/zhugeweimu/CE-NeuroFusion"
   },
   {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
@@ -185,7 +257,7 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 147,
-    "updated_at": "2026-10-24T16:24:38Z",
+    "updated_at": "2026-10-24T16:42:16Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -288,15 +360,6 @@
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
-    "description": "Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-24T15:25:09Z",
-    "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
     "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
     "id": "bitranox/vnc-remote-control",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 18,
     "updated_at": "2026-10-24T14:52:05Z",
     "url": "https://github.com/yhm080315-sudo/dsh-android"
-  },
-  {
-    "description": "AstrBot \u7684\u63d2\u4ef6\u4e0e\u8865\u4e01\u5408\u96c6\uff1a\u81ea\u5efa\u7f51\u9875\u68c0\u7d22\uff08\u8d70\u672c\u673a Edge\uff0c\u4e0d\u4f9d\u8d56\u641c\u7d22 API\uff09\u3001\u628a QQ \u6536\u85cf\u8868\u60c5\u53d1\u8fdb\u4f1a\u8bdd\u3001\u8131\u79bb ComfyUI \u7684 SDXL \u751f\u56fe\u540e\u7aef\uff08\u591a\u5e95\u6a21/\u591a\u753b\u98ce/\u4e24\u6863\u91c7\u6837\u5668/\u753b\u5e45\u4e0a\u9650\u5168\u90e8\u53ef\u914d\uff09\u3001\u770b\u5934\u50cf\u4e0e\u5386\u53f2\u56de\u6eaf",
-    "id": "Kiru-Sama/Kiru-Astrbot-Addons",
-    "language": "Python",
-    "name": "Kiru-Sama/Kiru-Astrbot-Addons",
-    "stars": 1,
-    "updated_at": "2026-10-24T14:48:53Z",
-    "url": "https://github.com/Kiru-Sama/Kiru-Astrbot-Addons"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-24T14:46:51Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-24T14:43:50Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "2026\u5e74\uff08\u7b2c14\u5c4a\uff09\u6cf0\u8fea\u676f\u6570\u636e\u6316\u6398\u6311\u6218\u8d5b B\u9898\uff1a\u4e0a\u5e02\u516c\u53f8\u8d22\u62a5\u667a\u80fd\u95ee\u6570\u52a9\u624b\uff08\u5168\u56fd\u672c\u79d1\u7ec4\u4e00\u7b49\u5956\uff0c\u5165\u56f4\u7279\u7b49\u5956\u7b54\u8fa9\uff09",
-    "id": "liu380824/tipdm-b-financial-qa",
-    "language": "Python",
-    "name": "liu380824/tipdm-b-financial-qa",
-    "stars": 0,
-    "updated_at": "2026-10-24T14:43:13Z",
-    "url": "https://github.com/liu380824/tipdm-b-financial-qa"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 228,
-    "updated_at": "2026-10-24T14:06:06Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "ARTEX - AI autonomous penetration testing system (unofficial community archive, based on v0.3.15)",
-    "id": "furs0x/ARTEX",
-    "language": "Go",
-    "name": "furs0x/ARTEX",
-    "stars": 0,
-    "updated_at": "2026-10-24T14:04:52Z",
-    "url": "https://github.com/furs0x/ARTEX"
-  },
-  {
-    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
-    "id": "b7216309-jpg/little-bot",
-    "language": "JavaScript",
-    "name": "b7216309-jpg/little-bot",
-    "stars": 0,
-    "updated_at": "2026-10-24T13:56:24Z",
-    "url": "https://github.com/b7216309-jpg/little-bot"
   }
 ]
