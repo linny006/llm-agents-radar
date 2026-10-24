@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 4,
+    "updated_at": "2026-10-24T11:58:55Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
+    "id": "diky87688973/ai-agent",
+    "language": "Python",
+    "name": "diky87688973/ai-agent",
+    "stars": 3,
+    "updated_at": "2026-10-24T11:56:46Z",
+    "url": "https://github.com/diky87688973/ai-agent"
+  },
+  {
+    "description": "\u628a\u56e2\u961f\u6587\u6863\u53d8\u6210 Agent \u7684 SOP\uff0c\u53ea\u7528\u4f60\u6279\u51c6\u8fc7\u7684\u53ea\u8bfb\u5de5\u5177\u67e5\u771f\u5b9e\u6570\u636e \u00b7 Turn team docs into agent SOPs, executed with admin-approved read-only tools",
+    "id": "wangyd1988/doc2sop",
+    "language": "Python",
+    "name": "wangyd1988/doc2sop",
+    "stars": 2,
+    "updated_at": "2026-10-24T11:54:18Z",
+    "url": "https://github.com/wangyd1988/doc2sop"
+  },
+  {
+    "description": "Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-24T11:53:48Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 988,
+    "updated_at": "2026-10-24T11:56:11Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Harness LLMs with Multi-Agent Programming",
+    "id": "langroid/langroid",
+    "language": "Python",
+    "name": "langroid/langroid",
+    "stars": 4121,
+    "updated_at": "2026-10-24T11:47:40Z",
+    "url": "https://github.com/langroid/langroid"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:47:23Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-24T11:45:48Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "A complete QQ chatbot framework: social simulation, layered memory, persona engineering and cross-conversation context. ",
     "id": "ProfYangShengXu/chatfish",
     "language": "JavaScript",
@@ -9,15 +81,6 @@
     "url": "https://github.com/ProfYangShengXu/chatfish"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 988,
-    "updated_at": "2026-10-24T11:43:12Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -25,15 +88,6 @@
     "stars": 21,
     "updated_at": "2026-10-24T11:38:03Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
-    "id": "diky87688973/ai-agent",
-    "language": "Python",
-    "name": "diky87688973/ai-agent",
-    "stars": 3,
-    "updated_at": "2026-10-24T11:37:05Z",
-    "url": "https://github.com/diky87688973/ai-agent"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -149,7 +203,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-24T11:41:21Z",
+    "updated_at": "2026-10-24T11:53:53Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -171,21 +225,12 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-24T10:44:46Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-24T11:27:32Z",
+    "updated_at": "2026-10-24T11:57:03Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -360,15 +405,6 @@
     "url": "https://github.com/hsaghir/looplet"
   },
   {
-    "description": "Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-24T08:51:37Z",
-    "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
     "id": "sindredg/ai-security-platform",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 135,
     "updated_at": "2026-10-24T08:38:54Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "\u591c\u79e3PPT\u5de5\u574a\uff1a\u7ed9\u4e00\u4e2a\u6807\u9898\uff0c\u51fa\u54c1\u53ef\u7f16\u8f91 PPTX\uff0817\u79cd\u8bbe\u8ba1\u98ce\u683c\u00b720\u79cd\u7248\u5f0f\u00b7\u914d\u56fe\u5168\u5305\uff09\u3002\u652f\u4ed8\u5b9d\u6309\u6b21 9.90 \u5143/\u518c\u3002\u670d\u52a1\u7aef\u5728\u4e2d\u56fd\u5927\u9646\uff0c\u6d77\u5916\u7f51\u7edc\u4e0d\u53ef\u7528\u3002WorkBuddy/OpenClaw \u6280\u80fd\u3002",
-    "id": "mcm369568095-hash/yemo-ppt",
-    "language": "Python",
-    "name": "mcm369568095-hash/yemo-ppt",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:31:51Z",
-    "url": "https://github.com/mcm369568095-hash/yemo-ppt"
-  },
-  {
-    "description": "Not a chatbot\u2014a tireless digital secretary. Jarvis is a persistent, self-hosted AI operating system that manages communi",
-    "id": "Lucky-1608/Jarvis",
-    "language": "Python",
-    "name": "Lucky-1608/Jarvis",
-    "stars": 0,
-    "updated_at": "2026-10-24T08:31:04Z",
-    "url": "https://github.com/Lucky-1608/Jarvis"
-  },
-  {
-    "description": "\u57fa\u4e8e LangGraph \u7684\u8de8\u5883\u7535\u5546\u591a Agent \u534f\u4f5c\u7cfb\u7edf\uff1a\u5546\u54c1\u5206\u6790 \u2192 AI \u6587\u6848/\u56fe\u7247/\u89c6\u9891\u751f\u6210 \u2192 \u5408\u89c4\u68c0\u67e5 \u2192 Amazon/eBay/Shopify \u520a\u767b\uff0cDevTools \u98ce\u683c\u53ef\u89c2\u6d4b\u5de5\u4f5c\u53f0\u5b9e\u65f6\u5c55\u793a Agent \u534f\u4f5c\u8fc7\u7a0b | L",
-    "id": "JianFeiGan/agent_part",
-    "language": "Python",
-    "name": "JianFeiGan/agent_part",
-    "stars": 17,
-    "updated_at": "2026-10-24T08:28:32Z",
-    "url": "https://github.com/JianFeiGan/agent_part"
-  },
-  {
-    "description": "\u628a\u56e2\u961f\u6587\u6863\u53d8\u6210 Agent \u7684 SOP\uff0c\u53ea\u7528\u4f60\u6279\u51c6\u8fc7\u7684\u53ea\u8bfb\u5de5\u5177\u67e5\u771f\u5b9e\u6570\u636e \u00b7 Turn team docs into agent SOPs, executed with admin-approved read-only tools",
-    "id": "wangyd1988/doc2sop",
-    "language": "Python",
-    "name": "wangyd1988/doc2sop",
-    "stars": 2,
-    "updated_at": "2026-10-24T11:00:27Z",
-    "url": "https://github.com/wangyd1988/doc2sop"
   }
 ]
