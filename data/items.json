@@ -1,12 +1,84 @@
 [
   {
-    "description": "\u8f93\u5165\u4e00\u6bb5\u9700\u6c42\u8bf4\u660e\uff0c\u751f\u6210\u5e26\u7acb\u9879\u6587\u6863\u3001\u95e8\u7981\u68c0\u67e5\u548c\u8fdb\u5ea6\u8bb0\u5f55\u7684\u9879\u76ee\u76ee\u5f55\uff0c\u9644\u5e26\u81ea\u68c0\u811a\u672c\u3002\u53ef\u4f5c\u4e3a\u7f16\u7a0b\u52a9\u624b\u7684\u6280\u80fd\u5b89\u88c5\uff0c\u4e5f\u53ef\u4ee5\u76f4\u63a5\u5728\u547d\u4ee4\u884c\u8fd0\u884c\uff0c\u53ea\u4f9d\u8d56 Python \u6807\u51c6\u5e93\u3002",
-    "id": "ivercurry99/everyone-can-projects",
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 4,
+    "updated_at": "2026-10-24T16:56:40Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
+    "id": "brutal-45/Nexus-LLM",
     "language": "Python",
-    "name": "ivercurry99/everyone-can-projects",
-    "stars": 1,
-    "updated_at": "2026-10-24T16:43:42Z",
-    "url": "https://github.com/ivercurry99/everyone-can-projects"
+    "name": "brutal-45/Nexus-LLM",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:55:51Z",
+    "url": "https://github.com/brutal-45/Nexus-LLM"
+  },
+  {
+    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
+    "id": "shimo4228/contemplative-agent",
+    "language": "Python",
+    "name": "shimo4228/contemplative-agent",
+    "stars": 9,
+    "updated_at": "2026-10-24T16:55:34Z",
+    "url": "https://github.com/shimo4228/contemplative-agent"
+  },
+  {
+    "description": "Talk2Stock \u00b7 \u5bf9\u8bdd\u5f0f\u8fdb\u9500\u5b58\u667a\u80fd\u4f53\uff08Conversational ERP Agent\uff09\uff1a\u4e00\u53e5\u8bdd \u2192 \u5355\u636e\u8349\u7a3f \u2192 \u5b57\u6bb5\u6765\u5386\u6807\u6ce8 \u2192 \u4eba\u5de5\u786e\u8ba4 \u2192 \u5199\u5165\u771f\u5b9e ERP\uff0c\u670d\u52a1\u7aef\u5199\u5165\u95f8\u95e8 + \u5ba1\u8ba1\u7559\u75d5 + \u51bb\u7ed3\u8bed\u6599\u8bc4\u6d4b",
+    "id": "honlam6/talk2stock",
+    "language": "Java",
+    "name": "honlam6/talk2stock",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:53:02Z",
+    "url": "https://github.com/honlam6/talk2stock"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:51:01Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-24T16:50:51Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
+    "id": "doomsday-network/github-bounty-scanner",
+    "language": "Python",
+    "name": "doomsday-network/github-bounty-scanner",
+    "stars": 4,
+    "updated_at": "2026-10-24T16:49:44Z",
+    "url": "https://github.com/doomsday-network/github-bounty-scanner"
+  },
+  {
+    "description": "Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i",
+    "id": "doomsday-network/bounty-guard",
+    "language": "Python",
+    "name": "doomsday-network/bounty-guard",
+    "stars": 11,
+    "updated_at": "2026-10-24T16:49:43Z",
+    "url": "https://github.com/doomsday-network/bounty-guard"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-24T16:49:56Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "Metacognitive extension suite for Pi coding agent",
@@ -14,8 +86,35 @@
     "language": "JavaScript",
     "name": "kifirkin/pi-braid",
     "stars": 1,
-    "updated_at": "2026-10-24T16:43:02Z",
+    "updated_at": "2026-10-24T16:49:10Z",
     "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "\u26a1 Drop-in SKILL.md, .cursorrules, CLAUDE.md, AGENTS.md & Remote MCP (.mcp.json) pack for Claude Code, Cursor, Windsurf, ",
+    "id": "doomsday-network/web3-agent-skills",
+    "language": "\u2014",
+    "name": "doomsday-network/web3-agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-24T16:48:48Z",
+    "url": "https://github.com/doomsday-network/web3-agent-skills"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 147,
+    "updated_at": "2026-10-24T16:45:54Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "\u8f93\u5165\u4e00\u6bb5\u9700\u6c42\u8bf4\u660e\uff0c\u751f\u6210\u5e26\u7acb\u9879\u6587\u6863\u3001\u95e8\u7981\u68c0\u67e5\u548c\u8fdb\u5ea6\u8bb0\u5f55\u7684\u9879\u76ee\u76ee\u5f55\uff0c\u9644\u5e26\u81ea\u68c0\u811a\u672c\u3002\u53ef\u4f5c\u4e3a\u7f16\u7a0b\u52a9\u624b\u7684\u6280\u80fd\u5b89\u88c5\uff0c\u4e5f\u53ef\u4ee5\u76f4\u63a5\u5728\u547d\u4ee4\u884c\u8fd0\u884c\uff0c\u53ea\u4f9d\u8d56 Python \u6807\u51c6\u5e93\u3002",
+    "id": "ivercurry99/everyone-can-projects",
+    "language": "Python",
+    "name": "ivercurry99/everyone-can-projects",
+    "stars": 1,
+    "updated_at": "2026-10-24T16:43:42Z",
+    "url": "https://github.com/ivercurry99/everyone-can-projects"
   },
   {
     "description": "CE \u6267\u884c\u5916\u9aa8\u9abc\uff1a\u8ba9\u5c0f\u6a21\u578b\u5728 8K \u4e0a\u4e0b\u6587\u91cc\u5e72\u5b8c 32K \u7684\u6d3b\u3002\u5355\u6587\u4ef6\u3001\u7eaf\u6807\u51c6\u5e93\u3001\u96f6\u4f9d\u8d56\uff1b\u9632\u5e7b\u89c9\u5b88\u536b\u3001\u5206\u6bb5\u5582\u517b\u3001\u65ad\u70b9\u56de\u6eda\u3001\u9884\u7b97\u7194\u65ad\u3002AGPL-3.0\u3002\u5df2\u5728 qwen3-9B / 8192 \u4e0a\u4e0b\u6587 / RTX 2070S \u4e0a\u9a8c\u8bc1\u3002",
@@ -36,24 +135,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "A unified .NET abstraction layer for multiple Large Language Model (LLM) providers. Nexus-LLM simplifies integration wit",
-    "id": "brutal-45/Nexus-LLM",
-    "language": "Python",
-    "name": "brutal-45/Nexus-LLM",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:40:48Z",
-    "url": "https://github.com/brutal-45/Nexus-LLM"
-  },
-  {
-    "description": "A long-running experiment: an AI agent posts on its own with a local LLM (Ollama, one 16 GB Mac) and proposes changes to",
-    "id": "shimo4228/contemplative-agent",
-    "language": "Python",
-    "name": "shimo4228/contemplative-agent",
-    "stars": 9,
-    "updated_at": "2026-10-24T16:41:02Z",
-    "url": "https://github.com/shimo4228/contemplative-agent"
-  },
-  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
@@ -61,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-10-24T16:37:48Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 4,
-    "updated_at": "2026-10-24T16:35:33Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
     "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
@@ -99,15 +171,6 @@
     "url": "https://github.com/erickuhn19/deliverator"
   },
   {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:32:52Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -135,13 +198,13 @@
     "url": "https://github.com/rekursiv-ai/sagent"
   },
   {
-    "description": "Talk2Stock \u00b7 \u5bf9\u8bdd\u5f0f\u8fdb\u9500\u5b58\u667a\u80fd\u4f53\uff08Conversational ERP Agent\uff09\uff1a\u4e00\u53e5\u8bdd \u2192 \u5355\u636e\u8349\u7a3f \u2192 \u5b57\u6bb5\u6765\u5386\u6807\u6ce8 \u2192 \u4eba\u5de5\u786e\u8ba4 \u2192 \u5199\u5165\u771f\u5b9e ERP\uff0c\u670d\u52a1\u7aef\u5199\u5165\u95f8\u95e8 + \u5ba1\u8ba1\u7559\u75d5 + \u51bb\u7ed3\u8bed\u6599\u8bc4\u6d4b",
-    "id": "honlam6/talk2stock",
-    "language": "Java",
-    "name": "honlam6/talk2stock",
-    "stars": 0,
-    "updated_at": "2026-10-24T16:26:16Z",
-    "url": "https://github.com/honlam6/talk2stock"
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 999,
+    "updated_at": "2026-10-24T16:26:25Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -167,7 +230,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-24T16:16:20Z",
+    "updated_at": "2026-10-24T16:51:36Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -203,7 +266,7 @@
     "language": "TypeScript",
     "name": "TomKoren1/Sightline",
     "stars": 0,
-    "updated_at": "2026-10-24T16:18:14Z",
+    "updated_at": "2026-10-24T16:56:23Z",
     "url": "https://github.com/TomKoren1/Sightline"
   },
   {
@@ -225,24 +288,6 @@
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 998,
-    "updated_at": "2026-10-24T16:26:25Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-24T16:13:37Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A Zero-Trust, Observable LLM Agent Framework for Medical and Pharmaceutical Workflows \u2014 NEECON 2026 paper reference impl",
     "id": "bibinprathap/MedTrustAgent",
     "language": "Python",
@@ -250,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T16:00:12Z",
     "url": "https://github.com/bibinprathap/MedTrustAgent"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 147,
-    "updated_at": "2026-10-24T16:42:16Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
@@ -295,15 +331,6 @@
     "stars": 15,
     "updated_at": "2026-10-24T16:28:24Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-24T15:50:05Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-24T14:59:16Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 54,
-    "updated_at": "2026-10-24T14:58:43Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
-    "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-10-24T14:53:26Z",
-    "url": "https://github.com/roxm337/osint-agent"
-  },
-  {
-    "description": "\u628a DeepSeek Harness \u6253\u5305\u6210\u72ec\u7acb Android \u5e94\u7528\uff1a\u81ea\u5e26 Node \u8fd0\u884c\u65f6\uff0c\u88c5\u4e2a APK \u5c31\u80fd\u7528\u3002\u4e0d\u9700\u8981 Termux\u3001\u4e0d\u9700\u8981 proot\u3001\u4e0d\u9700\u8981 root\u3001\u4e0d\u9700\u8981\u7535\u8111\u3002\u5185\u542b\u5b8c\u6574\u7684 Android \u5e73\u53f0\u9002\u914d\u8e29\u5751\u8bb0\u5f55\uff08se",
-    "id": "yhm080315-sudo/dsh-android",
-    "language": "Java",
-    "name": "yhm080315-sudo/dsh-android",
-    "stars": 18,
-    "updated_at": "2026-10-24T14:52:05Z",
-    "url": "https://github.com/yhm080315-sudo/dsh-android"
   }
 ]
