@@ -1,12 +1,102 @@
 [
   {
+    "description": "The STN-Labz AI Agent Language Model",
+    "id": "stnlabz/language_model",
+    "language": "C",
+    "name": "stnlabz/language_model",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:29:45Z",
+    "url": "https://github.com/stnlabz/language_model"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-25T19:29:32Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "dsh agent harness + reasonix runtime: \u914d\u7f6e\u5907\u4efd\u4e0e\u5de5\u7a0b\u7ecf\u9a8c\u5e93 (Windows/Linux \u53cc\u673a, TianQue6916)",
+    "id": "TianQue6916/dsh-reasonix-agent",
+    "language": "JavaScript",
+    "name": "TianQue6916/dsh-reasonix-agent",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:29:06Z",
+    "url": "https://github.com/TianQue6916/dsh-reasonix-agent"
+  },
+  {
+    "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
+    "id": "HaikeiLabs/agentware",
+    "language": "Python",
+    "name": "HaikeiLabs/agentware",
+    "stars": 1,
+    "updated_at": "2026-10-25T19:28:57Z",
+    "url": "https://github.com/HaikeiLabs/agentware"
+  },
+  {
+    "description": "Lightweight, message-first TypeScript agent runtime with planning, sub-agents, human-in-the-loop approvals, MCP tools an",
+    "id": "Cognipeer/agent-sdk",
+    "language": "TypeScript",
+    "name": "Cognipeer/agent-sdk",
+    "stars": 7,
+    "updated_at": "2026-10-25T19:28:22Z",
+    "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-25T19:25:34Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:22:59Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
     "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
     "id": "eshanized/M31A",
     "language": "Rust",
     "name": "eshanized/M31A",
     "stars": 10,
-    "updated_at": "2026-10-25T19:14:34Z",
+    "updated_at": "2026-10-25T19:22:17Z",
     "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:21:44Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
+    "id": "bamboosir1109/dsh-lanya",
+    "language": "Python",
+    "name": "bamboosir1109/dsh-lanya",
+    "stars": 1,
+    "updated_at": "2026-10-25T19:20:49Z",
+    "url": "https://github.com/bamboosir1109/dsh-lanya"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 3,
+    "updated_at": "2026-10-25T19:18:30Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -27,24 +117,6 @@
     "url": "https://github.com/RalfHermsen/x4-agent"
   },
   {
-    "description": "dsh agent harness + reasonix runtime: \u914d\u7f6e\u5907\u4efd\u4e0e\u5de5\u7a0b\u7ecf\u9a8c\u5e93 (Windows/Linux \u53cc\u673a, TianQue6916)",
-    "id": "TianQue6916/dsh-reasonix-agent",
-    "language": "JavaScript",
-    "name": "TianQue6916/dsh-reasonix-agent",
-    "stars": 0,
-    "updated_at": "2026-10-25T19:10:50Z",
-    "url": "https://github.com/TianQue6916/dsh-reasonix-agent"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 3,
-    "updated_at": "2026-10-25T19:10:04Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
     "id": "yologdev/yoagent",
     "language": "Rust",
@@ -63,15 +135,6 @@
     "url": "https://github.com/EvannZhongg/Nosis"
   },
   {
-    "description": "The STN-Labz AI Agent Language Model",
-    "id": "stnlabz/language_model",
-    "language": "C",
-    "name": "stnlabz/language_model",
-    "stars": 0,
-    "updated_at": "2026-10-25T19:03:02Z",
-    "url": "https://github.com/stnlabz/language_model"
-  },
-  {
     "description": "Grux AI: open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it",
     "id": "dotcomjack/grux",
     "language": "Swift",
@@ -88,15 +151,6 @@
     "stars": 11,
     "updated_at": "2026-10-25T18:57:31Z",
     "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
-    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
-    "id": "bamboosir1109/dsh-lanya",
-    "language": "Python",
-    "name": "bamboosir1109/dsh-lanya",
-    "stars": 1,
-    "updated_at": "2026-10-25T18:54:46Z",
-    "url": "https://github.com/bamboosir1109/dsh-lanya"
   },
   {
     "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
@@ -135,24 +189,6 @@
     "url": "https://github.com/langroid/langroid"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:39:19Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-25T18:45:40Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "DSH \u63d2\u4ef6\uff1a\u628a\u6296\u97f3\u79c1\u4fe1\u63a5\u8fdb DSH \u2014\u2014 \u79c1\u4fe1\u8fdb DSH \u4f1a\u8bdd\uff0cAI \u7528\u5de5\u5177\u5237\u89c6\u9891\u3001\u5206\u4eab\u3001\u804a\u5929\uff08\u542b\u56fe\u7247/\u8868\u60c5\u6536\u53d1\uff09\u3002\u4ec5\u4f9b\u5b66\u4e60\u7814\u7a76\u3002",
     "id": "pcmxiao/dsh-douyin-bridge",
     "language": "JavaScript",
@@ -169,24 +205,6 @@
     "stars": 5,
     "updated_at": "2026-10-25T18:36:28Z",
     "url": "https://github.com/cunhaax/ai-workflow"
-  },
-  {
-    "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
-    "id": "HaikeiLabs/agentware",
-    "language": "Python",
-    "name": "HaikeiLabs/agentware",
-    "stars": 1,
-    "updated_at": "2026-10-25T19:02:55Z",
-    "url": "https://github.com/HaikeiLabs/agentware"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:20:47Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "Cwentor/DataAgent",
     "stars": 1,
-    "updated_at": "2026-10-25T19:10:48Z",
+    "updated_at": "2026-10-25T19:15:19Z",
     "url": "https://github.com/Cwentor/DataAgent"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 15,
-    "updated_at": "2026-10-25T18:21:15Z",
+    "updated_at": "2026-10-25T19:28:12Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 38,
     "updated_at": "2026-10-25T16:41:44Z",
     "url": "https://github.com/mensfeld/pocketrb"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3684,
-    "updated_at": "2026-10-25T16:41:16Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "LLM-driven UAV agent runtime: criteria-contract planning, PX4 MAVLink / AirSim backends, and a web ground-control statio",
-    "id": "Yookio-Z/Airsim-Agent",
-    "language": "Python",
-    "name": "Yookio-Z/Airsim-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-25T16:34:20Z",
-    "url": "https://github.com/Yookio-Z/Airsim-Agent"
   }
 ]
