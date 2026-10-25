@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 11,
+    "updated_at": "2026-10-25T08:43:14Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
+    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
+    "id": "iap/hermes-guide",
+    "language": "Python",
+    "name": "iap/hermes-guide",
+    "stars": 4,
+    "updated_at": "2026-10-25T08:40:21Z",
+    "url": "https://github.com/iap/hermes-guide"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:37:39Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:37:33Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-25T08:32:04Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-25T08:36:54Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
     "description": "Ship AI agents with evidence. Open-source evals for LLMs, RAG, tools, and conversations. Use Claude Code, Codex, or your",
     "id": "Vatsa10/evals",
     "language": "Python",
@@ -9,40 +63,13 @@
     "url": "https://github.com/Vatsa10/evals"
   },
   {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-25T08:26:34Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
-  },
-  {
     "description": "Production-oriented LLM agent with tool planning, validation, retries, replanning, and Docker-based runtime.",
     "id": "furkanbati/enterprise-ai-agent",
     "language": "Python",
     "name": "furkanbati/enterprise-ai-agent",
     "stars": 0,
-    "updated_at": "2026-10-25T08:25:36Z",
+    "updated_at": "2026-10-25T08:36:19Z",
     "url": "https://github.com/furkanbati/enterprise-ai-agent"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-25T08:23:15Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:18:00Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
@@ -59,7 +86,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-25T08:15:11Z",
+    "updated_at": "2026-10-25T08:33:57Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-25T08:21:22Z",
+    "updated_at": "2026-10-25T08:38:33Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-25T08:02:10Z",
+    "updated_at": "2026-10-25T08:34:00Z",
     "url": "https://github.com/hellices/korvid"
   },
   {
@@ -144,21 +171,12 @@
     "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:17:07Z",
-    "url": "https://github.com/uukuguy/capstone"
-  },
-  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4460,
-    "updated_at": "2026-10-25T07:55:50Z",
+    "updated_at": "2026-10-25T08:31:47Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -252,15 +270,6 @@
     "url": "https://github.com/wxxb789/dsh-raven-research"
   },
   {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-25T08:24:43Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -277,15 +286,6 @@
     "stars": 3680,
     "updated_at": "2026-10-25T07:23:28Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
-    "id": "iap/hermes-guide",
-    "language": "Python",
-    "name": "iap/hermes-guide",
-    "stars": 4,
-    "updated_at": "2026-10-25T07:19:34Z",
-    "url": "https://github.com/iap/hermes-guide"
   },
   {
     "description": "\u4f60\u7684\u7b2c\u4e00\u4e2a\u591a Agent \u9879\u76ee \u2014 LangGraph \u7f16\u6392 + \u5408\u89c4\u4fee\u590d\u56de\u8def + \u4e09\u5c42\u8bb0\u5fc6\u4e09\u7ea7\u964d\u7ea7 | FastAPI + LangGraph + MCP\uff0c\u4e00\u4e2a\u80fd\u8bb2\u6e05\u695a\u6bcf\u4e2a\u8bbe\u8ba1\u51b3\u7b56\u7684\u667a\u80fd\u5ba2\u670d\u7cfb\u7edf",
@@ -311,7 +311,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-25T08:18:20Z",
+    "updated_at": "2026-10-25T08:31:35Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
