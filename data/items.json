@@ -1,5 +1,50 @@
 [
   {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 2,
+    "updated_at": "2026-10-25T16:30:03Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 343,
+    "updated_at": "2026-10-25T16:28:56Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "A ZCode agent that turns any input \u2014 a sentence, a document, a photo \u2014 into a polished PPT, refined through conversation",
+    "id": "LemonZZH/Office-Agent",
+    "language": "Python",
+    "name": "LemonZZH/Office-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-25T16:26:55Z",
+    "url": "https://github.com/LemonZZH/Office-Agent"
+  },
+  {
+    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
+    "id": "bamboosir1109/dsh-lanya",
+    "language": "Python",
+    "name": "bamboosir1109/dsh-lanya",
+    "stars": 0,
+    "updated_at": "2026-10-25T16:26:30Z",
+    "url": "https://github.com/bamboosir1109/dsh-lanya"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-25T16:23:57Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
     "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
     "id": "xiaomaozjj666/web-crawler",
     "language": "Python",
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3683,
-    "updated_at": "2026-10-25T16:17:56Z",
+    "updated_at": "2026-10-25T16:29:45Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -126,15 +171,6 @@
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
   },
   {
-    "description": "A ZCode agent that turns any input \u2014 a sentence, a document, a photo \u2014 into a polished PPT, refined through conversation",
-    "id": "LemonZZH/Office-Agent",
-    "language": "Python",
-    "name": "LemonZZH/Office-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:55:12Z",
-    "url": "https://github.com/LemonZZH/Office-Agent"
-  },
-  {
     "description": "AI 3D-printing agent harness and B2C portal: describe an object or upload an image, PDF, STL, 3MF or Blender script; Dee",
     "id": "alfredang/3dblend",
     "language": "TypeScript",
@@ -153,15 +189,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-25T15:53:54Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
     "id": "qiuzixu/agent-core",
     "language": "Python",
@@ -175,7 +202,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16752,
+    "stars": 16753,
     "updated_at": "2026-10-25T15:52:08Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T15:34:35Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 342,
-    "updated_at": "2026-10-25T15:30:36Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -333,15 +351,6 @@
     "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 2,
-    "updated_at": "2026-10-25T16:05:15Z",
-    "url": "https://github.com/xanstomper/mochi"
-  },
-  {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
     "id": "xiongweilin/agent-skills",
     "language": "PowerShell",
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "iap/hermes-guide",
     "stars": 4,
-    "updated_at": "2026-10-25T15:36:03Z",
+    "updated_at": "2026-10-25T16:23:53Z",
     "url": "https://github.com/iap/hermes-guide"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-25T14:40:07Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "AI animation MV director skill: methodology + template library + shotlist validator for lyric-driven AI music videos (cr",
-    "id": "jason218-ljs/ai-mv-animation",
-    "language": "Python",
-    "name": "jason218-ljs/ai-mv-animation",
-    "stars": 0,
-    "updated_at": "2026-10-25T14:35:51Z",
-    "url": "https://github.com/jason218-ljs/ai-mv-animation"
   }
 ]
