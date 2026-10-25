@@ -1,12 +1,102 @@
 [
   {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-25T19:45:00Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
     "description": "The STN-Labz AI Agent Language Model",
     "id": "stnlabz/language_model",
     "language": "C",
     "name": "stnlabz/language_model",
     "stars": 0,
-    "updated_at": "2026-10-25T19:29:45Z",
+    "updated_at": "2026-10-25T19:44:15Z",
     "url": "https://github.com/stnlabz/language_model"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 3,
+    "updated_at": "2026-10-25T19:44:11Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:43:23Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:41:26Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
+    "id": "kanderson-ai-dev/agentic-api",
+    "language": "Python",
+    "name": "kanderson-ai-dev/agentic-api",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:36:37Z",
+    "url": "https://github.com/kanderson-ai-dev/agentic-api"
+  },
+  {
+    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
+    "id": "bamboosir1109/dsh-lanya",
+    "language": "Python",
+    "name": "bamboosir1109/dsh-lanya",
+    "stars": 1,
+    "updated_at": "2026-10-25T19:35:53Z",
+    "url": "https://github.com/bamboosir1109/dsh-lanya"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-25T19:33:42Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "dsh agent harness + reasonix runtime: \u914d\u7f6e\u5907\u4efd\u4e0e\u5de5\u7a0b\u7ecf\u9a8c\u5e93 (Windows/Linux \u53cc\u673a, TianQue6916)",
+    "id": "TianQue6916/dsh-reasonix-agent",
+    "language": "JavaScript",
+    "name": "TianQue6916/dsh-reasonix-agent",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:45:01Z",
+    "url": "https://github.com/TianQue6916/dsh-reasonix-agent"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-25T19:32:46Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-25T19:31:44Z",
+    "url": "https://github.com/kifirkin/pi-braid"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -18,21 +108,12 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "dsh agent harness + reasonix runtime: \u914d\u7f6e\u5907\u4efd\u4e0e\u5de5\u7a0b\u7ecf\u9a8c\u5e93 (Windows/Linux \u53cc\u673a, TianQue6916)",
-    "id": "TianQue6916/dsh-reasonix-agent",
-    "language": "JavaScript",
-    "name": "TianQue6916/dsh-reasonix-agent",
-    "stars": 0,
-    "updated_at": "2026-10-25T19:29:06Z",
-    "url": "https://github.com/TianQue6916/dsh-reasonix-agent"
-  },
-  {
     "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
     "id": "HaikeiLabs/agentware",
     "language": "Python",
     "name": "HaikeiLabs/agentware",
     "stars": 1,
-    "updated_at": "2026-10-25T19:28:57Z",
+    "updated_at": "2026-10-25T19:44:22Z",
     "url": "https://github.com/HaikeiLabs/agentware"
   },
   {
@@ -50,26 +131,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-25T19:25:34Z",
+    "updated_at": "2026-10-25T19:43:41Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-25T19:22:59Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-25T19:22:17Z",
-    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -79,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T19:21:44Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
-    "id": "bamboosir1109/dsh-lanya",
-    "language": "Python",
-    "name": "bamboosir1109/dsh-lanya",
-    "stars": 1,
-    "updated_at": "2026-10-25T19:20:49Z",
-    "url": "https://github.com/bamboosir1109/dsh-lanya"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 3,
-    "updated_at": "2026-10-25T19:18:30Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -243,15 +288,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
-    "id": "kanderson-ai-dev/agentic-api",
-    "language": "Python",
-    "name": "kanderson-ai-dev/agentic-api",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:09:02Z",
-    "url": "https://github.com/kanderson-ai-dev/agentic-api"
-  },
-  {
     "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
     "id": "jphall663/GWU_LLM",
     "language": "Jupyter Notebook",
@@ -355,7 +391,7 @@
     "id": "doomsday-network/doomsday",
     "language": "Python",
     "name": "doomsday-network/doomsday",
-    "stars": 20,
+    "stars": 21,
     "updated_at": "2026-10-25T17:27:07Z",
     "url": "https://github.com/doomsday-network/doomsday"
   },
@@ -387,24 +423,6 @@
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:14:26Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-25T17:37:49Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 219,
     "updated_at": "2026-10-25T17:01:15Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 15,
-    "updated_at": "2026-10-25T19:28:12Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
-    "id": "mensfeld/pocketrb",
-    "language": "Ruby",
-    "name": "mensfeld/pocketrb",
-    "stars": 38,
-    "updated_at": "2026-10-25T16:41:44Z",
-    "url": "https://github.com/mensfeld/pocketrb"
   }
 ]
