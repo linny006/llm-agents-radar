@@ -1,5 +1,14 @@
 [
   {
+    "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
+    "id": "mntoyg/OmniAgent",
+    "language": "Python",
+    "name": "mntoyg/OmniAgent",
+    "stars": 0,
+    "updated_at": "2026-10-25T21:45:09Z",
+    "url": "https://github.com/mntoyg/OmniAgent"
+  },
+  {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
     "id": "sindredg/ai-security-platform",
     "language": "Python",
@@ -34,15 +43,6 @@
     "stars": 6,
     "updated_at": "2026-10-25T21:42:32Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
-    "id": "mntoyg/OmniAgent",
-    "language": "Python",
-    "name": "mntoyg/OmniAgent",
-    "stars": 0,
-    "updated_at": "2026-10-25T21:42:20Z",
-    "url": "https://github.com/mntoyg/OmniAgent"
   },
   {
     "description": "AI2-THOR extension: a browser console and Python toolkit to drive any iTHOR scene, run LLM agents (Ollama, English/Persi",
@@ -131,7 +131,7 @@
     "language": "Python",
     "name": "franckolv-dev/ELY2",
     "stars": 1,
-    "updated_at": "2026-10-25T21:29:14Z",
+    "updated_at": "2026-10-25T21:44:23Z",
     "url": "https://github.com/franckolv-dev/ELY2"
   },
   {
@@ -140,7 +140,7 @@
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-10-25T21:40:11Z",
+    "updated_at": "2026-10-25T21:45:10Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
