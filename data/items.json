@@ -5,8 +5,53 @@
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 3,
-    "updated_at": "2026-10-25T20:29:41Z",
+    "updated_at": "2026-10-25T20:45:06Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-25T20:43:00Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:39:49Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "The coordination layer for Multiplayer AI",
+    "id": "cohexa-ai/agent-coherence",
+    "language": "Python",
+    "name": "cohexa-ai/agent-coherence",
+    "stars": 11,
+    "updated_at": "2026-10-25T20:40:11Z",
+    "url": "https://github.com/cohexa-ai/agent-coherence"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-25T20:38:17Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
+    "id": "iap/hermes-guide",
+    "language": "Python",
+    "name": "iap/hermes-guide",
+    "stars": 4,
+    "updated_at": "2026-10-25T20:39:13Z",
+    "url": "https://github.com/iap/hermes-guide"
   },
   {
     "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
@@ -27,6 +72,15 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1037,
+    "updated_at": "2026-10-25T20:43:59Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
     "id": "JdominguezEcommium/agentic-self-regulation-loop",
     "language": "HTML",
@@ -43,24 +97,6 @@
     "stars": 6,
     "updated_at": "2026-10-25T20:08:39Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-25T20:08:06Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-25T20:24:02Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -90,15 +126,6 @@
     "url": "https://github.com/langroid/langroid"
   },
   {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-25T20:00:48Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
     "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
     "id": "bigduu/Bodhi-AI",
     "language": "JavaScript",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T19:55:21Z",
     "url": "https://github.com/stnlabz/language_model"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1036,
-    "updated_at": "2026-10-25T20:18:31Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "PicoBot self-hosted personal assistant.",
@@ -270,21 +288,12 @@
     "url": "https://github.com/dotcomjack/grux"
   },
   {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-25T20:26:28Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
     "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
     "id": "uukuguy/capstone",
     "language": "Python",
     "name": "uukuguy/capstone",
     "stars": 0,
-    "updated_at": "2026-10-25T18:52:48Z",
+    "updated_at": "2026-10-25T20:40:10Z",
     "url": "https://github.com/uukuguy/capstone"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 79,
     "updated_at": "2026-10-25T17:33:51Z",
     "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
-    "id": "sindredg/ai-security-platform",
-    "language": "Python",
-    "name": "sindredg/ai-security-platform",
-    "stars": 0,
-    "updated_at": "2026-10-25T20:26:53Z",
-    "url": "https://github.com/sindredg/ai-security-platform"
   }
 ]
