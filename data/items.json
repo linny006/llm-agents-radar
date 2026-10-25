@@ -1,12 +1,84 @@
 [
   {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-25T23:00:04Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:58:41Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:54:01Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-25T22:50:14Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
     "description": "The STN-Labz AI Agent Language Model",
     "id": "stnlabz/language_model",
     "language": "C",
     "name": "stnlabz/language_model",
     "stars": 0,
-    "updated_at": "2026-10-25T22:44:15Z",
+    "updated_at": "2026-10-25T23:00:15Z",
     "url": "https://github.com/stnlabz/language_model"
+  },
+  {
+    "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
+    "id": "dsswift/ion",
+    "language": "Go",
+    "name": "dsswift/ion",
+    "stars": 4,
+    "updated_at": "2026-10-25T22:47:51Z",
+    "url": "https://github.com/dsswift/ion"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1045,
+    "updated_at": "2026-10-25T22:55:59Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
+    "id": "mntoyg/OmniAgent",
+    "language": "Python",
+    "name": "mntoyg/OmniAgent",
+    "stars": 0,
+    "updated_at": "2026-10-25T22:47:31Z",
+    "url": "https://github.com/mntoyg/OmniAgent"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-25T22:46:12Z",
+    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
@@ -23,17 +95,8 @@
     "language": "Python",
     "name": "bitranox/vnc-remote-control",
     "stars": 0,
-    "updated_at": "2026-10-25T22:43:28Z",
+    "updated_at": "2026-10-25T22:51:23Z",
     "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
-    "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
-    "id": "mntoyg/OmniAgent",
-    "language": "Python",
-    "name": "mntoyg/OmniAgent",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:43:08Z",
-    "url": "https://github.com/mntoyg/OmniAgent"
   },
   {
     "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
@@ -45,21 +108,12 @@
     "url": "https://github.com/haoyiyin/basjoo"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:42:14Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
     "name": "node9-ai/node9-proxy",
     "stars": 219,
-    "updated_at": "2026-10-25T22:43:20Z",
+    "updated_at": "2026-10-25T22:45:27Z",
     "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-25T22:39:20Z",
+    "updated_at": "2026-10-25T22:50:17Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -79,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T22:32:59Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-25T22:32:25Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1044,
-    "updated_at": "2026-10-25T22:39:26Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
@@ -189,15 +225,6 @@
     "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 6,
-    "updated_at": "2026-10-25T21:56:10Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-25T21:48:14Z",
+    "updated_at": "2026-10-25T22:51:15Z",
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
@@ -266,7 +293,7 @@
     "language": "JavaScript",
     "name": "TianQue6916/dsh-reasonix-agent",
     "stars": 0,
-    "updated_at": "2026-10-25T22:17:55Z",
+    "updated_at": "2026-10-25T22:46:07Z",
     "url": "https://github.com/TianQue6916/dsh-reasonix-agent"
   },
   {
@@ -286,6 +313,15 @@
     "stars": 1,
     "updated_at": "2026-10-25T22:02:31Z",
     "url": "https://github.com/franckolv-dev/ELY2"
+  },
+  {
+    "description": "An agent that explains FDA device recalls and proves every number against SQL.",
+    "id": "smahanti8/device-recall-explainer",
+    "language": "Python",
+    "name": "smahanti8/device-recall-explainer",
+    "stars": 0,
+    "updated_at": "2026-10-25T21:27:34Z",
+    "url": "https://github.com/smahanti8/device-recall-explainer"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -396,15 +432,6 @@
     "url": "https://github.com/kyleslight/shun"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-25T20:16:40Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -421,32 +448,5 @@
     "stars": 10,
     "updated_at": "2026-10-25T20:02:11Z",
     "url": "https://github.com/EvannZhongg/Nosis"
-  },
-  {
-    "description": "Harness LLMs with Multi-Agent Programming",
-    "id": "langroid/langroid",
-    "language": "Python",
-    "name": "langroid/langroid",
-    "stars": 4120,
-    "updated_at": "2026-10-25T20:01:29Z",
-    "url": "https://github.com/langroid/langroid"
-  },
-  {
-    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
-    "id": "bigduu/Bodhi-AI",
-    "language": "JavaScript",
-    "name": "bigduu/Bodhi-AI",
-    "stars": 17,
-    "updated_at": "2026-10-25T20:10:46Z",
-    "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": "PicoBot self-hosted personal assistant.",
-    "id": "jumping2000/picobot",
-    "language": "Python",
-    "name": "jumping2000/picobot",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:40:41Z",
-    "url": "https://github.com/jumping2000/picobot"
   }
 ]
