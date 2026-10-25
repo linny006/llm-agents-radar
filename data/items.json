@@ -1,5 +1,41 @@
 [
   {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 133,
+    "updated_at": "2026-10-25T00:57:44Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-25T00:56:53Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 136,
+    "updated_at": "2026-10-25T00:49:09Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
+    "id": "guzmandrade-dev/lyx-acp-assist",
+    "language": "TypeScript",
+    "name": "guzmandrade-dev/lyx-acp-assist",
+    "stars": 1,
+    "updated_at": "2026-10-25T00:46:38Z",
+    "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
+  },
+  {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
     "id": "mmporong/rl-triage-agent",
     "language": "Python",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "TomKoren1/Sightline",
     "stars": 0,
-    "updated_at": "2026-10-25T00:07:48Z",
+    "updated_at": "2026-10-25T00:56:26Z",
     "url": "https://github.com/TomKoren1/Sightline"
   },
   {
@@ -261,15 +297,6 @@
     "url": "https://github.com/kashyaprajharsh/medha-agent"
   },
   {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 136,
-    "updated_at": "2026-10-24T22:53:15Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
     "id": "node9-ai/node9-proxy",
     "language": "TypeScript",
@@ -304,33 +331,6 @@
     "stars": 4,
     "updated_at": "2026-10-24T22:31:56Z",
     "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
-    "id": "guzmandrade-dev/lyx-acp-assist",
-    "language": "TypeScript",
-    "name": "guzmandrade-dev/lyx-acp-assist",
-    "stars": 1,
-    "updated_at": "2026-10-24T22:29:08Z",
-    "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 133,
-    "updated_at": "2026-10-24T22:22:00Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-24T22:21:29Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Metacognitive extension suite for Pi coding agent",
