@@ -1,12 +1,84 @@
 [
   {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-10-25T11:58:23Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
+    "id": "xufenghe/aimo3-agentic-inference",
+    "language": "Python",
+    "name": "xufenghe/aimo3-agentic-inference",
+    "stars": 0,
+    "updated_at": "2026-10-25T11:58:02Z",
+    "url": "https://github.com/xufenghe/aimo3-agentic-inference"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-25T11:57:48Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
+    "id": "Muvon/octomind-tap",
+    "language": "Python",
+    "name": "Muvon/octomind-tap",
+    "stars": 5,
+    "updated_at": "2026-10-25T11:54:56Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6524,
+    "updated_at": "2026-10-25T11:53:53Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-25T11:50:21Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Control an iPhone from a Mac, by hand or by LLM agent.",
+    "id": "koprjaa/iphone-agent",
+    "language": "Python",
+    "name": "koprjaa/iphone-agent",
+    "stars": 0,
+    "updated_at": "2026-10-25T11:47:39Z",
+    "url": "https://github.com/koprjaa/iphone-agent"
+  },
+  {
     "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
     "id": "Zxy876/voyager-vlml-mve",
     "language": "Python",
     "name": "Zxy876/voyager-vlml-mve",
     "stars": 2,
-    "updated_at": "2026-10-25T11:43:58Z",
+    "updated_at": "2026-10-25T11:47:36Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
+    "id": "doomsday-network/doomsday",
+    "language": "Python",
+    "name": "doomsday-network/doomsday",
+    "stars": 18,
+    "updated_at": "2026-10-25T11:45:40Z",
+    "url": "https://github.com/doomsday-network/doomsday"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -18,15 +90,6 @@
     "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
-    "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
-    "id": "doomsday-network/doomsday",
-    "language": "Python",
-    "name": "doomsday-network/doomsday",
-    "stars": 17,
-    "updated_at": "2026-10-25T11:37:30Z",
-    "url": "https://github.com/doomsday-network/doomsday"
-  },
-  {
     "description": "AI chat-to-STL portal: describe an object, DeepSeek V4.1 Flash designs it, an exact Manifold geometry kernel builds a wa",
     "id": "alfredang/3dblend",
     "language": "TypeScript",
@@ -36,21 +99,12 @@
     "url": "https://github.com/alfredang/3dblend"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-25T11:43:54Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-25T11:31:36Z",
+    "updated_at": "2026-10-25T11:54:09Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -351,6 +405,15 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4461,
+    "updated_at": "2026-10-25T09:47:02Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
     "id": "lzmd-arch/BioSNN-Plug",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-25T09:20:26Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 4,
-    "updated_at": "2026-10-25T09:19:35Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "An autonomous Lean 4 theorem-proving agent: LLM-drafted proofs iteratively repaired against lake compiler diagnostics wi",
-    "id": "Lean-Prover/lean-prover",
-    "language": "Python",
-    "name": "Lean-Prover/lean-prover",
-    "stars": 2,
-    "updated_at": "2026-10-25T09:18:56Z",
-    "url": "https://github.com/Lean-Prover/lean-prover"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-25T11:43:25Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 5,
-    "updated_at": "2026-10-25T09:11:39Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-25T09:08:41Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "Production-oriented LLM agent with tool planning, validation, retries, replanning, and Docker-based runtime.",
-    "id": "furkanbati/enterprise-ai-agent",
-    "language": "Python",
-    "name": "furkanbati/enterprise-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-10-25T09:07:54Z",
-    "url": "https://github.com/furkanbati/enterprise-ai-agent"
-  },
-  {
-    "description": "A ZCode agent that turns any input \u2014 a sentence, a document, a photo \u2014 into a polished PPT, refined through conversation",
-    "id": "LemonZZH/Office-Agent",
-    "language": "Python",
-    "name": "LemonZZH/Office-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-25T09:07:16Z",
-    "url": "https://github.com/LemonZZH/Office-Agent"
   }
 ]
