@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-25 19:09 UTC
+> ⏰ Last updated: 2026-10-25 19:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [zeng6125-rgb/suixing](https://github.com/zeng6125-rgb/suixing) | 3 | Kotlin | 2026-10-25 | 随行 Suixing —— 手机端 AI Agent（Android · Kotlin + Compose）：读屏、点按、改文件、跑命令，纯本地、无云同步 |
-| 2 | [EvannZhongg/Nosis](https://github.com/EvannZhongg/Nosis) | 10 | Python | 2026-10-25 | Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use,  |
-| 3 | [stnlabz/language_model](https://github.com/stnlabz/language_model) | 0 | C | 2026-10-25 | The STN-Labz AI Agent Language Model |
-| 4 | [dotcomjack/grux](https://github.com/dotcomjack/grux) | 30 | Swift | 2026-10-25 | Grux AI: open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it |
-| 5 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 365 | Rust | 2026-10-25 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker. |
-| 6 | [cohexa-ai/agent-coherence](https://github.com/cohexa-ai/agent-coherence) | 11 | Python | 2026-10-25 | The coordination layer for Multiplayer AI |
-| 7 | [bamboosir1109/dsh-lanya](https://github.com/bamboosir1109/dsh-lanya) | 1 | Python | 2026-10-25 | QQ 群里的数字生命：人设注入 · 长期记忆 · 表情包按情绪分类 · 自主刷B站+发评论 · 14 页可视化控制台 \| DeepSeek Harness plugin |
-| 8 | [uukuguy/capstone](https://github.com/uukuguy/capstone) | 0 | Python | 2026-10-25 | Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio |
-| 9 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 133 | HTML | 2026-10-25 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
-| 10 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-10-25 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
-| 11 | [langroid/langroid](https://github.com/langroid/langroid) | 4120 | Python | 2026-10-25 | Harness LLMs with Multi-Agent Programming |
-| 12 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-25 | The Self-Improving Coding Agent |
-| 13 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 5 | TypeScript | 2026-10-25 | AI-powered image generation and chat studio |
-| 14 | [pcmxiao/dsh-douyin-bridge](https://github.com/pcmxiao/dsh-douyin-bridge) | 0 | JavaScript | 2026-10-25 | DSH 插件：把抖音私信接进 DSH —— 私信进 DSH 会话，AI 用工具刷视频、分享、聊天（含图片/表情收发）。仅供学习研究。 |
-| 15 | [cunhaax/ai-workflow](https://github.com/cunhaax/ai-workflow) | 5 | Python | 2026-10-25 | AI-Assisted Development Workflow — Claude Code Plugin |
-| 16 | [HaikeiLabs/agentware](https://github.com/HaikeiLabs/agentware) | 1 | Python | 2026-10-25 | tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r |
-| 17 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-25 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 18 | [TomKoren1/Sightline](https://github.com/TomKoren1/Sightline) | 0 | TypeScript | 2026-10-25 | Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po |
-| 19 | [diky87688973/ai-agent](https://github.com/diky87688973/ai-agent) | 3 | Python | 2026-10-25 | 可扩展的本地 AI Agent：模块链内核 + 插件系统 + 上下文管理 + 工具执行 + Web 界面。 |
-| 20 | [lzmd-arch/BioSNN-Plug](https://github.com/lzmd-arch/BioSNN-Plug) | 7 | Python | 2026-10-25 | 脉冲神经网络认知原型：纯局部学习规则（无代理梯度）+ SNN 自主调度 LLM。Spiking neural network cognitive prototype — purely local learning rules (no sur |
-| 21 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 15 | Go | 2026-10-25 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
-| 22 | [kanderson-ai-dev/agentic-api](https://github.com/kanderson-ai-dev/agentic-api) | 0 | Python | 2026-10-25 | Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service — prompt-injection defenses, retries, multi |
-| 23 | [jphall663/GWU_LLM](https://github.com/jphall663/GWU_LLM) | 0 | Jupyter Notebook | 2026-10-25 | A 1.5 credit graduate class about the nuts and bolts of LLMs. |
-| 24 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 2 | TypeScript | 2026-10-25 | Mochi — a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP  |
-| 25 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 136 | HTML | 2026-10-25 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
-| 26 | [memoways/ava-proto1](https://github.com/memoways/ava-proto1) | 0 | TypeScript | 2026-10-25 | Le prototype de l'expérience conversationnelle à partir d'un univers d'un film de fiction |
-| 27 | [STARDUSTLC666/dsh-minimal-ptc](https://github.com/STARDUSTLC666/dsh-minimal-ptc) | 2 | JavaScript | 2026-10-25 | 把官方极简提示词与 PTC 编排组合起来，提供完整插件工具和 Windows 终端适配。 欢迎提交 issues 和 PR。 |
-| 28 | [NoHarry/android-agent-runtime](https://github.com/NoHarry/android-agent-runtime) | 0 | Kotlin | 2026-10-25 | Embeddable agent runtime (agent harness) for Android and the JVM: agent loop, sandboxed workspace, MCP, skills, subagent |
-| 29 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-10-25 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
-| 30 | [Masterchiefm/jupyterlab-dsh](https://github.com/Masterchiefm/jupyterlab-dsh) | 0 | Python | 2026-10-25 | DeepSeek Harness (dsh) tab for JupyterLab — launcher card + same-origin reverse proxy (token exchange, Host/Origin fence |
-| 31 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 5 | Python | 2026-10-25 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
-| 32 | [xieguigang/sciBASIC](https://github.com/xieguigang/sciBASIC) | 79 | Visual Basic .NET | 2026-10-25 | A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler |
-| 33 | [sindredg/ai-security-platform](https://github.com/sindredg/ai-security-platform) | 0 | Python | 2026-10-25 | Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo |
-| 34 | [doomsday-network/doomsday](https://github.com/doomsday-network/doomsday) | 20 | Python | 2026-10-25 | Doomsday Network (DOOM) — Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC |
-| 35 | [lijy-forge/SupplyGuard-Ai](https://github.com/lijy-forge/SupplyGuard-Ai) | 0 | Python | 2026-10-25 | 面向制造质量与供应链运营的证据驱动智能体平台 · Evidence-grounded agent platform for manufacturing quality & supply chain |
-| 36 | [Cwentor/DataAgent](https://github.com/Cwentor/DataAgent) | 1 | Python | 2026-10-25 | Enterprise Data Agent: NL → contract-bound DSL → deterministic SQL → DuckDB. StateGraph orchestration, sandboxed analysi |
-| 37 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-25 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 38 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-25 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
-| 39 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 50 | Rust | 2026-10-25 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
-| 40 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 21 | Rust | 2026-10-25 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 41 | [kashyaprajharsh/medha-agent](https://github.com/kashyaprajharsh/medha-agent) | 4 | Rust | 2026-10-25 | A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident  |
-| 42 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 219 | TypeScript | 2026-10-25 | Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r |
-| 43 | [eshanized/M31A](https://github.com/eshanized/M31A) | 10 | Rust | 2026-10-25 | M31 Autonomous — Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe |
-| 44 | [yurika0211/lucky-agent](https://github.com/yurika0211/lucky-agent) | 15 | Go | 2026-10-25 | LuckyAgent — 注重长任务规划和系统记忆性的Agent框架 |
-| 45 | [mensfeld/pocketrb](https://github.com/mensfeld/pocketrb) | 38 | Ruby | 2026-10-25 | Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support |
-| 46 | [Yookio-Z/Airsim-Agent](https://github.com/Yookio-Z/Airsim-Agent) | 0 | Python | 2026-10-25 | LLM-driven UAV agent runtime: criteria-contract planning, PX4 MAVLink / AirSim backends, and a web ground-control statio |
-| 47 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-25 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
-| 48 | [Soodok/Deepseek-Harness-Local-Android](https://github.com/Soodok/Deepseek-Harness-Local-Android) | 343 | Kotlin | 2026-10-25 | Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included \| 手机本地运行 DeepSeek  |
-| 49 | [LemonZZH/Office-Agent](https://github.com/LemonZZH/Office-Agent) | 0 | Python | 2026-10-25 | A ZCode agent that turns any input — a sentence, a document, a photo — into a polished PPT, refined through conversation |
-| 50 | [xiaomaozjj666/web-crawler](https://github.com/xiaomaozjj666/web-crawler) | 5 | Python | 2026-10-25 | Scrapling 风格隐身爬虫库：自适应选择器 · TLS 指纹 HTTP · JS 渲染 · 回调式 Spider 框架（重试/robots/去重/中间件管道）· JS 逆向 Agent · 验证码识别 · MCP 服务 · 本地 We |
+| 1 | [eshanized/M31A](https://github.com/eshanized/M31A) | 10 | Rust | 2026-10-25 | M31 Autonomous — Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe |
+| 2 | [Alucard1718/autonomous-code-sandbox](https://github.com/Alucard1718/autonomous-code-sandbox) | 0 | HTML | 2026-10-25 | Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox |
+| 3 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-10-25 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
+| 4 | [TianQue6916/dsh-reasonix-agent](https://github.com/TianQue6916/dsh-reasonix-agent) | 0 | JavaScript | 2026-10-25 | dsh agent harness + reasonix runtime: 配置备份与工程经验库 (Windows/Linux 双机, TianQue6916) |
+| 5 | [zeng6125-rgb/suixing](https://github.com/zeng6125-rgb/suixing) | 3 | Kotlin | 2026-10-25 | 随行 Suixing —— 手机端 AI Agent（Android · Kotlin + Compose）：读屏、点按、改文件、跑命令，纯本地、无云同步 |
+| 6 | [yologdev/yoagent](https://github.com/yologdev/yoagent) | 365 | Rust | 2026-10-25 | The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker. |
+| 7 | [EvannZhongg/Nosis](https://github.com/EvannZhongg/Nosis) | 10 | Python | 2026-10-25 | Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use,  |
+| 8 | [stnlabz/language_model](https://github.com/stnlabz/language_model) | 0 | C | 2026-10-25 | The STN-Labz AI Agent Language Model |
+| 9 | [dotcomjack/grux](https://github.com/dotcomjack/grux) | 30 | Swift | 2026-10-25 | Grux AI: open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it |
+| 10 | [cohexa-ai/agent-coherence](https://github.com/cohexa-ai/agent-coherence) | 11 | Python | 2026-10-25 | The coordination layer for Multiplayer AI |
+| 11 | [bamboosir1109/dsh-lanya](https://github.com/bamboosir1109/dsh-lanya) | 1 | Python | 2026-10-25 | QQ 群里的数字生命：人设注入 · 长期记忆 · 表情包按情绪分类 · 自主刷B站+发评论 · 14 页可视化控制台 \| DeepSeek Harness plugin |
+| 12 | [uukuguy/capstone](https://github.com/uukuguy/capstone) | 0 | Python | 2026-10-25 | Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio |
+| 13 | [grandgaming9321-prog/reality-engine](https://github.com/grandgaming9321-prog/reality-engine) | 133 | HTML | 2026-10-25 | Top Dynamic AI World Simulation & Storytelling Tools 2026 |
+| 14 | [iammonth1997/paperwiki-research-compiler](https://github.com/iammonth1997/paperwiki-research-compiler) | 2 | HTML | 2026-10-25 | AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses |
+| 15 | [langroid/langroid](https://github.com/langroid/langroid) | 4120 | Python | 2026-10-25 | Harness LLMs with Multi-Agent Programming |
+| 16 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-25 | The Self-Improving Coding Agent |
+| 17 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 5 | TypeScript | 2026-10-25 | AI-powered image generation and chat studio |
+| 18 | [pcmxiao/dsh-douyin-bridge](https://github.com/pcmxiao/dsh-douyin-bridge) | 0 | JavaScript | 2026-10-25 | DSH 插件：把抖音私信接进 DSH —— 私信进 DSH 会话，AI 用工具刷视频、分享、聊天（含图片/表情收发）。仅供学习研究。 |
+| 19 | [cunhaax/ai-workflow](https://github.com/cunhaax/ai-workflow) | 5 | Python | 2026-10-25 | AI-Assisted Development Workflow — Claude Code Plugin |
+| 20 | [HaikeiLabs/agentware](https://github.com/HaikeiLabs/agentware) | 1 | Python | 2026-10-25 | tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r |
+| 21 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-25 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 22 | [TomKoren1/Sightline](https://github.com/TomKoren1/Sightline) | 0 | TypeScript | 2026-10-25 | Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po |
+| 23 | [diky87688973/ai-agent](https://github.com/diky87688973/ai-agent) | 3 | Python | 2026-10-25 | 可扩展的本地 AI Agent：模块链内核 + 插件系统 + 上下文管理 + 工具执行 + Web 界面。 |
+| 24 | [lzmd-arch/BioSNN-Plug](https://github.com/lzmd-arch/BioSNN-Plug) | 7 | Python | 2026-10-25 | 脉冲神经网络认知原型：纯局部学习规则（无代理梯度）+ SNN 自主调度 LLM。Spiking neural network cognitive prototype — purely local learning rules (no sur |
+| 25 | [denn-gubsky/loomcycle](https://github.com/denn-gubsky/loomcycle) | 15 | Go | 2026-10-25 | The runtime substrate for agentic systems — one Go binary, six LLM providers, MCP-native, configurable as a managed sand |
+| 26 | [kanderson-ai-dev/agentic-api](https://github.com/kanderson-ai-dev/agentic-api) | 0 | Python | 2026-10-25 | Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service — prompt-injection defenses, retries, multi |
+| 27 | [jphall663/GWU_LLM](https://github.com/jphall663/GWU_LLM) | 0 | Jupyter Notebook | 2026-10-25 | A 1.5 credit graduate class about the nuts and bolts of LLMs. |
+| 28 | [xanstomper/mochi](https://github.com/xanstomper/mochi) | 2 | TypeScript | 2026-10-25 | Mochi — a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP  |
+| 29 | [muhammadalicusit56-glitch/otto-cognitive-nudge](https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge) | 136 | HTML | 2026-10-25 | Smart Promise Tracker AI 2026 – Commit Memory Engine |
+| 30 | [memoways/ava-proto1](https://github.com/memoways/ava-proto1) | 0 | TypeScript | 2026-10-25 | Le prototype de l'expérience conversationnelle à partir d'un univers d'un film de fiction |
+| 31 | [STARDUSTLC666/dsh-minimal-ptc](https://github.com/STARDUSTLC666/dsh-minimal-ptc) | 2 | JavaScript | 2026-10-25 | 把官方极简提示词与 PTC 编排组合起来，提供完整插件工具和 Windows 终端适配。 欢迎提交 issues 和 PR。 |
+| 32 | [NoHarry/android-agent-runtime](https://github.com/NoHarry/android-agent-runtime) | 0 | Kotlin | 2026-10-25 | Embeddable agent runtime (agent harness) for Android and the JVM: agent loop, sandboxed workspace, MCP, skills, subagent |
+| 33 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-10-25 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
+| 34 | [Masterchiefm/jupyterlab-dsh](https://github.com/Masterchiefm/jupyterlab-dsh) | 0 | Python | 2026-10-25 | DeepSeek Harness (dsh) tab for JupyterLab — launcher card + same-origin reverse proxy (token exchange, Host/Origin fence |
+| 35 | [kangkukjin/indiebizOS](https://github.com/kangkukjin/indiebizOS) | 5 | Python | 2026-10-25 | A personal AI OS you grow yourself — natural language compiles to a real action language, runs on desktop & phone |
+| 36 | [xieguigang/sciBASIC](https://github.com/xieguigang/sciBASIC) | 79 | Visual Basic .NET | 2026-10-25 | A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler |
+| 37 | [sindredg/ai-security-platform](https://github.com/sindredg/ai-security-platform) | 0 | Python | 2026-10-25 | Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo |
+| 38 | [doomsday-network/doomsday](https://github.com/doomsday-network/doomsday) | 20 | Python | 2026-10-25 | Doomsday Network (DOOM) — Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC |
+| 39 | [lijy-forge/SupplyGuard-Ai](https://github.com/lijy-forge/SupplyGuard-Ai) | 0 | Python | 2026-10-25 | 面向制造质量与供应链运营的证据驱动智能体平台 · Evidence-grounded agent platform for manufacturing quality & supply chain |
+| 40 | [Cwentor/DataAgent](https://github.com/Cwentor/DataAgent) | 1 | Python | 2026-10-25 | Enterprise Data Agent: NL → contract-bound DSL → deterministic SQL → DuckDB. StateGraph orchestration, sandboxed analysi |
+| 41 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-25 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 42 | [TrungHuy2128/octium-wisp](https://github.com/TrungHuy2128/octium-wisp) | 0 | HTML | 2026-10-25 | Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat |
+| 43 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 50 | Rust | 2026-10-25 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
+| 44 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 21 | Rust | 2026-10-25 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
+| 45 | [kashyaprajharsh/medha-agent](https://github.com/kashyaprajharsh/medha-agent) | 4 | Rust | 2026-10-25 | A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident  |
+| 46 | [node9-ai/node9-proxy](https://github.com/node9-ai/node9-proxy) | 219 | TypeScript | 2026-10-25 | Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r |
+| 47 | [yurika0211/lucky-agent](https://github.com/yurika0211/lucky-agent) | 15 | Go | 2026-10-25 | LuckyAgent — 注重长任务规划和系统记忆性的Agent框架 |
+| 48 | [mensfeld/pocketrb](https://github.com/mensfeld/pocketrb) | 38 | Ruby | 2026-10-25 | Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support |
+| 49 | [HolmesGPT/holmesgpt](https://github.com/HolmesGPT/holmesgpt) | 3684 | Python | 2026-10-25 | SRE Agent - CNCF Sandbox Project |
+| 50 | [Yookio-Z/Airsim-Agent](https://github.com/Yookio-Z/Airsim-Agent) | 0 | Python | 2026-10-25 | LLM-driven UAV agent runtime: criteria-contract planning, PX4 MAVLink / AirSim backends, and a web ground-control statio |
 <!-- TRACKER_TABLE_END -->
 
 ---
