@@ -1,5 +1,86 @@
 [
   {
+    "description": "Ship AI agents with evidence. Open-source evals for LLMs, RAG, tools, and conversations. Use Claude Code, Codex, or your",
+    "id": "Vatsa10/evals",
+    "language": "Python",
+    "name": "Vatsa10/evals",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:28:05Z",
+    "url": "https://github.com/Vatsa10/evals"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvge",
+    "language": "Python",
+    "name": "IAmNo1Special/mvge",
+    "stars": 2,
+    "updated_at": "2026-10-25T10:26:55Z",
+    "url": "https://github.com/IAmNo1Special/mvge"
+  },
+  {
+    "description": "Benchmark what your agent actually does, not just whether it worked",
+    "id": "janghotan/harnessed",
+    "language": "Python",
+    "name": "janghotan/harnessed",
+    "stars": 1,
+    "updated_at": "2026-10-25T10:26:29Z",
+    "url": "https://github.com/janghotan/harnessed"
+  },
+  {
+    "description": "The coordination layer for Multiplayer AI",
+    "id": "cohexa-ai/agent-coherence",
+    "language": "Python",
+    "name": "cohexa-ai/agent-coherence",
+    "stars": 11,
+    "updated_at": "2026-10-25T10:28:53Z",
+    "url": "https://github.com/cohexa-ai/agent-coherence"
+  },
+  {
+    "description": "CE \u6267\u884c\u5916\u9aa8\u9abc\uff1a\u8ba9\u5c0f\u6a21\u578b\u5728 8K \u4e0a\u4e0b\u6587\u91cc\u5e72\u5b8c 32K \u7684\u6d3b\u3002\u5355\u6587\u4ef6\u3001\u7eaf\u6807\u51c6\u5e93\u3001\u96f6\u4f9d\u8d56\uff1b\u9632\u5e7b\u89c9\u5b88\u536b\u3001\u5206\u6bb5\u5582\u517b\u3001\u65ad\u70b9\u56de\u6eda\u3001\u9884\u7b97\u7194\u65ad\u3002AGPL-3.0\u3002\u5df2\u5728 qwen3-9B / 8192 \u4e0a\u4e0b\u6587 / RTX 2070S \u4e0a\u9a8c\u8bc1\u3002",
+    "id": "zhugeweimu/CE-NeuroFusion",
+    "language": "Python",
+    "name": "zhugeweimu/CE-NeuroFusion",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:20:00Z",
+    "url": "https://github.com/zhugeweimu/CE-NeuroFusion"
+  },
+  {
+    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
+    "id": "Chensihakniroth/anakot-agent-v1",
+    "language": "Python",
+    "name": "Chensihakniroth/anakot-agent-v1",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:19:02Z",
+    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-25T10:18:02Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis), ",
+    "id": "TekkenSteve/fastapi_langgraph_template",
+    "language": "Python",
+    "name": "TekkenSteve/fastapi_langgraph_template",
+    "stars": 3,
+    "updated_at": "2026-10-25T10:15:28Z",
+    "url": "https://github.com/TekkenSteve/fastapi_langgraph_template"
+  },
+  {
+    "description": "Vanilla Python AI Agent",
+    "id": "marcusholmgren/vanilla-ai-agent",
+    "language": "Python",
+    "name": "marcusholmgren/vanilla-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:14:45Z",
+    "url": "https://github.com/marcusholmgren/vanilla-ai-agent"
+  },
+  {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
     "id": "xiongweilin/agent-skills",
     "language": "PowerShell",
@@ -34,33 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T10:12:17Z",
     "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
-    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
-    "id": "Chensihakniroth/anakot-agent-v1",
-    "language": "Python",
-    "name": "Chensihakniroth/anakot-agent-v1",
-    "stars": 0,
-    "updated_at": "2026-10-25T10:12:04Z",
-    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
-  },
-  {
-    "description": "Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis), ",
-    "id": "TekkenSteve/fastapi_langgraph_template",
-    "language": "Python",
-    "name": "TekkenSteve/fastapi_langgraph_template",
-    "stars": 3,
-    "updated_at": "2026-10-25T10:11:13Z",
-    "url": "https://github.com/TekkenSteve/fastapi_langgraph_template"
-  },
-  {
-    "description": "Benchmark what your agent actually does, not just whether it worked",
-    "id": "janghotan/harnessed",
-    "language": "Python",
-    "name": "janghotan/harnessed",
-    "stars": 1,
-    "updated_at": "2026-10-25T10:10:51Z",
-    "url": "https://github.com/janghotan/harnessed"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -108,21 +162,12 @@
     "url": "https://github.com/honlam6/talk2stock"
   },
   {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-25T10:12:36Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-25T10:13:33Z",
+    "updated_at": "2026-10-25T10:27:09Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-25T10:06:00Z",
+    "updated_at": "2026-10-25T10:17:48Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -144,15 +189,6 @@
     "url": "https://github.com/aimegabase/ai-megabase-log"
   },
   {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvge",
-    "language": "Python",
-    "name": "IAmNo1Special/mvge",
-    "stars": 2,
-    "updated_at": "2026-10-25T09:49:29Z",
-    "url": "https://github.com/IAmNo1Special/mvge"
-  },
-  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
@@ -160,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T09:36:04Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "Ship AI agents with evidence. Open-source evals for LLMs, RAG, tools, and conversations. Use Claude Code, Codex, or your",
-    "id": "Vatsa10/evals",
-    "language": "Python",
-    "name": "Vatsa10/evals",
-    "stars": 0,
-    "updated_at": "2026-10-25T09:35:03Z",
-    "url": "https://github.com/Vatsa10/evals"
   },
   {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
@@ -187,15 +214,6 @@
     "stars": 7,
     "updated_at": "2026-10-25T09:27:58Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-25T09:25:49Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T07:41:44Z",
     "url": "https://github.com/apolmig/fronteraeval"
-  },
-  {
-    "description": "\u8de8\u5de5\u4f5c\u533a\u72ec\u7acb\u4eba\u683c\u3001\u81ea\u9002\u5e94\u98ce\u683c\u4e0e\u966a\u4f34\u9884\u8bbe\uff1a\u4e3a\u9879\u76ee\u548c\u5bf9\u8bdd\u5206\u522b\u7ef4\u62a4\u4eba\u683c\u4e0e\u786e\u8ba4\u540e\u7684\u901a\u7528\u504f\u597d\uff0c\u652f\u6301\u4efb\u610f DSH \u5df2\u6ce8\u518c\u6a21\u578b\u7684\u5b50\u4ee3\u7406\u8def\u7531\uff08\u542b\u901a\u8fc7\u5176\u4ed6\u63d2\u4ef6\u63a5\u5165\u7684 Codex\u3001Claude Code\uff09\u3002",
-    "id": "ZekaiShi/dsh-evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/dsh-evo-subagent",
-    "stars": 7,
-    "updated_at": "2026-10-25T07:36:18Z",
-    "url": "https://github.com/ZekaiShi/dsh-evo-subagent"
-  },
-  {
-    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
-    "id": "diky87688973/ai-agent",
-    "language": "Python",
-    "name": "diky87688973/ai-agent",
-    "stars": 3,
-    "updated_at": "2026-10-25T07:32:40Z",
-    "url": "https://github.com/diky87688973/ai-agent"
   }
 ]
