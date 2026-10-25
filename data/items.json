@@ -1,5 +1,59 @@
 [
   {
+    "description": "The STN-Labz AI Agent Language Model",
+    "id": "stnlabz/language_model",
+    "language": "C",
+    "name": "stnlabz/language_model",
+    "stars": 0,
+    "updated_at": "2026-10-25T16:59:59Z",
+    "url": "https://github.com/stnlabz/language_model"
+  },
+  {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-25T16:58:35Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-25T16:57:19Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-25T16:56:57Z",
+    "url": "https://github.com/eshanized/M31A"
+  },
+  {
+    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
+    "id": "bamboosir1109/dsh-lanya",
+    "language": "Python",
+    "name": "bamboosir1109/dsh-lanya",
+    "stars": 0,
+    "updated_at": "2026-10-25T16:48:02Z",
+    "url": "https://github.com/bamboosir1109/dsh-lanya"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-25T16:47:53Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
     "id": "yurika0211/lucky-agent",
     "language": "Go",
@@ -9,24 +63,6 @@
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 219,
-    "updated_at": "2026-10-25T16:44:54Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
-    "id": "bamboosir1109/dsh-lanya",
-    "language": "Python",
-    "name": "bamboosir1109/dsh-lanya",
-    "stars": 0,
-    "updated_at": "2026-10-25T16:44:09Z",
-    "url": "https://github.com/bamboosir1109/dsh-lanya"
-  },
-  {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
     "id": "mensfeld/pocketrb",
     "language": "Ruby",
@@ -34,15 +70,6 @@
     "stars": 38,
     "updated_at": "2026-10-25T16:41:44Z",
     "url": "https://github.com/mensfeld/pocketrb"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-25T16:41:11Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
@@ -301,7 +328,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 1027,
+    "stars": 1028,
     "updated_at": "2026-10-25T15:29:41Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-25T14:56:48Z",
     "url": "https://github.com/shakhruz/mila"
-  },
-  {
-    "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
-    "id": "kanderson-ai-dev/agentic-api",
-    "language": "Python",
-    "name": "kanderson-ai-dev/agentic-api",
-    "stars": 0,
-    "updated_at": "2026-10-25T14:52:16Z",
-    "url": "https://github.com/kanderson-ai-dev/agentic-api"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-25T16:37:50Z",
-    "url": "https://github.com/uukuguy/capstone"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 136,
-    "updated_at": "2026-10-25T14:48:23Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
