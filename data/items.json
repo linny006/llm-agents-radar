@@ -5,17 +5,44 @@
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 3,
-    "updated_at": "2026-10-25T20:45:06Z",
+    "updated_at": "2026-10-25T20:58:44Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-25T20:43:00Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
+    "description": "Agent harness that makes a local Gemma 4 26B (vLLM on Intel Arc Pro B70) work like a stronger model: tested helper libra",
+    "id": "izagami/gemma-agent-harness",
+    "language": "JavaScript",
+    "name": "izagami/gemma-agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:56:18Z",
+    "url": "https://github.com/izagami/gemma-agent-harness"
+  },
+  {
+    "description": "AI2-THOR extension: a browser console and Python toolkit to drive any iTHOR scene, run LLM agents (Ollama, English/Persi",
+    "id": "ArashNasrEsfahani/ai2thor-web-console-extension",
+    "language": "Python",
+    "name": "ArashNasrEsfahani/ai2thor-web-console-extension",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:54:20Z",
+    "url": "https://github.com/ArashNasrEsfahani/ai2thor-web-console-extension"
+  },
+  {
+    "description": "A minimal Spring AI coding agent harness \u2014 pluggable LLM providers (Anthropic/OpenAI/Ollama) and Claude Code-inspired gr",
+    "id": "apscot/Coding-Agent-Harness-with-Spring-AI",
+    "language": "Java",
+    "name": "apscot/Coding-Agent-Harness-with-Spring-AI",
+    "stars": 0,
+    "updated_at": "2026-10-25T20:52:24Z",
+    "url": "https://github.com/apscot/Coding-Agent-Harness-with-Spring-AI"
+  },
+  {
+    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
+    "id": "iap/hermes-guide",
+    "language": "Python",
+    "name": "iap/hermes-guide",
+    "stars": 4,
+    "updated_at": "2026-10-25T20:50:14Z",
+    "url": "https://github.com/iap/hermes-guide"
   },
   {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
@@ -23,8 +50,26 @@
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-25T20:39:49Z",
+    "updated_at": "2026-10-25T20:47:15Z",
     "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1039,
+    "updated_at": "2026-10-25T20:43:59Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-25T20:50:10Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "The coordination layer for Multiplayer AI",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "cohexa-ai/agent-coherence",
     "stars": 11,
-    "updated_at": "2026-10-25T20:40:11Z",
+    "updated_at": "2026-10-25T20:53:11Z",
     "url": "https://github.com/cohexa-ai/agent-coherence"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 7,
     "updated_at": "2026-10-25T20:38:17Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
-    "id": "iap/hermes-guide",
-    "language": "Python",
-    "name": "iap/hermes-guide",
-    "stars": 4,
-    "updated_at": "2026-10-25T20:39:13Z",
-    "url": "https://github.com/iap/hermes-guide"
   },
   {
     "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T20:22:46Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1037,
-    "updated_at": "2026-10-25T20:43:59Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -176,7 +203,7 @@
     "language": "JavaScript",
     "name": "TianQue6916/dsh-reasonix-agent",
     "stars": 0,
-    "updated_at": "2026-10-25T20:16:09Z",
+    "updated_at": "2026-10-25T20:45:25Z",
     "url": "https://github.com/TianQue6916/dsh-reasonix-agent"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "uukuguy/capstone",
     "stars": 0,
-    "updated_at": "2026-10-25T20:40:10Z",
+    "updated_at": "2026-10-25T20:50:27Z",
     "url": "https://github.com/uukuguy/capstone"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-25T18:42:37Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
-  },
-  {
-    "description": "DeepSeek Harness (dsh) tab for JupyterLab \u2014 launcher card + same-origin reverse proxy (token exchange, Host/Origin fence",
-    "id": "Masterchiefm/jupyterlab-dsh",
-    "language": "Python",
-    "name": "Masterchiefm/jupyterlab-dsh",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:41:24Z",
-    "url": "https://github.com/Masterchiefm/jupyterlab-dsh"
-  },
-  {
-    "description": "A personal AI OS you grow yourself \u2014 natural language compiles to a real action language, runs on desktop & phone",
-    "id": "kangkukjin/indiebizOS",
-    "language": "Python",
-    "name": "kangkukjin/indiebizOS",
-    "stars": 5,
-    "updated_at": "2026-10-25T17:39:00Z",
-    "url": "https://github.com/kangkukjin/indiebizOS"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-25T17:33:51Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
   }
 ]
