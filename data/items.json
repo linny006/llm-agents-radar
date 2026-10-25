@@ -1,11 +1,83 @@
 [
   {
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
+    "language": "Python",
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-10-25T17:29:19Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
+  },
+  {
+    "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
+    "id": "doomsday-network/doomsday",
+    "language": "Python",
+    "name": "doomsday-network/doomsday",
+    "stars": 18,
+    "updated_at": "2026-10-25T17:27:07Z",
+    "url": "https://github.com/doomsday-network/doomsday"
+  },
+  {
+    "description": "\u9762\u5411\u5236\u9020\u8d28\u91cf\u4e0e\u4f9b\u5e94\u94fe\u8fd0\u8425\u7684\u8bc1\u636e\u9a71\u52a8\u667a\u80fd\u4f53\u5e73\u53f0 \u00b7 Evidence-grounded agent platform for manufacturing quality & supply chain",
+    "id": "lijy-forge/SupplyGuard-Ai",
+    "language": "Python",
+    "name": "lijy-forge/SupplyGuard-Ai",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:27:03Z",
+    "url": "https://github.com/lijy-forge/SupplyGuard-Ai"
+  },
+  {
+    "description": "Embeddable agent runtime (agent harness) for Android and the JVM: agent loop, sandboxed workspace, MCP, skills, subagent",
+    "id": "NoHarry/android-agent-runtime",
+    "language": "Kotlin",
+    "name": "NoHarry/android-agent-runtime",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:26:32Z",
+    "url": "https://github.com/NoHarry/android-agent-runtime"
+  },
+  {
+    "description": "Enterprise Data Agent: NL \u2192 contract-bound DSL \u2192 deterministic SQL \u2192 DuckDB. StateGraph orchestration, sandboxed analysi",
+    "id": "Cwentor/DataAgent",
+    "language": "Python",
+    "name": "Cwentor/DataAgent",
+    "stars": 2,
+    "updated_at": "2026-10-25T17:24:38Z",
+    "url": "https://github.com/Cwentor/DataAgent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:21:22Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:19:45Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "The STN-Labz AI Agent Language Model",
+    "id": "stnlabz/language_model",
+    "language": "C",
+    "name": "stnlabz/language_model",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:19:17Z",
+    "url": "https://github.com/stnlabz/language_model"
+  },
+  {
     "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
     "id": "bamboosir1109/dsh-lanya",
     "language": "Python",
     "name": "bamboosir1109/dsh-lanya",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:14:55Z",
+    "stars": 1,
+    "updated_at": "2026-10-25T17:18:49Z",
     "url": "https://github.com/bamboosir1109/dsh-lanya"
   },
   {
@@ -41,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-25T17:08:51Z",
+    "updated_at": "2026-10-25T17:22:45Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -52,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-10-25T17:08:50Z",
     "url": "https://github.com/kashyaprajharsh/medha-agent"
-  },
-  {
-    "description": "The STN-Labz AI Agent Language Model",
-    "id": "stnlabz/language_model",
-    "language": "C",
-    "name": "stnlabz/language_model",
-    "stars": 0,
-    "updated_at": "2026-10-25T16:59:59Z",
-    "url": "https://github.com/stnlabz/language_model"
   },
   {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
@@ -77,7 +140,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-25T16:57:19Z",
+    "updated_at": "2026-10-25T17:20:14Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -115,15 +178,6 @@
     "stars": 38,
     "updated_at": "2026-10-25T16:41:44Z",
     "url": "https://github.com/mensfeld/pocketrb"
-  },
-  {
-    "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
-    "id": "doomsday-network/doomsday",
-    "language": "Python",
-    "name": "doomsday-network/doomsday",
-    "stars": 18,
-    "updated_at": "2026-10-25T16:37:52Z",
-    "url": "https://github.com/doomsday-network/doomsday"
   },
   {
     "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
@@ -178,15 +232,6 @@
     "stars": 5,
     "updated_at": "2026-10-25T16:22:44Z",
     "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-25T16:18:48Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
@@ -364,7 +409,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 1028,
+    "stars": 1029,
     "updated_at": "2026-10-25T15:29:41Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T15:16:18Z",
     "url": "https://github.com/Masterchiefm/jupyterlab-dsh"
-  },
-  {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-25T15:16:23Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "Deterministic evidence-retrieval entry for the Agent Memory Leaderboard: Add and Search only, no answer generation",
-    "id": "aidless/flowgrid-aml-retriever",
-    "language": "Python",
-    "name": "aidless/flowgrid-aml-retriever",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:13:54Z",
-    "url": "https://github.com/aidless/flowgrid-aml-retriever"
-  },
-  {
-    "description": "\u9762\u5411\u5236\u9020\u8d28\u91cf\u4e0e\u4f9b\u5e94\u94fe\u8fd0\u8425\u7684\u8bc1\u636e\u9a71\u52a8\u667a\u80fd\u4f53\u5e73\u53f0 \u00b7 Evidence-grounded agent platform for manufacturing quality & supply chain",
-    "id": "lijy-forge/SupplyGuard-Ai",
-    "language": "Python",
-    "name": "lijy-forge/SupplyGuard-Ai",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:12:51Z",
-    "url": "https://github.com/lijy-forge/SupplyGuard-Ai"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:07:13Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-25T15:04:47Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   }
 ]
