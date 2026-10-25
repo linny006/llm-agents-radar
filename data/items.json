@@ -1,5 +1,41 @@
 [
   {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-25T09:36:09Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-25T09:36:04Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Ship AI agents with evidence. Open-source evals for LLMs, RAG, tools, and conversations. Use Claude Code, Codex, or your",
+    "id": "Vatsa10/evals",
+    "language": "Python",
+    "name": "Vatsa10/evals",
+    "stars": 0,
+    "updated_at": "2026-10-25T09:35:03Z",
+    "url": "https://github.com/Vatsa10/evals"
+  },
+  {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-25T09:31:05Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
+  },
+  {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
     "id": "lzmd-arch/BioSNN-Plug",
     "language": "Python",
@@ -34,15 +70,6 @@
     "stars": 7,
     "updated_at": "2026-10-25T09:22:54Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-25T09:22:46Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-25T09:17:30Z",
+    "updated_at": "2026-10-25T09:44:41Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T09:07:54Z",
     "url": "https://github.com/furkanbati/enterprise-ai-agent"
-  },
-  {
-    "description": "Ship AI agents with evidence. Open-source evals for LLMs, RAG, tools, and conversations. Use Claude Code, Codex, or your",
-    "id": "Vatsa10/evals",
-    "language": "Python",
-    "name": "Vatsa10/evals",
-    "stars": 0,
-    "updated_at": "2026-10-25T09:07:24Z",
-    "url": "https://github.com/Vatsa10/evals"
   },
   {
     "description": "A ZCode agent that turns any input \u2014 a sentence, a document, a photo \u2014 into a polished PPT, refined through conversation",
@@ -252,15 +270,6 @@
     "url": "https://github.com/iap/hermes-guide"
   },
   {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-25T09:29:07Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
     "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
     "id": "uukuguy/capstone",
     "language": "Python",
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-25T09:24:25Z",
+    "updated_at": "2026-10-25T09:44:19Z",
     "url": "https://github.com/hellices/korvid"
   },
   {
@@ -349,15 +358,6 @@
     "stars": 7,
     "updated_at": "2026-10-25T07:36:18Z",
     "url": "https://github.com/ZekaiShi/dsh-evo-subagent"
-  },
-  {
-    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
-    "id": "sindredg/ai-security-platform",
-    "language": "Python",
-    "name": "sindredg/ai-security-platform",
-    "stars": 0,
-    "updated_at": "2026-10-25T07:48:21Z",
-    "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
     "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
@@ -428,7 +428,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-25T08:31:35Z",
+    "updated_at": "2026-10-25T09:45:11Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
