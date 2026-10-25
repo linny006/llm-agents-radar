@@ -1,12 +1,30 @@
 [
   {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-25T00:26:40Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
     "description": "Local-first multimodal CAD agent: photos, sketches & text in \u2014 verified, parametric, manufacturing-ready 3D models out (",
     "id": "maxk2222/cadx",
     "language": "Python",
     "name": "maxk2222/cadx",
     "stars": 1,
-    "updated_at": "2026-10-25T00:13:55Z",
+    "updated_at": "2026-10-25T00:22:31Z",
     "url": "https://github.com/maxk2222/cadx"
+  },
+  {
+    "description": "AI \u6295\u7814 Copilot \u2014 \u5927\u6a21\u578b\u5382\u5546\u7ade\u54c1\u7814\u7a76 Deep Research Agent\uff1a\u62c6\u89e3\u2192\u68c0\u7d22\u2192\u81ea\u68c0\u2192\u8865\u68c0\u2192\u6c47\u603b\uff0c52 \u683c\u7814\u5224\u7ed3\u8bba 100% \u53ef\u6eaf\u6e90\uff08\u7eaf Python \u6807\u51c6\u5e93\uff0c\u96f6\u4f9d\u8d56\uff09",
+    "id": "shineyyxd/ai-research-copilot",
+    "language": "Python",
+    "name": "shineyyxd/ai-research-copilot",
+    "stars": 0,
+    "updated_at": "2026-10-25T00:19:22Z",
+    "url": "https://github.com/shineyyxd/ai-research-copilot"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -41,7 +59,7 @@
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
     "stars": 329,
-    "updated_at": "2026-10-25T00:06:17Z",
+    "updated_at": "2026-10-25T00:15:34Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T23:55:52Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-24T23:55:00Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-24T19:45:03Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
-    "id": "AskTheWay/dsh-auto-memory",
-    "language": "TypeScript",
-    "name": "AskTheWay/dsh-auto-memory",
-    "stars": 106,
-    "updated_at": "2026-10-24T19:33:29Z",
-    "url": "https://github.com/AskTheWay/dsh-auto-memory"
   }
 ]
