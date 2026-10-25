@@ -1,5 +1,50 @@
 [
   {
+    "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
+    "id": "TomKoren1/Sightline",
+    "language": "TypeScript",
+    "name": "TomKoren1/Sightline",
+    "stars": 0,
+    "updated_at": "2026-10-25T01:12:40Z",
+    "url": "https://github.com/TomKoren1/Sightline"
+  },
+  {
+    "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
+    "id": "guzmandrade-dev/lyx-acp-assist",
+    "language": "TypeScript",
+    "name": "guzmandrade-dev/lyx-acp-assist",
+    "stars": 1,
+    "updated_at": "2026-10-25T01:06:46Z",
+    "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
+  },
+  {
+    "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
+    "id": "doomsday-network/doomsday",
+    "language": "Python",
+    "name": "doomsday-network/doomsday",
+    "stars": 16,
+    "updated_at": "2026-10-25T01:04:08Z",
+    "url": "https://github.com/doomsday-network/doomsday"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-25T01:03:11Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-25T01:13:28Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -25,15 +70,6 @@
     "stars": 136,
     "updated_at": "2026-10-25T00:49:09Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Copilot-for-Word-style LLM assistant for LyX: ACP agent, LyXServer pipe write path, read-only .lyx parser.",
-    "id": "guzmandrade-dev/lyx-acp-assist",
-    "language": "TypeScript",
-    "name": "guzmandrade-dev/lyx-acp-assist",
-    "stars": 1,
-    "updated_at": "2026-10-25T00:46:38Z",
-    "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
   },
   {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
@@ -117,15 +153,6 @@
     "url": "https://github.com/shineyyxd/ai-research-copilot"
   },
   {
-    "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
-    "id": "TomKoren1/Sightline",
-    "language": "TypeScript",
-    "name": "TomKoren1/Sightline",
-    "stars": 0,
-    "updated_at": "2026-10-25T00:56:26Z",
-    "url": "https://github.com/TomKoren1/Sightline"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T00:06:04Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-25T00:02:19Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -241,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-24T23:32:41Z",
     "url": "https://github.com/Rukkakka/baenggipyo"
-  },
-  {
-    "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
-    "id": "doomsday-network/doomsday",
-    "language": "Python",
-    "name": "doomsday-network/doomsday",
-    "stars": 16,
-    "updated_at": "2026-10-24T23:30:08Z",
-    "url": "https://github.com/doomsday-network/doomsday"
   },
   {
     "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
@@ -436,17 +445,8 @@
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-10-24T20:26:56Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "A BI agent that answers questions about 311 service requests from a Snowflake warehouse. Strands Agents, MCP, AWS Bedroc",
-    "id": "chenziliang1/311-analytics-agent",
-    "language": "Python",
-    "name": "chenziliang1/311-analytics-agent",
-    "stars": 0,
-    "updated_at": "2026-10-24T20:15:16Z",
-    "url": "https://github.com/chenziliang1/311-analytics-agent"
   }
 ]
