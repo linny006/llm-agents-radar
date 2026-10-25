@@ -1,12 +1,84 @@
 [
   {
+    "description": "\u4e2d\u6587\u5267\u672c\u5199\u624b Skill\uff1a\u628a\u4f60\u7684\u6545\u4e8b\u5199\u6210\u5267\u672c\u3002\u4ece\u7075\u611f\u5230\u5b8c\u6574\u5267\u672c\u3001\u8d44\u4ea7\u5e93\u3001AI \u5206\u955c\u3001\u591a\u6a21\u578b\u89c6\u9891\u63d0\u793a\u8bcd\u4e0e\u540e\u671f\u58f0\u97f3\u8bbe\u8ba1\u3002",
+    "id": "oleo17/story-to-script",
+    "language": "\u2014",
+    "name": "oleo17/story-to-script",
+    "stars": 1,
+    "updated_at": "2026-10-25T14:45:13Z",
+    "url": "https://github.com/oleo17/story-to-script"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-25T14:44:50Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
+    "id": "iap/hermes-guide",
+    "language": "Python",
+    "name": "iap/hermes-guide",
+    "stars": 4,
+    "updated_at": "2026-10-25T14:42:29Z",
+    "url": "https://github.com/iap/hermes-guide"
+  },
+  {
+    "description": "AI 3D-printing agent harness and B2C portal: describe an object or attach a reference image/PDF, DeepSeek V4.1 Flash des",
+    "id": "alfredang/3dblend",
+    "language": "TypeScript",
+    "name": "alfredang/3dblend",
+    "stars": 0,
+    "updated_at": "2026-10-25T14:41:40Z",
+    "url": "https://github.com/alfredang/3dblend"
+  },
+  {
+    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
+    "id": "cunhaax/ai-workflow",
+    "language": "Python",
+    "name": "cunhaax/ai-workflow",
+    "stars": 5,
+    "updated_at": "2026-10-25T14:40:46Z",
+    "url": "https://github.com/cunhaax/ai-workflow"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-25T14:40:42Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-25T14:40:07Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "\u4f60\u7684\u7b2c\u4e00\u4e2a\u591a Agent \u9879\u76ee | Your first multi-agent project \u2014 LangGraph \u7f16\u6392 \u00b7 \u5408\u89c4\u4fee\u590d\u56de\u8def \u00b7 \u4e09\u5c42\u8bb0\u5fc6\u964d\u7ea7 / compliance repair loop, tiered memor",
     "id": "Keviniscool-boy/agents-on-duty",
     "language": "Python",
     "name": "Keviniscool-boy/agents-on-duty",
     "stars": 1,
-    "updated_at": "2026-10-25T14:30:08Z",
+    "updated_at": "2026-10-25T14:40:06Z",
     "url": "https://github.com/Keviniscool-boy/agents-on-duty"
+  },
+  {
+    "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
+    "id": "kanderson-ai-dev/agentic-api",
+    "language": "Python",
+    "name": "kanderson-ai-dev/agentic-api",
+    "stars": 0,
+    "updated_at": "2026-10-25T14:37:37Z",
+    "url": "https://github.com/kanderson-ai-dev/agentic-api"
   },
   {
     "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
@@ -14,8 +86,53 @@
     "language": "Python",
     "name": "Zxy876/voyager-vlml-mve",
     "stars": 2,
-    "updated_at": "2026-10-25T14:29:30Z",
+    "updated_at": "2026-10-25T14:36:03Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "AI animation MV director skill: methodology + template library + shotlist validator for lyric-driven AI music videos (cr",
+    "id": "jason218-ljs/ai-mv-animation",
+    "language": "Python",
+    "name": "jason218-ljs/ai-mv-animation",
+    "stars": 0,
+    "updated_at": "2026-10-25T14:35:51Z",
+    "url": "https://github.com/jason218-ljs/ai-mv-animation"
+  },
+  {
+    "description": "Ultra-Lightweight, Pure Python Multimodal Agent.",
+    "id": "CrawlScript/MMClaw",
+    "language": "Python",
+    "name": "CrawlScript/MMClaw",
+    "stars": 151,
+    "updated_at": "2026-10-25T14:35:13Z",
+    "url": "https://github.com/CrawlScript/MMClaw"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-25T14:32:29Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-25T14:31:53Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-25T14:45:08Z",
+    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "100/100 JCIIOT 2026 industrial embodied AI: an auditable SOP-to-action pipeline for Tiago in MuJoCo/robosuite.",
@@ -25,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T14:29:08Z",
     "url": "https://github.com/zdhlll/jciiot"
-  },
-  {
-    "description": "AI 3D-printing agent harness and B2C portal: describe an object or attach a reference image/PDF, DeepSeek V4.1 Flash des",
-    "id": "alfredang/3dblend",
-    "language": "TypeScript",
-    "name": "alfredang/3dblend",
-    "stars": 0,
-    "updated_at": "2026-10-25T14:27:49Z",
-    "url": "https://github.com/alfredang/3dblend"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-25T14:27:42Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
@@ -81,15 +180,6 @@
     "url": "https://github.com/Mizuki0215/capstone-ppt-agent"
   },
   {
-    "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
-    "id": "kanderson-ai-dev/agentic-api",
-    "language": "Python",
-    "name": "kanderson-ai-dev/agentic-api",
-    "stars": 0,
-    "updated_at": "2026-10-25T14:13:19Z",
-    "url": "https://github.com/kanderson-ai-dev/agentic-api"
-  },
-  {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
     "id": "mmporong/rl-triage-agent",
     "language": "Python",
@@ -103,7 +193,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 1023,
+    "stars": 1025,
     "updated_at": "2026-10-25T14:01:23Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -135,15 +225,6 @@
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-25T14:16:50Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
     "id": "xiongweilin/agent-skills",
     "language": "PowerShell",
@@ -151,24 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T13:53:51Z",
     "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "\u4e2d\u6587\u5267\u672c\u5199\u624b Skill\uff1a\u628a\u4f60\u7684\u6545\u4e8b\u5199\u6210\u5267\u672c\u3002\u4ece\u7075\u611f\u5230\u5b8c\u6574\u5267\u672c\u3001\u8d44\u4ea7\u5e93\u3001AI \u5206\u955c\u3001\u591a\u6a21\u578b\u89c6\u9891\u63d0\u793a\u8bcd\u4e0e\u540e\u671f\u58f0\u97f3\u8bbe\u8ba1\u3002",
-    "id": "oleo17/story-to-script",
-    "language": "\u2014",
-    "name": "oleo17/story-to-script",
-    "stars": 1,
-    "updated_at": "2026-10-25T13:53:44Z",
-    "url": "https://github.com/oleo17/story-to-script"
-  },
-  {
-    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
-    "id": "iap/hermes-guide",
-    "language": "Python",
-    "name": "iap/hermes-guide",
-    "stars": 4,
-    "updated_at": "2026-10-25T13:53:12Z",
-    "url": "https://github.com/iap/hermes-guide"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -205,15 +268,6 @@
     "stars": 7,
     "updated_at": "2026-10-25T13:40:01Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-25T13:40:05Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Embeddable agent runtime (agent harness) for Android and the JVM: agent loop, sandboxed workspace, MCP, skills, subagent",
@@ -311,7 +365,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3682,
-    "updated_at": "2026-10-25T13:41:20Z",
+    "updated_at": "2026-10-25T14:37:46Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T14:28:01Z",
     "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "\u628a DeepSeek Harness \u6253\u5305\u6210\u72ec\u7acb Android \u5e94\u7528\uff1a\u81ea\u5e26 Node \u8fd0\u884c\u65f6\uff0c\u88c5\u4e2a APK \u5c31\u80fd\u7528\u3002\u4e0d\u9700\u8981 Termux\u3001\u4e0d\u9700\u8981 proot\u3001\u4e0d\u9700\u8981 root\u3001\u4e0d\u9700\u8981\u7535\u8111\u3002\u5185\u542b\u5b8c\u6574\u7684 Android \u5e73\u53f0\u9002\u914d\u8e29\u5751\u8bb0\u5f55\uff08se",
-    "id": "yhm080315-sudo/dsh-android",
-    "language": "Java",
-    "name": "yhm080315-sudo/dsh-android",
-    "stars": 19,
-    "updated_at": "2026-10-25T12:30:03Z",
-    "url": "https://github.com/yhm080315-sudo/dsh-android"
-  },
-  {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-25T12:26:47Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
-    "description": "A small terminal coding agent for DeepSeek models: it reads your repository, runs commands after asking, proposes edits ",
-    "id": "appleweiping/WEIPING_WHALE",
-    "language": "TypeScript",
-    "name": "appleweiping/WEIPING_WHALE",
-    "stars": 131,
-    "updated_at": "2026-10-25T12:22:13Z",
-    "url": "https://github.com/appleweiping/WEIPING_WHALE"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 148,
-    "updated_at": "2026-10-25T13:59:09Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-25T12:14:37Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-25T14:05:11Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
