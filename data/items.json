@@ -1,5 +1,68 @@
 [
   {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-25T04:29:25Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-25T04:27:08Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "A ZCode agent that turns any input \u2014 a sentence, a document, a photo \u2014 into a polished PPT, refined through conversation",
+    "id": "LemonZZH/Office-Agent",
+    "language": "Python",
+    "name": "LemonZZH/Office-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-25T04:23:58Z",
+    "url": "https://github.com/LemonZZH/Office-Agent"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 466,
+    "updated_at": "2026-10-25T04:21:22Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u7684\u79d1\u7814\u6570\u636e\u4e0e\u7ed8\u56fe\u5de5\u4f5c\u53f0 \u00b7 \u8ba9\u5b9e\u9a8c\u6570\u636e\uff0c\u81ea\u7136\u6210\u4e3a\u8bba\u6587\u56fe",
+    "id": "chen0206a/figtide",
+    "language": "TypeScript",
+    "name": "chen0206a/figtide",
+    "stars": 4,
+    "updated_at": "2026-10-25T04:20:05Z",
+    "url": "https://github.com/chen0206a/figtide"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-25T04:18:47Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
+    "id": "Chengy257/glm-conductor",
+    "language": "Python",
+    "name": "Chengy257/glm-conductor",
+    "stars": 0,
+    "updated_at": "2026-10-25T04:26:09Z",
+    "url": "https://github.com/Chengy257/glm-conductor"
+  },
+  {
     "description": "A composable TypeScript framework for AI agents and workflows.",
     "id": "astack-tech/astack",
     "language": "TypeScript",
@@ -14,17 +77,8 @@
     "language": "Python",
     "name": "iap/hermes-guide",
     "stars": 4,
-    "updated_at": "2026-10-25T04:09:03Z",
+    "updated_at": "2026-10-25T04:29:08Z",
     "url": "https://github.com/iap/hermes-guide"
-  },
-  {
-    "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
-    "id": "Chengy257/glm-conductor",
-    "language": "Python",
-    "name": "Chengy257/glm-conductor",
-    "stars": 0,
-    "updated_at": "2026-10-25T04:06:41Z",
-    "url": "https://github.com/Chengy257/glm-conductor"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T04:06:22Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-25T04:04:58Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
@@ -68,7 +113,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1005,
-    "updated_at": "2026-10-25T03:53:33Z",
+    "updated_at": "2026-10-25T04:28:52Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -135,15 +180,6 @@
     "url": "https://github.com/openbin-ai/binny"
   },
   {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-25T03:29:56Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
     "id": "kyleslight/shun",
     "language": "TypeScript",
@@ -189,15 +225,6 @@
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-25T03:16:39Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
     "description": "Local-first multimodal CAD agent: photos, sketches & text in \u2014 verified, parametric, manufacturing-ready 3D models out (",
     "id": "maxk2222/cadx",
     "language": "Python",
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "TomKoren1/Sightline",
     "stars": 0,
-    "updated_at": "2026-10-25T03:04:37Z",
+    "updated_at": "2026-10-25T04:18:16Z",
     "url": "https://github.com/TomKoren1/Sightline"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-25T00:32:39Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "\u26a1 Drop-in SKILL.md, .cursorrules, CLAUDE.md, AGENTS.md & Remote MCP (.mcp.json) pack for Claude Code, Cursor, Windsurf, ",
-    "id": "doomsday-network/web3-agent-skills",
-    "language": "Python",
-    "name": "doomsday-network/web3-agent-skills",
-    "stars": 8,
-    "updated_at": "2026-10-25T00:31:14Z",
-    "url": "https://github.com/doomsday-network/web3-agent-skills"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
-    "id": "doomsday-network/github-bounty-scanner",
-    "language": "Python",
-    "name": "doomsday-network/github-bounty-scanner",
-    "stars": 9,
-    "updated_at": "2026-10-25T00:31:13Z",
-    "url": "https://github.com/doomsday-network/github-bounty-scanner"
-  },
-  {
-    "description": "Zero-dependency Python CLI, GitHub Action, and MCP server scanning untrusted GitHub issues and repositories for prompt i",
-    "id": "doomsday-network/bounty-guard",
-    "language": "Python",
-    "name": "doomsday-network/bounty-guard",
-    "stars": 16,
-    "updated_at": "2026-10-25T00:31:11Z",
-    "url": "https://github.com/doomsday-network/bounty-guard"
   }
 ]
