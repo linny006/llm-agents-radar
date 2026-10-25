@@ -1,5 +1,122 @@
 [
   {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-25T21:43:48Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
+  },
+  {
+    "description": "The coordination layer for Multiplayer AI",
+    "id": "cohexa-ai/agent-coherence",
+    "language": "Python",
+    "name": "cohexa-ai/agent-coherence",
+    "stars": 11,
+    "updated_at": "2026-10-25T21:43:17Z",
+    "url": "https://github.com/cohexa-ai/agent-coherence"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-25T21:43:02Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-25T21:42:32Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
+    "id": "mntoyg/OmniAgent",
+    "language": "Python",
+    "name": "mntoyg/OmniAgent",
+    "stars": 0,
+    "updated_at": "2026-10-25T21:42:20Z",
+    "url": "https://github.com/mntoyg/OmniAgent"
+  },
+  {
+    "description": "AI2-THOR extension: a browser console and Python toolkit to drive any iTHOR scene, run LLM agents (Ollama, English/Persi",
+    "id": "ArashNasrEsfahani/ai2thor-web-console-extension",
+    "language": "Python",
+    "name": "ArashNasrEsfahani/ai2thor-web-console-extension",
+    "stars": 0,
+    "updated_at": "2026-10-25T21:41:39Z",
+    "url": "https://github.com/ArashNasrEsfahani/ai2thor-web-console-extension"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-25T21:41:28Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-25T21:41:14Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-25T21:39:52Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 132,
+    "updated_at": "2026-10-25T21:35:49Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-25T21:35:13Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 12,
+    "updated_at": "2026-10-25T21:42:46Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "dsh agent harness + reasonix runtime: \u914d\u7f6e\u5907\u4efd\u4e0e\u5de5\u7a0b\u7ecf\u9a8c\u5e93 (Windows/Linux \u53cc\u673a, TianQue6916)",
+    "id": "TianQue6916/dsh-reasonix-agent",
+    "language": "JavaScript",
+    "name": "TianQue6916/dsh-reasonix-agent",
+    "stars": 0,
+    "updated_at": "2026-10-25T21:31:12Z",
+    "url": "https://github.com/TianQue6916/dsh-reasonix-agent"
+  },
+  {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
     "id": "RalfHermsen/x4-agent",
     "language": "Python",
@@ -18,21 +135,12 @@
     "url": "https://github.com/franckolv-dev/ELY2"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-25T21:27:54Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
     "id": "mark-weeks/hello-nested-worlds-adventure",
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-10-25T21:27:40Z",
+    "updated_at": "2026-10-25T21:40:11Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
@@ -43,15 +151,6 @@
     "stars": 7,
     "updated_at": "2026-10-25T21:27:12Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "dsh agent harness + reasonix runtime: \u914d\u7f6e\u5907\u4efd\u4e0e\u5de5\u7a0b\u7ecf\u9a8c\u5e93 (Windows/Linux \u53cc\u673a, TianQue6916)",
-    "id": "TianQue6916/dsh-reasonix-agent",
-    "language": "JavaScript",
-    "name": "TianQue6916/dsh-reasonix-agent",
-    "stars": 0,
-    "updated_at": "2026-10-25T21:26:37Z",
-    "url": "https://github.com/TianQue6916/dsh-reasonix-agent"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -90,15 +189,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-25T21:09:30Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
     "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
     "id": "410979729/scope-recall-hermes",
     "language": "Python",
@@ -135,15 +225,6 @@
     "url": "https://github.com/izagami/gemma-agent-harness"
   },
   {
-    "description": "AI2-THOR extension: a browser console and Python toolkit to drive any iTHOR scene, run LLM agents (Ollama, English/Persi",
-    "id": "ArashNasrEsfahani/ai2thor-web-console-extension",
-    "language": "Python",
-    "name": "ArashNasrEsfahani/ai2thor-web-console-extension",
-    "stars": 0,
-    "updated_at": "2026-10-25T20:54:20Z",
-    "url": "https://github.com/ArashNasrEsfahani/ai2thor-web-console-extension"
-  },
-  {
     "description": "A minimal Spring AI coding agent harness \u2014 pluggable LLM providers (Anthropic/OpenAI/Ollama) and Claude Code-inspired gr",
     "id": "apscot/Coding-Agent-Harness-with-Spring-AI",
     "language": "Java",
@@ -167,7 +248,7 @@
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-25T20:47:15Z",
+    "updated_at": "2026-10-25T21:31:13Z",
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
@@ -175,7 +256,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 1040,
+    "stars": 1041,
     "updated_at": "2026-10-25T20:43:59Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -187,15 +268,6 @@
     "stars": 5,
     "updated_at": "2026-10-25T21:00:53Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-25T20:53:11Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -223,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T20:16:40Z",
     "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-25T20:08:39Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -383,70 +446,7 @@
     "language": "Swift",
     "name": "dotcomjack/grux",
     "stars": 30,
-    "updated_at": "2026-10-25T19:01:40Z",
+    "updated_at": "2026-10-25T21:33:02Z",
     "url": "https://github.com/dotcomjack/grux"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 132,
-    "updated_at": "2026-10-25T18:51:54Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-25T18:50:24Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "DSH \u63d2\u4ef6\uff1a\u628a\u6296\u97f3\u79c1\u4fe1\u63a5\u8fdb DSH \u2014\u2014 \u79c1\u4fe1\u8fdb DSH \u4f1a\u8bdd\uff0cAI \u7528\u5de5\u5177\u5237\u89c6\u9891\u3001\u5206\u4eab\u3001\u804a\u5929\uff08\u542b\u56fe\u7247/\u8868\u60c5\u6536\u53d1\uff09\u3002\u4ec5\u4f9b\u5b66\u4e60\u7814\u7a76\u3002",
-    "id": "pcmxiao/dsh-douyin-bridge",
-    "language": "JavaScript",
-    "name": "pcmxiao/dsh-douyin-bridge",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:36:59Z",
-    "url": "https://github.com/pcmxiao/dsh-douyin-bridge"
-  },
-  {
-    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
-    "id": "cunhaax/ai-workflow",
-    "language": "Python",
-    "name": "cunhaax/ai-workflow",
-    "stars": 5,
-    "updated_at": "2026-10-25T18:36:28Z",
-    "url": "https://github.com/cunhaax/ai-workflow"
-  },
-  {
-    "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
-    "id": "TomKoren1/Sightline",
-    "language": "TypeScript",
-    "name": "TomKoren1/Sightline",
-    "stars": 0,
-    "updated_at": "2026-10-25T18:19:48Z",
-    "url": "https://github.com/TomKoren1/Sightline"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-25T18:12:19Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-25T18:10:25Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   }
 ]
