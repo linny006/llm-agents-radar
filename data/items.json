@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "Chengy257/glm-conductor",
     "stars": 0,
-    "updated_at": "2026-10-25T03:44:56Z",
+    "updated_at": "2026-10-25T03:59:01Z",
     "url": "https://github.com/Chengy257/glm-conductor"
+  },
+  {
+    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
+    "id": "Ultra-Guru/Android-Guru-Agent",
+    "language": "Kotlin",
+    "name": "Ultra-Guru/Android-Guru-Agent",
+    "stars": 11,
+    "updated_at": "2026-10-25T03:58:47Z",
+    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
+  },
+  {
+    "description": "Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and",
+    "id": "jiayi-ThE-CREATOR/es-coach-skills",
+    "language": "Python",
+    "name": "jiayi-ThE-CREATOR/es-coach-skills",
+    "stars": 0,
+    "updated_at": "2026-10-25T03:53:49Z",
+    "url": "https://github.com/jiayi-ThE-CREATOR/es-coach-skills"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1005,
+    "updated_at": "2026-10-25T03:53:33Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 4,
+    "updated_at": "2026-10-25T03:48:07Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
+    "id": "qiuzixu/agent-core",
+    "language": "Python",
+    "name": "qiuzixu/agent-core",
+    "stars": 1,
+    "updated_at": "2026-10-25T03:46:58Z",
+    "url": "https://github.com/qiuzixu/agent-core"
   },
   {
     "description": "Self-hosted AI agent living inside Zalo (personal account). Multi-account, 15 tools + external MCP servers, web dashboar",
@@ -18,15 +63,6 @@
     "url": "https://github.com/vuhai2002/zalo-agent"
   },
   {
-    "description": "\ud83e\udd16 An autonomous AI agent that lives entirely on your Android device \u2014 109 tools \u00b7 PRoot Ubuntu terminal \u00b7 bionic memory ",
-    "id": "Ultra-Guru/Android-Guru-Agent",
-    "language": "Kotlin",
-    "name": "Ultra-Guru/Android-Guru-Agent",
-    "stars": 11,
-    "updated_at": "2026-10-25T03:42:02Z",
-    "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
@@ -34,15 +70,6 @@
     "stars": 5,
     "updated_at": "2026-10-25T03:44:40Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1005,
-    "updated_at": "2026-10-25T03:38:54Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Vibe coding \u6280\u80fd\uff1a\u8f93\u5165\u4e00\u6bb5\u9700\u6c42\u8bf4\u660e\uff0c\u751f\u6210\u5e26\u7acb\u9879\u6587\u6863\u3001\u95e8\u7981\u68c0\u67e5\u548c\u8fdb\u5ea6\u8bb0\u5f55\u7684\u9879\u76ee\u76ee\u5f55\uff0c\u9644\u5e26\u81ea\u68c0\u811a\u672c\u3002\u53ef\u88c5\u8fdb\u7f16\u7a0b\u52a9\u624b\uff0c\u4e5f\u53ef\u547d\u4ee4\u884c\u8fd0\u884c\uff0c\u53ea\u4f9d\u8d56 Python \u6807\u51c6\u5e93\u3002",
@@ -185,7 +212,7 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 148,
-    "updated_at": "2026-10-25T02:56:10Z",
+    "updated_at": "2026-10-25T03:48:09Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T00:06:29Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-25T00:06:04Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 80,
-    "updated_at": "2026-10-24T23:58:51Z",
-    "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
-    "id": "HaikeiLabs/agentware",
-    "language": "Python",
-    "name": "HaikeiLabs/agentware",
-    "stars": 1,
-    "updated_at": "2026-10-25T00:10:27Z",
-    "url": "https://github.com/HaikeiLabs/agentware"
   }
 ]
