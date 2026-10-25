@@ -1,5 +1,86 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:30:11Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Modular Python AI infrastructure for multi-provider LLM integration, agent orchestration, resilient fallback, and agenti",
+    "id": "Codeminister2137/ai-workbench",
+    "language": "Python",
+    "name": "Codeminister2137/ai-workbench",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:29:25Z",
+    "url": "https://github.com/Codeminister2137/ai-workbench"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-25T13:26:14Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:20:45Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:18:04Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "\u5927\u6a21\u578b\u8c03\u5ea6\u3001\u672c\u5730\u5de5\u5177\u8ba1\u7b97\u7684\u5fc3\u7535\u56fe\u667a\u80fd\u4f53\uff1a\u6240\u6709\u6570\u503c\u90fd\u80fd\u8ffd\u6eaf\u5230\u4e00\u6b21\u5de5\u5177\u8c03\u7528 | ECG Agent \u2014 an LLM agent for ECG interpretation where every number is traced to a ",
+    "id": "Muhan-Qiu/ecg-agent",
+    "language": "Python",
+    "name": "Muhan-Qiu/ecg-agent",
+    "stars": 6,
+    "updated_at": "2026-10-25T13:18:03Z",
+    "url": "https://github.com/Muhan-Qiu/ecg-agent"
+  },
+  {
+    "description": "AI chat-to-STL portal: describe an object, DeepSeek V4.1 Flash designs it, an exact Manifold geometry kernel builds a wa",
+    "id": "alfredang/3dblend",
+    "language": "TypeScript",
+    "name": "alfredang/3dblend",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:16:16Z",
+    "url": "https://github.com/alfredang/3dblend"
+  },
+  {
+    "description": "Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-25T13:16:05Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-25T13:15:38Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
     "id": "VoroshylovV/job-search-automation-pipeline",
     "language": "Python",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "hsaghir/looplet",
     "stars": 7,
-    "updated_at": "2026-10-25T13:13:02Z",
+    "updated_at": "2026-10-25T13:22:28Z",
     "url": "https://github.com/hsaghir/looplet"
   },
   {
@@ -34,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T13:10:22Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "AI chat-to-STL portal: describe an object, DeepSeek V4.1 Flash designs it, an exact Manifold geometry kernel builds a wa",
-    "id": "alfredang/3dblend",
-    "language": "TypeScript",
-    "name": "alfredang/3dblend",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:08:20Z",
-    "url": "https://github.com/alfredang/3dblend"
   },
   {
     "description": "Local-first multimodal CAD agent: photos, sketches & text in \u2014 verified, parametric, manufacturing-ready 3D models out (",
@@ -99,31 +171,13 @@
     "url": "https://github.com/haibingzhao/easyai"
   },
   {
-    "description": "\u5927\u6a21\u578b\u8c03\u5ea6\u3001\u672c\u5730\u5de5\u5177\u8ba1\u7b97\u7684\u5fc3\u7535\u56fe\u667a\u80fd\u4f53\uff1a\u6240\u6709\u6570\u503c\u90fd\u80fd\u8ffd\u6eaf\u5230\u4e00\u6b21\u5de5\u5177\u8c03\u7528 | ECG Agent \u2014 an LLM agent for ECG interpretation where every number is traced to a ",
-    "id": "Muhan-Qiu/ecg-agent",
-    "language": "Python",
-    "name": "Muhan-Qiu/ecg-agent",
-    "stars": 6,
-    "updated_at": "2026-10-25T12:48:25Z",
-    "url": "https://github.com/Muhan-Qiu/ecg-agent"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3681,
-    "updated_at": "2026-10-25T12:48:10Z",
+    "updated_at": "2026-10-25T13:16:10Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-25T12:52:43Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "A ZCode agent that turns any input \u2014 a sentence, a document, a photo \u2014 into a polished PPT, refined through conversation",
@@ -142,6 +196,15 @@
     "stars": 18,
     "updated_at": "2026-10-25T12:39:46Z",
     "url": "https://github.com/doomsday-network/doomsday"
+  },
+  {
+    "description": "Embeddable agent runtime (agent harness) for Android and the JVM: agent loop, sandboxed workspace, MCP, skills, subagent",
+    "id": "NoHarry/android-agent-runtime",
+    "language": "Kotlin",
+    "name": "NoHarry/android-agent-runtime",
+    "stars": 0,
+    "updated_at": "2026-10-25T12:33:45Z",
+    "url": "https://github.com/NoHarry/android-agent-runtime"
   },
   {
     "description": " Where intent meets code \u2014 a local AI coding agent         ",
@@ -180,24 +243,6 @@
     "url": "https://github.com/cohexa-ai/agent-coherence"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-25T13:09:13Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:14:28Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
     "description": "A small terminal coding agent for DeepSeek models: it reads your repository, runs commands after asking, proposes edits ",
     "id": "appleweiping/WEIPING_WHALE",
     "language": "TypeScript",
@@ -232,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-25T12:16:06Z",
     "url": "https://github.com/janghotan/harnessed"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-25T12:14:41Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -306,15 +342,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Modular Python AI infrastructure for multi-provider LLM integration, agent orchestration, resilient fallback, and agenti",
-    "id": "Codeminister2137/ai-workbench",
-    "language": "Python",
-    "name": "Codeminister2137/ai-workbench",
-    "stars": 0,
-    "updated_at": "2026-10-25T12:03:57Z",
-    "url": "https://github.com/Codeminister2137/ai-workbench"
-  },
-  {
     "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
     "id": "xufenghe/aimo3-agentic-inference",
     "language": "Python",
@@ -337,7 +364,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6525,
+    "stars": 6526,
     "updated_at": "2026-10-25T11:53:53Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-25T10:58:03Z",
     "url": "https://github.com/IAmNo1Special/mvge"
-  },
-  {
-    "description": "Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-25T10:47:03Z",
-    "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 136,
-    "updated_at": "2026-10-25T10:44:32Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "\u771f\u00b7DeepSeek \u8054\u7f51\u641c\u7d22\u4e0e\u6293\u53d6 \u2014\u2014 AstrBot \u63d2\u4ef6\uff1a\u76f4\u8fde DeepSeek \u5b98\u65b9 Search / Fetch \u63a5\u53e3\uff0c\u5185\u7f6e\u4f9d\u8d56\u3001\u53ef\u9010\u884c\u5ba1\u8ba1",
-    "id": "dusi-lai/astrbot_plugin_zhen_deepseek_web",
-    "language": "Python",
-    "name": "dusi-lai/astrbot_plugin_zhen_deepseek_web",
-    "stars": 0,
-    "updated_at": "2026-10-25T10:38:10Z",
-    "url": "https://github.com/dusi-lai/astrbot_plugin_zhen_deepseek_web"
   }
 ]
