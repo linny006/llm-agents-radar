@@ -1,12 +1,21 @@
 [
   {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 365,
-    "updated_at": "2026-10-25T19:00:15Z",
-    "url": "https://github.com/yologdev/yoagent"
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 3,
+    "updated_at": "2026-10-25T19:08:25Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
+    "id": "EvannZhongg/Nosis",
+    "language": "Python",
+    "name": "EvannZhongg/Nosis",
+    "stars": 10,
+    "updated_at": "2026-10-25T19:07:09Z",
+    "url": "https://github.com/EvannZhongg/Nosis"
   },
   {
     "description": "The STN-Labz AI Agent Language Model",
@@ -14,17 +23,26 @@
     "language": "C",
     "name": "stnlabz/language_model",
     "stars": 0,
-    "updated_at": "2026-10-25T18:59:45Z",
+    "updated_at": "2026-10-25T19:03:02Z",
     "url": "https://github.com/stnlabz/language_model"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 3,
-    "updated_at": "2026-10-25T18:59:41Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
+    "description": "Grux AI: open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it",
+    "id": "dotcomjack/grux",
+    "language": "Swift",
+    "name": "dotcomjack/grux",
+    "stars": 30,
+    "updated_at": "2026-10-25T19:01:40Z",
+    "url": "https://github.com/dotcomjack/grux"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 365,
+    "updated_at": "2026-10-25T19:09:04Z",
+    "url": "https://github.com/yologdev/yoagent"
   },
   {
     "description": "The coordination layer for Multiplayer AI",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "HaikeiLabs/agentware",
     "stars": 1,
-    "updated_at": "2026-10-25T18:33:42Z",
+    "updated_at": "2026-10-25T19:02:55Z",
     "url": "https://github.com/HaikeiLabs/agentware"
   },
   {
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T18:19:48Z",
     "url": "https://github.com/TomKoren1/Sightline"
-  },
-  {
-    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
-    "id": "EvannZhongg/Nosis",
-    "language": "Python",
-    "name": "EvannZhongg/Nosis",
-    "stars": 10,
-    "updated_at": "2026-10-25T18:17:09Z",
-    "url": "https://github.com/EvannZhongg/Nosis"
   },
   {
     "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-25T16:22:44Z",
     "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
-    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-10-25T16:17:10Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   }
 ]
