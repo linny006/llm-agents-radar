@@ -1,12 +1,75 @@
 [
   {
+    "description": "\u4f60\u7684\u7b2c\u4e00\u4e2a\u591a Agent \u9879\u76ee | Your first multi-agent project \u2014 LangGraph \u7f16\u6392 \u00b7 \u5408\u89c4\u4fee\u590d\u56de\u8def \u00b7 \u4e09\u5c42\u8bb0\u5fc6\u964d\u7ea7 / compliance repair loop, tiered memor",
+    "id": "Keviniscool-boy/agents-on-duty",
+    "language": "Python",
+    "name": "Keviniscool-boy/agents-on-duty",
+    "stars": 1,
+    "updated_at": "2026-10-25T14:30:08Z",
+    "url": "https://github.com/Keviniscool-boy/agents-on-duty"
+  },
+  {
+    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-25T14:29:30Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "100/100 JCIIOT 2026 industrial embodied AI: an auditable SOP-to-action pipeline for Tiago in MuJoCo/robosuite.",
+    "id": "zdhlll/jciiot",
+    "language": "Python",
+    "name": "zdhlll/jciiot",
+    "stars": 1,
+    "updated_at": "2026-10-25T14:29:08Z",
+    "url": "https://github.com/zdhlll/jciiot"
+  },
+  {
+    "description": "AI 3D-printing agent harness and B2C portal: describe an object or attach a reference image/PDF, DeepSeek V4.1 Flash des",
+    "id": "alfredang/3dblend",
+    "language": "TypeScript",
+    "name": "alfredang/3dblend",
+    "stars": 0,
+    "updated_at": "2026-10-25T14:27:49Z",
+    "url": "https://github.com/alfredang/3dblend"
+  },
+  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-25T14:14:42Z",
+    "updated_at": "2026-10-25T14:27:42Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-25T14:28:23Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-25T14:22:24Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-25T14:16:30Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "DSAI4901 capstone: reference-free usability measure for paper-to-slide generation",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "Mizuki0215/capstone-ppt-agent",
     "stars": 0,
-    "updated_at": "2026-10-25T14:13:33Z",
+    "updated_at": "2026-10-25T14:15:51Z",
     "url": "https://github.com/Mizuki0215/capstone-ppt-agent"
   },
   {
@@ -34,33 +97,6 @@
     "stars": 2,
     "updated_at": "2026-10-25T14:11:41Z",
     "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 219,
-    "updated_at": "2026-10-25T14:10:26Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "\u4f60\u7684\u7b2c\u4e00\u4e2a\u591a Agent \u9879\u76ee \u2014 LangGraph \u7f16\u6392 + \u5408\u89c4\u4fee\u590d\u56de\u8def + \u4e09\u5c42\u8bb0\u5fc6\u4e09\u7ea7\u964d\u7ea7 | FastAPI + LangGraph + MCP\uff0c\u4e00\u4e2a\u80fd\u8bb2\u6e05\u695a\u6bcf\u4e2a\u8bbe\u8ba1\u51b3\u7b56\u7684\u667a\u80fd\u5ba2\u670d\u7cfb\u7edf",
-    "id": "Keviniscool-boy/agents-on-duty",
-    "language": "Python",
-    "name": "Keviniscool-boy/agents-on-duty",
-    "stars": 1,
-    "updated_at": "2026-10-25T14:09:09Z",
-    "url": "https://github.com/Keviniscool-boy/agents-on-duty"
-  },
-  {
-    "description": "Voyager \u00d7 VLML \u00d7 \u732b\u5a18\u4f34\u5b66\uff1a\u628a\u300c\u5b66\u4e60\u8005\u300d\u6362\u6210 agent \u7684\u6700\u5c0f\u53ef\u6267\u884c\u539f\u578b\uff08\u9762\u677f\u5df2\u4e0a\u817e\u8baf\u4e91\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-25T14:08:23Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -94,7 +130,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 338,
+    "stars": 340,
     "updated_at": "2026-10-25T13:56:11Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -104,7 +140,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-25T14:12:09Z",
+    "updated_at": "2026-10-25T14:16:50Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-10-25T13:53:12Z",
     "url": "https://github.com/iap/hermes-guide"
-  },
-  {
-    "description": "AI chat-to-STL portal: describe an object, DeepSeek V4.1 Flash designs it, an exact Manifold geometry kernel builds a wa",
-    "id": "alfredang/3dblend",
-    "language": "TypeScript",
-    "name": "alfredang/3dblend",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:51:22Z",
-    "url": "https://github.com/alfredang/3dblend"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -297,21 +324,12 @@
     "url": "https://github.com/kifirkin/pi-braid"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-25T13:15:38Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "AI-orchestrated job search pipeline: scrapes 5 UA job boards, uses Claude API to score matches & classify emails, writes",
     "id": "VoroshylovV/job-search-automation-pipeline",
     "language": "Python",
     "name": "VoroshylovV/job-search-automation-pipeline",
     "stars": 2,
-    "updated_at": "2026-10-25T13:14:08Z",
+    "updated_at": "2026-10-25T14:18:24Z",
     "url": "https://github.com/VoroshylovV/job-search-automation-pipeline"
   },
   {
@@ -374,7 +392,7 @@
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-25T14:02:37Z",
+    "updated_at": "2026-10-25T14:28:01Z",
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
-    "description": "Benchmark what your agent actually does, not just whether it worked",
-    "id": "janghotan/harnessed",
-    "language": "Python",
-    "name": "janghotan/harnessed",
-    "stars": 1,
-    "updated_at": "2026-10-25T12:16:06Z",
-    "url": "https://github.com/janghotan/harnessed"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -439,14 +448,5 @@
     "stars": 21,
     "updated_at": "2026-10-25T14:05:11Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
-    "id": "Muvon/octomind-tap",
-    "language": "Python",
-    "name": "Muvon/octomind-tap",
-    "stars": 5,
-    "updated_at": "2026-10-25T12:09:19Z",
-    "url": "https://github.com/Muvon/octomind-tap"
   }
 ]
