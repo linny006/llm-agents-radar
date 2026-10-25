@@ -5,8 +5,62 @@
     "language": "TypeScript",
     "name": "alfredang/3dblend",
     "stars": 0,
-    "updated_at": "2026-10-25T15:29:29Z",
+    "updated_at": "2026-10-25T15:43:43Z",
     "url": "https://github.com/alfredang/3dblend"
+  },
+  {
+    "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
+    "id": "Xyntopia/taskyon",
+    "language": "TypeScript",
+    "name": "Xyntopia/taskyon",
+    "stars": 56,
+    "updated_at": "2026-10-25T15:42:24Z",
+    "url": "https://github.com/Xyntopia/taskyon"
+  },
+  {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:41:29Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
+  },
+  {
+    "description": "\u4e0d\u7528\u6846\u67b6\u7684 A \u80a1 ReAct Agent \u53c2\u8003\uff1a\u53cc\u5b9e\u73b0\u5bf9\u7167\u5b66\u4e60 \u00b7 8 \u5de5\u5177\u771f\u5b9e\u6570\u636e \u00b7 \u7f13\u5b58/\u91cd\u8bd5/\u6253\u65ad \u751f\u4ea7\u7ea7\u5065\u58ee\u6027",
+    "id": "tt519660/stock-agent",
+    "language": "Python",
+    "name": "tt519660/stock-agent",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:39:50Z",
+    "url": "https://github.com/tt519660/stock-agent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-25T15:34:35Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 342,
+    "updated_at": "2026-10-25T15:30:36Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1026,
+    "updated_at": "2026-10-25T15:29:41Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "A ZCode agent that turns any input \u2014 a sentence, a document, a photo \u2014 into a polished PPT, refined through conversation",
@@ -63,15 +117,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:23:27Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "DSAI4901 capstone: reference-free usability measure for paper-to-slide generation",
     "id": "Mizuki0215/capstone-ppt-agent",
     "language": "Python",
@@ -81,15 +126,6 @@
     "url": "https://github.com/Mizuki0215/capstone-ppt-agent"
   },
   {
-    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
-    "id": "sindredg/ai-security-platform",
-    "language": "Python",
-    "name": "sindredg/ai-security-platform",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:18:20Z",
-    "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T15:17:47Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 342,
-    "updated_at": "2026-10-25T15:16:33Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "DeepSeek Harness (dsh) tab for JupyterLab \u2014 launcher card + same-origin reverse proxy (token exchange, Host/Origin fence",
@@ -185,7 +212,7 @@
     "language": "TypeScript",
     "name": "xanstomper/mochi",
     "stars": 2,
-    "updated_at": "2026-10-25T15:27:41Z",
+    "updated_at": "2026-10-25T15:34:09Z",
     "url": "https://github.com/xanstomper/mochi"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "iap/hermes-guide",
     "stars": 4,
-    "updated_at": "2026-10-25T15:04:21Z",
+    "updated_at": "2026-10-25T15:36:03Z",
     "url": "https://github.com/iap/hermes-guide"
   },
   {
@@ -320,7 +347,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-25T14:50:20Z",
+    "updated_at": "2026-10-25T15:31:13Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -349,15 +376,6 @@
     "stars": 219,
     "updated_at": "2026-10-25T14:28:23Z",
     "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1025,
-    "updated_at": "2026-10-25T15:29:41Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-25T13:32:50Z",
     "url": "https://github.com/Kiru-Sama/Kiru-Astrbot-Addons"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-10-25T13:32:40Z",
-    "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-10-25T13:30:23Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   }
 ]
