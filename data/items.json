@@ -1,5 +1,95 @@
 [
   {
+    "description": "The STN-Labz AI Agent Language Model",
+    "id": "stnlabz/language_model",
+    "language": "C",
+    "name": "stnlabz/language_model",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:15:07Z",
+    "url": "https://github.com/stnlabz/language_model"
+  },
+  {
+    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
+    "id": "bamboosir1109/dsh-lanya",
+    "language": "Python",
+    "name": "bamboosir1109/dsh-lanya",
+    "stars": 1,
+    "updated_at": "2026-10-25T18:15:01Z",
+    "url": "https://github.com/bamboosir1109/dsh-lanya"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-25T18:12:19Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-25T18:10:25Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
+    "id": "kanderson-ai-dev/agentic-api",
+    "language": "Python",
+    "name": "kanderson-ai-dev/agentic-api",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:09:02Z",
+    "url": "https://github.com/kanderson-ai-dev/agentic-api"
+  },
+  {
+    "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
+    "id": "jphall663/GWU_LLM",
+    "language": "Jupyter Notebook",
+    "name": "jphall663/GWU_LLM",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:08:35Z",
+    "url": "https://github.com/jphall663/GWU_LLM"
+  },
+  {
+    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
+    "id": "xanstomper/mochi",
+    "language": "TypeScript",
+    "name": "xanstomper/mochi",
+    "stars": 2,
+    "updated_at": "2026-10-25T18:08:32Z",
+    "url": "https://github.com/xanstomper/mochi"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 136,
+    "updated_at": "2026-10-25T18:07:45Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
+    "id": "TomKoren1/Sightline",
+    "language": "TypeScript",
+    "name": "TomKoren1/Sightline",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:14:10Z",
+    "url": "https://github.com/TomKoren1/Sightline"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-25T18:01:50Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
     "description": "\u628a\u5b98\u65b9\u6781\u7b80\u63d0\u793a\u8bcd\u4e0e PTC \u7f16\u6392\u7ec4\u5408\u8d77\u6765\uff0c\u63d0\u4f9b\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\u548c Windows \u7ec8\u7aef\u9002\u914d\u3002 \u6b22\u8fce\u63d0\u4ea4 issues \u548c PR\u3002",
     "id": "STARDUSTLC666/dsh-minimal-ptc",
     "language": "JavaScript",
@@ -9,39 +99,12 @@
     "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
   },
   {
-    "description": "The STN-Labz AI Agent Language Model",
-    "id": "stnlabz/language_model",
-    "language": "C",
-    "name": "stnlabz/language_model",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:55:56Z",
-    "url": "https://github.com/stnlabz/language_model"
-  },
-  {
-    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
-    "id": "bamboosir1109/dsh-lanya",
-    "language": "Python",
-    "name": "bamboosir1109/dsh-lanya",
-    "stars": 1,
-    "updated_at": "2026-10-25T17:54:54Z",
-    "url": "https://github.com/bamboosir1109/dsh-lanya"
-  },
-  {
-    "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
-    "id": "kanderson-ai-dev/agentic-api",
-    "language": "Python",
-    "name": "kanderson-ai-dev/agentic-api",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:53:43Z",
-    "url": "https://github.com/kanderson-ai-dev/agentic-api"
-  },
-  {
     "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
     "id": "HaikeiLabs/agentware",
     "language": "Python",
     "name": "HaikeiLabs/agentware",
     "stars": 1,
-    "updated_at": "2026-10-25T17:49:59Z",
+    "updated_at": "2026-10-25T18:01:24Z",
     "url": "https://github.com/HaikeiLabs/agentware"
   },
   {
@@ -90,15 +153,6 @@
     "url": "https://github.com/kangkukjin/indiebizOS"
   },
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-25T17:37:32Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
     "id": "xieguigang/sciBASIC",
     "language": "Visual Basic .NET",
@@ -139,7 +193,7 @@
     "id": "Cwentor/DataAgent",
     "language": "Python",
     "name": "Cwentor/DataAgent",
-    "stars": 2,
+    "stars": 1,
     "updated_at": "2026-10-25T17:24:38Z",
     "url": "https://github.com/Cwentor/DataAgent"
   },
@@ -230,7 +284,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 15,
-    "updated_at": "2026-10-25T17:55:20Z",
+    "updated_at": "2026-10-25T18:06:35Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -241,15 +295,6 @@
     "stars": 38,
     "updated_at": "2026-10-25T16:41:44Z",
     "url": "https://github.com/mensfeld/pocketrb"
-  },
-  {
-    "description": "Mochi \u2014 a minimal, fast, autonomous coding agent for the terminal. Goals, task DAGs, multi-agent teams, persistent HTTP ",
-    "id": "xanstomper/mochi",
-    "language": "TypeScript",
-    "name": "xanstomper/mochi",
-    "stars": 2,
-    "updated_at": "2026-10-25T16:35:14Z",
-    "url": "https://github.com/xanstomper/mochi"
   },
   {
     "description": "LLM-driven UAV agent runtime: criteria-contract planning, PX4 MAVLink / AirSim backends, and a web ground-control statio",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-25T15:54:25Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
-    "id": "qiuzixu/agent-core",
-    "language": "Python",
-    "name": "qiuzixu/agent-core",
-    "stars": 1,
-    "updated_at": "2026-10-25T15:52:09Z",
-    "url": "https://github.com/qiuzixu/agent-core"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16753,
-    "updated_at": "2026-10-25T15:52:08Z",
-    "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "DSAI4901 capstone: reference-free usability measure for paper-to-slide generation",
-    "id": "Mizuki0215/capstone-ppt-agent",
-    "language": "Python",
-    "name": "Mizuki0215/capstone-ppt-agent",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:47:12Z",
-    "url": "https://github.com/Mizuki0215/capstone-ppt-agent"
-  },
-  {
-    "description": "Browser based Interface for Generative AI. Chat/Agent/Taskmanager Hybrid.",
-    "id": "Xyntopia/taskyon",
-    "language": "TypeScript",
-    "name": "Xyntopia/taskyon",
-    "stars": 56,
-    "updated_at": "2026-10-25T15:42:24Z",
-    "url": "https://github.com/Xyntopia/taskyon"
-  },
-  {
-    "description": "\u4e0d\u7528\u6846\u67b6\u7684 A \u80a1 ReAct Agent \u53c2\u8003\uff1a\u53cc\u5b9e\u73b0\u5bf9\u7167\u5b66\u4e60 \u00b7 8 \u5de5\u5177\u771f\u5b9e\u6570\u636e \u00b7 \u7f13\u5b58/\u91cd\u8bd5/\u6253\u65ad \u751f\u4ea7\u7ea7\u5065\u58ee\u6027",
-    "id": "tt519660/stock-agent",
-    "language": "Python",
-    "name": "tt519660/stock-agent",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:39:50Z",
-    "url": "https://github.com/tt519660/stock-agent"
   }
 ]
