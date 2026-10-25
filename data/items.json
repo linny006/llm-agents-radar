@@ -1,5 +1,68 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 136,
+    "updated_at": "2026-10-25T10:44:32Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
+    "id": "Chensihakniroth/anakot-agent-v1",
+    "language": "Python",
+    "name": "Chensihakniroth/anakot-agent-v1",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:39:23Z",
+    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
+  },
+  {
+    "description": "\u771f\u00b7DeepSeek \u8054\u7f51\u641c\u7d22\u4e0e\u6293\u53d6 \u2014\u2014 AstrBot \u63d2\u4ef6\uff1a\u76f4\u8fde DeepSeek \u5b98\u65b9 Search / Fetch \u63a5\u53e3\uff0c\u5185\u7f6e\u4f9d\u8d56\u3001\u53ef\u9010\u884c\u5ba1\u8ba1",
+    "id": "dusi-lai/astrbot_plugin_zhen_deepseek_web",
+    "language": "Python",
+    "name": "dusi-lai/astrbot_plugin_zhen_deepseek_web",
+    "stars": 0,
+    "updated_at": "2026-10-25T10:38:10Z",
+    "url": "https://github.com/dusi-lai/astrbot_plugin_zhen_deepseek_web"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-25T10:37:59Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "The coordination layer for Multiplayer AI",
+    "id": "cohexa-ai/agent-coherence",
+    "language": "Python",
+    "name": "cohexa-ai/agent-coherence",
+    "stars": 11,
+    "updated_at": "2026-10-25T10:37:23Z",
+    "url": "https://github.com/cohexa-ai/agent-coherence"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-25T10:36:24Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-25T10:37:43Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
     "description": "Ship AI agents with evidence. Open-source evals for LLMs, RAG, tools, and conversations. Use Claude Code, Codex, or your",
     "id": "Vatsa10/evals",
     "language": "Python",
@@ -27,15 +90,6 @@
     "url": "https://github.com/janghotan/harnessed"
   },
   {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 11,
-    "updated_at": "2026-10-25T10:28:53Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
     "description": "CE \u6267\u884c\u5916\u9aa8\u9abc\uff1a\u8ba9\u5c0f\u6a21\u578b\u5728 8K \u4e0a\u4e0b\u6587\u91cc\u5e72\u5b8c 32K \u7684\u6d3b\u3002\u5355\u6587\u4ef6\u3001\u7eaf\u6807\u51c6\u5e93\u3001\u96f6\u4f9d\u8d56\uff1b\u9632\u5e7b\u89c9\u5b88\u536b\u3001\u5206\u6bb5\u5582\u517b\u3001\u65ad\u70b9\u56de\u6eda\u3001\u9884\u7b97\u7194\u65ad\u3002AGPL-3.0\u3002\u5df2\u5728 qwen3-9B / 8192 \u4e0a\u4e0b\u6587 / RTX 2070S \u4e0a\u9a8c\u8bc1\u3002",
     "id": "zhugeweimu/CE-NeuroFusion",
     "language": "Python",
@@ -43,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T10:20:00Z",
     "url": "https://github.com/zhugeweimu/CE-NeuroFusion"
-  },
-  {
-    "description": "Lean, extended fork of Nous Research's Hermes Agent \u2014 free model suite, connectors, and ~20 perf fixes. Upstream credite",
-    "id": "Chensihakniroth/anakot-agent-v1",
-    "language": "Python",
-    "name": "Chensihakniroth/anakot-agent-v1",
-    "stars": 0,
-    "updated_at": "2026-10-25T10:19:02Z",
-    "url": "https://github.com/Chensihakniroth/anakot-agent-v1"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-25T10:18:02Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "Production-ready template for a self-hosted Agent Protocol server: FastAPI + LangGraph + PostgreSQL (+ optional Redis), ",
@@ -86,7 +122,7 @@
     "language": "PowerShell",
     "name": "xiongweilin/agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-25T10:13:58Z",
+    "updated_at": "2026-10-25T10:41:47Z",
     "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
@@ -162,15 +198,6 @@
     "url": "https://github.com/honlam6/talk2stock"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-25T10:27:09Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -187,6 +214,15 @@
     "stars": 0,
     "updated_at": "2026-10-25T09:49:49Z",
     "url": "https://github.com/aimegabase/ai-megabase-log"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1011,
+    "updated_at": "2026-10-25T09:49:47Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -214,15 +250,6 @@
     "stars": 7,
     "updated_at": "2026-10-25T09:27:58Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-25T09:22:54Z",
-    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
@@ -275,7 +302,7 @@
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-25T09:18:53Z",
+    "updated_at": "2026-10-25T10:41:56Z",
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-25T09:44:19Z",
     "url": "https://github.com/hellices/korvid"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4460,
-    "updated_at": "2026-10-25T09:47:02Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\ud83d\udcda \u6301\u7eed\u751f\u957f\u7684\u540e\u7aef\u00d7AI \u751f\u4ea7\u7ea7\u77e5\u8bc6\u4f53\u7cfb\uff5c\u6bcf\u7bc7\u4ece\u4e0a\u7ebf\u4ee3\u7801\u56de\u5199\uff0c\u771f\u5b9e\u7c7b\u540d\u53ef\u70b9\u51fb\u9a8c\u8bc1 \u00b7 \u8ffd\u95ee\u94fe\u5f0f\u6df1\u5ea6\u6807\u5c3a\uff1a\u7b54\u6848\u7ecf\u5f97\u8d77\u9762\u8bd5\u5b98\u8fde\u73af\u8ffd\u95ee \u00b7 \u6574\u5e93\u5de5\u7a0b\u5316\u6cbb\u7406\uff1akb-upkeep \u811a\u672c\u4f53\u68c0\u96f6\u7a7a\u58f3\u96f6\u6b7b\u94fe + \u914d\u56fe\u5168\u672c\u5730\u5316 + VitePress \u7535\u5b50\u4e66",
-    "id": "Mein-Augenstern/MUYI",
-    "language": "JavaScript",
-    "name": "Mein-Augenstern/MUYI",
-    "stars": 11,
-    "updated_at": "2026-10-25T07:46:04Z",
-    "url": "https://github.com/Mein-Augenstern/MUYI"
-  },
-  {
-    "description": "",
-    "id": "apolmig/fronteraeval",
-    "language": "JavaScript",
-    "name": "apolmig/fronteraeval",
-    "stars": 0,
-    "updated_at": "2026-10-25T07:41:44Z",
-    "url": "https://github.com/apolmig/fronteraeval"
   }
 ]
