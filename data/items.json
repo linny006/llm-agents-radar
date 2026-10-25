@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 3,
+    "updated_at": "2026-10-25T07:57:56Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-25T07:56:52Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
+    "id": "haoyiyin/basjoo",
+    "language": "Python",
+    "name": "haoyiyin/basjoo",
+    "stars": 164,
+    "updated_at": "2026-10-25T07:59:45Z",
+    "url": "https://github.com/haoyiyin/basjoo"
+  },
+  {
+    "description": "\ud83d\udcda \u6301\u7eed\u751f\u957f\u7684\u540e\u7aef\u00d7AI \u751f\u4ea7\u7ea7\u77e5\u8bc6\u4f53\u7cfb\uff5c\u6bcf\u7bc7\u4ece\u4e0a\u7ebf\u4ee3\u7801\u56de\u5199\uff0c\u771f\u5b9e\u7c7b\u540d\u53ef\u70b9\u51fb\u9a8c\u8bc1 \u00b7 \u8ffd\u95ee\u94fe\u5f0f\u6df1\u5ea6\u6807\u5c3a\uff1a\u7b54\u6848\u7ecf\u5f97\u8d77\u9762\u8bd5\u5b98\u8fde\u73af\u8ffd\u95ee \u00b7 \u6574\u5e93\u5de5\u7a0b\u5316\u6cbb\u7406\uff1akb-upkeep \u811a\u672c\u4f53\u68c0\u96f6\u7a7a\u58f3\u96f6\u6b7b\u94fe + \u914d\u56fe\u5168\u672c\u5730\u5316 + VitePress \u7535\u5b50\u4e66",
+    "id": "Mein-Augenstern/MUYI",
+    "language": "JavaScript",
+    "name": "Mein-Augenstern/MUYI",
+    "stars": 11,
+    "updated_at": "2026-10-25T07:46:04Z",
+    "url": "https://github.com/Mein-Augenstern/MUYI"
+  },
+  {
+    "description": "A ZCode agent that turns any input \u2014 a sentence, a document, a photo \u2014 into a polished PPT, refined through conversation",
+    "id": "LemonZZH/Office-Agent",
+    "language": "Python",
+    "name": "LemonZZH/Office-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-25T07:45:32Z",
+    "url": "https://github.com/LemonZZH/Office-Agent"
+  },
+  {
     "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-25T07:44:49Z",
+    "updated_at": "2026-10-25T07:48:21Z",
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
@@ -95,7 +140,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-25T07:26:13Z",
+    "updated_at": "2026-10-25T07:48:52Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Kotlin",
     "name": "Ultra-Guru/Android-Guru-Agent",
     "stars": 11,
-    "updated_at": "2026-10-25T07:43:21Z",
+    "updated_at": "2026-10-25T07:58:54Z",
     "url": "https://github.com/Ultra-Guru/Android-Guru-Agent"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 4,
     "updated_at": "2026-10-25T07:19:34Z",
     "url": "https://github.com/iap/hermes-guide"
-  },
-  {
-    "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
-    "id": "haoyiyin/basjoo",
-    "language": "Python",
-    "name": "haoyiyin/basjoo",
-    "stars": 164,
-    "updated_at": "2026-10-25T07:15:06Z",
-    "url": "https://github.com/haoyiyin/basjoo"
   },
   {
     "description": "\u4f60\u7684\u7b2c\u4e00\u4e2a\u591a Agent \u9879\u76ee \u2014 LangGraph \u7f16\u6392 + \u5408\u89c4\u4fee\u590d\u56de\u8def + \u4e09\u5c42\u8bb0\u5fc6\u4e09\u7ea7\u964d\u7ea7 | FastAPI + LangGraph + MCP\uff0c\u4e00\u4e2a\u80fd\u8bb2\u6e05\u695a\u6bcf\u4e2a\u8bbe\u8ba1\u51b3\u7b56\u7684\u667a\u80fd\u5ba2\u670d\u7cfb\u7edf",
@@ -270,15 +306,6 @@
     "url": "https://github.com/lefan17/agent-test-hub"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 3,
-    "updated_at": "2026-10-25T06:40:47Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
@@ -347,7 +374,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-25T06:06:56Z",
+    "updated_at": "2026-10-25T07:51:39Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-25T07:33:58Z",
+    "updated_at": "2026-10-25T07:53:03Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 136,
     "updated_at": "2026-10-25T05:40:55Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f Autonomous GitHub Bounty Scanner & On-Chain Escrow Verifier \u2014 Find Real Crypto/USDC/wDOOM Bounties & Filter Fake Scra",
-    "id": "doomsday-network/github-bounty-scanner",
-    "language": "Python",
-    "name": "doomsday-network/github-bounty-scanner",
-    "stars": 10,
-    "updated_at": "2026-10-25T05:34:35Z",
-    "url": "https://github.com/doomsday-network/github-bounty-scanner"
-  },
-  {
-    "description": "Local-first multimodal CAD agent: photos, sketches & text in \u2014 verified, parametric, manufacturing-ready 3D models out (",
-    "id": "maxk2222/cadx",
-    "language": "Python",
-    "name": "maxk2222/cadx",
-    "stars": 1,
-    "updated_at": "2026-10-25T05:32:45Z",
-    "url": "https://github.com/maxk2222/cadx"
-  },
-  {
-    "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
-    "id": "TomKoren1/Sightline",
-    "language": "TypeScript",
-    "name": "TomKoren1/Sightline",
-    "stars": 0,
-    "updated_at": "2026-10-25T05:59:17Z",
-    "url": "https://github.com/TomKoren1/Sightline"
   }
 ]
