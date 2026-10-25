@@ -1,12 +1,21 @@
 [
   {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-25T19:45:00Z",
-    "url": "https://github.com/kyleslight/shun"
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 3,
+    "updated_at": "2026-10-25T19:59:57Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
+    "id": "bigduu/Bodhi-AI",
+    "language": "JavaScript",
+    "name": "bigduu/Bodhi-AI",
+    "stars": 17,
+    "updated_at": "2026-10-25T19:59:04Z",
+    "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
     "description": "The STN-Labz AI Agent Language Model",
@@ -14,17 +23,71 @@
     "language": "C",
     "name": "stnlabz/language_model",
     "stars": 0,
-    "updated_at": "2026-10-25T19:44:15Z",
+    "updated_at": "2026-10-25T19:55:21Z",
     "url": "https://github.com/stnlabz/language_model"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
+    "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
+    "id": "HaikeiLabs/agentware",
+    "language": "Python",
+    "name": "HaikeiLabs/agentware",
+    "stars": 1,
+    "updated_at": "2026-10-25T19:56:24Z",
+    "url": "https://github.com/HaikeiLabs/agentware"
+  },
+  {
+    "description": "PicoBot self-hosted personal assistant.",
+    "id": "jumping2000/picobot",
+    "language": "Python",
+    "name": "jumping2000/picobot",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:57:23Z",
+    "url": "https://github.com/jumping2000/picobot"
+  },
+  {
+    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
+    "id": "diky87688973/ai-agent",
+    "language": "Python",
+    "name": "diky87688973/ai-agent",
     "stars": 3,
-    "updated_at": "2026-10-25T19:44:11Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
+    "updated_at": "2026-10-25T19:52:34Z",
+    "url": "https://github.com/diky87688973/ai-agent"
+  },
+  {
+    "description": "\u660e\u6708\u00b7\u4e07\u8c61 Mingyue Wanxiang \u2014 \u65b0\u80fd\u6e90\u51fa\u529b\u9884\u6d4b Agent\uff1aHarness \u4e0e Agentic Workflow \u4e24\u6761\u5e76\u884c\u8def\u7ebf | Renewable energy forecasting agent, two paral",
+    "id": "SLAI-wanxiang-automl/Wanxiang",
+    "language": "Python",
+    "name": "SLAI-wanxiang-automl/Wanxiang",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:49:29Z",
+    "url": "https://github.com/SLAI-wanxiang-automl/Wanxiang"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-25T19:54:19Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "dsh agent harness + reasonix runtime: \u914d\u7f6e\u5907\u4efd\u4e0e\u5de5\u7a0b\u7ecf\u9a8c\u5e93 (Windows/Linux \u53cc\u673a, TianQue6916)",
+    "id": "TianQue6916/dsh-reasonix-agent",
+    "language": "JavaScript",
+    "name": "TianQue6916/dsh-reasonix-agent",
+    "stars": 0,
+    "updated_at": "2026-10-25T19:46:26Z",
+    "url": "https://github.com/TianQue6916/dsh-reasonix-agent"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-25T19:45:00Z",
+    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -43,6 +106,15 @@
     "stars": 0,
     "updated_at": "2026-10-25T19:41:26Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1035,
+    "updated_at": "2026-10-25T19:53:30Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
@@ -72,15 +144,6 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "dsh agent harness + reasonix runtime: \u914d\u7f6e\u5907\u4efd\u4e0e\u5de5\u7a0b\u7ecf\u9a8c\u5e93 (Windows/Linux \u53cc\u673a, TianQue6916)",
-    "id": "TianQue6916/dsh-reasonix-agent",
-    "language": "JavaScript",
-    "name": "TianQue6916/dsh-reasonix-agent",
-    "stars": 0,
-    "updated_at": "2026-10-25T19:45:01Z",
-    "url": "https://github.com/TianQue6916/dsh-reasonix-agent"
-  },
-  {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
     "id": "zhixuli0406/DuDuClaw",
     "language": "Rust",
@@ -108,15 +171,6 @@
     "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
-    "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
-    "id": "HaikeiLabs/agentware",
-    "language": "Python",
-    "name": "HaikeiLabs/agentware",
-    "stars": 1,
-    "updated_at": "2026-10-25T19:44:22Z",
-    "url": "https://github.com/HaikeiLabs/agentware"
-  },
-  {
     "description": "Lightweight, message-first TypeScript agent runtime with planning, sub-agents, human-in-the-loop approvals, MCP tools an",
     "id": "Cognipeer/agent-sdk",
     "language": "TypeScript",
@@ -124,15 +178,6 @@
     "stars": 7,
     "updated_at": "2026-10-25T19:28:22Z",
     "url": "https://github.com/Cognipeer/agent-sdk"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-25T19:43:41Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -261,15 +306,6 @@
     "url": "https://github.com/TomKoren1/Sightline"
   },
   {
-    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
-    "id": "diky87688973/ai-agent",
-    "language": "Python",
-    "name": "diky87688973/ai-agent",
-    "stars": 3,
-    "updated_at": "2026-10-25T18:16:24Z",
-    "url": "https://github.com/diky87688973/ai-agent"
-  },
-  {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
     "id": "lzmd-arch/BioSNN-Plug",
     "language": "Python",
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-25T18:01:50Z",
+    "updated_at": "2026-10-25T19:49:44Z",
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-25T19:15:19Z",
     "url": "https://github.com/Cwentor/DataAgent"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:21:22Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-25T17:22:45Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
-    "id": "kashyaprajharsh/medha-agent",
-    "language": "Rust",
-    "name": "kashyaprajharsh/medha-agent",
-    "stars": 4,
-    "updated_at": "2026-10-25T17:08:50Z",
-    "url": "https://github.com/kashyaprajharsh/medha-agent"
-  },
-  {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 219,
-    "updated_at": "2026-10-25T17:01:15Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   }
 ]
