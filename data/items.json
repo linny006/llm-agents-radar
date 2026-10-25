@@ -1,5 +1,68 @@
 [
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1005,
+    "updated_at": "2026-10-25T02:59:49Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-25T02:56:08Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
+    "id": "TomKoren1/Sightline",
+    "language": "TypeScript",
+    "name": "TomKoren1/Sightline",
+    "stars": 0,
+    "updated_at": "2026-10-25T02:54:18Z",
+    "url": "https://github.com/TomKoren1/Sightline"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 332,
+    "updated_at": "2026-10-25T02:58:33Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 148,
+    "updated_at": "2026-10-25T02:56:10Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "A guide to New York City you can ask anything: an agent that answers from a live NYC lakehouse first, then city feeds an",
+    "id": "giridhar1103/NYCynapse.Ai",
+    "language": "Python",
+    "name": "giridhar1103/NYCynapse.Ai",
+    "stars": 0,
+    "updated_at": "2026-10-25T02:47:04Z",
+    "url": "https://github.com/giridhar1103/NYCynapse.Ai"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-10-25T02:46:53Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
     "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
     "id": "mark-weeks/hello-nested-worlds-adventure",
     "language": "Python",
@@ -50,17 +113,8 @@
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-25T02:38:29Z",
+    "updated_at": "2026-10-25T02:46:50Z",
     "url": "https://github.com/hellices/korvid"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 148,
-    "updated_at": "2026-10-25T02:37:14Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
@@ -77,7 +131,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-25T02:37:29Z",
+    "updated_at": "2026-10-25T02:58:40Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -189,15 +243,6 @@
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
-    "description": "Read-only AWS inventory with a graph model and an LLM agent that answers security questions with validated citations. Po",
-    "id": "TomKoren1/Sightline",
-    "language": "TypeScript",
-    "name": "TomKoren1/Sightline",
-    "stars": 0,
-    "updated_at": "2026-10-25T01:30:47Z",
-    "url": "https://github.com/TomKoren1/Sightline"
-  },
-  {
     "description": "Doomsday Network (DOOM) \u2014 Sovereign Layer-1 Proof-of-Work GPU Blockchain (SHA-256d CUDA), Zero-Fee PPLNS Pool, Remote MC",
     "id": "doomsday-network/doomsday",
     "language": "Python",
@@ -288,15 +333,6 @@
     "url": "https://github.com/shineyyxd/ai-research-copilot"
   },
   {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 331,
-    "updated_at": "2026-10-25T00:15:34Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -313,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T00:06:04Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1004,
-    "updated_at": "2026-10-25T01:30:29Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
@@ -421,32 +448,5 @@
     "stars": 83,
     "updated_at": "2026-10-24T22:35:34Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 4,
-    "updated_at": "2026-10-24T22:31:56Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-24T22:18:23Z",
-    "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
-    "id": "cunhaax/ai-workflow",
-    "language": "Python",
-    "name": "cunhaax/ai-workflow",
-    "stars": 5,
-    "updated_at": "2026-10-24T23:25:57Z",
-    "url": "https://github.com/cunhaax/ai-workflow"
   }
 ]
