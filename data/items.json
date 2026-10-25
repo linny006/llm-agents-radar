@@ -1,21 +1,12 @@
 [
   {
-    "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
-    "id": "kanderson-ai-dev/agentic-api",
-    "language": "Python",
-    "name": "kanderson-ai-dev/agentic-api",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:44:48Z",
-    "url": "https://github.com/kanderson-ai-dev/agentic-api"
-  },
-  {
-    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
-    "id": "bamboosir1109/dsh-lanya",
-    "language": "Python",
-    "name": "bamboosir1109/dsh-lanya",
-    "stars": 1,
-    "updated_at": "2026-10-25T17:44:07Z",
-    "url": "https://github.com/bamboosir1109/dsh-lanya"
+    "description": "\u628a\u5b98\u65b9\u6781\u7b80\u63d0\u793a\u8bcd\u4e0e PTC \u7f16\u6392\u7ec4\u5408\u8d77\u6765\uff0c\u63d0\u4f9b\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\u548c Windows \u7ec8\u7aef\u9002\u914d\u3002 \u6b22\u8fce\u63d0\u4ea4 issues \u548c PR\u3002",
+    "id": "STARDUSTLC666/dsh-minimal-ptc",
+    "language": "JavaScript",
+    "name": "STARDUSTLC666/dsh-minimal-ptc",
+    "stars": 2,
+    "updated_at": "2026-10-25T18:00:08Z",
+    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
   },
   {
     "description": "The STN-Labz AI Agent Language Model",
@@ -23,8 +14,53 @@
     "language": "C",
     "name": "stnlabz/language_model",
     "stars": 0,
-    "updated_at": "2026-10-25T17:42:49Z",
+    "updated_at": "2026-10-25T17:55:56Z",
     "url": "https://github.com/stnlabz/language_model"
+  },
+  {
+    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
+    "id": "bamboosir1109/dsh-lanya",
+    "language": "Python",
+    "name": "bamboosir1109/dsh-lanya",
+    "stars": 1,
+    "updated_at": "2026-10-25T17:54:54Z",
+    "url": "https://github.com/bamboosir1109/dsh-lanya"
+  },
+  {
+    "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
+    "id": "kanderson-ai-dev/agentic-api",
+    "language": "Python",
+    "name": "kanderson-ai-dev/agentic-api",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:53:43Z",
+    "url": "https://github.com/kanderson-ai-dev/agentic-api"
+  },
+  {
+    "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
+    "id": "HaikeiLabs/agentware",
+    "language": "Python",
+    "name": "HaikeiLabs/agentware",
+    "stars": 1,
+    "updated_at": "2026-10-25T17:49:59Z",
+    "url": "https://github.com/HaikeiLabs/agentware"
+  },
+  {
+    "description": "Embeddable agent runtime (agent harness) for Android and the JVM: agent loop, sandboxed workspace, MCP, skills, subagent",
+    "id": "NoHarry/android-agent-runtime",
+    "language": "Kotlin",
+    "name": "NoHarry/android-agent-runtime",
+    "stars": 0,
+    "updated_at": "2026-10-25T17:47:49Z",
+    "url": "https://github.com/NoHarry/android-agent-runtime"
+  },
+  {
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
+    "language": "Python",
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-10-25T17:46:55Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
     "description": "DeepSeek Harness (dsh) tab for JupyterLab \u2014 launcher card + same-origin reverse proxy (token exchange, Host/Origin fence",
@@ -63,15 +99,6 @@
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-10-25T17:39:24Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
-  },
-  {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
     "id": "xieguigang/sciBASIC",
     "language": "Visual Basic .NET",
@@ -94,7 +121,7 @@
     "id": "doomsday-network/doomsday",
     "language": "Python",
     "name": "doomsday-network/doomsday",
-    "stars": 18,
+    "stars": 19,
     "updated_at": "2026-10-25T17:27:07Z",
     "url": "https://github.com/doomsday-network/doomsday"
   },
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-25T17:27:03Z",
     "url": "https://github.com/lijy-forge/SupplyGuard-Ai"
-  },
-  {
-    "description": "Embeddable agent runtime (agent harness) for Android and the JVM: agent loop, sandboxed workspace, MCP, skills, subagent",
-    "id": "NoHarry/android-agent-runtime",
-    "language": "Kotlin",
-    "name": "NoHarry/android-agent-runtime",
-    "stars": 0,
-    "updated_at": "2026-10-25T17:26:32Z",
-    "url": "https://github.com/NoHarry/android-agent-runtime"
   },
   {
     "description": "Enterprise Data Agent: NL \u2192 contract-bound DSL \u2192 deterministic SQL \u2192 DuckDB. StateGraph orchestration, sandboxed analysi",
@@ -212,7 +230,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 15,
-    "updated_at": "2026-10-25T16:45:02Z",
+    "updated_at": "2026-10-25T17:55:20Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T15:39:50Z",
     "url": "https://github.com/tt519660/stock-agent"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-25T15:34:35Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1029,
-    "updated_at": "2026-10-25T15:29:41Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   }
 ]
