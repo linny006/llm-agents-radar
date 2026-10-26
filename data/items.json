@@ -1,12 +1,84 @@
 [
   {
+    "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
+    "id": "ryhirz/ai-video-agent",
+    "language": "Python",
+    "name": "ryhirz/ai-video-agent",
+    "stars": 0,
+    "updated_at": "2026-10-26T07:30:07Z",
+    "url": "https://github.com/ryhirz/ai-video-agent"
+  },
+  {
+    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
+    "id": "liaosiliangCodeLife/harness-mate-plat",
+    "language": "Python",
+    "name": "liaosiliangCodeLife/harness-mate-plat",
+    "stars": 27,
+    "updated_at": "2026-10-26T07:29:17Z",
+    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-26T07:28:48Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 344,
+    "updated_at": "2026-10-26T07:24:50Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-26T07:22:25Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "A conversational agent over a private corpus of 7,655 Chinese web novels (plain TXT, ~36 GB). LLM-built book cards and a",
+    "id": "i4cobus/inovel-agent",
+    "language": "Python",
+    "name": "i4cobus/inovel-agent",
+    "stars": 7,
+    "updated_at": "2026-10-26T07:22:01Z",
+    "url": "https://github.com/i4cobus/inovel-agent"
+  },
+  {
     "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
     "id": "n1majne3/CyberPenda",
     "language": "Go",
     "name": "n1majne3/CyberPenda",
     "stars": 26,
-    "updated_at": "2026-10-26T07:13:15Z",
+    "updated_at": "2026-10-26T07:27:29Z",
     "url": "https://github.com/n1majne3/CyberPenda"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5873,
+    "updated_at": "2026-10-26T07:29:58Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-26T07:18:57Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T07:13:07Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "A conversational agent over a private corpus of 7,655 Chinese web novels (plain TXT, ~36 GB). LLM-built book cards and a",
-    "id": "i4cobus/inovel-agent",
-    "language": "Python",
-    "name": "i4cobus/inovel-agent",
-    "stars": 7,
-    "updated_at": "2026-10-26T07:11:55Z",
-    "url": "https://github.com/i4cobus/inovel-agent"
   },
   {
     "description": "\u672c\u4f53\u9a71\u52a8\u7684 LLM \u8bed\u4e49\u5c42: \u6570\u636e\u7559\u5e93, \u672c\u4f53\u5f53\u8bed\u4e49\u5c42, OBQC \u6267\u884c\u524d\u6821\u9a8c + \u5931\u8d25\u4fe1\u53f7\u81ea\u6f14\u5316",
@@ -76,7 +139,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34085,
+    "stars": 34093,
     "updated_at": "2026-10-26T07:00:41Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -216,15 +279,6 @@
     "url": "https://github.com/ILoveHAKU/dsh-dialog-fence"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-26T06:20:22Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "The coordination layer for Multiplayer AI",
     "id": "cohexa-ai/agent-coherence",
     "language": "Python",
@@ -275,7 +329,7 @@
     "language": "Rust",
     "name": "aviskaar/zorp",
     "stars": 3,
-    "updated_at": "2026-10-26T06:44:47Z",
+    "updated_at": "2026-10-26T07:22:17Z",
     "url": "https://github.com/aviskaar/zorp"
   },
   {
@@ -347,7 +401,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-26T07:13:47Z",
+    "updated_at": "2026-10-26T07:29:08Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-26T05:31:20Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "A ZCode agent that turns any input \u2014 a sentence, a document, a photo \u2014 into a polished PPT, refined through conversation",
-    "id": "LemonZZH/Office-Agent",
-    "language": "Python",
-    "name": "LemonZZH/Office-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-26T05:18:09Z",
-    "url": "https://github.com/LemonZZH/Office-Agent"
-  },
-  {
-    "description": "Deterministic evidence-retrieval entry for the Agent Memory Leaderboard: Add and Search only, no answer generation",
-    "id": "aidless/flowgrid-aml-retriever",
-    "language": "Python",
-    "name": "aidless/flowgrid-aml-retriever",
-    "stars": 0,
-    "updated_at": "2026-10-26T05:16:38Z",
-    "url": "https://github.com/aidless/flowgrid-aml-retriever"
-  },
-  {
-    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-10-26T05:01:28Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-26T05:00:38Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u7684\u79d1\u7814\u6570\u636e\u4e0e\u7ed8\u56fe\u5de5\u4f5c\u53f0 \u00b7 \u8ba9\u5b9e\u9a8c\u6570\u636e\uff0c\u81ea\u7136\u6210\u4e3a\u8bba\u6587\u56fe",
-    "id": "chen0206a/figtide",
-    "language": "TypeScript",
-    "name": "chen0206a/figtide",
-    "stars": 4,
-    "updated_at": "2026-10-26T04:54:04Z",
-    "url": "https://github.com/chen0206a/figtide"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 6,
-    "updated_at": "2026-10-26T04:47:31Z",
-    "url": "https://github.com/plurnk/plurnk"
   }
 ]
