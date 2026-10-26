@@ -1,12 +1,12 @@
 [
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8959,
-    "updated_at": "2026-10-26T22:59:07Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
+    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
+    "id": "tya5/shellboy",
+    "language": "Rust",
+    "name": "tya5/shellboy",
+    "stars": 0,
+    "updated_at": "2026-10-26T23:11:52Z",
+    "url": "https://github.com/tya5/shellboy"
   },
   {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
@@ -14,8 +14,62 @@
     "language": "Python",
     "name": "mmporong/rl-triage-agent",
     "stars": 2,
-    "updated_at": "2026-10-26T22:50:43Z",
+    "updated_at": "2026-10-26T23:11:45Z",
     "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-26T23:11:25Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
+    "id": "diky87688973/ai-agent",
+    "language": "Python",
+    "name": "diky87688973/ai-agent",
+    "stars": 3,
+    "updated_at": "2026-10-26T23:06:05Z",
+    "url": "https://github.com/diky87688973/ai-agent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-26T23:05:06Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Enterprise Data Agent: NL \u2192 contract-bound DSL \u2192 deterministic SQL \u2192 DuckDB. StateGraph orchestration, sandboxed analysi",
+    "id": "Cwentor/DataAgent",
+    "language": "Python",
+    "name": "Cwentor/DataAgent",
+    "stars": 1,
+    "updated_at": "2026-10-26T23:03:47Z",
+    "url": "https://github.com/Cwentor/DataAgent"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-26T23:04:38Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8959,
+    "updated_at": "2026-10-26T23:03:30Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -25,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-10-26T22:49:33Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 67,
+    "updated_at": "2026-10-26T22:43:19Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
     "description": "",
@@ -63,24 +126,6 @@
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
-    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
-    "id": "tya5/shellboy",
-    "language": "Rust",
-    "name": "tya5/shellboy",
-    "stars": 0,
-    "updated_at": "2026-10-26T22:35:04Z",
-    "url": "https://github.com/tya5/shellboy"
-  },
-  {
-    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
-    "id": "diky87688973/ai-agent",
-    "language": "Python",
-    "name": "diky87688973/ai-agent",
-    "stars": 3,
-    "updated_at": "2026-10-26T22:33:09Z",
-    "url": "https://github.com/diky87688973/ai-agent"
-  },
-  {
     "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
     "id": "cunhaax/ai-workflow",
     "language": "Shell",
@@ -95,17 +140,8 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-26T22:40:16Z",
+    "updated_at": "2026-10-26T23:07:16Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
-    "id": "uukuguy/capstone",
-    "language": "Python",
-    "name": "uukuguy/capstone",
-    "stars": 0,
-    "updated_at": "2026-10-26T22:57:26Z",
-    "url": "https://github.com/uukuguy/capstone"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -185,7 +221,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-26T21:58:14Z",
+    "updated_at": "2026-10-26T23:04:20Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -196,15 +232,6 @@
     "stars": 7,
     "updated_at": "2026-10-26T21:57:17Z",
     "url": "https://github.com/i4cobus/inovel-agent"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-26T21:54:48Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
@@ -295,15 +322,6 @@
     "stars": 6,
     "updated_at": "2026-10-26T21:16:03Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-26T21:12:45Z",
-    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
@@ -430,23 +448,5 @@
     "stars": 15,
     "updated_at": "2026-10-26T19:18:26Z",
     "url": "https://github.com/NitinReddy-A/Rampart"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-26T19:16:59Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
-    "id": "flashfrogluo/second-take",
-    "language": "Python",
-    "name": "flashfrogluo/second-take",
-    "stars": 3,
-    "updated_at": "2026-10-26T19:13:45Z",
-    "url": "https://github.com/flashfrogluo/second-take"
   }
 ]
