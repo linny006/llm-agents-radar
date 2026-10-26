@@ -1,5 +1,68 @@
 [
   {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 66,
+    "updated_at": "2026-10-26T02:30:05Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-26T02:29:30Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-26T02:29:07Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A conversational agent over a private corpus of 7,655 Chinese web novels (plain TXT, ~36 GB). LLM-built book cards and a",
+    "id": "i4cobus/inovel-agent",
+    "language": "Python",
+    "name": "i4cobus/inovel-agent",
+    "stars": 7,
+    "updated_at": "2026-10-26T02:26:25Z",
+    "url": "https://github.com/i4cobus/inovel-agent"
+  },
+  {
+    "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
+    "id": "impsland/imp",
+    "language": "Swift",
+    "name": "impsland/imp",
+    "stars": 1,
+    "updated_at": "2026-10-26T02:22:48Z",
+    "url": "https://github.com/impsland/imp"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-26T02:20:31Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
+    "id": "xiaomaozjj666/data-analysis-agent",
+    "language": "Python",
+    "name": "xiaomaozjj666/data-analysis-agent",
+    "stars": 1,
+    "updated_at": "2026-10-26T02:15:41Z",
+    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
+  },
+  {
     "description": "Agent harness that makes a local Gemma 4 26B (vLLM on Intel Arc Pro B70) work like a stronger model: tested helper libra",
     "id": "izagami/gemma-agent-harness",
     "language": "JavaScript",
@@ -90,15 +153,6 @@
     "url": "https://github.com/scrapfly/scrapfly-mcp"
   },
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-26T01:59:37Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "LLM Agent \u670d\u52a1\uff1aLangChain + FastAPI + Vue3\uff0c\u6df7\u5408\u68c0\u7d22 RAG \u5e26\u5f15\u7528\u6eaf\u6e90\uff0cReAct \u53cc\u67b6\u6784\u5b9e\u6d4b\u62e9\u4f18\uff0898.5% vs 89.7%\uff09\uff0c\u8bed\u4e49\u7f13\u5b58\u96f6\u8bef\u547d\u4e2d\uff0c158 \u6761\u8bc4\u6d4b + CI \u56de\u5f52\u95e8\u7981\uff0cDocker \u516c",
     "id": "SYM529/myAgent",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-10-26T01:58:00Z",
     "url": "https://github.com/SYM529/myAgent"
-  },
-  {
-    "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
-    "id": "impsland/imp",
-    "language": "Swift",
-    "name": "impsland/imp",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:57:08Z",
-    "url": "https://github.com/impsland/imp"
   },
   {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-26T02:06:08Z",
+    "updated_at": "2026-10-26T02:29:21Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-26T01:46:36Z",
+    "updated_at": "2026-10-26T02:22:32Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-26T02:09:31Z",
+    "updated_at": "2026-10-26T02:21:28Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -207,6 +252,15 @@
     "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
   },
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1059,
+    "updated_at": "2026-10-26T01:30:46Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "\u30c7\u30d9\u30ed\u30c3\u30d1\u30fc\u30b5\u30a4\u30c8\u306e\u57f7\u7b46\u3067\u4f5c\u6210\u3057\u305f\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
     "id": "ubata-mamezou/developer-site-article-examples",
     "language": "TypeScript",
@@ -214,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T01:30:26Z",
     "url": "https://github.com/ubata-mamezou/developer-site-article-examples"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:28:00Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
@@ -286,15 +331,6 @@
     "stars": 30,
     "updated_at": "2026-10-26T01:01:16Z",
     "url": "https://github.com/dotcomjack/grux"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-26T00:43:46Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-25T23:53:52Z",
     "url": "https://github.com/stnlabz/language_model"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 136,
-    "updated_at": "2026-10-25T23:48:30Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "LLM \u6570\u636e\u5206\u6790\u5de5\u4f5c\u53f0\uff1a\u4e0a\u4f20\u6570\u636e\u96c6\u81ea\u52a8\u5b8c\u6210\u6e05\u6d17\u3001\u7edf\u8ba1\u5206\u6790\u3001\u53ef\u89c6\u5316\u4e0e\u62a5\u544a\uff1b\u53d7\u63a7\u5de5\u5177\u96c6 + \u53ea\u8bfb SQL\uff08SQLite / PostgreSQL\uff09\u00b7 MCP \u6570\u636e\u9762 \u00b7 Plotly + ECharts \u53cc\u5f15\u64ce \u00b7 FastAPI + Reac",
-    "id": "xiaomaozjj666/data-analysis-agent",
-    "language": "Python",
-    "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
-    "updated_at": "2026-10-25T23:43:39Z",
-    "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 478,
-    "updated_at": "2026-10-25T23:41:32Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1057,
-    "updated_at": "2026-10-26T01:30:46Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   }
 ]
