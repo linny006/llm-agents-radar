@@ -1,12 +1,84 @@
 [
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3689,
+    "updated_at": "2026-10-26T10:00:12Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "Private, offline AI assistant for your desktop: a local ChatGPT alternative powered by Ollama, in 12 languages. 9 agents",
+    "id": "gonicolas12/My_AI",
+    "language": "Python",
+    "name": "gonicolas12/My_AI",
+    "stars": 12,
+    "updated_at": "2026-10-26T09:59:44Z",
+    "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 3,
+    "updated_at": "2026-10-26T09:58:38Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-26T09:58:05Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
     "description": "DSH \u63d2\u4ef6\uff1a\u628a\u6296\u97f3\u79c1\u4fe1\u63a5\u8fdb DSH \u2014\u2014 \u79c1\u4fe1\u8fdb DSH \u4f1a\u8bdd\uff0cAI \u7528\u5de5\u5177\u5237\u89c6\u9891\u3001\u5206\u4eab\u3001\u804a\u5929\uff08\u542b\u56fe\u7247/\u8868\u60c5\u6536\u53d1\uff09\u3002\u4ec5\u4f9b\u5b66\u4e60\u7814\u7a76\u3002",
     "id": "pcmxiao/dsh-douyin-bridge",
     "language": "JavaScript",
     "name": "pcmxiao/dsh-douyin-bridge",
     "stars": 0,
-    "updated_at": "2026-10-26T09:44:16Z",
+    "updated_at": "2026-10-26T09:54:36Z",
     "url": "https://github.com/pcmxiao/dsh-douyin-bridge"
+  },
+  {
+    "description": "\u672c\u4f53\u9a71\u52a8\u7684 LLM \u8bed\u4e49\u5c42: \u6570\u636e\u7559\u5e93, \u672c\u4f53\u5f53\u8bed\u4e49\u5c42, OBQC \u6267\u884c\u524d\u6821\u9a8c + \u5931\u8d25\u4fe1\u53f7\u81ea\u6f14\u5316",
+    "id": "SnowYouth/ontologyBaseAI",
+    "language": "Python",
+    "name": "SnowYouth/ontologyBaseAI",
+    "stars": 0,
+    "updated_at": "2026-10-26T09:54:15Z",
+    "url": "https://github.com/SnowYouth/ontologyBaseAI"
+  },
+  {
+    "description": "The coordination layer for Multiplayer AI",
+    "id": "cohexa-ai/agent-coherence",
+    "language": "Python",
+    "name": "cohexa-ai/agent-coherence",
+    "stars": 12,
+    "updated_at": "2026-10-26T09:53:11Z",
+    "url": "https://github.com/cohexa-ai/agent-coherence"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-26T09:49:34Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-26T09:47:44Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -14,7 +86,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-26T09:44:06Z",
+    "updated_at": "2026-10-26T09:53:08Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -25,6 +97,15 @@
     "stars": 136,
     "updated_at": "2026-10-26T09:42:35Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1084,
+    "updated_at": "2026-10-26T09:59:47Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Ship AI agents with evidence. Open-source evals for LLMs, RAG, tools, and conversations. Use Claude Code, Codex, or your",
@@ -45,24 +126,6 @@
     "url": "https://github.com/eshanized/M31A"
   },
   {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-26T09:45:14Z",
-    "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
-    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
-    "id": "Shuffle-1992/dsh-context-pilot",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-context-pilot",
-    "stars": 3,
-    "updated_at": "2026-10-26T09:36:55Z",
-    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -79,24 +142,6 @@
     "stars": 3,
     "updated_at": "2026-10-26T09:36:13Z",
     "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 219,
-    "updated_at": "2026-10-26T09:33:47Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "Private, offline AI assistant for your desktop: a local ChatGPT alternative powered by Ollama, in 12 languages. 9 agents",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 12,
-    "updated_at": "2026-10-26T09:33:35Z",
-    "url": "https://github.com/gonicolas12/My_AI"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -265,18 +310,9 @@
     "id": "liaosiliangCodeLife/harness-mate-plat",
     "language": "Python",
     "name": "liaosiliangCodeLife/harness-mate-plat",
-    "stars": 27,
+    "stars": 28,
     "updated_at": "2026-10-26T09:02:37Z",
     "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1080,
-    "updated_at": "2026-10-26T09:41:17Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -286,15 +322,6 @@
     "stars": 7,
     "updated_at": "2026-10-26T09:01:42Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3689,
-    "updated_at": "2026-10-26T09:01:13Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "\u30c7\u30d9\u30ed\u30c3\u30d1\u30fc\u30b5\u30a4\u30c8\u306e\u57f7\u7b46\u3067\u4f5c\u6210\u3057\u305f\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
@@ -311,7 +338,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-26T09:40:45Z",
+    "updated_at": "2026-10-26T09:58:09Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -342,6 +369,15 @@
     "url": "https://github.com/forwaryan/rumor-checking"
   },
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4464,
+    "updated_at": "2026-10-26T08:45:06Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
     "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
     "id": "Zxy876/voyager-vlml-mve",
     "language": "Python",
@@ -360,15 +396,6 @@
     "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
-    "description": "\u672c\u4f53\u9a71\u52a8\u7684 LLM \u8bed\u4e49\u5c42: \u6570\u636e\u7559\u5e93, \u672c\u4f53\u5f53\u8bed\u4e49\u5c42, OBQC \u6267\u884c\u524d\u6821\u9a8c + \u5931\u8d25\u4fe1\u53f7\u81ea\u6f14\u5316",
-    "id": "SnowYouth/ontologyBaseAI",
-    "language": "Python",
-    "name": "SnowYouth/ontologyBaseAI",
-    "stars": 0,
-    "updated_at": "2026-10-26T08:35:33Z",
-    "url": "https://github.com/SnowYouth/ontologyBaseAI"
-  },
-  {
     "description": "A conversational agent over a private corpus of 7,655 Chinese web novels (plain TXT, ~36 GB). LLM-built book cards and a",
     "id": "i4cobus/inovel-agent",
     "language": "Python",
@@ -378,21 +405,12 @@
     "url": "https://github.com/i4cobus/inovel-agent"
   },
   {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 12,
-    "updated_at": "2026-10-26T09:42:30Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
-  },
-  {
     "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
     "id": "n1majne3/CyberPenda",
     "language": "Go",
     "name": "n1majne3/CyberPenda",
     "stars": 26,
-    "updated_at": "2026-10-26T09:44:57Z",
+    "updated_at": "2026-10-26T09:58:36Z",
     "url": "https://github.com/n1majne3/CyberPenda"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-26T07:49:10Z",
     "url": "https://github.com/ZekaiShi/dsh-evo-subagent"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-26T07:45:54Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-26T09:37:37Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
