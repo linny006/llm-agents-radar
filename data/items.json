@@ -1,11 +1,137 @@
 [
   {
+    "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
+    "id": "NitinReddy-A/Rampart",
+    "language": "Python",
+    "name": "NitinReddy-A/Rampart",
+    "stars": 15,
+    "updated_at": "2026-10-26T09:00:15Z",
+    "url": "https://github.com/NitinReddy-A/Rampart"
+  },
+  {
+    "description": "Ship AI agents with evidence. Open-source evals for LLMs, RAG, tools, and conversations. Use Claude Code, Codex, or your",
+    "id": "Vatsa10/evals",
+    "language": "Python",
+    "name": "Vatsa10/evals",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:59:07Z",
+    "url": "https://github.com/Vatsa10/evals"
+  },
+  {
+    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
+    "id": "EvannZhongg/Nosis",
+    "language": "Python",
+    "name": "EvannZhongg/Nosis",
+    "stars": 16,
+    "updated_at": "2026-10-26T08:58:35Z",
+    "url": "https://github.com/EvannZhongg/Nosis"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 29,
+    "updated_at": "2026-10-26T08:58:18Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u30c7\u30d9\u30ed\u30c3\u30d1\u30fc\u30b5\u30a4\u30c8\u306e\u57f7\u7b46\u3067\u4f5c\u6210\u3057\u305f\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
+    "id": "ubata-mamezou/developer-site-article-examples",
+    "language": "TypeScript",
+    "name": "ubata-mamezou/developer-site-article-examples",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:57:27Z",
+    "url": "https://github.com/ubata-mamezou/developer-site-article-examples"
+  },
+  {
+    "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
+    "id": "mntoyg/OmniAgent",
+    "language": "Python",
+    "name": "mntoyg/OmniAgent",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:56:14Z",
+    "url": "https://github.com/mntoyg/OmniAgent"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-26T08:55:12Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-26T08:54:17Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Dialog fence for DSH / DSH Desktop: per-conversation behavioral rule fence injected into runtime context without breakin",
+    "id": "ILoveHAKU/dsh-dialog-fence",
+    "language": "JavaScript",
+    "name": "ILoveHAKU/dsh-dialog-fence",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:53:43Z",
+    "url": "https://github.com/ILoveHAKU/dsh-dialog-fence"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:53:27Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1080,
+    "updated_at": "2026-10-26T08:53:14Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:48:29Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-26T08:48:17Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "\u5e26\u6267\u884c\u8fc7\u7a0b\u53ef\u89c6\u5316\u7684\u4e2d\u6587\u8c23\u8a00\u6838\u67e5:\u62c6\u539f\u5b50\u4e8b\u5b9e\u3001\u591a\u6e90\u5e76\u884c\u68c0\u7d22\u3001\u9010\u6761\u5224\u771f\u5047,\u5168\u7a0b\u6d41\u5f0f\u53ef\u89c2\u6d4b",
+    "id": "forwaryan/rumor-checking",
+    "language": "Python",
+    "name": "forwaryan/rumor-checking",
+    "stars": 0,
+    "updated_at": "2026-10-26T08:45:52Z",
+    "url": "https://github.com/forwaryan/rumor-checking"
+  },
+  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3688,
-    "updated_at": "2026-10-26T08:44:03Z",
+    "updated_at": "2026-10-26T08:45:36Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -16,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T08:43:43Z",
     "url": "https://github.com/yanara-osm/dream-experiment"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 29,
-    "updated_at": "2026-10-26T08:41:39Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
@@ -72,15 +189,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-26T08:37:49Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "A conversational agent over a private corpus of 7,655 Chinese web novels (plain TXT, ~36 GB). LLM-built book cards and a",
     "id": "i4cobus/inovel-agent",
     "language": "Python",
@@ -113,17 +221,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-26T08:41:10Z",
+    "updated_at": "2026-10-26T08:54:28Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Dialog fence for DSH / DSH Desktop: per-conversation behavioral rule fence injected into runtime context without breakin",
-    "id": "ILoveHAKU/dsh-dialog-fence",
-    "language": "JavaScript",
-    "name": "ILoveHAKU/dsh-dialog-fence",
-    "stars": 0,
-    "updated_at": "2026-10-26T08:42:22Z",
-    "url": "https://github.com/ILoveHAKU/dsh-dialog-fence"
   },
   {
     "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
@@ -180,24 +279,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 79,
-    "updated_at": "2026-10-26T07:57:51Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Ship AI agents with evidence. Open-source evals for LLMs, RAG, tools, and conversations. Use Claude Code, Codex, or your",
-    "id": "Vatsa10/evals",
-    "language": "Python",
-    "name": "Vatsa10/evals",
-    "stars": 0,
-    "updated_at": "2026-10-26T07:55:24Z",
-    "url": "https://github.com/Vatsa10/evals"
-  },
-  {
     "description": "\u8de8\u5de5\u4f5c\u533a\u72ec\u7acb\u4eba\u683c\u3001\u81ea\u9002\u5e94\u98ce\u683c\u4e0e\u966a\u4f34\u9884\u8bbe\uff1a\u4e3a\u9879\u76ee\u548c\u5bf9\u8bdd\u5206\u522b\u7ef4\u62a4\u4eba\u683c\u4e0e\u786e\u8ba4\u540e\u7684\u901a\u7528\u504f\u597d\uff0c\u652f\u6301\u4efb\u610f DSH \u5df2\u6ce8\u518c\u6a21\u578b\u7684\u5b50\u4ee3\u7406\u8def\u7531\uff08\u542b\u901a\u8fc7\u5176\u4ed6\u63d2\u4ef6\u63a5\u5165\u7684 Codex\u3001Claude Code\uff09\u3002",
     "id": "ZekaiShi/dsh-evo-subagent",
     "language": "JavaScript",
@@ -205,15 +286,6 @@
     "stars": 7,
     "updated_at": "2026-10-26T07:49:10Z",
     "url": "https://github.com/ZekaiShi/dsh-evo-subagent"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1080,
-    "updated_at": "2026-10-26T07:47:40Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
@@ -355,7 +427,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34101,
+    "stars": 34108,
     "updated_at": "2026-10-26T07:00:41Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -369,15 +441,6 @@
     "url": "https://github.com/bamboosir1109/dsh-lanya"
   },
   {
-    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
-    "id": "EvannZhongg/Nosis",
-    "language": "Python",
-    "name": "EvannZhongg/Nosis",
-    "stars": 16,
-    "updated_at": "2026-10-26T06:44:01Z",
-    "url": "https://github.com/EvannZhongg/Nosis"
-  },
-  {
     "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
     "id": "qiuzixu/agent-core",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-26T06:41:57Z",
     "url": "https://github.com/qiuzixu/agent-core"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 365,
-    "updated_at": "2026-10-26T06:41:13Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-26T08:22:47Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-10-26T06:33:13Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "The LLM Anti-Framework",
-    "id": "Mirascope/mirascope",
-    "language": "Python",
-    "name": "Mirascope/mirascope",
-    "stars": 1534,
-    "updated_at": "2026-10-26T06:29:20Z",
-    "url": "https://github.com/Mirascope/mirascope"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-26T08:43:31Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 3,
-    "updated_at": "2026-10-26T06:24:10Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "Comprehensive resources on Generative AI, including a detailed roadmap, projects, use cases, interview preparation, and ",
-    "id": "genieincodebottle/generative-ai",
-    "language": "Jupyter Notebook",
-    "name": "genieincodebottle/generative-ai",
-    "stars": 2654,
-    "updated_at": "2026-10-26T06:24:08Z",
-    "url": "https://github.com/genieincodebottle/generative-ai"
   }
 ]
