@@ -1,21 +1,84 @@
 [
   {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-26T12:45:01Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
     "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
     "id": "edjafarov/kiagent-core",
     "language": "TypeScript",
     "name": "edjafarov/kiagent-core",
     "stars": 7,
-    "updated_at": "2026-10-26T12:43:19Z",
+    "updated_at": "2026-10-26T12:58:50Z",
     "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-26T12:58:32Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 15,
+    "updated_at": "2026-10-26T12:57:24Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 154,
+    "updated_at": "2026-10-26T12:59:25Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 55,
+    "updated_at": "2026-10-26T12:55:53Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:58:00Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1088,
+    "updated_at": "2026-10-26T12:54:55Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
+    "id": "orderye/memory-hub",
+    "language": "Rust",
+    "name": "orderye/memory-hub",
+    "stars": 0,
+    "updated_at": "2026-10-26T12:50:02Z",
+    "url": "https://github.com/orderye/memory-hub"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-26T12:50:58Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -117,15 +180,6 @@
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1087,
-    "updated_at": "2026-10-26T12:42:49Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Self-evolving agent framework on DeepSeek Harness (dsh): 40 Cordis plugins, 4 presets, memory \u00b7 reflection \u00b7 gates \u00b7 met",
     "id": "Anmulzhao/DSH-AGINT",
     "language": "JavaScript",
@@ -184,7 +238,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6595,
+    "stars": 6596,
     "updated_at": "2026-10-26T12:11:14Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -196,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-10-26T12:09:32Z",
     "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 15,
-    "updated_at": "2026-10-26T12:27:47Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
@@ -230,17 +275,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-26T12:38:35Z",
+    "updated_at": "2026-10-26T12:57:49Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 154,
-    "updated_at": "2026-10-26T11:53:21Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "\u628a DeepSeek Harness \u6253\u5305\u6210\u72ec\u7acb Android \u5e94\u7528\uff1a\u81ea\u5e26 Node \u8fd0\u884c\u65f6\uff0c\u88c5\u4e2a APK \u5c31\u80fd\u7528\u3002\u4e0d\u9700\u8981 Termux\u3001\u4e0d\u9700\u8981 proot\u3001\u4e0d\u9700\u8981 root\u3001\u4e0d\u9700\u8981\u7535\u8111\u3002\u5185\u542b\u5b8c\u6574\u7684 Android \u5e73\u53f0\u9002\u914d\u8e29\u5751\u8bb0\u5f55\uff08se",
@@ -346,7 +382,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34152,
+    "stars": 34158,
     "updated_at": "2026-10-26T11:18:03Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -358,15 +394,6 @@
     "stars": 478,
     "updated_at": "2026-10-26T11:42:23Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-26T11:16:20Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "\u9762\u5411 DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u4e0e\u8bb0\u5fc6\u63d2\u4ef6\u5305\uff08MIT\uff09\uff0c\u517c\u5bb9 DSH 0.1.5-rc.2 \u81f3\u5f53\u524d\u6700\u65b0 0.2.1-rc.3\u3002\u6298\u53e0\u957f\u4f1a\u8bdd\u91cc\u91cd\u590d\u7684\u5de5\u5177\u8f93\u51fa\uff08\u539f\u6587\u53ef\u968f\u65f6\u5c55\u5f00\uff09\uff0c\u7ed9\u6a21\u578b\u914d\u4e00\u540d\u53ea\u8bfb\u8c03\u67e5\u5458\u5148\u6838\u5b9e\u518d\u52a8\u624b\uff1b\u4f1a\u8bdd\u4e8b\u5b9e\u6c89\u6dc0\u4e3a\u5e26",
@@ -421,32 +448,5 @@
     "stars": 5872,
     "updated_at": "2026-10-26T12:41:59Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "LLM agent that judges Busan Port import cargo delays, with evidence checked by code",
-    "id": "HJU5022/Marvia",
-    "language": "Python",
-    "name": "HJU5022/Marvia",
-    "stars": 0,
-    "updated_at": "2026-10-26T10:46:16Z",
-    "url": "https://github.com/HJU5022/Marvia"
-  },
-  {
-    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
-    "id": "n1majne3/CyberPenda",
-    "language": "Go",
-    "name": "n1majne3/CyberPenda",
-    "stars": 26,
-    "updated_at": "2026-10-26T10:43:04Z",
-    "url": "https://github.com/n1majne3/CyberPenda"
-  },
-  {
-    "description": "A conversational agent over a private corpus of 7,655 Chinese web novels (plain TXT, ~36 GB). LLM-built book cards and a",
-    "id": "i4cobus/inovel-agent",
-    "language": "Python",
-    "name": "i4cobus/inovel-agent",
-    "stars": 7,
-    "updated_at": "2026-10-26T10:40:58Z",
-    "url": "https://github.com/i4cobus/inovel-agent"
   }
 ]
