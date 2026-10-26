@@ -1,5 +1,50 @@
 [
   {
+    "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
+    "id": "franckolv-dev/ELY2",
+    "language": "Python",
+    "name": "franckolv-dev/ELY2",
+    "stars": 1,
+    "updated_at": "2026-10-26T20:14:06Z",
+    "url": "https://github.com/franckolv-dev/ELY2"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-26T20:11:03Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Layer-aware Dockerfile audit \u2014 32 deterministic rules, zero dependencies, SARIF for CI, MCP server",
+    "id": "xuange-hu/layerlint",
+    "language": "Python",
+    "name": "xuange-hu/layerlint",
+    "stars": 0,
+    "updated_at": "2026-10-26T20:08:59Z",
+    "url": "https://github.com/xuange-hu/layerlint"
+  },
+  {
+    "description": "Multi-step SQL agent over the Olist e-commerce database: plan/act/observe loop, self-correction, grounding guard that ch",
+    "id": "JAYANSHUBADLANI/olist-analyst-agent",
+    "language": "Python",
+    "name": "JAYANSHUBADLANI/olist-analyst-agent",
+    "stars": 0,
+    "updated_at": "2026-10-26T20:07:17Z",
+    "url": "https://github.com/JAYANSHUBADLANI/olist-analyst-agent"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
+    "id": "sins-gif/moonshadow",
+    "language": "Python",
+    "name": "sins-gif/moonshadow",
+    "stars": 0,
+    "updated_at": "2026-10-26T20:06:35Z",
+    "url": "https://github.com/sins-gif/moonshadow"
+  },
+  {
     "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
     "id": "NicoGenti/opencode-orchestrator-kit",
     "language": "TypeScript",
@@ -16,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T19:54:44Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Multi-step SQL agent over the Olist e-commerce database: plan/act/observe loop, self-correction, grounding guard that ch",
-    "id": "JAYANSHUBADLANI/olist-analyst-agent",
-    "language": "Python",
-    "name": "JAYANSHUBADLANI/olist-analyst-agent",
-    "stars": 0,
-    "updated_at": "2026-10-26T19:46:59Z",
-    "url": "https://github.com/JAYANSHUBADLANI/olist-analyst-agent"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -104,7 +140,7 @@
     "language": "Go",
     "name": "mnemon-dev/mnemon",
     "stars": 661,
-    "updated_at": "2026-10-26T19:21:25Z",
+    "updated_at": "2026-10-26T20:07:17Z",
     "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
@@ -220,7 +256,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8957,
+    "stars": 8958,
     "updated_at": "2026-10-26T18:56:12Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -241,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T19:59:17Z",
     "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-26T18:44:15Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "AI 3D-printing agent and B2C portal: describe an object or upload an image, PDF, STL, 3MF or Blender script; DeepSeek V4",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-26T17:31:27Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "\u8ba9 AstrBot \u7684 Agent \u8fb9\u804a\u8fb9\u5b66\uff1a\u7ecf\u9a8c\u8bb0\u5fc6 + \u52a8\u4f5c\u4f18\u52bf\u4f30\u8ba1 + \u65e0\u68af\u5ea6\u7b56\u7565\u4f18\u5316\uff08JitRL, ICML 2026\uff09",
-    "id": "2841649220/astrbot_plugin_jitrl",
-    "language": "Python",
-    "name": "2841649220/astrbot_plugin_jitrl",
-    "stars": 0,
-    "updated_at": "2026-10-26T17:31:25Z",
-    "url": "https://github.com/2841649220/astrbot_plugin_jitrl"
-  },
-  {
-    "description": "A conversational agent over a private corpus of 7,655 Chinese web novels (plain TXT, ~36 GB). LLM-built book cards and a",
-    "id": "i4cobus/inovel-agent",
-    "language": "Python",
-    "name": "i4cobus/inovel-agent",
-    "stars": 7,
-    "updated_at": "2026-10-26T17:25:03Z",
-    "url": "https://github.com/i4cobus/inovel-agent"
-  },
-  {
-    "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
-    "id": "orderye/memory-hub",
-    "language": "Rust",
-    "name": "orderye/memory-hub",
-    "stars": 0,
-    "updated_at": "2026-10-26T17:20:31Z",
-    "url": "https://github.com/orderye/memory-hub"
   }
 ]
