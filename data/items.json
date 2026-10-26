@@ -1,5 +1,68 @@
 [
   {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-10-26T19:29:54Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
+    "id": "mnemon-dev/mnemon",
+    "language": "Go",
+    "name": "mnemon-dev/mnemon",
+    "stars": 661,
+    "updated_at": "2026-10-26T19:21:25Z",
+    "url": "https://github.com/mnemon-dev/mnemon"
+  },
+  {
+    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
+    "id": "bigduu/Bodhi-AI",
+    "language": "JavaScript",
+    "name": "bigduu/Bodhi-AI",
+    "stars": 17,
+    "updated_at": "2026-10-26T19:20:09Z",
+    "url": "https://github.com/bigduu/Bodhi-AI"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-26T19:19:45Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-26T19:19:13Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "Open-source, self-hostable AppSec agent that finds, proves, and helps fix web/API vulnerabilities \u2014 evidence-first (inde",
+    "id": "NitinReddy-A/Rampart",
+    "language": "Python",
+    "name": "NitinReddy-A/Rampart",
+    "stars": 15,
+    "updated_at": "2026-10-26T19:18:26Z",
+    "url": "https://github.com/NitinReddy-A/Rampart"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-26T19:16:59Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
     "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
     "id": "flashfrogluo/second-take",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 510,
     "updated_at": "2026-10-26T19:12:26Z",
     "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 661,
-    "updated_at": "2026-10-26T19:11:58Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
   },
   {
     "description": "Multi-agent LLM driven cell type annotation for single-cell RNA-Seq data",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-10-26T18:59:44Z",
+    "updated_at": "2026-10-26T19:21:15Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
@@ -97,15 +151,6 @@
     "stars": 8957,
     "updated_at": "2026-10-26T18:56:12Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 4,
-    "updated_at": "2026-10-26T18:53:42Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
@@ -131,7 +176,7 @@
     "language": "Python",
     "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-26T18:44:32Z",
+    "updated_at": "2026-10-26T19:24:18Z",
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
@@ -167,17 +212,8 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 17,
-    "updated_at": "2026-10-26T18:28:43Z",
+    "updated_at": "2026-10-26T19:19:53Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-26T18:55:00Z",
-    "url": "https://github.com/memoways/ava-proto1"
   },
   {
     "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4466,
-    "updated_at": "2026-10-26T18:57:22Z",
+    "updated_at": "2026-10-26T19:28:49Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 6,
-    "updated_at": "2026-10-26T18:06:51Z",
+    "updated_at": "2026-10-26T19:30:00Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -342,15 +378,6 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-26T17:33:12Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T16:56:20Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode / OpenCode / Qoder / WorkBuddy \u56db\u4e2a AI \u7f16\u7a0b CLI\u3002\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1\uff0c\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u6309\u989d\u5ea6\u81ea\u52a8\u964d\u7ea7\uff1b\u8d70\u5b98\u65b9 C",
-    "id": "Shuffle-1992/dsh-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-dispatch",
-    "stars": 5,
-    "updated_at": "2026-10-26T16:53:44Z",
-    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
-  },
-  {
-    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
-    "id": "iap/hermes-guide",
-    "language": "Python",
-    "name": "iap/hermes-guide",
-    "stars": 4,
-    "updated_at": "2026-10-26T18:25:13Z",
-    "url": "https://github.com/iap/hermes-guide"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-26T16:49:23Z",
-    "url": "https://github.com/kyleslight/shun"
   }
 ]
