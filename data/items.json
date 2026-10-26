@@ -1,10 +1,28 @@
 [
   {
+    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
+    "id": "bamboosir1109/dsh-lanya",
+    "language": "Python",
+    "name": "bamboosir1109/dsh-lanya",
+    "stars": 1,
+    "updated_at": "2026-10-26T06:58:03Z",
+    "url": "https://github.com/bamboosir1109/dsh-lanya"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-26T06:51:17Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
     "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
     "id": "EvannZhongg/Nosis",
     "language": "Python",
     "name": "EvannZhongg/Nosis",
-    "stars": 10,
+    "stars": 16,
     "updated_at": "2026-10-26T06:44:01Z",
     "url": "https://github.com/EvannZhongg/Nosis"
   },
@@ -36,21 +54,12 @@
     "url": "https://github.com/yologdev/yoagent"
   },
   {
-    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
-    "id": "bamboosir1109/dsh-lanya",
-    "language": "Python",
-    "name": "bamboosir1109/dsh-lanya",
-    "stars": 1,
-    "updated_at": "2026-10-26T06:40:46Z",
-    "url": "https://github.com/bamboosir1109/dsh-lanya"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-26T06:39:37Z",
+    "updated_at": "2026-10-26T06:56:17Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -221,7 +230,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-26T06:42:56Z",
+    "updated_at": "2026-10-26T06:57:00Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -229,7 +238,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34078,
+    "stars": 34084,
     "updated_at": "2026-10-26T05:56:00Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -256,7 +265,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6567,
+    "stars": 6568,
     "updated_at": "2026-10-26T05:55:13Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -284,7 +293,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-26T06:36:17Z",
+    "updated_at": "2026-10-26T06:57:51Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -304,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T05:41:09Z",
     "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
-  },
-  {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-26T06:34:51Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -419,7 +419,7 @@
     "language": "Python",
     "name": "iap/hermes-guide",
     "stars": 4,
-    "updated_at": "2026-10-26T06:33:18Z",
+    "updated_at": "2026-10-26T06:51:35Z",
     "url": "https://github.com/iap/hermes-guide"
   },
   {
@@ -445,7 +445,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 1072,
+    "stars": 1074,
     "updated_at": "2026-10-26T04:32:08Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   }
