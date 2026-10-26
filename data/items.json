@@ -1,5 +1,50 @@
 [
   {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 16,
+    "updated_at": "2026-10-26T18:28:43Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-26T18:28:18Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-26T18:25:47Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
+    "id": "bitranox/vnc-remote-control",
+    "language": "Python",
+    "name": "bitranox/vnc-remote-control",
+    "stars": 0,
+    "updated_at": "2026-10-26T18:24:18Z",
+    "url": "https://github.com/bitranox/vnc-remote-control"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8957,
+    "updated_at": "2026-10-26T18:17:29Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
     "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
     "id": "HKUDS/DeepCode",
     "language": "Python",
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4466,
-    "updated_at": "2026-10-26T18:12:21Z",
+    "updated_at": "2026-10-26T18:20:59Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -34,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-10-26T18:07:07Z",
     "url": "https://github.com/flashfrogluo/second-take"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-26T18:06:53Z",
-    "url": "https://github.com/oldfunk/paper-trading"
   },
   {
     "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T18:03:54Z",
     "url": "https://github.com/SpSharon/openedge-code-intelligence-agent"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-26T18:01:52Z",
-    "url": "https://github.com/memoways/ava-proto1"
   },
   {
     "description": "\u4f60\u7684\u7b2c\u4e00\u4e2a\u591a Agent \u9879\u76ee | Your first multi-agent project \u2014 LangGraph \u7f16\u6392 \u00b7 \u5408\u89c4\u4fee\u590d\u56de\u8def \u00b7 \u4e09\u5c42\u8bb0\u5fc6\u964d\u7ea7 / compliance repair loop, tiered memor",
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "iap/hermes-guide",
     "stars": 4,
-    "updated_at": "2026-10-26T18:10:09Z",
+    "updated_at": "2026-10-26T18:25:13Z",
     "url": "https://github.com/iap/hermes-guide"
   },
   {
@@ -333,15 +360,6 @@
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8957,
-    "updated_at": "2026-10-26T16:43:56Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
     "id": "ljchang/mecha",
     "language": "Rust",
@@ -355,7 +373,7 @@
     "id": "xiaomaozjj666/web-crawler",
     "language": "Python",
     "name": "xiaomaozjj666/web-crawler",
-    "stars": 5,
+    "stars": 6,
     "updated_at": "2026-10-26T16:40:53Z",
     "url": "https://github.com/xiaomaozjj666/web-crawler"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T16:21:33Z",
     "url": "https://github.com/AandBorC/dsa-lite"
-  },
-  {
-    "description": "LLM-supervised persistent memory for AI agents \u2014 graph-based recall, cross-session knowledge, single binary. Works with ",
-    "id": "mnemon-dev/mnemon",
-    "language": "Go",
-    "name": "mnemon-dev/mnemon",
-    "stars": 661,
-    "updated_at": "2026-10-26T18:12:48Z",
-    "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "DSH \u63d2\u4ef6\uff1a\u628a\u6296\u97f3\u79c1\u4fe1\u63a5\u8fdb DSH \u2014\u2014 \u79c1\u4fe1\u8fdb DSH \u4f1a\u8bdd\uff0cAI \u7528\u5de5\u5177\u5237\u89c6\u9891\u3001\u5206\u4eab\u3001\u804a\u5929\uff08\u542b\u56fe\u7247/\u8868\u60c5\u6536\u53d1\uff09\u3002\u4ec5\u4f9b\u5b66\u4e60\u7814\u7a76\u3002",
-    "id": "pcmxiao/dsh-douyin-bridge",
-    "language": "JavaScript",
-    "name": "pcmxiao/dsh-douyin-bridge",
-    "stars": 0,
-    "updated_at": "2026-10-26T16:18:12Z",
-    "url": "https://github.com/pcmxiao/dsh-douyin-bridge"
   }
 ]
