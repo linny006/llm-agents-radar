@@ -1,12 +1,102 @@
 [
   {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-26T16:56:20Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u628a DeepSeek Harness \u6253\u5305\u6210\u72ec\u7acb Android \u5e94\u7528\uff1a\u81ea\u5e26 Node \u8fd0\u884c\u65f6\uff0c\u88c5\u4e2a APK \u5c31\u80fd\u7528\u3002\u4e0d\u9700\u8981 Termux\u3001\u4e0d\u9700\u8981 proot\u3001\u4e0d\u9700\u8981 root\u3001\u4e0d\u9700\u8981\u7535\u8111\u3002\u5185\u542b\u5b8c\u6574\u7684 Android \u5e73\u53f0\u9002\u914d\u8e29\u5751\u8bb0\u5f55\uff08se",
+    "id": "yhm080315-sudo/dsh-android",
+    "language": "Java",
+    "name": "yhm080315-sudo/dsh-android",
+    "stars": 22,
+    "updated_at": "2026-10-26T16:56:05Z",
+    "url": "https://github.com/yhm080315-sudo/dsh-android"
+  },
+  {
+    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
+    "id": "roxm337/osint-agent",
+    "language": "Python",
+    "name": "roxm337/osint-agent",
+    "stars": 0,
+    "updated_at": "2026-10-26T16:55:09Z",
+    "url": "https://github.com/roxm337/osint-agent"
+  },
+  {
+    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode / OpenCode / Qoder / WorkBuddy \u56db\u4e2a AI \u7f16\u7a0b CLI\u3002\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1\uff0c\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u6309\u989d\u5ea6\u81ea\u52a8\u964d\u7ea7\uff1b\u8d70\u5b98\u65b9 C",
+    "id": "Shuffle-1992/dsh-dispatch",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-dispatch",
+    "stars": 5,
+    "updated_at": "2026-10-26T16:53:44Z",
+    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4465,
+    "updated_at": "2026-10-26T16:57:20Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
+    "id": "iap/hermes-guide",
+    "language": "Python",
+    "name": "iap/hermes-guide",
+    "stars": 4,
+    "updated_at": "2026-10-26T16:52:59Z",
+    "url": "https://github.com/iap/hermes-guide"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-26T16:53:08Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-26T16:49:23Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
     "id": "lzmd-arch/BioSNN-Plug",
     "language": "Python",
     "name": "lzmd-arch/BioSNN-Plug",
     "stars": 7,
-    "updated_at": "2026-10-26T16:44:45Z",
+    "updated_at": "2026-10-26T16:49:01Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-26T16:47:06Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "\u4f60\u7684\u7b2c\u4e00\u4e2a\u591a Agent \u9879\u76ee | Your first multi-agent project \u2014 LangGraph \u7f16\u6392 \u00b7 \u5408\u89c4\u4fee\u590d\u56de\u8def \u00b7 \u4e09\u5c42\u8bb0\u5fc6\u964d\u7ea7 / compliance repair loop, tiered memor",
+    "id": "Keviniscool-boy/agents-on-duty",
+    "language": "Python",
+    "name": "Keviniscool-boy/agents-on-duty",
+    "stars": 1,
+    "updated_at": "2026-10-26T16:45:12Z",
+    "url": "https://github.com/Keviniscool-boy/agents-on-duty"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -23,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-26T16:44:37Z",
+    "updated_at": "2026-10-26T16:57:46Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -45,15 +135,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "\u4f60\u7684\u7b2c\u4e00\u4e2a\u591a Agent \u9879\u76ee | Your first multi-agent project \u2014 LangGraph \u7f16\u6392 \u00b7 \u5408\u89c4\u4fee\u590d\u56de\u8def \u00b7 \u4e09\u5c42\u8bb0\u5fc6\u964d\u7ea7 / compliance repair loop, tiered memor",
-    "id": "Keviniscool-boy/agents-on-duty",
-    "language": "Python",
-    "name": "Keviniscool-boy/agents-on-duty",
-    "stars": 1,
-    "updated_at": "2026-10-26T16:45:12Z",
-    "url": "https://github.com/Keviniscool-boy/agents-on-duty"
-  },
-  {
     "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
     "id": "xiaomaozjj666/web-crawler",
     "language": "Python",
@@ -70,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-26T16:31:47Z",
     "url": "https://github.com/DavidLearning1023/bilibili-info-gathering"
-  },
-  {
-    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode / OpenCode / Qoder / WorkBuddy \u56db\u4e2a AI \u7f16\u7a0b CLI\u3002\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1\uff0c\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u6309\u989d\u5ea6\u81ea\u52a8\u964d\u7ea7\uff1b\u8d70\u5b98\u65b9 C",
-    "id": "Shuffle-1992/dsh-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-dispatch",
-    "stars": 5,
-    "updated_at": "2026-10-26T16:31:40Z",
-    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
   },
   {
     "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
@@ -108,15 +180,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
-    "id": "iap/hermes-guide",
-    "language": "Python",
-    "name": "iap/hermes-guide",
-    "stars": 4,
-    "updated_at": "2026-10-26T16:39:05Z",
-    "url": "https://github.com/iap/hermes-guide"
-  },
-  {
     "description": "\u5e26\u6267\u884c\u8fc7\u7a0b\u53ef\u89c6\u5316\u7684\u4e2d\u6587\u8c23\u8a00\u6838\u67e5:\u62c6\u539f\u5b50\u4e8b\u5b9e\u3001\u591a\u6e90\u5e76\u884c\u68c0\u7d22\u3001\u9010\u6761\u5224\u771f\u5047,\u5168\u7a0b\u6d41\u5f0f\u53ef\u89c2\u6d4b",
     "id": "forwaryan/rumor-checking",
     "language": "Python",
@@ -133,15 +196,6 @@
     "stars": 29,
     "updated_at": "2026-10-26T16:25:57Z",
     "url": "https://github.com/mintuz/skills"
-  },
-  {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/osint-agent",
-    "language": "Python",
-    "name": "roxm337/osint-agent",
-    "stars": 0,
-    "updated_at": "2026-10-26T16:44:01Z",
-    "url": "https://github.com/roxm337/osint-agent"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -169,15 +223,6 @@
     "stars": 661,
     "updated_at": "2026-10-26T16:20:35Z",
     "url": "https://github.com/mnemon-dev/mnemon"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-26T16:20:44Z",
-    "url": "https://github.com/hay-chat/hay-core"
   },
   {
     "description": "DSH \u63d2\u4ef6\uff1a\u628a\u6296\u97f3\u79c1\u4fe1\u63a5\u8fdb DSH \u2014\u2014 \u79c1\u4fe1\u8fdb DSH \u4f1a\u8bdd\uff0cAI \u7528\u5de5\u5177\u5237\u89c6\u9891\u3001\u5206\u4eab\u3001\u804a\u5929\uff08\u542b\u56fe\u7247/\u8868\u60c5\u6536\u53d1\uff09\u3002\u4ec5\u4f9b\u5b66\u4e60\u7814\u7a76\u3002",
@@ -270,21 +315,12 @@
     "url": "https://github.com/ScreamingMaggot/rcs-context"
   },
   {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-26T16:08:29Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-26T16:07:46Z",
+    "updated_at": "2026-10-26T16:55:19Z",
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T15:16:09Z",
     "url": "https://github.com/char-46/copilot-muze"
-  },
-  {
-    "description": "\u628a DeepSeek Harness \u6253\u5305\u6210\u72ec\u7acb Android \u5e94\u7528\uff1a\u81ea\u5e26 Node \u8fd0\u884c\u65f6\uff0c\u88c5\u4e2a APK \u5c31\u80fd\u7528\u3002\u4e0d\u9700\u8981 Termux\u3001\u4e0d\u9700\u8981 proot\u3001\u4e0d\u9700\u8981 root\u3001\u4e0d\u9700\u8981\u7535\u8111\u3002\u5185\u542b\u5b8c\u6574\u7684 Android \u5e73\u53f0\u9002\u914d\u8e29\u5751\u8bb0\u5f55\uff08se",
-    "id": "yhm080315-sudo/dsh-android",
-    "language": "Java",
-    "name": "yhm080315-sudo/dsh-android",
-    "stars": 22,
-    "updated_at": "2026-10-26T15:15:13Z",
-    "url": "https://github.com/yhm080315-sudo/dsh-android"
-  },
-  {
-    "description": "\u30c7\u30d9\u30ed\u30c3\u30d1\u30fc\u30b5\u30a4\u30c8\u306e\u57f7\u7b46\u3067\u4f5c\u6210\u3057\u305f\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
-    "id": "ubata-mamezou/developer-site-article-examples",
-    "language": "TypeScript",
-    "name": "ubata-mamezou/developer-site-article-examples",
-    "stars": 0,
-    "updated_at": "2026-10-26T15:04:20Z",
-    "url": "https://github.com/ubata-mamezou/developer-site-article-examples"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3694,
-    "updated_at": "2026-10-26T15:03:55Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
-    "id": "bitranox/vnc-remote-control",
-    "language": "Python",
-    "name": "bitranox/vnc-remote-control",
-    "stars": 0,
-    "updated_at": "2026-10-26T14:58:41Z",
-    "url": "https://github.com/bitranox/vnc-remote-control"
   }
 ]
