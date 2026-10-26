@@ -1,12 +1,102 @@
 [
   {
+    "description": "Self-hosted Next.js & Docker admin dashboard for Letta, featuring agent visualization, Git-backed MemFS file management,",
+    "id": "siderismsp/LettaCP",
+    "language": "TypeScript",
+    "name": "siderismsp/LettaCP",
+    "stars": 0,
+    "updated_at": "2026-10-26T17:29:35Z",
+    "url": "https://github.com/siderismsp/LettaCP"
+  },
+  {
+    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
+    "id": "flashfrogluo/second-take",
+    "language": "Shell",
+    "name": "flashfrogluo/second-take",
+    "stars": 3,
+    "updated_at": "2026-10-26T17:29:28Z",
+    "url": "https://github.com/flashfrogluo/second-take"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4465,
+    "updated_at": "2026-10-26T17:29:21Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-26T17:26:55Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-26T17:25:42Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-10-26T17:26:44Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "A conversational agent over a private corpus of 7,655 Chinese web novels (plain TXT, ~36 GB). LLM-built book cards and a",
+    "id": "i4cobus/inovel-agent",
+    "language": "Python",
+    "name": "i4cobus/inovel-agent",
+    "stars": 7,
+    "updated_at": "2026-10-26T17:25:03Z",
+    "url": "https://github.com/i4cobus/inovel-agent"
+  },
+  {
     "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
     "id": "orderye/memory-hub",
     "language": "Rust",
     "name": "orderye/memory-hub",
     "stars": 0,
-    "updated_at": "2026-10-26T17:14:37Z",
+    "updated_at": "2026-10-26T17:20:31Z",
     "url": "https://github.com/orderye/memory-hub"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-26T17:23:35Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 79,
+    "updated_at": "2026-10-26T17:18:25Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Local pre-write containment & structural scoring for AI coding agents: deterministic policy, Mamba-3 SSM coherence, and ",
+    "id": "jakubkrzysztofsikora/reasoning-core",
+    "language": "Python",
+    "name": "jakubkrzysztofsikora/reasoning-core",
+    "stars": 6,
+    "updated_at": "2026-10-26T17:16:14Z",
+    "url": "https://github.com/jakubkrzysztofsikora/reasoning-core"
   },
   {
     "description": "Copilot-for-Word-style LLM assistant for LyX and LibreOffice. Use your LLM subscription via ACP.",
@@ -16,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T17:13:03Z",
     "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4465,
-    "updated_at": "2026-10-26T17:14:29Z",
-    "url": "https://github.com/gptme/gptme"
   },
   {
     "description": "Deterministic orchestration, execution assurance, and quota-aware continuity runtime for GLM coding agents in ZCode",
@@ -41,26 +122,8 @@
     "language": "Python",
     "name": "roxm337/osint-agent",
     "stars": 0,
-    "updated_at": "2026-10-26T17:11:53Z",
+    "updated_at": "2026-10-26T17:20:26Z",
     "url": "https://github.com/roxm337/osint-agent"
-  },
-  {
-    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
-    "id": "flashfrogluo/second-take",
-    "language": "Shell",
-    "name": "flashfrogluo/second-take",
-    "stars": 3,
-    "updated_at": "2026-10-26T17:06:25Z",
-    "url": "https://github.com/flashfrogluo/second-take"
-  },
-  {
-    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-26T17:12:01Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
@@ -151,15 +214,6 @@
     "stars": 8957,
     "updated_at": "2026-10-26T16:43:56Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-26T17:10:05Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -315,15 +369,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-26T16:14:25Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
     "description": "Not a chatbot\u2014a tireless digital secretary. Jarvis is a persistent, self-hosted AI operating system that manages communi",
     "id": "Lucky-1608/Jarvis",
     "language": "Python",
@@ -337,7 +382,7 @@
     "id": "xiaomaozjj666/data-analysis-agent",
     "language": "Python",
     "name": "xiaomaozjj666/data-analysis-agent",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-10-26T16:10:42Z",
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
   },
@@ -367,15 +412,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T16:08:51Z",
     "url": "https://github.com/ScreamingMaggot/rcs-context"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-26T16:55:19Z",
-    "url": "https://github.com/memoways/ava-proto1"
   },
   {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T15:47:06Z",
     "url": "https://github.com/2841649220/astrbot_plugin_jitrl"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 510,
-    "updated_at": "2026-10-26T15:45:16Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
-    "id": "jphall663/GWU_LLM",
-    "language": "Jupyter Notebook",
-    "name": "jphall663/GWU_LLM",
-    "stars": 0,
-    "updated_at": "2026-10-26T15:41:13Z",
-    "url": "https://github.com/jphall663/GWU_LLM"
-  },
-  {
-    "description": "Private, offline AI assistant for your desktop: a local ChatGPT alternative powered by Ollama, in 12 languages. 9 agents",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 12,
-    "updated_at": "2026-10-26T15:36:53Z",
-    "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "Cross platform LLM agent",
-    "id": "yanggujun/open-axle",
-    "language": "TypeScript",
-    "name": "yanggujun/open-axle",
-    "stars": 0,
-    "updated_at": "2026-10-26T15:33:41Z",
-    "url": "https://github.com/yanggujun/open-axle"
   }
 ]
