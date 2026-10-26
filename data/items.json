@@ -1,12 +1,39 @@
 [
   {
+    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
+    "id": "char-46/copilot-muze",
+    "language": "Python",
+    "name": "char-46/copilot-muze",
+    "stars": 0,
+    "updated_at": "2026-10-26T00:57:14Z",
+    "url": "https://github.com/char-46/copilot-muze"
+  },
+  {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
     "id": "lzmd-arch/BioSNN-Plug",
     "language": "Python",
     "name": "lzmd-arch/BioSNN-Plug",
     "stars": 7,
-    "updated_at": "2026-10-26T00:44:58Z",
+    "updated_at": "2026-10-26T00:55:58Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 343,
+    "updated_at": "2026-10-26T00:54:37Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
+    "id": "liaosiliangCodeLife/harness-mate-plat",
+    "language": "Python",
+    "name": "liaosiliangCodeLife/harness-mate-plat",
+    "stars": 27,
+    "updated_at": "2026-10-26T00:48:25Z",
+    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -16,15 +43,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T00:43:46Z",
     "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 343,
-    "updated_at": "2026-10-26T00:41:02Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "iap/hermes-guide",
     "stars": 4,
-    "updated_at": "2026-10-26T00:20:41Z",
+    "updated_at": "2026-10-26T00:51:56Z",
     "url": "https://github.com/iap/hermes-guide"
   },
   {
@@ -131,7 +149,7 @@
     "language": "Python",
     "name": "HaikeiLabs/agentware",
     "stars": 1,
-    "updated_at": "2026-10-26T00:10:18Z",
+    "updated_at": "2026-10-26T00:58:51Z",
     "url": "https://github.com/HaikeiLabs/agentware"
   },
   {
@@ -149,7 +167,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 2,
-    "updated_at": "2026-10-26T00:12:07Z",
+    "updated_at": "2026-10-26T00:45:54Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -247,7 +265,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 1054,
+    "stars": 1056,
     "updated_at": "2026-10-25T23:33:28Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -257,7 +275,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-26T00:35:17Z",
+    "updated_at": "2026-10-26T00:49:32Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 12,
     "updated_at": "2026-10-25T22:05:39Z",
     "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
-    "id": "sindredg/ai-security-platform",
-    "language": "Python",
-    "name": "sindredg/ai-security-platform",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:51:15Z",
-    "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-25T21:43:02Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   }
 ]
