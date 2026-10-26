@@ -1,30 +1,12 @@
 [
   {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 345,
-    "updated_at": "2026-10-26T09:30:11Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Ship AI agents with evidence. Open-source evals for LLMs, RAG, tools, and conversations. Use Claude Code, Codex, or your",
-    "id": "Vatsa10/evals",
-    "language": "Python",
-    "name": "Vatsa10/evals",
+    "description": "DSH \u63d2\u4ef6\uff1a\u628a\u6296\u97f3\u79c1\u4fe1\u63a5\u8fdb DSH \u2014\u2014 \u79c1\u4fe1\u8fdb DSH \u4f1a\u8bdd\uff0cAI \u7528\u5de5\u5177\u5237\u89c6\u9891\u3001\u5206\u4eab\u3001\u804a\u5929\uff08\u542b\u56fe\u7247/\u8868\u60c5\u6536\u53d1\uff09\u3002\u4ec5\u4f9b\u5b66\u4e60\u7814\u7a76\u3002",
+    "id": "pcmxiao/dsh-douyin-bridge",
+    "language": "JavaScript",
+    "name": "pcmxiao/dsh-douyin-bridge",
     "stars": 0,
-    "updated_at": "2026-10-26T09:29:49Z",
-    "url": "https://github.com/Vatsa10/evals"
-  },
-  {
-    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-26T09:29:18Z",
-    "url": "https://github.com/bigduu/Zenith"
+    "updated_at": "2026-10-26T09:44:16Z",
+    "url": "https://github.com/pcmxiao/dsh-douyin-bridge"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -32,8 +14,35 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-26T09:29:08Z",
+    "updated_at": "2026-10-26T09:44:06Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 136,
+    "updated_at": "2026-10-26T09:42:35Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Ship AI agents with evidence. Open-source evals for LLMs, RAG, tools, and conversations. Use Claude Code, Codex, or your",
+    "id": "Vatsa10/evals",
+    "language": "Python",
+    "name": "Vatsa10/evals",
+    "stars": 0,
+    "updated_at": "2026-10-26T09:39:03Z",
+    "url": "https://github.com/Vatsa10/evals"
+  },
+  {
+    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
+    "id": "eshanized/M31A",
+    "language": "Rust",
+    "name": "eshanized/M31A",
+    "stars": 10,
+    "updated_at": "2026-10-26T09:38:09Z",
+    "url": "https://github.com/eshanized/M31A"
   },
   {
     "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
@@ -41,8 +50,71 @@
     "language": "Python",
     "name": "oldfunk/paper-trading",
     "stars": 1,
-    "updated_at": "2026-10-26T09:28:22Z",
+    "updated_at": "2026-10-26T09:45:14Z",
     "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 3,
+    "updated_at": "2026-10-26T09:36:55Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-26T09:36:15Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
+    "id": "aviskaar/zorp",
+    "language": "Rust",
+    "name": "aviskaar/zorp",
+    "stars": 3,
+    "updated_at": "2026-10-26T09:36:13Z",
+    "url": "https://github.com/aviskaar/zorp"
+  },
+  {
+    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
+    "id": "node9-ai/node9-proxy",
+    "language": "TypeScript",
+    "name": "node9-ai/node9-proxy",
+    "stars": 219,
+    "updated_at": "2026-10-26T09:33:47Z",
+    "url": "https://github.com/node9-ai/node9-proxy"
+  },
+  {
+    "description": "Private, offline AI assistant for your desktop: a local ChatGPT alternative powered by Ollama, in 12 languages. 9 agents",
+    "id": "gonicolas12/My_AI",
+    "language": "Python",
+    "name": "gonicolas12/My_AI",
+    "stars": 12,
+    "updated_at": "2026-10-26T09:33:35Z",
+    "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 346,
+    "updated_at": "2026-10-26T09:30:11Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-10-26T09:31:17Z",
+    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
@@ -85,7 +157,7 @@
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
-    "stars": 29,
+    "stars": 30,
     "updated_at": "2026-10-26T09:14:46Z",
     "url": "https://github.com/tomcounsell/ai"
   },
@@ -142,15 +214,6 @@
     "stars": 16,
     "updated_at": "2026-10-26T09:07:40Z",
     "url": "https://github.com/EvannZhongg/Nosis"
-  },
-  {
-    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
-    "id": "Shuffle-1992/dsh-context-pilot",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-context-pilot",
-    "stars": 3,
-    "updated_at": "2026-10-26T09:07:01Z",
-    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
   },
   {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
@@ -212,17 +275,8 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1080,
-    "updated_at": "2026-10-26T09:02:10Z",
+    "updated_at": "2026-10-26T09:41:17Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 219,
-    "updated_at": "2026-10-26T09:04:12Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -257,7 +311,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 15,
-    "updated_at": "2026-10-26T09:14:16Z",
+    "updated_at": "2026-10-26T09:40:45Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -315,15 +369,6 @@
     "url": "https://github.com/SnowYouth/ontologyBaseAI"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-26T08:35:12Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "A conversational agent over a private corpus of 7,655 Chinese web novels (plain TXT, ~36 GB). LLM-built book cards and a",
     "id": "i4cobus/inovel-agent",
     "language": "Python",
@@ -338,7 +383,7 @@
     "language": "Python",
     "name": "cohexa-ai/agent-coherence",
     "stars": 12,
-    "updated_at": "2026-10-26T08:23:34Z",
+    "updated_at": "2026-10-26T09:42:30Z",
     "url": "https://github.com/cohexa-ai/agent-coherence"
   },
   {
@@ -347,26 +392,8 @@
     "language": "Go",
     "name": "n1majne3/CyberPenda",
     "stars": 26,
-    "updated_at": "2026-10-26T09:30:06Z",
+    "updated_at": "2026-10-26T09:44:57Z",
     "url": "https://github.com/n1majne3/CyberPenda"
-  },
-  {
-    "description": "M31 Autonomous \u2014 Rust-native autonomous software-engineering runtime with non-bypassable policy gates and verifiable exe",
-    "id": "eshanized/M31A",
-    "language": "Rust",
-    "name": "eshanized/M31A",
-    "stars": 10,
-    "updated_at": "2026-10-26T08:12:02Z",
-    "url": "https://github.com/eshanized/M31A"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 3,
-    "updated_at": "2026-10-26T08:38:13Z",
-    "url": "https://github.com/aviskaar/zorp"
   },
   {
     "description": "\u771f\u00b7DeepSeek \u8054\u7f51\u641c\u7d22\u4e0e\u6293\u53d6 \u2014\u2014 AstrBot \u63d2\u4ef6\uff1a\u76f4\u8fde DeepSeek \u5b98\u65b9 Search / Fetch \u63a5\u53e3\uff0c\u5185\u7f6e\u4f9d\u8d56\u3001\u53ef\u9010\u884c\u5ba1\u8ba1",
@@ -419,34 +446,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-26T09:28:26Z",
+    "updated_at": "2026-10-26T09:37:37Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-10-26T07:35:06Z",
-    "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "\u7528\u81ea\u7136\u8bed\u8a00\u6307\u6325\u89c6\u9891\u526a\u8f91\u7684\u5168\u94fe\u8def\u672c\u5730\u667a\u80fd\u4f53\uff1a\u7d20\u6750\u7406\u89e3 \u2192 \u64cd\u4f5c\u89c4\u5212 \u2192 \u4e8b\u5b9e\u6821\u9a8c \u2192 \u771f\u5b9e\u51fa\u7247\uff0c\u914d\u5957 163 \u4e2a\u5355\u5143\u6d4b\u8bd5\u4e0e 22 \u4e2a\u53ef\u590d\u8dd1\u9a8c\u6536\u811a\u672c\u3002",
-    "id": "ryhirz/ai-video-agent",
-    "language": "Python",
-    "name": "ryhirz/ai-video-agent",
-    "stars": 0,
-    "updated_at": "2026-10-26T07:30:07Z",
-    "url": "https://github.com/ryhirz/ai-video-agent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-26T07:22:25Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   }
 ]
