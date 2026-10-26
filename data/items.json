@@ -1,5 +1,95 @@
 [
   {
+    "description": "Agent harness that makes a local Gemma 4 26B (vLLM on Intel Arc Pro B70) work like a stronger model: tested helper libra",
+    "id": "izagami/gemma-agent-harness",
+    "language": "JavaScript",
+    "name": "izagami/gemma-agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-26T02:15:07Z",
+    "url": "https://github.com/izagami/gemma-agent-harness"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-26T02:13:11Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
+    "id": "bamboosir1109/dsh-lanya",
+    "language": "Python",
+    "name": "bamboosir1109/dsh-lanya",
+    "stars": 1,
+    "updated_at": "2026-10-26T02:12:33Z",
+    "url": "https://github.com/bamboosir1109/dsh-lanya"
+  },
+  {
+    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
+    "id": "lusipad/browser-agent",
+    "language": "TypeScript",
+    "name": "lusipad/browser-agent",
+    "stars": 3,
+    "updated_at": "2026-10-26T02:11:19Z",
+    "url": "https://github.com/lusipad/browser-agent"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-26T02:07:59Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-26T02:13:23Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-26T02:02:42Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-26T02:01:47Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "An open-source AI agronomy agent that runs locally on your own machine or server, reaches you on Telegram and WhatsApp, ",
+    "id": "Rekin226/Agronaut",
+    "language": "Python",
+    "name": "Rekin226/Agronaut",
+    "stars": 5,
+    "updated_at": "2026-10-26T02:00:31Z",
+    "url": "https://github.com/Rekin226/Agronaut"
+  },
+  {
+    "description": "Official Scrapfly MCP server for Cursor, Claude Desktop, and any MCP-compatible client. Enterprise-grade web scraping, A",
+    "id": "scrapfly/scrapfly-mcp",
+    "language": "Go",
+    "name": "scrapfly/scrapfly-mcp",
+    "stars": 14,
+    "updated_at": "2026-10-26T02:00:18Z",
+    "url": "https://github.com/scrapfly/scrapfly-mcp"
+  },
+  {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
     "id": "lzmd-arch/BioSNN-Plug",
     "language": "Python",
@@ -27,24 +117,6 @@
     "url": "https://github.com/impsland/imp"
   },
   {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-26T01:57:03Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:57:50Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
     "id": "mmporong/rl-triage-agent",
     "language": "Python",
@@ -59,7 +131,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-26T01:51:38Z",
+    "updated_at": "2026-10-26T02:06:08Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -86,7 +158,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-26T01:43:12Z",
+    "updated_at": "2026-10-26T02:09:31Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -144,15 +216,6 @@
     "url": "https://github.com/ubata-mamezou/developer-site-article-examples"
   },
   {
-    "description": "Agent harness that makes a local Gemma 4 26B (vLLM on Intel Arc Pro B70) work like a stronger model: tested helper libra",
-    "id": "izagami/gemma-agent-harness",
-    "language": "JavaScript",
-    "name": "izagami/gemma-agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:28:13Z",
-    "url": "https://github.com/izagami/gemma-agent-harness"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -167,7 +230,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 365,
-    "updated_at": "2026-10-26T01:52:35Z",
+    "updated_at": "2026-10-26T02:09:38Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -205,15 +268,6 @@
     "stars": 5,
     "updated_at": "2026-10-26T01:09:49Z",
     "url": "https://github.com/cunhaax/ai-workflow"
-  },
-  {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-26T01:59:54Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -394,59 +448,5 @@
     "stars": 1057,
     "updated_at": "2026-10-26T01:30:46Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
-    "id": "xiaomaozjj666/web-crawler",
-    "language": "Python",
-    "name": "xiaomaozjj666/web-crawler",
-    "stars": 5,
-    "updated_at": "2026-10-25T23:17:16Z",
-    "url": "https://github.com/xiaomaozjj666/web-crawler"
-  },
-  {
-    "description": "Access control for AI agents. Set what Claude Code, Codex, Gemini, Cursor and any MCP server are allowed to do, review r",
-    "id": "node9-ai/node9-proxy",
-    "language": "TypeScript",
-    "name": "node9-ai/node9-proxy",
-    "stars": 219,
-    "updated_at": "2026-10-25T23:16:37Z",
-    "url": "https://github.com/node9-ai/node9-proxy"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:13:44Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:09:56Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Enterprise Data Agent: NL \u2192 contract-bound DSL \u2192 deterministic SQL \u2192 DuckDB. StateGraph orchestration, sandboxed analysi",
-    "id": "Cwentor/DataAgent",
-    "language": "Python",
-    "name": "Cwentor/DataAgent",
-    "stars": 1,
-    "updated_at": "2026-10-26T00:25:50Z",
-    "url": "https://github.com/Cwentor/DataAgent"
-  },
-  {
-    "description": "Turn a repository URL into a fact-verified GitHub Wiki: clone, inventory, run and probe the subject, scaffold QA-clean p",
-    "id": "paulmann/github-wiki-llm-writer",
-    "language": "Python",
-    "name": "paulmann/github-wiki-llm-writer",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:01:29Z",
-    "url": "https://github.com/paulmann/github-wiki-llm-writer"
   }
 ]
