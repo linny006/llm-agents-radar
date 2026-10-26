@@ -1,12 +1,57 @@
 [
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 16,
-    "updated_at": "2026-10-26T18:28:43Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-26T18:44:32Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-26T18:44:15Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "AI 3D-printing agent and B2C portal: describe an object or upload an image, PDF, STL, 3MF or Blender script; DeepSeek V4",
+    "id": "alfredang/3dblend",
+    "language": "TypeScript",
+    "name": "alfredang/3dblend",
+    "stars": 0,
+    "updated_at": "2026-10-26T18:42:06Z",
+    "url": "https://github.com/alfredang/3dblend"
+  },
+  {
+    "description": "Self-hosted Next.js & Docker admin dashboard for Letta, featuring agent visualization, Git-backed MemFS file management,",
+    "id": "siderismsp/LettaCP",
+    "language": "TypeScript",
+    "name": "siderismsp/LettaCP",
+    "stars": 0,
+    "updated_at": "2026-10-26T18:41:32Z",
+    "url": "https://github.com/siderismsp/LettaCP"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-10-26T18:40:46Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
+    "id": "flashfrogluo/second-take",
+    "language": "Python",
+    "name": "flashfrogluo/second-take",
+    "stars": 3,
+    "updated_at": "2026-10-26T18:35:00Z",
+    "url": "https://github.com/flashfrogluo/second-take"
   },
   {
     "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
@@ -14,8 +59,26 @@
     "language": "Python",
     "name": "oldfunk/paper-trading",
     "stars": 1,
-    "updated_at": "2026-10-26T18:28:18Z",
+    "updated_at": "2026-10-26T18:34:07Z",
     "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8957,
+    "updated_at": "2026-10-26T18:31:29Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 17,
+    "updated_at": "2026-10-26T18:28:43Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
@@ -34,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T18:24:18Z",
     "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8957,
-    "updated_at": "2026-10-26T18:17:29Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
@@ -70,15 +124,6 @@
     "stars": 4466,
     "updated_at": "2026-10-26T18:20:59Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "AI reasoning QA + retake note: when an AI answer disappoints, diagnose where its chain-of-thought went wrong and produce",
-    "id": "flashfrogluo/second-take",
-    "language": "Shell",
-    "name": "flashfrogluo/second-take",
-    "stars": 3,
-    "updated_at": "2026-10-26T18:07:07Z",
-    "url": "https://github.com/flashfrogluo/second-take"
   },
   {
     "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
@@ -144,15 +189,6 @@
     "url": "https://github.com/xieguigang/sciBASIC"
   },
   {
-    "description": "AI 3D-printing agent harness and B2C portal: describe an object or upload an image, PDF, STL, 3MF or Blender script; Dee",
-    "id": "alfredang/3dblend",
-    "language": "TypeScript",
-    "name": "alfredang/3dblend",
-    "stars": 0,
-    "updated_at": "2026-10-26T17:49:26Z",
-    "url": "https://github.com/alfredang/3dblend"
-  },
-  {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
     "id": "RalfHermsen/x4-agent",
     "language": "Python",
@@ -187,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T17:44:34Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Self-hosted Next.js & Docker admin dashboard for Letta, featuring agent visualization, Git-backed MemFS file management,",
-    "id": "siderismsp/LettaCP",
-    "language": "TypeScript",
-    "name": "siderismsp/LettaCP",
-    "stars": 0,
-    "updated_at": "2026-10-26T17:44:00Z",
-    "url": "https://github.com/siderismsp/LettaCP"
-  },
-  {
-    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
-    "id": "sindredg/ai-security-platform",
-    "language": "Python",
-    "name": "sindredg/ai-security-platform",
-    "stars": 0,
-    "updated_at": "2026-10-26T18:04:00Z",
-    "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
     "description": "The coordination layer for Multiplayer AI",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T16:27:01Z",
     "url": "https://github.com/forwaryan/rumor-checking"
-  },
-  {
-    "description": "My collection of Claude Code, Codex and OMP Agent Skills for web and iOS Development",
-    "id": "mintuz/skills",
-    "language": "Python",
-    "name": "mintuz/skills",
-    "stars": 29,
-    "updated_at": "2026-10-26T16:25:57Z",
-    "url": "https://github.com/mintuz/skills"
-  },
-  {
-    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
-    "id": "AandBorC/dsa-lite",
-    "language": "Python",
-    "name": "AandBorC/dsa-lite",
-    "stars": 0,
-    "updated_at": "2026-10-26T16:21:33Z",
-    "url": "https://github.com/AandBorC/dsa-lite"
   }
 ]
