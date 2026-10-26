@@ -1,20 +1,11 @@
 [
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-26T22:29:58Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "",
     "id": "andrewalhaj/custom-hermesagent",
     "language": "Python",
     "name": "andrewalhaj/custom-hermesagent",
     "stars": 0,
-    "updated_at": "2026-10-26T22:29:19Z",
+    "updated_at": "2026-10-26T22:42:21Z",
     "url": "https://github.com/andrewalhaj/custom-hermesagent"
   },
   {
@@ -23,8 +14,44 @@
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
     "stars": 3422,
-    "updated_at": "2026-10-26T22:27:39Z",
+    "updated_at": "2026-10-26T22:42:08Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 47,
+    "updated_at": "2026-10-26T22:40:50Z",
+    "url": "https://github.com/puremachinery/carapace"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 350,
+    "updated_at": "2026-10-26T22:40:18Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-26T22:37:04Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
+    "id": "tya5/shellboy",
+    "language": "Rust",
+    "name": "tya5/shellboy",
+    "stars": 0,
+    "updated_at": "2026-10-26T22:35:04Z",
+    "url": "https://github.com/tya5/shellboy"
   },
   {
     "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
@@ -32,8 +59,44 @@
     "language": "Python",
     "name": "diky87688973/ai-agent",
     "stars": 3,
-    "updated_at": "2026-10-26T22:24:23Z",
+    "updated_at": "2026-10-26T22:33:09Z",
     "url": "https://github.com/diky87688973/ai-agent"
+  },
+  {
+    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
+    "id": "cunhaax/ai-workflow",
+    "language": "Shell",
+    "name": "cunhaax/ai-workflow",
+    "stars": 5,
+    "updated_at": "2026-10-26T22:31:48Z",
+    "url": "https://github.com/cunhaax/ai-workflow"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-26T22:40:16Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Capability-first framework for evidence-backed applications over authoritative business-domain systems. First applicatio",
+    "id": "uukuguy/capstone",
+    "language": "Python",
+    "name": "uukuguy/capstone",
+    "stars": 0,
+    "updated_at": "2026-10-26T22:30:50Z",
+    "url": "https://github.com/uukuguy/capstone"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-26T22:29:58Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "Make any agent harness token-native.",
@@ -61,24 +124,6 @@
     "stars": 7,
     "updated_at": "2026-10-26T22:24:08Z",
     "url": "https://github.com/hsaghir/looplet"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 350,
-    "updated_at": "2026-10-26T22:15:08Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
-    "id": "puremachinery/carapace",
-    "language": "Rust",
-    "name": "puremachinery/carapace",
-    "stars": 47,
-    "updated_at": "2026-10-26T22:18:03Z",
-    "url": "https://github.com/puremachinery/carapace"
   },
   {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
@@ -374,7 +419,7 @@
     "language": "JavaScript",
     "name": "bigduu/Bodhi-AI",
     "stars": 17,
-    "updated_at": "2026-10-26T21:54:33Z",
+    "updated_at": "2026-10-26T22:32:24Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-26T19:13:45Z",
     "url": "https://github.com/flashfrogluo/second-take"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 510,
-    "updated_at": "2026-10-26T19:12:26Z",
-    "url": "https://github.com/expectedparrot/edsl"
-  },
-  {
-    "description": "Multi-agent LLM driven cell type annotation for single-cell RNA-Seq data",
-    "id": "NygenAnalytics/CyteType",
-    "language": "Python",
-    "name": "NygenAnalytics/CyteType",
-    "stars": 140,
-    "updated_at": "2026-10-26T19:14:02Z",
-    "url": "https://github.com/NygenAnalytics/CyteType"
-  },
-  {
-    "description": "Terminal-native AI coding agent with extensible TypeScript and Rust SDKs for building and orchestrating coding workflows",
-    "id": "codex-mohan/spectra",
-    "language": "TypeScript",
-    "name": "codex-mohan/spectra",
-    "stars": 1,
-    "updated_at": "2026-10-26T19:10:37Z",
-    "url": "https://github.com/codex-mohan/spectra"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 132,
-    "updated_at": "2026-10-26T19:06:53Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-26T19:05:58Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
