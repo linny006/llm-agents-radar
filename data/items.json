@@ -1,5 +1,50 @@
 [
   {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 365,
+    "updated_at": "2026-10-26T01:10:58Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
+    "id": "cunhaax/ai-workflow",
+    "language": "Python",
+    "name": "cunhaax/ai-workflow",
+    "stars": 5,
+    "updated_at": "2026-10-26T01:09:49Z",
+    "url": "https://github.com/cunhaax/ai-workflow"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-26T01:07:21Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-26T01:02:39Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Grux AI: open source AI agent for macOS (MIT). One Command Panel for your mail, calendar, meetings, files and a shell it",
+    "id": "dotcomjack/grux",
+    "language": "Swift",
+    "name": "dotcomjack/grux",
+    "stars": 30,
+    "updated_at": "2026-10-26T01:01:16Z",
+    "url": "https://github.com/dotcomjack/grux"
+  },
+  {
     "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
     "id": "char-46/copilot-muze",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "lzmd-arch/BioSNN-Plug",
     "stars": 7,
-    "updated_at": "2026-10-26T00:55:58Z",
+    "updated_at": "2026-10-26T01:08:24Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T00:35:52Z",
     "url": "https://github.com/impsland/imp"
-  },
-  {
-    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
-    "id": "cunhaax/ai-workflow",
-    "language": "Python",
-    "name": "cunhaax/ai-workflow",
-    "stars": 5,
-    "updated_at": "2026-10-26T00:32:24Z",
-    "url": "https://github.com/cunhaax/ai-workflow"
   },
   {
     "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
@@ -207,15 +243,6 @@
     "url": "https://github.com/stnlabz/language_model"
   },
   {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-25T23:50:41Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -230,7 +257,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-25T23:45:17Z",
+    "updated_at": "2026-10-26T01:09:03Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -265,7 +292,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 1056,
+    "stars": 1057,
     "updated_at": "2026-10-25T23:33:28Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -275,7 +302,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-26T00:49:32Z",
+    "updated_at": "2026-10-26T01:12:47Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -360,15 +387,6 @@
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:58:41Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
     "description": "Headless multi-provider LLM agent runtime. Single Go binary, 14+ providers, 70+ extension hooks, zero opinions.",
     "id": "dsswift/ion",
     "language": "Go",
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-26T00:33:59Z",
+    "updated_at": "2026-10-26T01:12:55Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-25T22:18:54Z",
     "url": "https://github.com/diky87688973/ai-agent"
-  },
-  {
-    "description": "\u0425\u0430\u043a\u0430\u0442\u043e\u043d \u0410\u043b\u044c\u0444\u0430-\u0411\u0430\u043d\u043a\u0430 \u00ab\u0410\u043b\u044c\u0444\u0430 \u0418\u043c\u043f\u0443\u043b\u044c\u0441\u00bb 2026: \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u043d\u043e\u0432\u043e\u0441\u0442\u043d\u0430\u044f \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430 \u0434\u043b\u044f \u043a\u0440\u0443\u043f\u043d\u043e\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430. \u0420\u0430\u043d\u0436\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043f\u043e 15 \u0444\u0430\u043a\u0442",
-    "id": "kirakorenkov/alfa-impulse-news-analytics",
-    "language": "Python",
-    "name": "kirakorenkov/alfa-impulse-news-analytics",
-    "stars": 0,
-    "updated_at": "2026-10-25T22:10:30Z",
-    "url": "https://github.com/kirakorenkov/alfa-impulse-news-analytics"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 12,
-    "updated_at": "2026-10-25T22:05:39Z",
-    "url": "https://github.com/alexwkleung/reika"
   }
 ]
