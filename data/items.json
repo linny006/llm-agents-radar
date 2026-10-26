@@ -1,12 +1,30 @@
 [
   {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-26T21:12:45Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-26T20:54:39Z",
+    "updated_at": "2026-10-26T21:12:12Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-26T21:09:22Z",
+    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -144,15 +162,6 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-26T19:46:19Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4465,
-    "updated_at": "2026-10-26T19:34:26Z",
+    "updated_at": "2026-10-26T21:10:44Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -203,7 +212,7 @@
     "language": "JavaScript",
     "name": "bigduu/Bodhi-AI",
     "stars": 17,
-    "updated_at": "2026-10-26T20:50:27Z",
+    "updated_at": "2026-10-26T21:06:26Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 22,
     "updated_at": "2026-10-26T17:47:16Z",
     "url": "https://github.com/yhm080315-sudo/dsh-android"
-  },
-  {
-    "description": "The coordination layer for Multiplayer AI",
-    "id": "cohexa-ai/agent-coherence",
-    "language": "Python",
-    "name": "cohexa-ai/agent-coherence",
-    "stars": 12,
-    "updated_at": "2026-10-26T17:39:40Z",
-    "url": "https://github.com/cohexa-ai/agent-coherence"
   }
 ]
