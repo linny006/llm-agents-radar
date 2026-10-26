@@ -1,12 +1,21 @@
 [
   {
-    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
-    "id": "sins-gif/moonshadow",
-    "language": "Python",
-    "name": "sins-gif/moonshadow",
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-26T21:29:38Z",
-    "url": "https://github.com/sins-gif/moonshadow"
+    "updated_at": "2026-10-26T21:42:54Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "A secure, stable Rust alternative to openclaw/moltbot/clawdbot",
+    "id": "puremachinery/carapace",
+    "language": "Rust",
+    "name": "puremachinery/carapace",
+    "stars": 47,
+    "updated_at": "2026-10-26T21:39:18Z",
+    "url": "https://github.com/puremachinery/carapace"
   },
   {
     "description": "Coding agent CLI for local and hosted models, designed around small local models first",
@@ -14,8 +23,26 @@
     "language": "TypeScript",
     "name": "alexwkleung/reika",
     "stars": 12,
-    "updated_at": "2026-10-26T21:25:43Z",
+    "updated_at": "2026-10-26T21:44:01Z",
     "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-26T21:33:38Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
+    "id": "sins-gif/moonshadow",
+    "language": "Python",
+    "name": "sins-gif/moonshadow",
+    "stars": 0,
+    "updated_at": "2026-10-26T21:29:38Z",
+    "url": "https://github.com/sins-gif/moonshadow"
   },
   {
     "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
@@ -50,17 +77,8 @@
     "language": "Python",
     "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-26T21:19:14Z",
+    "updated_at": "2026-10-26T21:43:08Z",
     "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-26T21:17:33Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -194,7 +212,7 @@
     "language": "TypeScript",
     "name": "NicoGenti/opencode-orchestrator-kit",
     "stars": 8,
-    "updated_at": "2026-10-26T19:57:19Z",
+    "updated_at": "2026-10-26T21:38:40Z",
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4465,
-    "updated_at": "2026-10-26T21:10:44Z",
+    "updated_at": "2026-10-26T21:40:00Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -257,7 +275,7 @@
     "language": "JavaScript",
     "name": "bigduu/Bodhi-AI",
     "stars": 17,
-    "updated_at": "2026-10-26T21:06:26Z",
+    "updated_at": "2026-10-26T21:36:33Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
@@ -400,7 +418,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16757,
+    "stars": 16756,
     "updated_at": "2026-10-26T18:12:51Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-26T17:53:30Z",
     "url": "https://github.com/Keviniscool-boy/agents-on-duty"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-26T20:32:59Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-26T17:50:51Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   }
 ]
