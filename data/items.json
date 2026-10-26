@@ -1,12 +1,12 @@
 [
   {
-    "description": "\u628a DeepSeek Harness \u6253\u5305\u6210\u72ec\u7acb Android \u5e94\u7528\uff1a\u81ea\u5e26 Node \u8fd0\u884c\u65f6\uff0c\u88c5\u4e2a APK \u5c31\u80fd\u7528\u3002\u4e0d\u9700\u8981 Termux\u3001\u4e0d\u9700\u8981 proot\u3001\u4e0d\u9700\u8981 root\u3001\u4e0d\u9700\u8981\u7535\u8111\u3002\u5185\u542b\u5b8c\u6574\u7684 Android \u5e73\u53f0\u9002\u914d\u8e29\u5751\u8bb0\u5f55\uff08se",
-    "id": "yhm080315-sudo/dsh-android",
-    "language": "Java",
-    "name": "yhm080315-sudo/dsh-android",
-    "stars": 21,
-    "updated_at": "2026-10-26T15:15:13Z",
-    "url": "https://github.com/yhm080315-sudo/dsh-android"
+    "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
+    "id": "jphall663/GWU_LLM",
+    "language": "Jupyter Notebook",
+    "name": "jphall663/GWU_LLM",
+    "stars": 0,
+    "updated_at": "2026-10-26T15:29:56Z",
+    "url": "https://github.com/jphall663/GWU_LLM"
   },
   {
     "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
@@ -14,8 +14,44 @@
     "language": "JavaScript",
     "name": "Shuffle-1992/dsh-context-pilot",
     "stars": 4,
-    "updated_at": "2026-10-26T15:14:37Z",
+    "updated_at": "2026-10-26T15:29:43Z",
     "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-26T15:28:19Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-26T15:26:06Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-26T15:24:13Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-26T15:23:25Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
@@ -23,8 +59,26 @@
     "language": "Python",
     "name": "bamboosir1109/dsh-lanya",
     "stars": 2,
-    "updated_at": "2026-10-26T15:14:04Z",
+    "updated_at": "2026-10-26T15:22:42Z",
     "url": "https://github.com/bamboosir1109/dsh-lanya"
+  },
+  {
+    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode / OpenCode / Qoder / WorkBuddy \u56db\u4e2a AI \u7f16\u7a0b CLI\u3002\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1\uff0c\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u6309\u989d\u5ea6\u81ea\u52a8\u964d\u7ea7\uff1b\u8d70\u5b98\u65b9 C",
+    "id": "Shuffle-1992/dsh-dispatch",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-dispatch",
+    "stars": 5,
+    "updated_at": "2026-10-26T15:22:25Z",
+    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
+  },
+  {
+    "description": "\ud83d\udcda \u6301\u7eed\u751f\u957f\u7684\u540e\u7aef\u00d7AI \u751f\u4ea7\u7ea7\u77e5\u8bc6\u4f53\u7cfb\uff5c\u6bcf\u7bc7\u4ece\u4e0a\u7ebf\u4ee3\u7801\u56de\u5199\uff0c\u771f\u5b9e\u7c7b\u540d\u53ef\u70b9\u51fb\u9a8c\u8bc1 \u00b7 \u8ffd\u95ee\u94fe\u5f0f\u6df1\u5ea6\u6807\u5c3a\uff1a\u7b54\u6848\u7ecf\u5f97\u8d77\u9762\u8bd5\u5b98\u8fde\u73af\u8ffd\u95ee \u00b7 \u6574\u5e93\u5de5\u7a0b\u5316\u6cbb\u7406\uff1akb-upkeep \u811a\u672c\u4f53\u68c0\u96f6\u7a7a\u58f3\u96f6\u6b7b\u94fe + \u914d\u56fe\u5168\u672c\u5730\u5316 + VitePress \u7535\u5b50\u4e66",
+    "id": "Mein-Augenstern/MUYI",
+    "language": "JavaScript",
+    "name": "Mein-Augenstern/MUYI",
+    "stars": 11,
+    "updated_at": "2026-10-26T15:18:59Z",
+    "url": "https://github.com/Mein-Augenstern/MUYI"
   },
   {
     "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
@@ -32,8 +86,26 @@
     "language": "Python",
     "name": "char-46/copilot-muze",
     "stars": 0,
-    "updated_at": "2026-10-26T15:12:25Z",
+    "updated_at": "2026-10-26T15:16:09Z",
     "url": "https://github.com/char-46/copilot-muze"
+  },
+  {
+    "description": "\u8ba9 AstrBot \u7684 Agent \u8fb9\u804a\u8fb9\u5b66\uff1a\u7ecf\u9a8c\u8bb0\u5fc6 + \u52a8\u4f5c\u4f18\u52bf\u4f30\u8ba1 + \u65e0\u68af\u5ea6\u7b56\u7565\u4f18\u5316\uff08JitRL, ICML 2026\uff09",
+    "id": "2841649220/astrbot_plugin_jitrl",
+    "language": "Python",
+    "name": "2841649220/astrbot_plugin_jitrl",
+    "stars": 0,
+    "updated_at": "2026-10-26T15:16:04Z",
+    "url": "https://github.com/2841649220/astrbot_plugin_jitrl"
+  },
+  {
+    "description": "\u628a DeepSeek Harness \u6253\u5305\u6210\u72ec\u7acb Android \u5e94\u7528\uff1a\u81ea\u5e26 Node \u8fd0\u884c\u65f6\uff0c\u88c5\u4e2a APK \u5c31\u80fd\u7528\u3002\u4e0d\u9700\u8981 Termux\u3001\u4e0d\u9700\u8981 proot\u3001\u4e0d\u9700\u8981 root\u3001\u4e0d\u9700\u8981\u7535\u8111\u3002\u5185\u542b\u5b8c\u6574\u7684 Android \u5e73\u53f0\u9002\u914d\u8e29\u5751\u8bb0\u5f55\uff08se",
+    "id": "yhm080315-sudo/dsh-android",
+    "language": "Java",
+    "name": "yhm080315-sudo/dsh-android",
+    "stars": 21,
+    "updated_at": "2026-10-26T15:15:13Z",
+    "url": "https://github.com/yhm080315-sudo/dsh-android"
   },
   {
     "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
@@ -45,15 +117,6 @@
     "url": "https://github.com/roxm337/osint-agent"
   },
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-26T15:11:36Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "\u5e26\u6267\u884c\u8fc7\u7a0b\u53ef\u89c6\u5316\u7684\u4e2d\u6587\u8c23\u8a00\u6838\u67e5:\u62c6\u539f\u5b50\u4e8b\u5b9e\u3001\u591a\u6e90\u5e76\u884c\u68c0\u7d22\u3001\u9010\u6761\u5224\u771f\u5047,\u5168\u7a0b\u6d41\u5f0f\u53ef\u89c2\u6d4b",
     "id": "forwaryan/rumor-checking",
     "language": "Python",
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T15:08:22Z",
     "url": "https://github.com/forwaryan/rumor-checking"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-26T15:15:09Z",
-    "url": "https://github.com/hay-chat/hay-core"
   },
   {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
@@ -81,15 +135,6 @@
     "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-26T15:06:30Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "\u30c7\u30d9\u30ed\u30c3\u30d1\u30fc\u30b5\u30a4\u30c8\u306e\u57f7\u7b46\u3067\u4f5c\u6210\u3057\u305f\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
     "id": "ubata-mamezou/developer-site-article-examples",
     "language": "TypeScript",
@@ -97,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-10-26T15:04:20Z",
     "url": "https://github.com/ubata-mamezou/developer-site-article-examples"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3693,
+    "updated_at": "2026-10-26T15:03:55Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T14:58:41Z",
     "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
-    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u628a\u4efb\u52a1\u6d3e\u53d1\u7ed9\u672c\u673a ZCode / OpenCode / Qoder / WorkBuddy \u56db\u4e2a AI \u7f16\u7a0b CLI\u3002\u9762\u677f\u53ef\u76d1\u89c6/\u7ec8\u6b62/\u7eed\u8dd1\uff0c\u5355\u5199\u8005\u6587\u4ef6\u9501 + \u7528\u91cf\u53f0\u8d26 + \u6309\u989d\u5ea6\u81ea\u52a8\u964d\u7ea7\uff1b\u8d70\u5b98\u65b9 C",
-    "id": "Shuffle-1992/dsh-dispatch",
-    "language": "JavaScript",
-    "name": "Shuffle-1992/dsh-dispatch",
-    "stars": 5,
-    "updated_at": "2026-10-26T14:57:28Z",
-    "url": "https://github.com/Shuffle-1992/dsh-dispatch"
   },
   {
     "description": "My collection of Claude Code, Codex and OMP Agent Skills for web and iOS Development",
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-26T15:14:42Z",
+    "updated_at": "2026-10-26T15:24:54Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -261,15 +306,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-26T14:41:21Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "Local pre-write containment & structural scoring for AI coding agents: deterministic policy, Mamba-3 SSM coherence, and ",
     "id": "jakubkrzysztofsikora/reasoning-core",
     "language": "Python",
@@ -329,7 +365,7 @@
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-26T14:57:01Z",
+    "updated_at": "2026-10-26T15:23:12Z",
     "url": "https://github.com/hellices/korvid"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
-    "description": "\u8ba9 AstrBot \u7684 Agent \u8fb9\u804a\u8fb9\u5b66\uff1a\u7ecf\u9a8c\u8bb0\u5fc6 + \u52a8\u4f5c\u4f18\u52bf\u4f30\u8ba1 + \u65e0\u68af\u5ea6\u7b56\u7565\u4f18\u5316\uff08JitRL, ICML 2026\uff09",
-    "id": "2841649220/astrbot_plugin_jitrl",
-    "language": "Python",
-    "name": "2841649220/astrbot_plugin_jitrl",
-    "stars": 0,
-    "updated_at": "2026-10-26T13:54:13Z",
-    "url": "https://github.com/2841649220/astrbot_plugin_jitrl"
-  },
-  {
     "description": "shared memory for agents. Markdown is the truth; agents just share a directory",
     "id": "neilzhao-piee/shmem",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-26T13:39:49Z",
     "url": "https://github.com/xiaomaozjj666/data-analysis-agent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3692,
-    "updated_at": "2026-10-26T15:03:55Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Run OpenCode in Docker: server mode + dedicated Docker daemon for isolated sandbox",
-    "id": "alexandermyasnikov/opencode-agent",
-    "language": "TypeScript",
-    "name": "alexandermyasnikov/opencode-agent",
-    "stars": 1,
-    "updated_at": "2026-10-26T13:19:32Z",
-    "url": "https://github.com/alexandermyasnikov/opencode-agent"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-26T13:15:57Z",
-    "url": "https://github.com/memoways/ava-proto1"
   }
 ]
