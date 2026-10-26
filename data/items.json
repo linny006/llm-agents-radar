@@ -1,12 +1,75 @@
 [
   {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
+    "description": "\u901a\u7528 Agent \u5185\u6838\uff1a\u5728\u7ebf\u5927\u8111\u89c4\u5212 + \u672c\u5730\u6267\u884c\u5668\uff0cMCP / LangGraph / OpenAI Agents SDK \u9a71\u52a8\uff0c\u652f\u6301\u77e5\u8bc6\u7ea7\u81ea\u5347\u7ea7\uff08\u6280\u80fd\u4e0e\u5168\u5c40\u8bb0\u5fc6\u81ea\u52a8\u63d0\u70bc\uff09",
+    "id": "momo-null/OmniAgent",
     "language": "Python",
-    "name": "mmporong/rl-triage-agent",
+    "name": "momo-null/OmniAgent",
+    "stars": 3,
+    "updated_at": "2026-10-26T11:26:23Z",
+    "url": "https://github.com/momo-null/OmniAgent"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-26T11:26:19Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "Automatically translate WordPress posts to several languages via OpenAI LLMs. Posts are translated upon publishing (incl",
+    "id": "GoldenChrysus/wp-auto-translator",
+    "language": "PHP",
+    "name": "GoldenChrysus/wp-auto-translator",
+    "stars": 1,
+    "updated_at": "2026-10-26T11:23:40Z",
+    "url": "https://github.com/GoldenChrysus/wp-auto-translator"
+  },
+  {
+    "description": "A harness for embodied language agents on the Unitree G1 humanoid: deterministic skills, typed tools, measurement-based ",
+    "id": "enqinghayashi/OpenBot",
+    "language": "Python",
+    "name": "enqinghayashi/OpenBot",
+    "stars": 0,
+    "updated_at": "2026-10-26T11:22:29Z",
+    "url": "https://github.com/enqinghayashi/OpenBot"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-26T11:20:44Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
+    "id": "b-macker/NAAb",
+    "language": "C++",
+    "name": "b-macker/NAAb",
     "stars": 2,
-    "updated_at": "2026-10-26T11:14:49Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
+    "updated_at": "2026-10-26T11:20:46Z",
+    "url": "https://github.com/b-macker/NAAb"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 34147,
+    "updated_at": "2026-10-26T11:18:03Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
+    "id": "410979729/scope-recall-hermes",
+    "language": "Python",
+    "name": "410979729/scope-recall-hermes",
+    "stars": 478,
+    "updated_at": "2026-10-26T11:16:49Z",
+    "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -14,8 +77,17 @@
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-26T11:14:01Z",
+    "updated_at": "2026-10-26T11:16:20Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-26T11:15:49Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "\u9762\u5411 DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u4e0e\u8bb0\u5fc6\u63d2\u4ef6\u5305\uff08MIT\uff09\uff0c\u517c\u5bb9 DSH 0.1.5-rc.2 \u81f3\u5f53\u524d\u6700\u65b0 0.2.1-rc.3\u3002\u6298\u53e0\u957f\u4f1a\u8bdd\u91cc\u91cd\u590d\u7684\u5de5\u5177\u8f93\u51fa\uff08\u539f\u6587\u53ef\u968f\u65f6\u5c55\u5f00\uff09\uff0c\u7ed9\u6a21\u578b\u914d\u4e00\u540d\u53ea\u8bfb\u8c03\u67e5\u5458\u5148\u6838\u5b9e\u518d\u52a8\u624b\uff1b\u4f1a\u8bdd\u4e8b\u5b9e\u6c89\u6dc0\u4e3a\u5e26",
@@ -25,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T11:12:12Z",
     "url": "https://github.com/ScreamingMaggot/rcs-context"
-  },
-  {
-    "description": "A harness for embodied language agents on the Unitree G1 humanoid: deterministic skills, typed tools, measurement-based ",
-    "id": "enqinghayashi/OpenBot",
-    "language": "Python",
-    "name": "enqinghayashi/OpenBot",
-    "stars": 0,
-    "updated_at": "2026-10-26T11:11:42Z",
-    "url": "https://github.com/enqinghayashi/OpenBot"
   },
   {
     "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
@@ -90,15 +153,6 @@
     "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-26T11:11:39Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "Medicines chatbot that answers with real 3D molecular structures: RAG over FDA drug labels, agent tools over a local che",
     "id": "DannyKuk/molecula",
     "language": "Python",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3691,
-    "updated_at": "2026-10-26T11:14:16Z",
+    "updated_at": "2026-10-26T11:24:54Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -270,15 +324,6 @@
     "url": "https://github.com/cunhaax/ai-workflow"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 34145,
-    "updated_at": "2026-10-26T10:09:24Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "LLM-powered TeamSpeak bot | LLM\u9a71\u52a8\u7684TeamSpeak\u673a\u5668\u4eba",
     "id": "Dr1mH4X/TeamSpeakClaw",
     "language": "Rust",
@@ -382,7 +427,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 347,
+    "stars": 346,
     "updated_at": "2026-10-26T09:30:11Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T09:21:41Z",
     "url": "https://github.com/Lucky-1608/Jarvis"
-  },
-  {
-    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
-    "id": "hellices/korvid",
-    "language": "Python",
-    "name": "hellices/korvid",
-    "stars": 3,
-    "updated_at": "2026-10-26T10:43:10Z",
-    "url": "https://github.com/hellices/korvid"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-26T09:19:06Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 30,
-    "updated_at": "2026-10-26T09:14:46Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "A local-only ReAct agent running on Ollama, with no agent framework. Hand-rolled loop, typed tools, a real filesystem sa",
-    "id": "mntoyg/OmniAgent",
-    "language": "Python",
-    "name": "mntoyg/OmniAgent",
-    "stars": 0,
-    "updated_at": "2026-10-26T09:13:43Z",
-    "url": "https://github.com/mntoyg/OmniAgent"
-  },
-  {
-    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
-    "id": "bamboosir1109/dsh-lanya",
-    "language": "Python",
-    "name": "bamboosir1109/dsh-lanya",
-    "stars": 1,
-    "updated_at": "2026-10-26T09:11:47Z",
-    "url": "https://github.com/bamboosir1109/dsh-lanya"
   }
 ]
