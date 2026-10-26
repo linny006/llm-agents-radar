@@ -1,12 +1,84 @@
 [
   {
+    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
+    "id": "n1majne3/CyberPenda",
+    "language": "Go",
+    "name": "n1majne3/CyberPenda",
+    "stars": 26,
+    "updated_at": "2026-10-26T07:13:15Z",
+    "url": "https://github.com/n1majne3/CyberPenda"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-26T07:13:07Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "A conversational agent over a private corpus of 7,655 Chinese web novels (plain TXT, ~36 GB). LLM-built book cards and a",
+    "id": "i4cobus/inovel-agent",
+    "language": "Python",
+    "name": "i4cobus/inovel-agent",
+    "stars": 7,
+    "updated_at": "2026-10-26T07:11:55Z",
+    "url": "https://github.com/i4cobus/inovel-agent"
+  },
+  {
+    "description": "\u672c\u4f53\u9a71\u52a8\u7684 LLM \u8bed\u4e49\u5c42: \u6570\u636e\u7559\u5e93, \u672c\u4f53\u5f53\u8bed\u4e49\u5c42, OBQC \u6267\u884c\u524d\u6821\u9a8c + \u5931\u8d25\u4fe1\u53f7\u81ea\u6f14\u5316",
+    "id": "SnowYouth/ontologyBaseAI",
+    "language": "Python",
+    "name": "SnowYouth/ontologyBaseAI",
+    "stars": 0,
+    "updated_at": "2026-10-26T07:11:29Z",
+    "url": "https://github.com/SnowYouth/ontologyBaseAI"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-26T07:05:14Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
     "description": "\u9762\u5411 DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u4e0e\u8bb0\u5fc6\u63d2\u4ef6\u5305\uff08MIT\uff09\u3002\u6298\u53e0\u957f\u4f1a\u8bdd\u91cc\u91cd\u590d\u7684\u5de5\u5177\u8f93\u51fa\uff08\u539f\u6587\u53ef\u968f\u65f6\u5c55\u5f00\uff09\uff0c\u7ed9\u6a21\u578b\u914d\u4e00\u540d\u53ea\u8bfb\u8c03\u67e5\u5458\u5148\u6838\u5b9e\u518d\u52a8\u624b\uff1b\u4f1a\u8bdd\u4e8b\u5b9e\u6c89\u6dc0\u4e3a\u5e26\u8bc1\u636e\u94fe\u7684\u5916\u90e8\u8bb0\u5fc6\uff08rcs:// \u5bfb\u5740\u3001L0/L1/L2 \u5206\u7ea7\u52a0\u8f7d\u3001\u76ee\u5f55",
     "id": "ScreamingMaggot/rcs-context",
     "language": "JavaScript",
     "name": "ScreamingMaggot/rcs-context",
     "stars": 1,
-    "updated_at": "2026-10-26T07:00:14Z",
+    "updated_at": "2026-10-26T07:04:50Z",
     "url": "https://github.com/ScreamingMaggot/rcs-context"
+  },
+  {
+    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
+    "id": "shakhruz/mila",
+    "language": "Python",
+    "name": "shakhruz/mila",
+    "stars": 1,
+    "updated_at": "2026-10-26T07:03:40Z",
+    "url": "https://github.com/shakhruz/mila"
+  },
+  {
+    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
+    "id": "Alucard1718/autonomous-code-sandbox",
+    "language": "HTML",
+    "name": "Alucard1718/autonomous-code-sandbox",
+    "stars": 0,
+    "updated_at": "2026-10-26T07:01:11Z",
+    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 34085,
+    "updated_at": "2026-10-26T07:00:41Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
@@ -34,15 +106,6 @@
     "stars": 16,
     "updated_at": "2026-10-26T06:44:01Z",
     "url": "https://github.com/EvannZhongg/Nosis"
-  },
-  {
-    "description": "Local-first pentest agent: Go daemon + React dashboard + Codex/Claude Code/Pi runtimes, scoped projects, Blackboard, san",
-    "id": "n1majne3/CyberPenda",
-    "language": "Go",
-    "name": "n1majne3/CyberPenda",
-    "stars": 26,
-    "updated_at": "2026-10-26T06:42:37Z",
-    "url": "https://github.com/n1majne3/CyberPenda"
   },
   {
     "description": "\u8f7b\u91cf\u7684agent\u6846\u67b6",
@@ -198,15 +261,6 @@
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
-    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
-    "id": "shakhruz/mila",
-    "language": "Python",
-    "name": "shakhruz/mila",
-    "stars": 1,
-    "updated_at": "2026-10-26T06:08:24Z",
-    "url": "https://github.com/shakhruz/mila"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -241,15 +295,6 @@
     "stars": 5,
     "updated_at": "2026-10-26T06:59:33Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 34084,
-    "updated_at": "2026-10-26T05:56:00Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
@@ -302,7 +347,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-26T06:57:51Z",
+    "updated_at": "2026-10-26T07:13:47Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-26T04:47:31Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "dsh agent harness + reasonix runtime: \u914d\u7f6e\u5907\u4efd\u4e0e\u5de5\u7a0b\u7ecf\u9a8c\u5e93 (Windows/Linux \u53cc\u673a, TianQue6916)",
-    "id": "TianQue6916/dsh-reasonix-agent",
-    "language": "JavaScript",
-    "name": "TianQue6916/dsh-reasonix-agent",
-    "stars": 0,
-    "updated_at": "2026-10-26T04:47:07Z",
-    "url": "https://github.com/TianQue6916/dsh-reasonix-agent"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-26T04:45:34Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
-    "id": "iap/hermes-guide",
-    "language": "Python",
-    "name": "iap/hermes-guide",
-    "stars": 4,
-    "updated_at": "2026-10-26T06:51:35Z",
-    "url": "https://github.com/iap/hermes-guide"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-26T04:39:40Z",
-    "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 344,
-    "updated_at": "2026-10-26T04:38:15Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   }
 ]
