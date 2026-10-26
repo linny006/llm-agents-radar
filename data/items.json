@@ -1,11 +1,47 @@
 [
   {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8958,
+    "updated_at": "2026-10-26T20:18:49Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 4,
+    "updated_at": "2026-10-26T20:16:04Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-26T20:15:41Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
+    "id": "sins-gif/moonshadow",
+    "language": "Python",
+    "name": "sins-gif/moonshadow",
+    "stars": 0,
+    "updated_at": "2026-10-26T20:15:18Z",
+    "url": "https://github.com/sins-gif/moonshadow"
+  },
+  {
     "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
     "id": "franckolv-dev/ELY2",
     "language": "Python",
     "name": "franckolv-dev/ELY2",
     "stars": 1,
-    "updated_at": "2026-10-26T20:14:06Z",
+    "updated_at": "2026-10-26T20:18:12Z",
     "url": "https://github.com/franckolv-dev/ELY2"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T20:07:17Z",
     "url": "https://github.com/JAYANSHUBADLANI/olist-analyst-agent"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
-    "id": "sins-gif/moonshadow",
-    "language": "Python",
-    "name": "sins-gif/moonshadow",
-    "stars": 0,
-    "updated_at": "2026-10-26T20:06:35Z",
-    "url": "https://github.com/sins-gif/moonshadow"
   },
   {
     "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
@@ -122,7 +149,7 @@
     "language": "Shell",
     "name": "bigduu/Zenith",
     "stars": 6,
-    "updated_at": "2026-10-26T19:39:28Z",
+    "updated_at": "2026-10-26T20:19:37Z",
     "url": "https://github.com/bigduu/Zenith"
   },
   {
@@ -149,7 +176,7 @@
     "language": "JavaScript",
     "name": "bigduu/Bodhi-AI",
     "stars": 17,
-    "updated_at": "2026-10-26T19:44:21Z",
+    "updated_at": "2026-10-26T20:29:12Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
@@ -252,15 +279,6 @@
     "url": "https://github.com/oldfunk/paper-trading"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8958,
-    "updated_at": "2026-10-26T18:56:12Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Pocket-sized Ruby AI agent framework / LLM assistant with multi-LLM support",
     "id": "mensfeld/pocketrb",
     "language": "Ruby",
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-26T19:59:17Z",
+    "updated_at": "2026-10-26T20:21:20Z",
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-26T18:02:46Z",
+    "updated_at": "2026-10-26T20:29:17Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-26T17:37:12Z",
     "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-26T19:09:37Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 3,
-    "updated_at": "2026-10-26T17:31:27Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
   }
 ]
