@@ -1,11 +1,110 @@
 [
   {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-26T06:00:02Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-26T05:58:02Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 34066,
+    "updated_at": "2026-10-26T05:56:00Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-10-26T05:55:44Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-26T05:55:15Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 132,
+    "updated_at": "2026-10-26T05:55:01Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-26T05:54:07Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-26T05:52:23Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-26T05:48:03Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-26T05:53:31Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
+    "id": "mark-weeks/hello-nested-worlds-adventure",
+    "language": "Python",
+    "name": "mark-weeks/hello-nested-worlds-adventure",
+    "stars": 5,
+    "updated_at": "2026-10-26T05:45:36Z",
+    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
+  },
+  {
     "description": "Dialog fence for DSH / DSH Desktop: per-conversation behavioral rule fence injected into runtime context without breakin",
     "id": "ILoveHAKU/dsh-dialog-fence",
     "language": "JavaScript",
     "name": "ILoveHAKU/dsh-dialog-fence",
     "stars": 0,
-    "updated_at": "2026-10-26T05:44:08Z",
+    "updated_at": "2026-10-26T06:00:08Z",
     "url": "https://github.com/ILoveHAKU/dsh-dialog-fence"
   },
   {
@@ -72,15 +171,6 @@
     "url": "https://github.com/oldfunk/paper-trading"
   },
   {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-26T05:29:46Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
     "description": "Agent harness that makes a local Gemma 4 26B (vLLM on Intel Arc Pro B70) work like a stronger model: tested helper libra",
     "id": "izagami/gemma-agent-harness",
     "language": "JavaScript",
@@ -88,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T05:28:19Z",
     "url": "https://github.com/izagami/gemma-agent-harness"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-26T05:27:30Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
@@ -113,7 +194,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-26T05:41:22Z",
+    "updated_at": "2026-10-26T05:51:48Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -133,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-26T05:16:38Z",
     "url": "https://github.com/aidless/flowgrid-aml-retriever"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-26T05:15:34Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-26T05:42:52Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
@@ -196,15 +259,6 @@
     "stars": 4,
     "updated_at": "2026-10-26T04:54:04Z",
     "url": "https://github.com/chen0206a/figtide"
-  },
-  {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-10-26T05:36:35Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -270,15 +324,6 @@
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-26T04:26:17Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
     "id": "agentscope-ai/agentscope-go",
     "language": "Go",
@@ -295,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-10-26T04:06:05Z",
     "url": "https://github.com/bamboosir1109/dsh-lanya"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-26T05:41:43Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "Executive Assistant Kit | Gig hunting & general coordination. \u603b\u7ecf\u7406\u52a9\u7406\u2014\u2014\u627e\u5355\u63a5\u6d3b\u5165\u53e3\u4e0e\u7efc\u5408\u4e8b\u52a1\u534f\u8c03\u3002",
@@ -369,15 +405,6 @@
     "url": "https://github.com/HaikeiLabs/agentware"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 34062,
-    "updated_at": "2026-10-26T03:24:33Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "Embeddable agent runtime (agent harness) for Android and the JVM: agent loop, sandboxed workspace, MCP, skills, subagent",
     "id": "NoHarry/android-agent-runtime",
     "language": "Kotlin",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T02:55:55Z",
     "url": "https://github.com/tt519660/stock-agent"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-26T02:54:38Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
-    "id": "impsland/imp",
-    "language": "Swift",
-    "name": "impsland/imp",
-    "stars": 1,
-    "updated_at": "2026-10-26T02:48:00Z",
-    "url": "https://github.com/impsland/imp"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-10-26T02:44:00Z",
-    "url": "https://github.com/haibingzhao/easyai"
   }
 ]
