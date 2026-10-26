@@ -1,5 +1,14 @@
 [
   {
+    "description": "\u9762\u5411 DeepSeek Harness \u7684\u4e0a\u4e0b\u6587\u4e0e\u8bb0\u5fc6\u63d2\u4ef6\u5305\uff08MIT\uff09\u3002\u6298\u53e0\u957f\u4f1a\u8bdd\u91cc\u91cd\u590d\u7684\u5de5\u5177\u8f93\u51fa\uff08\u539f\u6587\u53ef\u968f\u65f6\u5c55\u5f00\uff09\uff0c\u7ed9\u6a21\u578b\u914d\u4e00\u540d\u53ea\u8bfb\u8c03\u67e5\u5458\u5148\u6838\u5b9e\u518d\u52a8\u624b\uff1b\u4f1a\u8bdd\u4e8b\u5b9e\u6c89\u6dc0\u4e3a\u5e26\u8bc1\u636e\u94fe\u7684\u5916\u90e8\u8bb0\u5fc6\uff08rcs:// \u5bfb\u5740\u3001L0/L1/L2 \u5206\u7ea7\u52a0\u8f7d\u3001\u76ee\u5f55",
+    "id": "ScreamingMaggot/rcs-context",
+    "language": "JavaScript",
+    "name": "ScreamingMaggot/rcs-context",
+    "stars": 1,
+    "updated_at": "2026-10-26T07:00:14Z",
+    "url": "https://github.com/ScreamingMaggot/rcs-context"
+  },
+  {
     "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
     "id": "bamboosir1109/dsh-lanya",
     "language": "Python",
@@ -230,7 +239,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-26T06:57:00Z",
+    "updated_at": "2026-10-26T06:59:33Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 344,
     "updated_at": "2026-10-26T04:38:15Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1074,
-    "updated_at": "2026-10-26T04:32:08Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   }
 ]
