@@ -1,5 +1,77 @@
 [
   {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-27T08:43:49Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 7,
+    "updated_at": "2026-10-27T08:42:46Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 56,
+    "updated_at": "2026-10-27T08:42:19Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-27T08:40:24Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
+    "id": "diky87688973/ai-agent",
+    "language": "Python",
+    "name": "diky87688973/ai-agent",
+    "stars": 3,
+    "updated_at": "2026-10-27T08:38:20Z",
+    "url": "https://github.com/diky87688973/ai-agent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-27T08:40:22Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
+    "id": "Hrecer/LinkPocket",
+    "language": "C#",
+    "name": "Hrecer/LinkPocket",
+    "stars": 1,
+    "updated_at": "2026-10-27T08:31:54Z",
+    "url": "https://github.com/Hrecer/LinkPocket"
+  },
+  {
+    "description": "Python SDK for durable AI agents: survive crashes, pause for human approval at no cost, scale from a script to a multi-h",
+    "id": "initxy/noeta",
+    "language": "Python",
+    "name": "initxy/noeta",
+    "stars": 10,
+    "updated_at": "2026-10-27T08:31:11Z",
+    "url": "https://github.com/initxy/noeta"
+  },
+  {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
     "id": "mmporong/rl-triage-agent",
     "language": "Python",
@@ -40,7 +112,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34345,
+    "stars": 34347,
     "updated_at": "2026-10-27T08:20:42Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -72,31 +144,13 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 56,
-    "updated_at": "2026-10-27T08:17:20Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-27T08:19:44Z",
+    "updated_at": "2026-10-27T08:41:36Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-27T08:14:16Z",
-    "url": "https://github.com/oldfunk/paper-trading"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -124,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-10-27T08:10:01Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1115,
+    "updated_at": "2026-10-27T08:39:44Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Private, offline AI assistant for your desktop: a local ChatGPT alternative powered by Ollama, in 12 languages. 9 agents",
@@ -167,7 +230,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-27T07:54:15Z",
+    "updated_at": "2026-10-27T08:43:14Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -196,15 +259,6 @@
     "stars": 5876,
     "updated_at": "2026-10-27T07:55:19Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1114,
-    "updated_at": "2026-10-27T08:08:42Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
@@ -243,20 +297,11 @@
     "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-27T08:27:30Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "id": "lsdefine/GenericAgent",
     "language": "Python",
     "name": "lsdefine/GenericAgent",
-    "stars": 14352,
+    "stars": 14353,
     "updated_at": "2026-10-27T07:25:02Z",
     "url": "https://github.com/lsdefine/GenericAgent"
   },
@@ -369,15 +414,6 @@
     "url": "https://github.com/RalfHermsen/x4-agent"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-27T07:34:03Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Self-hosted AIOps agent for DevOps: an AI ops copilot that investigates incidents on Linux servers and Kubernetes, finds",
     "id": "SupOps/SupOps",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T06:08:14Z",
     "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 12,
-    "updated_at": "2026-10-27T07:43:38Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "\u672c\u4f53\u9a71\u52a8\u7684 LLM \u8bed\u4e49\u5c42: \u6570\u636e\u7559\u5e93, \u672c\u4f53\u5f53\u8bed\u4e49\u5c42, OBQC \u6267\u884c\u524d\u6821\u9a8c + \u5931\u8d25\u4fe1\u53f7\u81ea\u6f14\u5316",
-    "id": "SnowYouth/ontologyBaseAI",
-    "language": "Python",
-    "name": "SnowYouth/ontologyBaseAI",
-    "stars": 0,
-    "updated_at": "2026-10-27T05:53:41Z",
-    "url": "https://github.com/SnowYouth/ontologyBaseAI"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-27T05:52:20Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-27T05:48:29Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
