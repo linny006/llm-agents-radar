@@ -1,5 +1,86 @@
 [
   {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 26,
+    "updated_at": "2026-10-27T04:30:11Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
+    "id": "tya5/shellboy",
+    "language": "Rust",
+    "name": "tya5/shellboy",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:28:19Z",
+    "url": "https://github.com/tya5/shellboy"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 17,
+    "updated_at": "2026-10-27T04:29:03Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u30c7\u30d9\u30ed\u30c3\u30d1\u30fc\u30b5\u30a4\u30c8\u306e\u57f7\u7b46\u3067\u4f5c\u6210\u3057\u305f\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
+    "id": "ubata-mamezou/developer-site-article-examples",
+    "language": "TypeScript",
+    "name": "ubata-mamezou/developer-site-article-examples",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:26:13Z",
+    "url": "https://github.com/ubata-mamezou/developer-site-article-examples"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:23:34Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 30,
+    "updated_at": "2026-10-27T04:21:08Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
+    "id": "Torvian-eu/chatbot",
+    "language": "Kotlin",
+    "name": "Torvian-eu/chatbot",
+    "stars": 4,
+    "updated_at": "2026-10-27T04:19:31Z",
+    "url": "https://github.com/Torvian-eu/chatbot"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 56,
+    "updated_at": "2026-10-27T04:16:18Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Make any agent harness token-native.",
+    "id": "Lawhy/tokin",
+    "language": "Python",
+    "name": "Lawhy/tokin",
+    "stars": 7,
+    "updated_at": "2026-10-27T04:15:35Z",
+    "url": "https://github.com/Lawhy/tokin"
+  },
+  {
     "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
     "id": "bamboosir1109/dsh-lanya",
     "language": "Python",
@@ -18,15 +99,6 @@
     "url": "https://github.com/alexwkleung/reika"
   },
   {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 26,
-    "updated_at": "2026-10-27T04:09:18Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
     "description": "Python SDK for durable AI agents: survive crashes, pause for human approval at no cost, scale from a script to a multi-h",
     "id": "initxy/noeta",
     "language": "Python",
@@ -34,24 +106,6 @@
     "stars": 10,
     "updated_at": "2026-10-27T04:07:49Z",
     "url": "https://github.com/initxy/noeta"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 17,
-    "updated_at": "2026-10-27T04:08:07Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "\u30c7\u30d9\u30ed\u30c3\u30d1\u30fc\u30b5\u30a4\u30c8\u306e\u57f7\u7b46\u3067\u4f5c\u6210\u3057\u305f\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
-    "id": "ubata-mamezou/developer-site-article-examples",
-    "language": "TypeScript",
-    "name": "ubata-mamezou/developer-site-article-examples",
-    "stars": 0,
-    "updated_at": "2026-10-27T04:04:16Z",
-    "url": "https://github.com/ubata-mamezou/developer-site-article-examples"
   },
   {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "2841649220/astrbot_plugin_jitrl",
     "stars": 0,
-    "updated_at": "2026-10-27T03:50:37Z",
+    "updated_at": "2026-10-27T04:19:58Z",
     "url": "https://github.com/2841649220/astrbot_plugin_jitrl"
   },
   {
@@ -113,7 +167,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-27T04:12:48Z",
+    "updated_at": "2026-10-27T04:28:45Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -139,27 +193,9 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 353,
+    "stars": 354,
     "updated_at": "2026-10-27T03:24:51Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:16:49Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 30,
-    "updated_at": "2026-10-27T03:15:09Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -184,7 +220,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34278,
+    "stars": 34279,
     "updated_at": "2026-10-27T03:13:55Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -311,7 +347,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-27T02:33:46Z",
+    "updated_at": "2026-10-27T04:16:30Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T01:51:08Z",
     "url": "https://github.com/SpSharon/openedge-code-intelligence-agent"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-27T01:44:31Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "A personal, self-developing AI agent you run yourself: its own app window on macOS, Linux and Windows, a web app on your",
-    "id": "anchor-inference/daedalus",
-    "language": "Python",
-    "name": "anchor-inference/daedalus",
-    "stars": 2,
-    "updated_at": "2026-10-27T01:32:20Z",
-    "url": "https://github.com/anchor-inference/daedalus"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1111,
-    "updated_at": "2026-10-27T01:30:46Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "",
-    "id": "vinaosb/austringer",
-    "language": "Rust",
-    "name": "vinaosb/austringer",
-    "stars": 0,
-    "updated_at": "2026-10-27T02:11:19Z",
-    "url": "https://github.com/vinaosb/austringer"
   }
 ]
