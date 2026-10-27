@@ -1,11 +1,74 @@
 [
   {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-27T16:44:34Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 361,
+    "updated_at": "2026-10-27T16:42:51Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
+    "id": "sharonita610/agent-harness",
+    "language": "Python",
+    "name": "sharonita610/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-27T16:42:25Z",
+    "url": "https://github.com/sharonita610/agent-harness"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-27T16:39:18Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-27T16:36:55Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
+    "id": "citizenhicks/mobius",
+    "language": "Rust",
+    "name": "citizenhicks/mobius",
+    "stars": 1,
+    "updated_at": "2026-10-27T16:35:14Z",
+    "url": "https://github.com/citizenhicks/mobius"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6644,
+    "updated_at": "2026-10-27T16:35:54Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
     "id": "NatanTechofNY/fieldnote-assistant",
     "language": "TypeScript",
     "name": "NatanTechofNY/fieldnote-assistant",
     "stars": 5,
-    "updated_at": "2026-10-27T16:29:13Z",
+    "updated_at": "2026-10-27T16:30:50Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
   },
   {
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-27T16:28:45Z",
+    "updated_at": "2026-10-27T16:36:04Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -36,13 +99,13 @@
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
-    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
-    "id": "sharonita610/agent-harness",
-    "language": "Python",
-    "name": "sharonita610/agent-harness",
+    "description": "Full-stack stock & crypto portfolio tracker: TypeScript, React, Supabase (PostgreSQL + RLS, Edge Functions), broker sync",
+    "id": "ZdenekBudicek/stock-portfolio-tracker",
+    "language": "TypeScript",
+    "name": "ZdenekBudicek/stock-portfolio-tracker",
     "stars": 0,
-    "updated_at": "2026-10-27T16:24:54Z",
-    "url": "https://github.com/sharonita610/agent-harness"
+    "updated_at": "2026-10-27T16:26:14Z",
+    "url": "https://github.com/ZdenekBudicek/stock-portfolio-tracker"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8967,
-    "updated_at": "2026-10-27T16:21:41Z",
+    "updated_at": "2026-10-27T16:33:16Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -207,24 +270,6 @@
     "url": "https://github.com/haoyiyin/basjoo"
   },
   {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 361,
-    "updated_at": "2026-10-27T15:40:57Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6644,
-    "updated_at": "2026-10-27T16:19:10Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
     "id": "expectedparrot/edsl",
     "language": "Python",
@@ -259,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T15:33:04Z",
     "url": "https://github.com/zheyun-shou/product-research-agent-luna"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-27T16:18:15Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -324,15 +360,6 @@
     "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
   },
   {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-10-27T15:07:11Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -356,7 +383,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 68,
-    "updated_at": "2026-10-27T16:16:13Z",
+    "updated_at": "2026-10-27T16:38:45Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -365,17 +392,8 @@
     "language": "Python",
     "name": "roxm337/osint-agent",
     "stars": 0,
-    "updated_at": "2026-10-27T14:46:48Z",
+    "updated_at": "2026-10-27T16:44:35Z",
     "url": "https://github.com/roxm337/osint-agent"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-27T14:59:54Z",
-    "url": "https://github.com/oldfunk/paper-trading"
   },
   {
     "description": "Not a chatbot\u2014a tireless digital secretary. Jarvis is a persistent, self-hosted AI operating system that manages communi",
@@ -394,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T14:48:01Z",
     "url": "https://github.com/2841649220/astrbot_plugin_jitrl"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-27T14:41:07Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-27T14:33:21Z",
     "url": "https://github.com/kwakminoo/Project-IRIS-Light"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 56,
-    "updated_at": "2026-10-27T14:31:04Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   }
 ]
