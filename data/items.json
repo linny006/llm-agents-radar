@@ -1,5 +1,77 @@
 [
   {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-27T06:28:59Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-27T06:27:36Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 354,
+    "updated_at": "2026-10-27T06:25:39Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
+    "id": "liaosiliangCodeLife/harness-mate-plat",
+    "language": "Python",
+    "name": "liaosiliangCodeLife/harness-mate-plat",
+    "stars": 29,
+    "updated_at": "2026-10-27T06:25:27Z",
+    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
+  },
+  {
+    "description": "Self-hosted AIOps agent for DevOps: an AI ops copilot that investigates incidents on Linux servers and Kubernetes, finds",
+    "id": "SupOps/SupOps",
+    "language": "TypeScript",
+    "name": "SupOps/SupOps",
+    "stars": 4,
+    "updated_at": "2026-10-27T06:25:15Z",
+    "url": "https://github.com/SupOps/SupOps"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 30,
+    "updated_at": "2026-10-27T06:21:07Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
+    "id": "SugarMGP/MumuBot",
+    "language": "Go",
+    "name": "SugarMGP/MumuBot",
+    "stars": 26,
+    "updated_at": "2026-10-27T06:17:14Z",
+    "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-27T06:17:06Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -9,13 +81,13 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
-    "id": "liaosiliangCodeLife/harness-mate-plat",
-    "language": "Python",
-    "name": "liaosiliangCodeLife/harness-mate-plat",
-    "stars": 29,
-    "updated_at": "2026-10-27T06:12:50Z",
-    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1113,
+    "updated_at": "2026-10-27T06:23:11Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -23,26 +95,8 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 162,
-    "updated_at": "2026-10-27T06:12:05Z",
+    "updated_at": "2026-10-27T06:21:17Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-27T06:11:18Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 354,
-    "updated_at": "2026-10-27T06:09:58Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
@@ -68,7 +122,7 @@
     "language": "TypeScript",
     "name": "alexwkleung/reika",
     "stars": 12,
-    "updated_at": "2026-10-27T05:59:49Z",
+    "updated_at": "2026-10-27T06:20:17Z",
     "url": "https://github.com/alexwkleung/reika"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T05:56:52Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-27T05:55:04Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "\u672c\u4f53\u9a71\u52a8\u7684 LLM \u8bed\u4e49\u5c42: \u6570\u636e\u7559\u5e93, \u672c\u4f53\u5f53\u8bed\u4e49\u5c42, OBQC \u6267\u884c\u524d\u6821\u9a8c + \u5931\u8d25\u4fe1\u53f7\u81ea\u6f14\u5316",
@@ -124,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-10-27T05:48:29Z",
     "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 30,
-    "updated_at": "2026-10-27T05:42:29Z",
-    "url": "https://github.com/tomcounsell/ai"
   },
   {
     "description": "Clinical early-warning agent for emergency departments: NEWS2, vital trends and guideline RAG",
@@ -203,17 +239,8 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4467,
-    "updated_at": "2026-10-27T06:11:45Z",
+    "updated_at": "2026-10-27T06:16:43Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-27T06:15:16Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -223,24 +250,6 @@
     "stars": 5,
     "updated_at": "2026-10-27T06:14:21Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1113,
-    "updated_at": "2026-10-27T06:12:42Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
-    "id": "SugarMGP/MumuBot",
-    "language": "Go",
-    "name": "SugarMGP/MumuBot",
-    "stars": 26,
-    "updated_at": "2026-10-27T04:49:09Z",
-    "url": "https://github.com/SugarMGP/MumuBot"
   },
   {
     "description": "\u975e\u7ebf\u667a\u80fd NoneLinear - ReLE\u8bc4\u6d4b\uff1a\u4e2d\u6587AI\u5927\u6a21\u578b\u80fd\u529b\u8bc4\u6d4b\uff08\u6301\u7eed\u66f4\u65b0\uff09\uff1a\u76ee\u524d\u5df2\u56ca\u62ec374\u4e2a\u5927\u6a21\u578b\uff0c\u8986\u76d6chatgpt\u3001gpt-5.4\u3001\u8c37\u6b4cgemini-3.1-pro\u3001Claude-4.6\u3001\u6587\u5fc3ERNIE-X1.1\u3001ERNIE",
@@ -400,7 +409,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34306,
+    "stars": 34312,
     "updated_at": "2026-10-27T03:13:55Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-27T03:05:07Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
-    "id": "LacerdaTraderCode/observable-analytics-agent",
-    "language": "Python",
-    "name": "LacerdaTraderCode/observable-analytics-agent",
-    "stars": 0,
-    "updated_at": "2026-10-27T03:03:22Z",
-    "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
   }
 ]
