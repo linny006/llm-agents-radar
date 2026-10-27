@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 38,
+    "updated_at": "2026-10-27T19:08:01Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 12,
+    "updated_at": "2026-10-27T19:07:06Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-27T19:04:31Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
     "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
     "id": "b7216309-jpg/little-bot",
     "language": "JavaScript",
@@ -34,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-10-27T18:56:48Z",
     "url": "https://github.com/diky87688973/ai-agent"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 12,
-    "updated_at": "2026-10-27T18:55:18Z",
-    "url": "https://github.com/alexwkleung/reika"
   },
   {
     "description": "",
@@ -104,7 +122,7 @@
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 3,
-    "updated_at": "2026-10-27T18:28:53Z",
+    "updated_at": "2026-10-27T19:07:13Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
@@ -279,15 +297,6 @@
     "url": "https://github.com/oldfunk/paper-trading"
   },
   {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-27T17:18:22Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
     "id": "IAmNo1Special/mvge",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T16:15:07Z",
     "url": "https://github.com/darylalim/financial-planner-agent"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1124,
-    "updated_at": "2026-10-27T16:11:00Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   }
 ]
