@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-27 18:30 UTC
+> ⏰ Last updated: 2026-10-27 18:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [sharonita610/agent-harness](https://github.com/sharonita610/agent-harness) | 0 | Python | 2026-10-27 | Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc |
-| 2 | [zeng6125-rgb/suixing](https://github.com/zeng6125-rgb/suixing) | 3 | Kotlin | 2026-10-27 | 随行 Suixing —— 手机端 AI Agent（Android · Kotlin + Compose）：读屏、点按、改文件、跑命令，纯本地、无云同步 |
-| 3 | [kwakminoo/Project-IRIS-Light](https://github.com/kwakminoo/Project-IRIS-Light) | 3 | Python | 2026-10-27 | Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen |
-| 4 | [lzmd-arch/BioSNN-Plug](https://github.com/lzmd-arch/BioSNN-Plug) | 7 | Python | 2026-10-27 | 脉冲神经网络认知原型：纯局部学习规则（无代理梯度）+ SNN 自主调度 LLM。Spiking neural network cognitive prototype — purely local learning rules (no sur |
-| 5 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-10-27 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
-| 6 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 5 | TypeScript | 2026-10-27 | AI-powered image generation and chat studio |
-| 7 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-27 | The Self-Improving Coding Agent |
-| 8 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-27 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 9 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-27 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
-| 10 | [helixml/helix](https://github.com/helixml/helix) | 824 | Go | 2026-10-27 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
-| 11 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-27 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 12 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 6 | TypeScript | 2026-10-27 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
-| 13 | [Soodok/Deepseek-Harness-Local-Android](https://github.com/Soodok/Deepseek-Harness-Local-Android) | 361 | Kotlin | 2026-10-27 | Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included \| 手机本地运行 DeepSeek  |
-| 14 | [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) | 38 | JavaScript | 2026-10-27 | Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe |
-| 15 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | Shell | 2026-10-27 | Bodhi — a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a |
-| 16 | [vinaosb/austringer](https://github.com/vinaosb/austringer) | 0 | Rust | 2026-10-27 |  |
+| 1 | [lzmd-arch/BioSNN-Plug](https://github.com/lzmd-arch/BioSNN-Plug) | 7 | Python | 2026-10-27 | 脉冲神经网络认知原型：纯局部学习规则（无代理梯度）+ SNN 自主调度 LLM。Spiking neural network cognitive prototype — purely local learning rules (no sur |
+| 2 | [vinaosb/austringer](https://github.com/vinaosb/austringer) | 0 | Rust | 2026-10-27 |  |
+| 3 | [sharonita610/agent-harness](https://github.com/sharonita610/agent-harness) | 0 | Python | 2026-10-27 | Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc |
+| 4 | [zeng6125-rgb/suixing](https://github.com/zeng6125-rgb/suixing) | 3 | Kotlin | 2026-10-27 | 随行 Suixing —— 手机端 AI Agent（Android · Kotlin + Compose）：读屏、点按、改文件、跑命令，纯本地、无云同步 |
+| 5 | [kwakminoo/Project-IRIS-Light](https://github.com/kwakminoo/Project-IRIS-Light) | 3 | Python | 2026-10-27 | Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen |
+| 6 | [mark-weeks/hello-nested-worlds-adventure](https://github.com/mark-weeks/hello-nested-worlds-adventure) | 5 | Python | 2026-10-27 | Enfolded: Nested World Adventure — a shared persistent multiverse where humans and AI agents traverse nested scales of r |
+| 7 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 5 | TypeScript | 2026-10-27 | AI-powered image generation and chat studio |
+| 8 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-27 | The Self-Improving Coding Agent |
+| 9 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-27 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 10 | [ljchang/mecha](https://github.com/ljchang/mecha) | 7 | Rust | 2026-10-27 | A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san |
+| 11 | [helixml/helix](https://github.com/helixml/helix) | 824 | Go | 2026-10-27 | ♾️ Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an |
+| 12 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-27 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 13 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 6 | TypeScript | 2026-10-27 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
+| 14 | [Soodok/Deepseek-Harness-Local-Android](https://github.com/Soodok/Deepseek-Harness-Local-Android) | 361 | Kotlin | 2026-10-27 | Run the DeepSeek Harness AI agent natively on Android — no root, no Termux, extension center included \| 手机本地运行 DeepSeek  |
+| 15 | [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) | 38 | JavaScript | 2026-10-27 | Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe |
+| 16 | [bigduu/Zenith](https://github.com/bigduu/Zenith) | 6 | Shell | 2026-10-27 | Bodhi — a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a |
 | 17 | [ArthurReboulSalze/Sherka-Compagnon](https://github.com/ArthurReboulSalze/Sherka-Compagnon) | 0 | Rust | 2026-10-27 | A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc |
 | 18 | [OpenMMO-Agent-UI/openmmo-agent-ui](https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui) | 1 | JavaScript | 2026-10-27 | A desktop client for playing OpenMMO manually or with an LLM at the controls. |
 | 19 | [CPLASF2049/FinancialAI-Agent](https://github.com/CPLASF2049/FinancialAI-Agent) | 1 | Python | 2026-10-27 | 面向中国 A 股的智能投研助手：MCP 工具服务器 + LangGraph 多 Agent + 浏览器对话界面 |
 | 20 | [tx3457/study-loop](https://github.com/tx3457/study-loop) | 0 | Python | 2026-10-27 | Document-grounded adaptive tutoring with bounded tool-use agents |
 | 21 | [dkblinux98/nyxGPT](https://github.com/dkblinux98/nyxGPT) | 0 | Python | 2026-10-27 | Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi |
 | 22 | [edjafarov/kiagent-core](https://github.com/edjafarov/kiagent-core) | 7 | TypeScript | 2026-10-27 | kiagent-core — open-source personal AI brain — local, open source, speaks MCP |
-| 23 | [AskTheWay/dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) | 116 | TypeScript | 2026-10-27 | Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into |
+| 23 | [AskTheWay/dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) | 117 | TypeScript | 2026-10-27 | Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into |
 | 24 | [oldfunk/paper-trading](https://github.com/oldfunk/paper-trading) | 1 | Python | 2026-10-27 | 本地事件驱动型模拟交易框架 |
 | 25 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-10-27 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
 | 26 | [IAmNo1Special/mvge](https://github.com/IAmNo1Special/mvge) | 2 | Python | 2026-10-27 | An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to |

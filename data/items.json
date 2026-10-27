@@ -1,5 +1,23 @@
 [
   {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-27T18:34:29Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "",
+    "id": "vinaosb/austringer",
+    "language": "Rust",
+    "name": "vinaosb/austringer",
+    "stars": 0,
+    "updated_at": "2026-10-27T18:36:58Z",
+    "url": "https://github.com/vinaosb/austringer"
+  },
+  {
     "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
     "id": "sharonita610/agent-harness",
     "language": "Python",
@@ -27,21 +45,12 @@
     "url": "https://github.com/kwakminoo/Project-IRIS-Light"
   },
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-27T18:20:47Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
     "id": "mark-weeks/hello-nested-worlds-adventure",
     "language": "Python",
     "name": "mark-weeks/hello-nested-worlds-adventure",
     "stars": 5,
-    "updated_at": "2026-10-27T18:20:17Z",
+    "updated_at": "2026-10-27T18:37:15Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   },
   {
@@ -50,7 +59,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-27T18:19:18Z",
+    "updated_at": "2026-10-27T18:42:35Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -135,15 +144,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "",
-    "id": "vinaosb/austringer",
-    "language": "Rust",
-    "name": "vinaosb/austringer",
-    "stars": 0,
-    "updated_at": "2026-10-27T18:00:04Z",
-    "url": "https://github.com/vinaosb/austringer"
-  },
-  {
     "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
     "id": "ArthurReboulSalze/Sherka-Compagnon",
     "language": "Rust",
@@ -202,7 +202,7 @@
     "id": "AskTheWay/dsh-auto-memory",
     "language": "TypeScript",
     "name": "AskTheWay/dsh-auto-memory",
-    "stars": 116,
+    "stars": 117,
     "updated_at": "2026-10-27T17:27:11Z",
     "url": "https://github.com/AskTheWay/dsh-auto-memory"
   },
@@ -257,7 +257,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-27T18:16:15Z",
+    "updated_at": "2026-10-27T18:39:38Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
