@@ -1,5 +1,59 @@
 [
   {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-27T20:30:08Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
+    "id": "sharonita610/agent-harness",
+    "language": "Python",
+    "name": "sharonita610/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-27T20:29:34Z",
+    "url": "https://github.com/sharonita610/agent-harness"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-10-27T20:27:07Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-27T20:26:23Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
+    "id": "kanderson-ai-dev/agentic-api",
+    "language": "Python",
+    "name": "kanderson-ai-dev/agentic-api",
+    "stars": 0,
+    "updated_at": "2026-10-27T20:21:19Z",
+    "url": "https://github.com/kanderson-ai-dev/agentic-api"
+  },
+  {
+    "description": "Layer-aware Dockerfile audit \u2014 32 deterministic rules, zero dependencies, SARIF for CI, MCP server",
+    "id": "xuange-hu/layerlint",
+    "language": "Python",
+    "name": "xuange-hu/layerlint",
+    "stars": 0,
+    "updated_at": "2026-10-27T20:16:53Z",
+    "url": "https://github.com/xuange-hu/layerlint"
+  },
+  {
     "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
     "id": "xhqing/DayTradingAgent",
     "language": "Python",
@@ -63,15 +117,6 @@
     "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-27T20:02:32Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "strands-agents/harness-sdk",
     "stars": 8969,
-    "updated_at": "2026-10-27T19:49:36Z",
+    "updated_at": "2026-10-27T20:18:40Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T19:34:58Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 4,
-    "updated_at": "2026-10-27T19:32:58Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-27T19:46:50Z",
+    "updated_at": "2026-10-27T20:25:41Z",
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
@@ -202,7 +238,7 @@
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 38,
+    "stars": 39,
     "updated_at": "2026-10-27T19:11:40Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
@@ -234,15 +270,6 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-27T20:03:48Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -259,15 +286,6 @@
     "stars": 7,
     "updated_at": "2026-10-27T18:34:29Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
-    "id": "sharonita610/agent-harness",
-    "language": "Python",
-    "name": "sharonita610/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-27T18:30:09Z",
-    "url": "https://github.com/sharonita610/agent-harness"
   },
   {
     "description": "Open Source Desktop AI Agent Runtime - LLM, MCP, Voice Runtime, and local/cloud models wired into one PyQt6 desktop agen",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-27T17:09:37Z",
     "url": "https://github.com/DavidLearning1023/bilibili-info-gathering"
-  },
-  {
-    "description": "Open-source AI agent harness and desktop app that runs on your machine. Bring your own model (Anthropic, OpenAI, Gemini,",
-    "id": "othermind-tech/eva",
-    "language": "Python",
-    "name": "othermind-tech/eva",
-    "stars": 0,
-    "updated_at": "2026-10-27T17:14:21Z",
-    "url": "https://github.com/othermind-tech/eva"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5880,
-    "updated_at": "2026-10-27T17:04:46Z",
-    "url": "https://github.com/areal-project/AReaL"
   }
 ]
