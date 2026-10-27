@@ -5,8 +5,17 @@
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 3,
-    "updated_at": "2026-10-27T13:45:03Z",
+    "updated_at": "2026-10-27T13:46:35Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-27T13:46:07Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
@@ -67,7 +76,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 1118,
+    "stars": 1119,
     "updated_at": "2026-10-27T13:36:21Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -220,7 +229,7 @@
     "id": "jundizhou/easy-stock",
     "language": "Go",
     "name": "jundizhou/easy-stock",
-    "stars": 1663,
+    "stars": 1664,
     "updated_at": "2026-10-27T13:02:13Z",
     "url": "https://github.com/jundizhou/easy-stock"
   },
@@ -229,7 +238,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6638,
+    "stars": 6639,
     "updated_at": "2026-10-27T13:00:22Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -430,15 +439,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T11:14:33Z",
     "url": "https://github.com/BelAnas/spreadsheet-automation-agent"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-27T13:38:21Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
