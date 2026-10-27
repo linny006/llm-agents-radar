@@ -1,12 +1,12 @@
 [
   {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-27T04:58:09Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 17,
+    "updated_at": "2026-10-27T05:13:26Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
@@ -14,17 +14,62 @@
     "language": "Python",
     "name": "bamboosir1109/dsh-lanya",
     "stars": 2,
-    "updated_at": "2026-10-27T04:57:47Z",
+    "updated_at": "2026-10-27T05:10:04Z",
     "url": "https://github.com/bamboosir1109/dsh-lanya"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-27T05:09:45Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 4,
+    "updated_at": "2026-10-27T05:06:26Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "\u5bf9\u8bdd\u56f4\u680f\uff1a\u7ed9 DSH / DSH Desktop \u7684\u6bcf\u4e00\u6b21\u5bf9\u8bdd\u8bbe\u5b9a\u884c\u4e3a\u8fb9\u754c\u2014\u2014\u901a\u7528\u89c4\u5219 + \u6309\u5bf9\u8bdd\u8ffd\u52a0\u7684\u4e13\u5c5e\u89c4\u5219\uff0c\u5b58\u5728\u4e00\u4e2a\u4f4d\u7f6e\u53ef\u81ea\u5b9a\u4e49\u7684 JSON \u6587\u4ef6\u91cc\uff0c\u6309\u56fa\u5b9a\u987a\u5e8f\u6ce8\u5165\u8fd0\u884c\u65f6\u4e0a\u4e0b\u6587\uff0c\u4e0d\u7834\u574f\u524d\u7f00\u7f13\u5b58\u3002 / Per-conversation ",
+    "id": "ILoveHAKU/dsh-dialog-fence",
+    "language": "JavaScript",
+    "name": "ILoveHAKU/dsh-dialog-fence",
+    "stars": 0,
+    "updated_at": "2026-10-27T05:06:27Z",
+    "url": "https://github.com/ILoveHAKU/dsh-dialog-fence"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
     "language": "Go",
-    "name": "denn-gubsky/loomcycle",
+    "name": "yurika0211/lucky-agent",
     "stars": 17,
-    "updated_at": "2026-10-27T04:55:54Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
+    "updated_at": "2026-10-27T05:05:17Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-27T05:03:24Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-27T04:58:09Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -45,21 +90,12 @@
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 4,
-    "updated_at": "2026-10-27T04:51:49Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-27T04:56:22Z",
+    "updated_at": "2026-10-27T05:11:10Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -88,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T04:49:45Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-27T04:57:32Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-27T04:44:49Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -283,7 +301,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34284,
+    "stars": 34288,
     "updated_at": "2026-10-27T03:13:55Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -410,17 +428,8 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-27T04:47:47Z",
+    "updated_at": "2026-10-27T05:03:07Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "\u5bf9\u8bdd\u56f4\u680f\uff1a\u7ed9 DSH / DSH Desktop \u7684\u6bcf\u4e00\u6b21\u5bf9\u8bdd\u8bbe\u5b9a\u884c\u4e3a\u8fb9\u754c\u2014\u2014\u901a\u7528\u89c4\u5219 + \u6309\u5bf9\u8bdd\u8ffd\u52a0\u7684\u4e13\u5c5e\u89c4\u5219\uff0c\u5b58\u5728\u4e00\u4e2a\u4f4d\u7f6e\u53ef\u81ea\u5b9a\u4e49\u7684 JSON \u6587\u4ef6\u91cc\uff0c\u6309\u56fa\u5b9a\u987a\u5e8f\u6ce8\u5165\u8fd0\u884c\u65f6\u4e0a\u4e0b\u6587\uff0c\u4e0d\u7834\u574f\u524d\u7f00\u7f13\u5b58\u3002 / Per-conversation ",
-    "id": "ILoveHAKU/dsh-dialog-fence",
-    "language": "JavaScript",
-    "name": "ILoveHAKU/dsh-dialog-fence",
-    "stars": 0,
-    "updated_at": "2026-10-27T02:25:01Z",
-    "url": "https://github.com/ILoveHAKU/dsh-dialog-fence"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T02:22:05Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "\u628a\u5b98\u65b9\u6781\u7b80\u63d0\u793a\u8bcd\u4e0e PTC \u7f16\u6392\u7ec4\u5408\u8d77\u6765\uff0c\u63d0\u4f9b\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\u548c Windows \u7ec8\u7aef\u9002\u914d\u3002 \u6b22\u8fce\u63d0\u4ea4 issues \u548c PR\u3002",
-    "id": "STARDUSTLC666/dsh-minimal-ptc",
-    "language": "JavaScript",
-    "name": "STARDUSTLC666/dsh-minimal-ptc",
-    "stars": 2,
-    "updated_at": "2026-10-27T02:21:19Z",
-    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
   }
 ]
