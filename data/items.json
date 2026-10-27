@@ -5,8 +5,17 @@
     "language": "TypeScript",
     "name": "NicoGenti/opencode-orchestrator-kit",
     "stars": 8,
-    "updated_at": "2026-10-27T22:54:50Z",
+    "updated_at": "2026-10-27T22:59:57Z",
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-27T22:58:53Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
     "description": "DSB (\u9017\u6c99\u5305): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu",
@@ -383,7 +392,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 17,
-    "updated_at": "2026-10-27T22:54:23Z",
+    "updated_at": "2026-10-27T22:56:26Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 39,
     "updated_at": "2026-10-27T19:11:40Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 38,
-    "updated_at": "2026-10-27T19:08:01Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   }
 ]
