@@ -1,5 +1,50 @@
 [
   {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-27T19:14:37Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
+  },
+  {
+    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
+    "id": "diky87688973/ai-agent",
+    "language": "Python",
+    "name": "diky87688973/ai-agent",
+    "stars": 3,
+    "updated_at": "2026-10-27T19:14:11Z",
+    "url": "https://github.com/diky87688973/ai-agent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-27T19:11:55Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 38,
+    "updated_at": "2026-10-27T19:11:40Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
+    "id": "KaletoAI/anima-verse",
+    "language": "Python",
+    "name": "KaletoAI/anima-verse",
+    "stars": 4,
+    "updated_at": "2026-10-27T19:08:57Z",
+    "url": "https://github.com/KaletoAI/anima-verse"
+  },
+  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
@@ -14,7 +59,7 @@
     "language": "TypeScript",
     "name": "alexwkleung/reika",
     "stars": 12,
-    "updated_at": "2026-10-27T19:07:06Z",
+    "updated_at": "2026-10-27T19:13:33Z",
     "url": "https://github.com/alexwkleung/reika"
   },
   {
@@ -54,21 +99,12 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
-    "id": "diky87688973/ai-agent",
-    "language": "Python",
-    "name": "diky87688973/ai-agent",
-    "stars": 3,
-    "updated_at": "2026-10-27T18:56:48Z",
-    "url": "https://github.com/diky87688973/ai-agent"
-  },
-  {
     "description": "",
     "id": "vinaosb/austringer",
     "language": "Rust",
     "name": "vinaosb/austringer",
     "stars": 0,
-    "updated_at": "2026-10-27T18:53:51Z",
+    "updated_at": "2026-10-27T19:15:18Z",
     "url": "https://github.com/vinaosb/austringer"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Kotlin",
     "name": "zeng6125-rgb/suixing",
     "stars": 3,
-    "updated_at": "2026-10-27T19:07:13Z",
+    "updated_at": "2026-10-27T19:11:54Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "aiterrariumcontrol/terrarium-life",
     "stars": 0,
-    "updated_at": "2026-10-27T18:09:18Z",
+    "updated_at": "2026-10-27T19:10:20Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 361,
     "updated_at": "2026-10-27T18:04:12Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 38,
-    "updated_at": "2026-10-27T18:00:01Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
   {
     "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
@@ -324,15 +351,6 @@
     "url": "https://github.com/kifirkin/pi-braid"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-27T18:56:44Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "\u4ece B\u7ad9\u6d77\u91cf\u89c6\u9891\u91cc\u4e3a\u4e00\u4e2a\u8bae\u9898\u53d6\u6570\uff1a\u53cc\u8f74\u4fe1\u6e90\u8bc4\u7ea7\uff08A\u2013F \u00d7 1\u20134\uff09\u3001\u51b2\u7a81\u5355\u5217\u3001\u4e09\u7c7b\u7f3a\u53e3\u58f0\u660e\u3001\u68c0\u7d22\u534f\u8bae\u53ef\u590d\u73b0\u3002MCP server + \u65b9\u6cd5\u8bba skill\u3002",
     "id": "DavidLearning1023/bilibili-info-gathering",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-27T16:19:15Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-27T16:14:32Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Personal financial planning agent on Deep Agents and Claude, with a Streamlit chat UI. Reads your bank exports, projects",
-    "id": "darylalim/financial-planner-agent",
-    "language": "Python",
-    "name": "darylalim/financial-planner-agent",
-    "stars": 0,
-    "updated_at": "2026-10-27T16:15:07Z",
-    "url": "https://github.com/darylalim/financial-planner-agent"
   }
 ]
