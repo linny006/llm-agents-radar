@@ -1,5 +1,50 @@
 [
   {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-27T03:45:04Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
+    "id": "bamboosir1109/dsh-lanya",
+    "language": "Python",
+    "name": "bamboosir1109/dsh-lanya",
+    "stars": 2,
+    "updated_at": "2026-10-27T03:41:22Z",
+    "url": "https://github.com/bamboosir1109/dsh-lanya"
+  },
+  {
+    "description": "Auditable, event-sourced local coding-agent runtime \u2014 dual-plane control/execution, durable result-projection delivery g",
+    "id": "Koawa265Richard31/Koawa.codingAgentV2",
+    "language": "Python",
+    "name": "Koawa265Richard31/Koawa.codingAgentV2",
+    "stars": 1,
+    "updated_at": "2026-10-27T03:40:38Z",
+    "url": "https://github.com/Koawa265Richard31/Koawa.codingAgentV2"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-27T03:40:49Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvge",
+    "language": "Python",
+    "name": "IAmNo1Special/mvge",
+    "stars": 2,
+    "updated_at": "2026-10-27T03:32:49Z",
+    "url": "https://github.com/IAmNo1Special/mvge"
+  },
+  {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
     "id": "gabrielmaialva33/winx-code-agent",
     "language": "Rust",
@@ -9,15 +54,6 @@
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvge",
-    "language": "Python",
-    "name": "IAmNo1Special/mvge",
-    "stars": 2,
-    "updated_at": "2026-10-27T03:29:01Z",
-    "url": "https://github.com/IAmNo1Special/mvge"
-  },
-  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
@@ -25,15 +61,6 @@
     "stars": 352,
     "updated_at": "2026-10-27T03:24:51Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
-    "id": "bamboosir1109/dsh-lanya",
-    "language": "Python",
-    "name": "bamboosir1109/dsh-lanya",
-    "stars": 2,
-    "updated_at": "2026-10-27T03:24:38Z",
-    "url": "https://github.com/bamboosir1109/dsh-lanya"
   },
   {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
@@ -76,7 +103,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34261,
+    "stars": 34268,
     "updated_at": "2026-10-27T03:13:55Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -97,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-10-27T03:13:38Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "Auditable, event-sourced local coding-agent runtime \u2014 dual-plane control/execution, durable result-projection delivery g",
-    "id": "Koawa265Richard31/Koawa.codingAgentV2",
-    "language": "Python",
-    "name": "Koawa265Richard31/Koawa.codingAgentV2",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:13:18Z",
-    "url": "https://github.com/Koawa265Richard31/Koawa.codingAgentV2"
   },
   {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
@@ -243,15 +261,6 @@
     "url": "https://github.com/ljchang/mecha"
   },
   {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-27T03:22:25Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
     "description": "\u5bf9\u8bdd\u56f4\u680f\uff1a\u7ed9 DSH / DSH Desktop \u7684\u6bcf\u4e00\u6b21\u5bf9\u8bdd\u8bbe\u5b9a\u884c\u4e3a\u8fb9\u754c\u2014\u2014\u901a\u7528\u89c4\u5219 + \u6309\u5bf9\u8bdd\u8ffd\u52a0\u7684\u4e13\u5c5e\u89c4\u5219\uff0c\u5b58\u5728\u4e00\u4e2a\u4f4d\u7f6e\u53ef\u81ea\u5b9a\u4e49\u7684 JSON \u6587\u4ef6\u91cc\uff0c\u6309\u56fa\u5b9a\u987a\u5e8f\u6ce8\u5165\u8fd0\u884c\u65f6\u4e0a\u4e0b\u6587\uff0c\u4e0d\u7834\u574f\u524d\u7f00\u7f13\u5b58\u3002 / Per-conversation ",
     "id": "ILoveHAKU/dsh-dialog-fence",
     "language": "JavaScript",
@@ -382,7 +391,7 @@
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 1110,
+    "stars": 1111,
     "updated_at": "2026-10-27T01:30:46Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -401,7 +410,7 @@
     "language": "JavaScript",
     "name": "bigduu/Bodhi-AI",
     "stars": 17,
-    "updated_at": "2026-10-27T01:20:03Z",
+    "updated_at": "2026-10-27T03:42:41Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
@@ -409,7 +418,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3700,
+    "stars": 3701,
     "updated_at": "2026-10-27T01:12:36Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -439,14 +448,5 @@
     "stars": 11,
     "updated_at": "2026-10-27T00:38:06Z",
     "url": "https://github.com/Mein-Augenstern/MUYI"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-27T00:37:25Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
   }
 ]
