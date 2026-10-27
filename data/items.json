@@ -1,5 +1,77 @@
 [
   {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-27T07:26:48Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-27T07:25:09Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "id": "lsdefine/GenericAgent",
+    "language": "Python",
+    "name": "lsdefine/GenericAgent",
+    "stars": 14352,
+    "updated_at": "2026-10-27T07:25:02Z",
+    "url": "https://github.com/lsdefine/GenericAgent"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1114,
+    "updated_at": "2026-10-27T07:29:35Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 354,
+    "updated_at": "2026-10-27T07:24:50Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Transaction risk guard where a deterministic rule engine is authoritative and the LLM agent cannot overrule it \u2014 measure",
+    "id": "Intermountainh8ter/txwarden",
+    "language": "Python",
+    "name": "Intermountainh8ter/txwarden",
+    "stars": 0,
+    "updated_at": "2026-10-27T07:24:12Z",
+    "url": "https://github.com/Intermountainh8ter/txwarden"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 137,
+    "updated_at": "2026-10-27T07:17:55Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
+    "id": "Muvon/octomind-tap",
+    "language": "Python",
+    "name": "Muvon/octomind-tap",
+    "stars": 5,
+    "updated_at": "2026-10-27T07:17:19Z",
+    "url": "https://github.com/Muvon/octomind-tap"
+  },
+  {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
     "id": "lzmd-arch/BioSNN-Plug",
     "language": "Python",
@@ -14,8 +86,17 @@
     "language": "Python",
     "name": "xianyu-sheng/Xenon",
     "stars": 56,
-    "updated_at": "2026-10-27T07:13:15Z",
+    "updated_at": "2026-10-27T07:26:32Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Let LLMs run commands on a Windows machine you have no shell on, by having someone there paste one PowerShell snippet in",
+    "id": "SolusKossi/TempShell",
+    "language": "TypeScript",
+    "name": "SolusKossi/TempShell",
+    "stars": 1,
+    "updated_at": "2026-10-27T07:12:31Z",
+    "url": "https://github.com/SolusKossi/TempShell"
   },
   {
     "description": "Multi-agent LLM driven cell type annotation for single-cell RNA-Seq data",
@@ -36,15 +117,6 @@
     "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 354,
-    "updated_at": "2026-10-27T07:07:16Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -61,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T07:01:46Z",
     "url": "https://github.com/jmcph4/linksctl"
-  },
-  {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
-    "stars": 0,
-    "updated_at": "2026-10-27T06:59:55Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1114,
-    "updated_at": "2026-10-27T06:58:38Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Make any agent harness token-native.",
@@ -106,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-27T06:57:09Z",
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
-  },
-  {
-    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
-    "id": "Muvon/octomind-tap",
-    "language": "Python",
-    "name": "Muvon/octomind-tap",
-    "stars": 5,
-    "updated_at": "2026-10-27T06:55:02Z",
-    "url": "https://github.com/Muvon/octomind-tap"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -148,7 +193,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34327,
+    "stars": 34329,
     "updated_at": "2026-10-27T06:44:59Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T04:28:19Z",
     "url": "https://github.com/tya5/shellboy"
-  },
-  {
-    "description": "\u30c7\u30d9\u30ed\u30c3\u30d1\u30fc\u30b5\u30a4\u30c8\u306e\u57f7\u7b46\u3067\u4f5c\u6210\u3057\u305f\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
-    "id": "ubata-mamezou/developer-site-article-examples",
-    "language": "TypeScript",
-    "name": "ubata-mamezou/developer-site-article-examples",
-    "stars": 0,
-    "updated_at": "2026-10-27T04:26:13Z",
-    "url": "https://github.com/ubata-mamezou/developer-site-article-examples"
-  },
-  {
-    "description": "Torvian Chatbot is a self-hosted chatbot platform with a Ktor backend and Compose Multiplatform clients, supporting Open",
-    "id": "Torvian-eu/chatbot",
-    "language": "Kotlin",
-    "name": "Torvian-eu/chatbot",
-    "stars": 4,
-    "updated_at": "2026-10-27T04:19:31Z",
-    "url": "https://github.com/Torvian-eu/chatbot"
-  },
-  {
-    "description": "Python SDK for durable AI agents: survive crashes, pause for human approval at no cost, scale from a script to a multi-h",
-    "id": "initxy/noeta",
-    "language": "Python",
-    "name": "initxy/noeta",
-    "stars": 10,
-    "updated_at": "2026-10-27T07:11:29Z",
-    "url": "https://github.com/initxy/noeta"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-27T04:00:39Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "\u8ba9 AstrBot \u7684 Agent \u8fb9\u804a\u8fb9\u5b66\uff1a\u7ecf\u9a8c\u8bb0\u5fc6 + \u52a8\u4f5c\u4f18\u52bf\u4f30\u8ba1 + \u65e0\u68af\u5ea6\u7b56\u7565\u4f18\u5316\uff08JitRL, ICML 2026\uff09",
-    "id": "2841649220/astrbot_plugin_jitrl",
-    "language": "Python",
-    "name": "2841649220/astrbot_plugin_jitrl",
-    "stars": 0,
-    "updated_at": "2026-10-27T04:19:58Z",
-    "url": "https://github.com/2841649220/astrbot_plugin_jitrl"
   }
 ]
