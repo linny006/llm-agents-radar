@@ -1,21 +1,48 @@
 [
   {
+    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-10-27T20:54:05Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Lightweight, message-first TypeScript agent runtime with planning, sub-agents, human-in-the-loop approvals, MCP tools an",
+    "id": "Cognipeer/agent-sdk",
+    "language": "TypeScript",
+    "name": "Cognipeer/agent-sdk",
+    "stars": 7,
+    "updated_at": "2026-10-27T20:54:39Z",
+    "url": "https://github.com/Cognipeer/agent-sdk"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-27T20:49:21Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-27T20:47:33Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
     "id": "RalfHermsen/x4-agent",
     "language": "Python",
     "name": "RalfHermsen/x4-agent",
     "stars": 0,
-    "updated_at": "2026-10-27T20:42:48Z",
+    "updated_at": "2026-10-27T20:46:06Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "Mizan \u2014 an AI triage agent for security vulnerability reports, built on Meta's models. Reads reports and code, flags pro",
-    "id": "aimenhamzi01-dot/mizan",
-    "language": "Python",
-    "name": "aimenhamzi01-dot/mizan",
-    "stars": 0,
-    "updated_at": "2026-10-27T20:41:17Z",
-    "url": "https://github.com/aimenhamzi01-dot/mizan"
   },
   {
     "description": "Python-first Model Context Protocol (MCP) toolkit: a guarded MCP server (4 tools), a framework-free agent loop, a versio",
@@ -25,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-10-27T20:45:15Z",
     "url": "https://github.com/kanderson-ai-dev/mcp-agent-toolkit"
+  },
+  {
+    "description": "Mizan \u2014 an AI triage agent for security vulnerability reports, built on Meta's models. Reads reports and code, flags pro",
+    "id": "aimenhamzi01-dot/mizan",
+    "language": "Python",
+    "name": "aimenhamzi01-dot/mizan",
+    "stars": 0,
+    "updated_at": "2026-10-27T20:41:17Z",
+    "url": "https://github.com/aimenhamzi01-dot/mizan"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -86,7 +122,7 @@
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-27T20:30:08Z",
+    "updated_at": "2026-10-27T21:00:01Z",
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
@@ -126,15 +162,6 @@
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-27T20:37:10Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "\u7814\u7a76\u6b63\u6587\u7684\u591a\u683c\u5f0f\u5448\u73b0\u8584\u58f3\uff1aarticle.md \u2192 beautiful \u957f\u6587\u548c/\u6216 Design+Slides\uff085173 \u5ba1\u9605\uff09",
     "id": "JoeLiaoo/my-slides",
     "language": "Python",
@@ -160,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-10-27T20:10:26Z",
     "url": "https://github.com/diky87688973/ai-agent"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-27T20:10:30Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-27T20:25:41Z",
+    "updated_at": "2026-10-27T20:58:04Z",
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-27T18:12:06Z",
+    "updated_at": "2026-10-27T20:54:43Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -385,15 +403,6 @@
     "stars": 361,
     "updated_at": "2026-10-27T18:04:12Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-27T17:56:14Z",
-    "url": "https://github.com/bigduu/Zenith"
   },
   {
     "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T18:19:24Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-10-27T17:35:47Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
   }
 ]
