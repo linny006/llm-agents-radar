@@ -1,5 +1,32 @@
 [
   {
+    "description": "Braid \ud83e\udd68 Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-27T21:57:51Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
+    "id": "sharonita610/agent-harness",
+    "language": "Python",
+    "name": "sharonita610/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-27T21:49:57Z",
+    "url": "https://github.com/sharonita610/agent-harness"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-27T21:52:02Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
@@ -41,7 +68,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-27T21:41:11Z",
+    "updated_at": "2026-10-27T21:51:58Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 4,
     "updated_at": "2026-10-27T21:25:23Z",
     "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
-    "id": "sharonita610/agent-harness",
-    "language": "Python",
-    "name": "sharonita610/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-27T21:23:11Z",
-    "url": "https://github.com/sharonita610/agent-harness"
   },
   {
     "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
@@ -306,15 +324,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Braid \ud83e\udd68 Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-27T19:43:36Z",
-    "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
     "description": "Coding agent CLI for local and hosted models, designed around small local models first",
     "id": "alexwkleung/reika",
     "language": "TypeScript",
@@ -364,7 +373,7 @@
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
     "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 136,
+    "stars": 137,
     "updated_at": "2026-10-27T19:17:20Z",
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-27T18:28:09Z",
     "url": "https://github.com/kwakminoo/Project-IRIS-Light"
-  },
-  {
-    "description": "Enfolded: Nested World Adventure \u2014 a shared persistent multiverse where humans and AI agents traverse nested scales of r",
-    "id": "mark-weeks/hello-nested-worlds-adventure",
-    "language": "Python",
-    "name": "mark-weeks/hello-nested-worlds-adventure",
-    "stars": 5,
-    "updated_at": "2026-10-27T18:37:15Z",
-    "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
   }
 ]
