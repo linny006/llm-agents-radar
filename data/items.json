@@ -1,5 +1,50 @@
 [
   {
+    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
+    "id": "NicoGenti/opencode-orchestrator-kit",
+    "language": "TypeScript",
+    "name": "NicoGenti/opencode-orchestrator-kit",
+    "stars": 8,
+    "updated_at": "2026-10-27T22:54:50Z",
+    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
+  },
+  {
+    "description": "DSB (\u9017\u6c99\u5305): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu",
+    "id": "tianye1999/dsb",
+    "language": "Python",
+    "name": "tianye1999/dsb",
+    "stars": 1,
+    "updated_at": "2026-10-27T22:53:51Z",
+    "url": "https://github.com/tianye1999/dsb"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-27T22:49:45Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-27T22:49:42Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
+    "id": "duongnq2798/vestiarion",
+    "language": "TypeScript",
+    "name": "duongnq2798/vestiarion",
+    "stars": 2,
+    "updated_at": "2026-10-27T22:51:43Z",
+    "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
     "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
     "id": "sharonita610/agent-harness",
     "language": "Python",
@@ -43,24 +88,6 @@
     "stars": 2,
     "updated_at": "2026-10-27T22:34:04Z",
     "url": "https://github.com/mcn92/pikelet"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-27T22:34:36Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
-    "id": "NicoGenti/opencode-orchestrator-kit",
-    "language": "TypeScript",
-    "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 8,
-    "updated_at": "2026-10-27T22:26:20Z",
-    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
@@ -151,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T21:41:19Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 6,
-    "updated_at": "2026-10-27T21:39:22Z",
-    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "Mizan \u2014 an AI triage agent for security vulnerability reports, built on Meta's models. Reads reports and code, flags pro",
@@ -315,15 +333,6 @@
     "url": "https://github.com/Lyle-0015/photo-guided-field-dispatch-agent"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-27T20:26:23Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
     "id": "kanderson-ai-dev/agentic-api",
     "language": "Python",
@@ -374,7 +383,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 17,
-    "updated_at": "2026-10-27T22:29:24Z",
+    "updated_at": "2026-10-27T22:54:23Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 38,
     "updated_at": "2026-10-27T19:08:01Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 235,
-    "updated_at": "2026-10-27T19:07:20Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
   }
 ]
