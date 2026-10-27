@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-27 02:14 UTC
+> ⏰ Last updated: 2026-10-27 02:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -45,7 +45,7 @@ expired items removed — so you can rely on what you see being current.
 | 1 | [xiongweilin/agent-skills](https://github.com/xiongweilin/agent-skills) | 0 | PowerShell | 2026-10-27 | Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent |
 | 2 | [g761007/daily-dispatch](https://github.com/g761007/daily-dispatch) | 0 | Python | 2026-10-27 | 每日新聞自動分析與摘要系統：Claude Code 雲端排程（routines）定時分析、彙整成每日摘要，透過 GitHub Pages 公開發布並用 Telegram 推播。 |
 | 3 | [diky87688973/ai-agent](https://github.com/diky87688973/ai-agent) | 3 | Python | 2026-10-27 | 可扩展的本地 AI Agent：模块链内核 + 插件系统 + 上下文管理 + 工具执行 + Web 界面。 |
-| 4 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 34236 | Python | 2026-10-27 | Build and run agents you can see, understand and trust. |
+| 4 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 34238 | Python | 2026-10-27 | Build and run agents you can see, understand and trust. |
 | 5 | [lusipad/browser-agent](https://github.com/lusipad/browser-agent) | 3 | TypeScript | 2026-10-27 | 🤖 新一代开源 Chrome 侧边栏自主 AI 浏览器智能体：目标驱动、长程规划、视觉空间感知、快慢双核认知与物理级操控，支持 DeepSeek 思考模型与本地离线 LLM (BYOK) |
 | 6 | [mmporong/rl-triage-agent](https://github.com/mmporong/rl-triage-agent) | 2 | Python | 2026-10-27 | Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe |
 | 7 | [holylong/luban](https://github.com/holylong/luban) | 0 | TypeScript | 2026-10-27 | AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph |
