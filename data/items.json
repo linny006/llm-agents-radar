@@ -1,21 +1,48 @@
 [
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 17,
-    "updated_at": "2026-10-27T19:59:13Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
+    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 4,
+    "updated_at": "2026-10-27T20:14:56Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-27T20:14:39Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "\u7814\u7a76\u6b63\u6587\u7684\u591a\u683c\u5f0f\u5448\u73b0\u8584\u58f3\uff1aarticle.md \u2192 beautiful \u957f\u6587\u548c/\u6216 Design+Slides\uff085173 \u5ba1\u9605\uff09",
+    "id": "JoeLiaoo/my-slides",
+    "language": "Python",
+    "name": "JoeLiaoo/my-slides",
     "stars": 0,
-    "updated_at": "2026-10-27T19:57:45Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
+    "updated_at": "2026-10-27T20:15:14Z",
+    "url": "https://github.com/JoeLiaoo/my-slides"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-27T20:11:21Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
+    "id": "diky87688973/ai-agent",
+    "language": "Python",
+    "name": "diky87688973/ai-agent",
+    "stars": 3,
+    "updated_at": "2026-10-27T20:10:26Z",
+    "url": "https://github.com/diky87688973/ai-agent"
   },
   {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
@@ -23,8 +50,35 @@
     "language": "Python",
     "name": "RalfHermsen/x4-agent",
     "stars": 0,
-    "updated_at": "2026-10-27T19:57:33Z",
+    "updated_at": "2026-10-27T20:10:03Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-27T20:10:30Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-27T20:02:32Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 17,
+    "updated_at": "2026-10-27T20:03:42Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
@@ -72,15 +126,6 @@
     "url": "https://github.com/alexwkleung/reika"
   },
   {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-27T19:56:52Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -106,15 +151,6 @@
     "stars": 4468,
     "updated_at": "2026-10-27T19:51:00Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\u6295\u8d44\u7814\u7a76\u7528\u7684\u672c\u5730 Agent CLI\uff1a\u8d44\u6599 \u2192 Wiki \u2192 \u62a5\u544a \u2192 Design+Slides\uff085173 \u5ba1\u9605\uff09\u2192 \u79bb\u7ebf HTML",
-    "id": "JoeLiaoo/my-slides",
-    "language": "Python",
-    "name": "JoeLiaoo/my-slides",
-    "stars": 0,
-    "updated_at": "2026-10-27T19:27:32Z",
-    "url": "https://github.com/JoeLiaoo/my-slides"
   },
   {
     "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
@@ -153,15 +189,6 @@
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
-    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
-    "id": "diky87688973/ai-agent",
-    "language": "Python",
-    "name": "diky87688973/ai-agent",
-    "stars": 3,
-    "updated_at": "2026-10-27T19:14:11Z",
-    "url": "https://github.com/diky87688973/ai-agent"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
@@ -178,15 +205,6 @@
     "stars": 38,
     "updated_at": "2026-10-27T19:11:40Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-27T19:10:20Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-27T18:49:31Z",
+    "updated_at": "2026-10-27T20:03:48Z",
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
@@ -268,15 +286,6 @@
     "stars": 5,
     "updated_at": "2026-10-27T18:37:15Z",
     "url": "https://github.com/mark-weeks/hello-nested-worlds-adventure"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-27T18:16:32Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -439,14 +448,5 @@
     "stars": 5880,
     "updated_at": "2026-10-27T17:04:46Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "BlackLance \u2014 LLM-orchestrated reconnaissance and security testing framework with attack-surface mapping, evidence tracki",
-    "id": "roxm337/blacklance",
-    "language": "Python",
-    "name": "roxm337/blacklance",
-    "stars": 0,
-    "updated_at": "2026-10-27T17:04:44Z",
-    "url": "https://github.com/roxm337/blacklance"
   }
 ]
