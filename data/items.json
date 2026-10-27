@@ -1,12 +1,48 @@
 [
   {
+    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
+    "id": "liaosiliangCodeLife/harness-mate-plat",
+    "language": "Python",
+    "name": "liaosiliangCodeLife/harness-mate-plat",
+    "stars": 29,
+    "updated_at": "2026-10-27T02:44:25Z",
+    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 12,
+    "updated_at": "2026-10-27T02:42:40Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
     "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
     "id": "bamboosir1109/dsh-lanya",
     "language": "Python",
     "name": "bamboosir1109/dsh-lanya",
     "stars": 2,
-    "updated_at": "2026-10-27T02:29:11Z",
+    "updated_at": "2026-10-27T02:42:04Z",
     "url": "https://github.com/bamboosir1109/dsh-lanya"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-27T02:34:03Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-27T02:33:46Z",
+    "url": "https://github.com/ljchang/mecha"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -23,7 +59,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-27T02:26:37Z",
+    "updated_at": "2026-10-27T02:44:19Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-10-27T02:21:19Z",
     "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-27T02:20:46Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -112,7 +139,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34244,
+    "stars": 34252,
     "updated_at": "2026-10-27T02:10:37Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -205,15 +232,6 @@
     "stars": 1109,
     "updated_at": "2026-10-27T01:30:46Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
-    "id": "liaosiliangCodeLife/harness-mate-plat",
-    "language": "Python",
-    "name": "liaosiliangCodeLife/harness-mate-plat",
-    "stars": 29,
-    "updated_at": "2026-10-27T01:27:45Z",
-    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
   },
   {
     "description": "",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-26T23:34:38Z",
     "url": "https://github.com/tya5/shellboy"
-  },
-  {
-    "description": "The AI agent with a wallet \u2014 spends USDC autonomously to get real work done. Apache-2.0, TypeScript.",
-    "id": "BlockRunAI/Franklin",
-    "language": "TypeScript",
-    "name": "BlockRunAI/Franklin",
-    "stars": 563,
-    "updated_at": "2026-10-26T23:32:39Z",
-    "url": "https://github.com/BlockRunAI/Franklin"
-  },
-  {
-    "description": "Enterprise Data Agent: NL \u2192 contract-bound DSL \u2192 deterministic SQL \u2192 DuckDB. StateGraph orchestration, sandboxed analysi",
-    "id": "Cwentor/DataAgent",
-    "language": "Python",
-    "name": "Cwentor/DataAgent",
-    "stars": 1,
-    "updated_at": "2026-10-27T01:24:47Z",
-    "url": "https://github.com/Cwentor/DataAgent"
   }
 ]
