@@ -1,12 +1,57 @@
 [
   {
-    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
-    "id": "xiongweilin/agent-skills",
-    "language": "PowerShell",
-    "name": "xiongweilin/agent-skills",
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-27T07:13:57Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 56,
+    "updated_at": "2026-10-27T07:13:15Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Multi-agent LLM driven cell type annotation for single-cell RNA-Seq data",
+    "id": "NygenAnalytics/CyteType",
+    "language": "Python",
+    "name": "NygenAnalytics/CyteType",
+    "stars": 140,
+    "updated_at": "2026-10-27T07:10:56Z",
+    "url": "https://github.com/NygenAnalytics/CyteType"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-27T07:05:57Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 354,
+    "updated_at": "2026-10-27T07:07:16Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
     "stars": 0,
-    "updated_at": "2026-10-27T06:59:55Z",
-    "url": "https://github.com/xiongweilin/agent-skills"
+    "updated_at": "2026-10-27T07:05:10Z",
+    "url": "https://github.com/g761007/daily-dispatch"
   },
   {
     "description": "classify web content",
@@ -14,8 +59,17 @@
     "language": "Rust",
     "name": "jmcph4/linksctl",
     "stars": 0,
-    "updated_at": "2026-10-27T06:59:42Z",
+    "updated_at": "2026-10-27T07:01:46Z",
     "url": "https://github.com/jmcph4/linksctl"
+  },
+  {
+    "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
+    "id": "xiongweilin/agent-skills",
+    "language": "PowerShell",
+    "name": "xiongweilin/agent-skills",
+    "stars": 0,
+    "updated_at": "2026-10-27T06:59:55Z",
+    "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -94,18 +148,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34321,
+    "stars": 34327,
     "updated_at": "2026-10-27T06:44:59Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 56,
-    "updated_at": "2026-10-27T06:42:36Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -124,24 +169,6 @@
     "stars": 26,
     "updated_at": "2026-10-27T06:33:11Z",
     "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-27T06:33:09Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 354,
-    "updated_at": "2026-10-27T06:25:39Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
@@ -223,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T05:53:41Z",
     "url": "https://github.com/SnowYouth/ontologyBaseAI"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-27T05:53:04Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -320,7 +338,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4467,
-    "updated_at": "2026-10-27T06:16:43Z",
+    "updated_at": "2026-10-27T07:13:04Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "initxy/noeta",
     "stars": 10,
-    "updated_at": "2026-10-27T04:07:49Z",
+    "updated_at": "2026-10-27T07:11:29Z",
     "url": "https://github.com/initxy/noeta"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T04:19:58Z",
     "url": "https://github.com/2841649220/astrbot_plugin_jitrl"
-  },
-  {
-    "description": "Auditable, event-sourced local coding-agent runtime \u2014 dual-plane control/execution, durable result-projection delivery g",
-    "id": "Koawa265Richard31/Koawa.codingAgentV2",
-    "language": "Python",
-    "name": "Koawa265Richard31/Koawa.codingAgentV2",
-    "stars": 1,
-    "updated_at": "2026-10-27T03:40:38Z",
-    "url": "https://github.com/Koawa265Richard31/Koawa.codingAgentV2"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-27T06:56:55Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   }
 ]
