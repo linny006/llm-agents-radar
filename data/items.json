@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u9762\u5411\u4e2d\u56fd A \u80a1\u7684\u667a\u80fd\u6295\u7814\u52a9\u624b\uff1aMCP \u5de5\u5177\u670d\u52a1\u5668 + LangGraph \u591a Agent + \u6d4f\u89c8\u5668\u5bf9\u8bdd\u754c\u9762",
+    "id": "CPLASF2049/FinancialAI-Agent",
+    "language": "Python",
+    "name": "CPLASF2049/FinancialAI-Agent",
+    "stars": 1,
+    "updated_at": "2026-10-27T17:44:47Z",
+    "url": "https://github.com/CPLASF2049/FinancialAI-Agent"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 37,
+    "updated_at": "2026-10-27T17:43:01Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
+    "id": "tx3457/study-loop",
+    "language": "Python",
+    "name": "tx3457/study-loop",
+    "stars": 0,
+    "updated_at": "2026-10-27T17:42:28Z",
+    "url": "https://github.com/tx3457/study-loop"
+  },
+  {
+    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
+    "id": "sharonita610/agent-harness",
+    "language": "Python",
+    "name": "sharonita610/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-27T17:38:09Z",
+    "url": "https://github.com/sharonita610/agent-harness"
+  },
+  {
+    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
+    "id": "dkblinux98/nyxGPT",
+    "language": "Python",
+    "name": "dkblinux98/nyxGPT",
+    "stars": 0,
+    "updated_at": "2026-10-27T17:41:24Z",
+    "url": "https://github.com/dkblinux98/nyxGPT"
+  },
+  {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-10-27T17:35:47Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
     "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
     "id": "AskTheWay/dsh-auto-memory",
     "language": "TypeScript",
@@ -9,39 +63,12 @@
     "url": "https://github.com/AskTheWay/dsh-auto-memory"
   },
   {
-    "description": "\u9762\u5411\u4e2d\u56fd A \u80a1\u7684\u667a\u80fd\u6295\u7814\u52a9\u624b\uff1aMCP \u5de5\u5177\u670d\u52a1\u5668 + LangGraph \u591a Agent + \u6d4f\u89c8\u5668\u5bf9\u8bdd\u754c\u9762",
-    "id": "CPLASF2049/FinancialAI-Agent",
-    "language": "Python",
-    "name": "CPLASF2049/FinancialAI-Agent",
-    "stars": 1,
-    "updated_at": "2026-10-27T17:25:32Z",
-    "url": "https://github.com/CPLASF2049/FinancialAI-Agent"
-  },
-  {
-    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
-    "id": "sharonita610/agent-harness",
-    "language": "Python",
-    "name": "sharonita610/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-27T17:24:55Z",
-    "url": "https://github.com/sharonita610/agent-harness"
-  },
-  {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 37,
-    "updated_at": "2026-10-27T17:23:47Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
-  },
-  {
     "description": "AI-powered image generation and chat studio",
     "id": "juliopolycarpo/mangostudio",
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-27T17:21:35Z",
+    "updated_at": "2026-10-27T17:40:43Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "oldfunk/paper-trading",
     "stars": 1,
-    "updated_at": "2026-10-27T17:20:41Z",
+    "updated_at": "2026-10-27T17:32:49Z",
     "url": "https://github.com/oldfunk/paper-trading"
   },
   {
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "ArthurReboulSalze/Sherka-Compagnon",
     "stars": 0,
-    "updated_at": "2026-10-27T17:13:16Z",
+    "updated_at": "2026-10-27T17:36:19Z",
     "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-27T17:12:27Z",
+    "updated_at": "2026-10-27T17:33:27Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-27T17:21:13Z",
+    "updated_at": "2026-10-27T17:37:41Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-10-27T17:03:41Z",
+    "updated_at": "2026-10-27T17:31:59Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -232,15 +259,6 @@
     "stars": 5,
     "updated_at": "2026-10-27T16:30:50Z",
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
-  },
-  {
-    "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
-    "id": "dkblinux98/nyxGPT",
-    "language": "Python",
-    "name": "dkblinux98/nyxGPT",
-    "stars": 0,
-    "updated_at": "2026-10-27T17:04:23Z",
-    "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
@@ -430,23 +448,5 @@
     "stars": 38,
     "updated_at": "2026-10-27T15:26:27Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "\u4efb\u52a1\u578b\u591a\u8f6e\u5ba2\u670d Agent\uff1aYAML \u6d41\u7a0b DSL + \u5bf9\u8bdd\u72b6\u6001\u673a\uff08\u4e2d\u65ad/\u6302\u8d77/\u6062\u590d/\u53d6\u6d88\uff09+ \u9632\u5e7b\u89c9\u6821\u9a8c + \u4e09\u8f68\u9053\u5206\u6d41\uff0c\u542b\u6a21\u62df\u7535\u5546\u4e2d\u53f0\u4e0e 30 \u6bb5\u4f1a\u8bdd\u7ea7\u8bc4\u6d4b",
-    "id": "winc-0/fulfill-bot",
-    "language": "Python",
-    "name": "winc-0/fulfill-bot",
-    "stars": 1,
-    "updated_at": "2026-10-27T15:22:14Z",
-    "url": "https://github.com/winc-0/fulfill-bot"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 17,
-    "updated_at": "2026-10-27T15:21:59Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   }
 ]
