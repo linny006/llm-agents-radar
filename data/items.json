@@ -1,11 +1,65 @@
 [
   {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4468,
+    "updated_at": "2026-10-27T19:27:04Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "\u6295\u8d44\u7814\u7a76\u7528\u7684\u672c\u5730 Agent CLI\uff1a\u8d44\u6599 \u2192 Wiki \u2192 \u62a5\u544a \u2192 Design+Slides\uff085173 \u5ba1\u9605\uff09\u2192 \u79bb\u7ebf HTML",
+    "id": "JoeLiaoo/my-slides",
+    "language": "Python",
+    "name": "JoeLiaoo/my-slides",
+    "stars": 0,
+    "updated_at": "2026-10-27T19:27:32Z",
+    "url": "https://github.com/JoeLiaoo/my-slides"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 12,
+    "updated_at": "2026-10-27T19:23:07Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
+    "id": "jphall663/GWU_LLM",
+    "language": "Jupyter Notebook",
+    "name": "jphall663/GWU_LLM",
+    "stars": 0,
+    "updated_at": "2026-10-27T19:18:03Z",
+    "url": "https://github.com/jphall663/GWU_LLM"
+  },
+  {
+    "description": "A verification-first AI agent harness - one Rust binary, any model. Deny-first policy, OS sandbox, and a tamper-evident ",
+    "id": "kashyaprajharsh/medha-agent",
+    "language": "Rust",
+    "name": "kashyaprajharsh/medha-agent",
+    "stars": 5,
+    "updated_at": "2026-10-27T19:17:23Z",
+    "url": "https://github.com/kashyaprajharsh/medha-agent"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 136,
+    "updated_at": "2026-10-27T19:17:20Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
     "id": "sindredg/ai-security-platform",
     "language": "Python",
     "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-27T19:14:37Z",
+    "updated_at": "2026-10-27T19:24:25Z",
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
@@ -36,6 +90,15 @@
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-27T19:10:20Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
     "id": "KaletoAI/anima-verse",
     "language": "Python",
@@ -52,15 +115,6 @@
     "stars": 38,
     "updated_at": "2026-10-27T19:08:01Z",
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 12,
-    "updated_at": "2026-10-27T19:13:33Z",
-    "url": "https://github.com/alexwkleung/reika"
   },
   {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
@@ -86,7 +140,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-27T18:59:33Z",
+    "updated_at": "2026-10-27T19:20:08Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -214,15 +268,6 @@
     "stars": 824,
     "updated_at": "2026-10-27T18:11:33Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-27T19:10:20Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -387,15 +432,6 @@
     "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
   },
   {
-    "description": "\u6295\u8d44\u7814\u7a76\u7528\u7684\u672c\u5730 Agent CLI\uff1a\u8d44\u6599 \u2192 Wiki \u2192 \u62a5\u544a \u2192 Design+Slides\uff085173 \u5ba1\u9605\uff09\u2192 \u79bb\u7ebf HTML",
-    "id": "JoeLiaoo/my-slides",
-    "language": "Python",
-    "name": "JoeLiaoo/my-slides",
-    "stars": 0,
-    "updated_at": "2026-10-27T17:29:35Z",
-    "url": "https://github.com/JoeLiaoo/my-slides"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-27T17:31:59Z",
     "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
-    "id": "NatanTechofNY/fieldnote-assistant",
-    "language": "TypeScript",
-    "name": "NatanTechofNY/fieldnote-assistant",
-    "stars": 5,
-    "updated_at": "2026-10-27T16:30:50Z",
-    "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
-  },
-  {
-    "description": "Full-stack stock & crypto portfolio tracker: TypeScript, React, Supabase (PostgreSQL + RLS, Edge Functions), broker sync",
-    "id": "ZdenekBudicek/stock-portfolio-tracker",
-    "language": "TypeScript",
-    "name": "ZdenekBudicek/stock-portfolio-tracker",
-    "stars": 0,
-    "updated_at": "2026-10-27T16:26:14Z",
-    "url": "https://github.com/ZdenekBudicek/stock-portfolio-tracker"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 132,
-    "updated_at": "2026-10-27T16:20:21Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-27T16:19:15Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
