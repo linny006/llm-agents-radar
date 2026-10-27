@@ -1,5 +1,131 @@
 [
   {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-27T17:14:19Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "Braid \ud83e\udd68 Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-27T17:14:00Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvge",
+    "language": "Python",
+    "name": "IAmNo1Special/mvge",
+    "stars": 2,
+    "updated_at": "2026-10-27T17:13:55Z",
+    "url": "https://github.com/IAmNo1Special/mvge"
+  },
+  {
+    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
+    "id": "ArthurReboulSalze/Sherka-Compagnon",
+    "language": "Rust",
+    "name": "ArthurReboulSalze/Sherka-Compagnon",
+    "stars": 0,
+    "updated_at": "2026-10-27T17:13:16Z",
+    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 361,
+    "updated_at": "2026-10-27T17:12:50Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-27T17:12:27Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "\u4ece B\u7ad9\u6d77\u91cf\u89c6\u9891\u91cc\u4e3a\u4e00\u4e2a\u8bae\u9898\u53d6\u6570\uff1a\u53cc\u8f74\u4fe1\u6e90\u8bc4\u7ea7\uff08A\u2013F \u00d7 1\u20134\uff09\u3001\u51b2\u7a81\u5355\u5217\u3001\u4e09\u7c7b\u7f3a\u53e3\u58f0\u660e\u3001\u68c0\u7d22\u534f\u8bae\u53ef\u590d\u73b0\u3002MCP server + \u65b9\u6cd5\u8bba skill\u3002",
+    "id": "DavidLearning1023/bilibili-info-gathering",
+    "language": "Python",
+    "name": "DavidLearning1023/bilibili-info-gathering",
+    "stars": 2,
+    "updated_at": "2026-10-27T17:09:37Z",
+    "url": "https://github.com/DavidLearning1023/bilibili-info-gathering"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-27T17:08:06Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 36,
+    "updated_at": "2026-10-27T17:07:15Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8967,
+    "updated_at": "2026-10-27T17:05:58Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Open-source AI agent harness and desktop app that runs on your machine. Bring your own model (Anthropic, OpenAI, Gemini,",
+    "id": "othermind-tech/eva",
+    "language": "Python",
+    "name": "othermind-tech/eva",
+    "stars": 0,
+    "updated_at": "2026-10-27T17:14:21Z",
+    "url": "https://github.com/othermind-tech/eva"
+  },
+  {
+    "description": "BlackLance \u2014 LLM-orchestrated reconnaissance and security testing framework with attack-surface mapping, evidence tracki",
+    "id": "roxm337/blacklance",
+    "language": "Python",
+    "name": "roxm337/blacklance",
+    "stars": 0,
+    "updated_at": "2026-10-27T17:04:44Z",
+    "url": "https://github.com/roxm337/blacklance"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-27T17:04:01Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "Visual inspection with an LLM agent: YOLOv8 + Qwen-VL, RAG standards retrieval via tool calling with grounded citations,",
+    "id": "mino19790622-dot/visual-inspection-report-generator",
+    "language": "Python",
+    "name": "mino19790622-dot/visual-inspection-report-generator",
+    "stars": 0,
+    "updated_at": "2026-10-27T17:03:38Z",
+    "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
+  },
+  {
     "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
     "id": "sharonita610/agent-harness",
     "language": "Python",
@@ -18,15 +144,6 @@
     "url": "https://github.com/JoeLiaoo/my-slides"
   },
   {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 36,
-    "updated_at": "2026-10-27T16:52:42Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
-  },
-  {
     "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
     "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
     "language": "JavaScript",
@@ -36,15 +153,6 @@
     "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
-    "description": "Modular OSINT and attack-surface reconnaissance framework with LLM-driven orchestration, evidence-backed findings, and b",
-    "id": "roxm337/blacklance",
-    "language": "Python",
-    "name": "roxm337/blacklance",
-    "stars": 0,
-    "updated_at": "2026-10-27T16:49:43Z",
-    "url": "https://github.com/roxm337/blacklance"
-  },
-  {
     "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
     "id": "oldfunk/paper-trading",
     "language": "Python",
@@ -52,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-27T16:44:34Z",
     "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 361,
-    "updated_at": "2026-10-27T16:42:51Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -85,7 +184,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6645,
+    "stars": 6646,
     "updated_at": "2026-10-27T16:35:54Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -95,7 +194,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-10-27T16:35:14Z",
+    "updated_at": "2026-10-27T17:03:41Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -113,7 +212,7 @@
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-27T16:50:41Z",
+    "updated_at": "2026-10-27T17:04:23Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -133,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T16:26:14Z",
     "url": "https://github.com/ZdenekBudicek/stock-portfolio-tracker"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8967,
-    "updated_at": "2026-10-27T16:33:16Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -205,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T16:08:48Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-27T16:07:14Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -333,15 +414,6 @@
     "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   },
   {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvge",
-    "language": "Python",
-    "name": "IAmNo1Special/mvge",
-    "stars": 2,
-    "updated_at": "2026-10-27T16:21:13Z",
-    "url": "https://github.com/IAmNo1Special/mvge"
-  },
-  {
     "description": "\u4efb\u52a1\u578b\u591a\u8f6e\u5ba2\u670d Agent\uff1aYAML \u6d41\u7a0b DSL + \u5bf9\u8bdd\u72b6\u6001\u673a\uff08\u4e2d\u65ad/\u6302\u8d77/\u6062\u590d/\u53d6\u6d88\uff09+ \u9632\u5e7b\u89c9\u6821\u9a8c + \u4e09\u8f68\u9053\u5206\u6d41\uff0c\u542b\u6a21\u62df\u7535\u5546\u4e2d\u53f0\u4e0e 30 \u6bb5\u4f1a\u8bdd\u7ea7\u8bc4\u6d4b",
     "id": "winc-0/fulfill-bot",
     "language": "Python",
@@ -369,15 +441,6 @@
     "url": "https://github.com/Mein-Augenstern/MUYI"
   },
   {
-    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
-    "id": "ArthurReboulSalze/Sherka-Compagnon",
-    "language": "Rust",
-    "name": "ArthurReboulSalze/Sherka-Compagnon",
-    "stars": 0,
-    "updated_at": "2026-10-27T15:05:59Z",
-    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
@@ -385,68 +448,5 @@
     "stars": 1123,
     "updated_at": "2026-10-27T16:11:00Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "A local-first, standalone personal knowledge base for Windows. Import, organize, and create your own links \u2014 no browser ",
-    "id": "Hrecer/LinkPocket",
-    "language": "C#",
-    "name": "Hrecer/LinkPocket",
-    "stars": 1,
-    "updated_at": "2026-10-27T14:55:05Z",
-    "url": "https://github.com/Hrecer/LinkPocket"
-  },
-  {
-    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
-    "id": "wuyhong715/rikkahub-agent-pure",
-    "language": "Kotlin",
-    "name": "wuyhong715/rikkahub-agent-pure",
-    "stars": 68,
-    "updated_at": "2026-10-27T16:38:45Z",
-    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
-  },
-  {
-    "description": "Not a chatbot\u2014a tireless digital secretary. Jarvis is a persistent, self-hosted AI operating system that manages communi",
-    "id": "Lucky-1608/Jarvis",
-    "language": "Python",
-    "name": "Lucky-1608/Jarvis",
-    "stars": 0,
-    "updated_at": "2026-10-27T14:45:34Z",
-    "url": "https://github.com/Lucky-1608/Jarvis"
-  },
-  {
-    "description": "\u8ba9 AstrBot \u7684 Agent \u8fb9\u804a\u8fb9\u5b66\uff1a\u7ecf\u9a8c\u8bb0\u5fc6 + \u52a8\u4f5c\u4f18\u52bf\u4f30\u8ba1 + \u65e0\u68af\u5ea6\u7b56\u7565\u4f18\u5316\uff08JitRL, ICML 2026\uff09",
-    "id": "2841649220/astrbot_plugin_jitrl",
-    "language": "Python",
-    "name": "2841649220/astrbot_plugin_jitrl",
-    "stars": 0,
-    "updated_at": "2026-10-27T14:48:01Z",
-    "url": "https://github.com/2841649220/astrbot_plugin_jitrl"
-  },
-  {
-    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
-    "id": "hellices/korvid",
-    "language": "Python",
-    "name": "hellices/korvid",
-    "stars": 3,
-    "updated_at": "2026-10-27T15:44:51Z",
-    "url": "https://github.com/hellices/korvid"
-  },
-  {
-    "description": "An agent that explains FDA device recalls and proves every number against SQL.",
-    "id": "smahanti8/device-recall-explainer",
-    "language": "Python",
-    "name": "smahanti8/device-recall-explainer",
-    "stars": 0,
-    "updated_at": "2026-10-27T14:36:04Z",
-    "url": "https://github.com/smahanti8/device-recall-explainer"
-  },
-  {
-    "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
-    "id": "HumanStudy-Hub/HumanStudy-Bench",
-    "language": "Python",
-    "name": "HumanStudy-Hub/HumanStudy-Bench",
-    "stars": 6,
-    "updated_at": "2026-10-27T14:33:31Z",
-    "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
   }
 ]
