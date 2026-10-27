@@ -1,11 +1,56 @@
 [
   {
+    "description": "\u53ef\u6269\u5c55\u7684\u672c\u5730 AI Agent\uff1a\u6a21\u5757\u94fe\u5185\u6838 + \u63d2\u4ef6\u7cfb\u7edf + \u4e0a\u4e0b\u6587\u7ba1\u7406 + \u5de5\u5177\u6267\u884c + Web \u754c\u9762\u3002",
+    "id": "diky87688973/ai-agent",
+    "language": "Python",
+    "name": "diky87688973/ai-agent",
+    "stars": 3,
+    "updated_at": "2026-10-27T11:44:48Z",
+    "url": "https://github.com/diky87688973/ai-agent"
+  },
+  {
+    "description": "Self-evolving agent framework on DeepSeek Harness (dsh): 40 Cordis plugins, 4 presets, memory \u00b7 reflection \u00b7 gates \u00b7 met",
+    "id": "Anmulzhao/DSH-AGINT",
+    "language": "JavaScript",
+    "name": "Anmulzhao/DSH-AGINT",
+    "stars": 1,
+    "updated_at": "2026-10-27T11:43:54Z",
+    "url": "https://github.com/Anmulzhao/DSH-AGINT"
+  },
+  {
+    "description": "Regulatory change impact agent for UK financial firms: NVIDIA Nemotron (Nano + Ultra) on Nebius Token Factory, Tavily se",
+    "id": "mukeshkbj/RegPulse",
+    "language": "TypeScript",
+    "name": "mukeshkbj/RegPulse",
+    "stars": 0,
+    "updated_at": "2026-10-27T11:39:06Z",
+    "url": "https://github.com/mukeshkbj/RegPulse"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-27T11:33:26Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "\u6295\u8d44\u7814\u7a76\u7528\u7684\u672c\u5730 Agent CLI\uff1a\u8d44\u6599 \u2192 Wiki \u2192 \u62a5\u544a \u2192 Design+Slides\uff085173 \u5ba1\u9605\uff09\u2192 \u79bb\u7ebf HTML",
+    "id": "JoeLiaoo/my-slides",
+    "language": "Python",
+    "name": "JoeLiaoo/my-slides",
+    "stars": 0,
+    "updated_at": "2026-10-27T11:33:42Z",
+    "url": "https://github.com/JoeLiaoo/my-slides"
+  },
+  {
     "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
     "id": "gptme/gptme",
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4467,
-    "updated_at": "2026-10-27T11:29:15Z",
+    "updated_at": "2026-10-27T11:41:27Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "Rukkakka/jibsa",
     "stars": 0,
-    "updated_at": "2026-10-27T11:28:41Z",
+    "updated_at": "2026-10-27T11:44:39Z",
     "url": "https://github.com/Rukkakka/jibsa"
   },
   {
@@ -41,7 +86,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-27T11:23:47Z",
+    "updated_at": "2026-10-27T11:44:10Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -63,15 +108,6 @@
     "url": "https://github.com/xy547/bailian-agent-demo"
   },
   {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-27T11:21:01Z",
-    "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T11:18:21Z",
     "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "Regulatory change impact agent for UK financial firms: NVIDIA Nemotron (Nano + Ultra) on Nebius Token Factory, Tavily se",
-    "id": "mukeshkbj/RegPulse",
-    "language": "TypeScript",
-    "name": "mukeshkbj/RegPulse",
-    "stars": 0,
-    "updated_at": "2026-10-27T11:17:37Z",
-    "url": "https://github.com/mukeshkbj/RegPulse"
   },
   {
     "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
@@ -185,7 +212,7 @@
     "language": "Rust",
     "name": "citizenhicks/mobius",
     "stars": 1,
-    "updated_at": "2026-10-27T11:00:41Z",
+    "updated_at": "2026-10-27T11:37:25Z",
     "url": "https://github.com/citizenhicks/mobius"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "roxm337/osint-agent",
     "stars": 0,
-    "updated_at": "2026-10-27T11:02:14Z",
+    "updated_at": "2026-10-27T11:43:13Z",
     "url": "https://github.com/roxm337/osint-agent"
   },
   {
@@ -337,7 +364,7 @@
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 16,
+    "stars": 18,
     "updated_at": "2026-10-27T09:56:18Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T09:55:19Z",
     "url": "https://github.com/2841649220/astrbot_plugin_jitrl"
-  },
-  {
-    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
-    "id": "areal-project/AReaL",
-    "language": "Python",
-    "name": "areal-project/AReaL",
-    "stars": 5877,
-    "updated_at": "2026-10-27T11:05:09Z",
-    "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
-    "id": "KaletoAI/anima-verse",
-    "language": "Python",
-    "name": "KaletoAI/anima-verse",
-    "stars": 4,
-    "updated_at": "2026-10-27T09:22:37Z",
-    "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
-    "id": "bitranox/vnc-remote-control",
-    "language": "Python",
-    "name": "bitranox/vnc-remote-control",
-    "stars": 1,
-    "updated_at": "2026-10-27T09:12:12Z",
-    "url": "https://github.com/bitranox/vnc-remote-control"
   }
 ]
