@@ -1,12 +1,84 @@
 [
   {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-27T04:44:49Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 56,
+    "updated_at": "2026-10-27T04:44:40Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 3,
+    "updated_at": "2026-10-27T04:42:20Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 161,
+    "updated_at": "2026-10-27T04:40:51Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
+    "id": "bamboosir1109/dsh-lanya",
+    "language": "Python",
+    "name": "bamboosir1109/dsh-lanya",
+    "stars": 2,
+    "updated_at": "2026-10-27T04:39:02Z",
+    "url": "https://github.com/bamboosir1109/dsh-lanya"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 132,
+    "updated_at": "2026-10-27T04:37:37Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 17,
+    "updated_at": "2026-10-27T04:43:21Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
     "id": "SugarMGP/MumuBot",
     "language": "Go",
     "name": "SugarMGP/MumuBot",
     "stars": 26,
-    "updated_at": "2026-10-27T04:30:11Z",
+    "updated_at": "2026-10-27T04:35:51Z",
     "url": "https://github.com/SugarMGP/MumuBot"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-27T04:35:02Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
     "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
@@ -16,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T04:28:19Z",
     "url": "https://github.com/tya5/shellboy"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 17,
-    "updated_at": "2026-10-27T04:29:03Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "\u30c7\u30d9\u30ed\u30c3\u30d1\u30fc\u30b5\u30a4\u30c8\u306e\u57f7\u7b46\u3067\u4f5c\u6210\u3057\u305f\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
@@ -63,15 +126,6 @@
     "url": "https://github.com/Torvian-eu/chatbot"
   },
   {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 56,
-    "updated_at": "2026-10-27T04:16:18Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
     "description": "Make any agent harness token-native.",
     "id": "Lawhy/tokin",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 7,
     "updated_at": "2026-10-27T04:15:35Z",
     "url": "https://github.com/Lawhy/tokin"
-  },
-  {
-    "description": "QQ \u7fa4\u91cc\u7684\u6570\u5b57\u751f\u547d\uff1a\u4eba\u8bbe\u6ce8\u5165 \u00b7 \u957f\u671f\u8bb0\u5fc6 \u00b7 \u8868\u60c5\u5305\u6309\u60c5\u7eea\u5206\u7c7b \u00b7 \u81ea\u4e3b\u5237B\u7ad9+\u53d1\u8bc4\u8bba \u00b7 14 \u9875\u53ef\u89c6\u5316\u63a7\u5236\u53f0 | DeepSeek Harness plugin",
-    "id": "bamboosir1109/dsh-lanya",
-    "language": "Python",
-    "name": "bamboosir1109/dsh-lanya",
-    "stars": 2,
-    "updated_at": "2026-10-27T04:14:45Z",
-    "url": "https://github.com/bamboosir1109/dsh-lanya"
   },
   {
     "description": "Coding agent CLI for local and hosted models, designed around small local models first",
@@ -117,21 +162,12 @@
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-27T04:00:26Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-27T03:57:31Z",
+    "updated_at": "2026-10-27T04:39:59Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 161,
-    "updated_at": "2026-10-27T03:19:53Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
     "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
     "id": "liaosiliangCodeLife/harness-mate-plat",
     "language": "Python",
@@ -220,7 +247,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34279,
+    "stars": 34281,
     "updated_at": "2026-10-27T03:13:55Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5875,
-    "updated_at": "2026-10-27T02:56:04Z",
+    "updated_at": "2026-10-27T04:39:21Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T02:01:45Z",
     "url": "https://github.com/holylong/luban"
-  },
-  {
-    "description": "\u672c\u4f53\u9a71\u52a8\u7684 LLM \u8bed\u4e49\u5c42: \u6570\u636e\u7559\u5e93, \u672c\u4f53\u5f53\u8bed\u4e49\u5c42, OBQC \u6267\u884c\u524d\u6821\u9a8c + \u5931\u8d25\u4fe1\u53f7\u81ea\u6f14\u5316",
-    "id": "SnowYouth/ontologyBaseAI",
-    "language": "Python",
-    "name": "SnowYouth/ontologyBaseAI",
-    "stars": 0,
-    "updated_at": "2026-10-27T02:00:39Z",
-    "url": "https://github.com/SnowYouth/ontologyBaseAI"
-  },
-  {
-    "description": "Autonomous personal agent: talks, acts, never gives up. Multi-model, multi-user, self-improving",
-    "id": "franckolv-dev/ELY2",
-    "language": "Python",
-    "name": "franckolv-dev/ELY2",
-    "stars": 1,
-    "updated_at": "2026-10-27T02:05:12Z",
-    "url": "https://github.com/franckolv-dev/ELY2"
-  },
-  {
-    "description": "Grounded, citation-bearing Q&A agent over a legacy Progress 4GL / OpenEdge (ABL) codebase - refuses to guess. Eval-first",
-    "id": "SpSharon/openedge-code-intelligence-agent",
-    "language": "Python",
-    "name": "SpSharon/openedge-code-intelligence-agent",
-    "stars": 0,
-    "updated_at": "2026-10-27T01:51:08Z",
-    "url": "https://github.com/SpSharon/openedge-code-intelligence-agent"
   }
 ]
