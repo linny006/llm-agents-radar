@@ -1,5 +1,86 @@
 [
   {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 37,
+    "updated_at": "2026-10-27T18:00:01Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-10-27T17:56:14Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
+    "id": "sharonita610/agent-harness",
+    "language": "Python",
+    "name": "sharonita610/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-27T17:53:42Z",
+    "url": "https://github.com/sharonita610/agent-harness"
+  },
+  {
+    "description": "",
+    "id": "vinaosb/austringer",
+    "language": "Rust",
+    "name": "vinaosb/austringer",
+    "stars": 0,
+    "updated_at": "2026-10-27T18:00:04Z",
+    "url": "https://github.com/vinaosb/austringer"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 361,
+    "updated_at": "2026-10-27T17:51:31Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
+    "id": "ArthurReboulSalze/Sherka-Compagnon",
+    "language": "Rust",
+    "name": "ArthurReboulSalze/Sherka-Compagnon",
+    "stars": 0,
+    "updated_at": "2026-10-27T17:49:10Z",
+    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-27T17:47:22Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 1,
+    "updated_at": "2026-10-27T17:47:15Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-27T17:45:38Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
     "description": "\u9762\u5411\u4e2d\u56fd A \u80a1\u7684\u667a\u80fd\u6295\u7814\u52a9\u624b\uff1aMCP \u5de5\u5177\u670d\u52a1\u5668 + LangGraph \u591a Agent + \u6d4f\u89c8\u5668\u5bf9\u8bdd\u754c\u9762",
     "id": "CPLASF2049/FinancialAI-Agent",
     "language": "Python",
@@ -7,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-10-27T17:44:47Z",
     "url": "https://github.com/CPLASF2049/FinancialAI-Agent"
-  },
-  {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 37,
-    "updated_at": "2026-10-27T17:43:01Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
   {
     "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
@@ -27,21 +99,12 @@
     "url": "https://github.com/tx3457/study-loop"
   },
   {
-    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
-    "id": "sharonita610/agent-harness",
-    "language": "Python",
-    "name": "sharonita610/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-27T17:38:09Z",
-    "url": "https://github.com/sharonita610/agent-harness"
-  },
-  {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
     "id": "dkblinux98/nyxGPT",
     "language": "Python",
     "name": "dkblinux98/nyxGPT",
     "stars": 0,
-    "updated_at": "2026-10-27T17:41:24Z",
+    "updated_at": "2026-10-27T17:55:48Z",
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
@@ -68,7 +131,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-27T17:40:43Z",
+    "updated_at": "2026-10-27T17:52:47Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -117,30 +180,12 @@
     "url": "https://github.com/kifirkin/pi-braid"
   },
   {
-    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
-    "id": "ArthurReboulSalze/Sherka-Compagnon",
-    "language": "Rust",
-    "name": "ArthurReboulSalze/Sherka-Compagnon",
-    "stars": 0,
-    "updated_at": "2026-10-27T17:36:19Z",
-    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 361,
-    "updated_at": "2026-10-27T17:12:50Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-27T17:33:27Z",
+    "updated_at": "2026-10-27T17:48:23Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "ljchang/mecha",
     "stars": 7,
-    "updated_at": "2026-10-27T17:37:41Z",
+    "updated_at": "2026-10-27T17:55:58Z",
     "url": "https://github.com/ljchang/mecha"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T17:29:35Z",
     "url": "https://github.com/JoeLiaoo/my-slides"
-  },
-  {
-    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
-    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "language": "JavaScript",
-    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
-    "stars": 1,
-    "updated_at": "2026-10-27T16:53:30Z",
-    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
   },
   {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
@@ -351,15 +387,6 @@
     "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-27T16:03:23Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "AI \u9a71\u52a8\u7684\u67b6\u6784\u6cbb\u7406\u684c\u9762\u5ba2\u6237\u7aef\uff1a\u8ba9 LLM agent \u6210\u4e3a\u56e2\u961f\u7684\u67b6\u6784\u5730\u56fe\u5de5\u7a0b\u5e08\u2014\u2014\u81ea\u52a8\u5f52\u7eb3\u4ed3\u5e93\u67b6\u6784\u5730\u56fe\uff08\u5206\u5c42+\u5065\u5eb7\u5ea6\uff09\u3001\u6f02\u79fb\u68c0\u6d4b\u3001\u4e00\u952e\u5de1\u68c0\u3001\u53ef\u5ba1\u8ba1\u7684\u4efb\u52a1\u6d41\u6c34\u7ebf\uff08\u9700\u6c42\u5206\u6790\u2192\u65b9\u6848\u8bbe\u8ba1\u2192\u5b9e\u65bd\u2192\u5ba1\u67e5\u2192\u5f52\u6863\uff09\u3002AI-driven architect",
     "id": "JCPSer/EasyVibe",
     "language": "TypeScript",
@@ -387,21 +414,12 @@
     "url": "https://github.com/NoHarry/android-agent-runtime"
   },
   {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 6,
-    "updated_at": "2026-10-27T15:44:55Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
     "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
     "id": "haoyiyin/basjoo",
     "language": "Python",
     "name": "haoyiyin/basjoo",
     "stars": 164,
-    "updated_at": "2026-10-27T15:43:18Z",
+    "updated_at": "2026-10-27T17:58:06Z",
     "url": "https://github.com/haoyiyin/basjoo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-27T15:35:29Z",
     "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
-  },
-  {
-    "description": "Luna, a shopping research agent for Sweden. Tool-calling LLM agent with Python floors, hybrid retrieval and its own eval",
-    "id": "zheyun-shou/product-research-agent-luna",
-    "language": "Python",
-    "name": "zheyun-shou/product-research-agent-luna",
-    "stars": 0,
-    "updated_at": "2026-10-27T15:33:04Z",
-    "url": "https://github.com/zheyun-shou/product-research-agent-luna"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 38,
-    "updated_at": "2026-10-27T15:26:27Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
   }
 ]
