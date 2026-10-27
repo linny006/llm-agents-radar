@@ -1,5 +1,113 @@
 [
   {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 3,
+    "updated_at": "2026-10-27T13:45:03Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
+    "id": "liaosiliangCodeLife/harness-mate-plat",
+    "language": "Python",
+    "name": "liaosiliangCodeLife/harness-mate-plat",
+    "stars": 29,
+    "updated_at": "2026-10-27T13:44:12Z",
+    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
+  },
+  {
+    "description": "Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into",
+    "id": "AskTheWay/dsh-auto-memory",
+    "language": "TypeScript",
+    "name": "AskTheWay/dsh-auto-memory",
+    "stars": 114,
+    "updated_at": "2026-10-27T13:43:33Z",
+    "url": "https://github.com/AskTheWay/dsh-auto-memory"
+  },
+  {
+    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
+    "id": "bitranox/vnc-remote-control",
+    "language": "Python",
+    "name": "bitranox/vnc-remote-control",
+    "stars": 1,
+    "updated_at": "2026-10-27T13:41:36Z",
+    "url": "https://github.com/bitranox/vnc-remote-control"
+  },
+  {
+    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
+    "id": "tya5/shellboy",
+    "language": "Rust",
+    "name": "tya5/shellboy",
+    "stars": 0,
+    "updated_at": "2026-10-27T13:37:28Z",
+    "url": "https://github.com/tya5/shellboy"
+  },
+  {
+    "description": "A desktop client for playing OpenMMO manually or with an LLM at the controls.",
+    "id": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "language": "JavaScript",
+    "name": "OpenMMO-Agent-UI/openmmo-agent-ui",
+    "stars": 1,
+    "updated_at": "2026-10-27T13:37:15Z",
+    "url": "https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 56,
+    "updated_at": "2026-10-27T13:37:10Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1118,
+    "updated_at": "2026-10-27T13:36:21Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 17,
+    "updated_at": "2026-10-27T13:42:15Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 5,
+    "updated_at": "2026-10-27T13:34:15Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
+    "id": "haoyiyin/basjoo",
+    "language": "Python",
+    "name": "haoyiyin/basjoo",
+    "stars": 164,
+    "updated_at": "2026-10-27T13:32:56Z",
+    "url": "https://github.com/haoyiyin/basjoo"
+  },
+  {
+    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 4,
+    "updated_at": "2026-10-27T13:33:16Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
     "description": "A personal assistant with a phone number: SQLite-backed todos, memories, and reflections, searchable through Algolia and",
     "id": "NatanTechofNY/fieldnote-assistant",
     "language": "TypeScript",
@@ -9,15 +117,6 @@
     "url": "https://github.com/NatanTechofNY/fieldnote-assistant"
   },
   {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 17,
-    "updated_at": "2026-10-27T13:26:15Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "\u4e00\u4e2a\u4f1a\u804a\u5929\u3001\u4f1a\u8bb0\u4e8b\u3001\u4f1a\u878d\u5165\u7fa4\u6587\u5316\u7684\u8d5b\u535a QQ \u7fa4\u53cb",
     "id": "SugarMGP/MumuBot",
     "language": "Go",
@@ -25,15 +124,6 @@
     "stars": 26,
     "updated_at": "2026-10-27T13:23:06Z",
     "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
-    "id": "tya5/shellboy",
-    "language": "Rust",
-    "name": "tya5/shellboy",
-    "stars": 0,
-    "updated_at": "2026-10-27T13:21:36Z",
-    "url": "https://github.com/tya5/shellboy"
   },
   {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
@@ -61,15 +151,6 @@
     "stars": 5878,
     "updated_at": "2026-10-27T13:10:59Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 56,
-    "updated_at": "2026-10-27T13:09:41Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
@@ -104,7 +185,7 @@
     "language": "PowerShell",
     "name": "xiongweilin/agent-skills",
     "stars": 0,
-    "updated_at": "2026-10-27T13:07:07Z",
+    "updated_at": "2026-10-27T13:38:27Z",
     "url": "https://github.com/xiongweilin/agent-skills"
   },
   {
@@ -135,15 +216,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "\u7aef\u5230\u7aef\u667a\u80fd\u4f53\u5e73\u53f0\uff1a\u628a\u672c\u673a\u7684 AI Agent \u53d8\u6210\u4eba\u4eba\u53ef\u7528\u7684 Web \u4ea7\u54c1\uff08Vue 3 + Flask + Go WS \u7f51\u5173 + Docker \u90e8\u7f72\uff09",
-    "id": "liaosiliangCodeLife/harness-mate-plat",
-    "language": "Python",
-    "name": "liaosiliangCodeLife/harness-mate-plat",
-    "stars": 29,
-    "updated_at": "2026-10-27T13:03:52Z",
-    "url": "https://github.com/liaosiliangCodeLife/harness-mate-plat"
-  },
-  {
     "description": "A\u80a1\u884c\u60c5\u5206\u6790\u4e0eAI\u667a\u80fd\u6295\u7814\u667a\u80fd\u4f53\uff1a\u80a1\u7968\u5206\u6790\u3001\u91cf\u5316\u4ea4\u6613\u5206\u6790\u3001\u76d8\u540e\u590d\u76d8\u684c\u9762\u5de5\u4f5c\u53f0\u2014\u2014easy stock",
     "id": "jundizhou/easy-stock",
     "language": "Go",
@@ -157,18 +229,9 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6637,
+    "stars": 6638,
     "updated_at": "2026-10-27T13:00:22Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 5,
-    "updated_at": "2026-10-27T13:16:22Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "A zero-cost, self-hosted Go AI agent for automated deep research and web scraping. Powered by headless Chromium, multi-p",
@@ -221,7 +284,7 @@
     "language": "Shell",
     "name": "cunhaax/ai-workflow",
     "stars": 5,
-    "updated_at": "2026-10-27T12:38:15Z",
+    "updated_at": "2026-10-27T13:44:40Z",
     "url": "https://github.com/cunhaax/ai-workflow"
   },
   {
@@ -241,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-27T12:22:41Z",
     "url": "https://github.com/xy547/bailian-agent-demo"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1117,
-    "updated_at": "2026-10-27T13:25:13Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
@@ -383,7 +437,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-27T13:19:47Z",
+    "updated_at": "2026-10-27T13:38:21Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 14,
     "updated_at": "2026-10-27T11:08:05Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Local-first Python vulnerability remediation with a 4B model on a 4 GB laptop GPU: fixes proven in a network-less Docker",
-    "id": "mdsvr/AeroPatch",
-    "language": "Python",
-    "name": "mdsvr/AeroPatch",
-    "stars": 0,
-    "updated_at": "2026-10-27T11:05:49Z",
-    "url": "https://github.com/mdsvr/AeroPatch"
-  },
-  {
-    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
-    "id": "shakhruz/mila",
-    "language": "Python",
-    "name": "shakhruz/mila",
-    "stars": 1,
-    "updated_at": "2026-10-27T11:03:11Z",
-    "url": "https://github.com/shakhruz/mila"
-  },
-  {
-    "description": "m\u00f6bius is a small, frontend-neutral Rust framework for coding agents. ",
-    "id": "citizenhicks/mobius",
-    "language": "Rust",
-    "name": "citizenhicks/mobius",
-    "stars": 1,
-    "updated_at": "2026-10-27T12:12:13Z",
-    "url": "https://github.com/citizenhicks/mobius"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-27T10:54:30Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-27T13:24:57Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Structured parser and agent toolkit for the Russian Tax Code: canonical unit IDs, reference resolution, PostgreSQL, hybr",
-    "id": "kholkink/tax-corpus",
-    "language": "HTML",
-    "name": "kholkink/tax-corpus",
-    "stars": 1,
-    "updated_at": "2026-10-27T10:38:12Z",
-    "url": "https://github.com/kholkink/tax-corpus"
   }
 ]
