@@ -1,11 +1,29 @@
 [
   {
+    "description": "Auditable, event-sourced local coding-agent runtime \u2014 dual-plane control/execution, durable result-projection delivery g",
+    "id": "Koawa265Richard31/Koawa.codingAgentV2",
+    "language": "Python",
+    "name": "Koawa265Richard31/Koawa.codingAgentV2",
+    "stars": 1,
+    "updated_at": "2026-10-27T09:58:16Z",
+    "url": "https://github.com/Koawa265Richard31/Koawa.codingAgentV2"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 17,
+    "updated_at": "2026-10-27T09:59:37Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
     "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
     "stars": 11,
-    "updated_at": "2026-10-27T09:42:20Z",
+    "updated_at": "2026-10-27T09:56:18Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
   {
@@ -14,8 +32,62 @@
     "language": "Python",
     "name": "oldfunk/paper-trading",
     "stars": 1,
-    "updated_at": "2026-10-27T09:41:45Z",
+    "updated_at": "2026-10-27T09:53:45Z",
     "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "Local-first Python vulnerability remediation with a 4B model on a 4 GB laptop GPU: fixes proven in a network-less Docker",
+    "id": "mdsvr/AeroPatch",
+    "language": "Python",
+    "name": "mdsvr/AeroPatch",
+    "stars": 0,
+    "updated_at": "2026-10-27T09:52:37Z",
+    "url": "https://github.com/mdsvr/AeroPatch"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-27T09:50:23Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Per-episode logs of AI Megabase: Claude Opus 5.5 plays Factorio on its own",
+    "id": "aimegabase/ai-megabase-log",
+    "language": "\u2014",
+    "name": "aimegabase/ai-megabase-log",
+    "stars": 0,
+    "updated_at": "2026-10-27T09:49:27Z",
+    "url": "https://github.com/aimegabase/ai-megabase-log"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-27T09:49:11Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 163,
+    "updated_at": "2026-10-27T09:52:26Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 56,
+    "updated_at": "2026-10-27T09:46:07Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
@@ -23,7 +95,7 @@
     "language": "Rust",
     "name": "tya5/shellboy",
     "stars": 0,
-    "updated_at": "2026-10-27T09:39:43Z",
+    "updated_at": "2026-10-27T09:52:28Z",
     "url": "https://github.com/tya5/shellboy"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "davud-d/Kvist",
     "stars": 6,
-    "updated_at": "2026-10-27T09:39:41Z",
+    "updated_at": "2026-10-27T09:56:10Z",
     "url": "https://github.com/davud-d/Kvist"
   },
   {
@@ -63,21 +135,12 @@
     "url": "https://github.com/kangwoo/aimon-core"
   },
   {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 163,
-    "updated_at": "2026-10-27T09:40:42Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-27T09:32:50Z",
+    "updated_at": "2026-10-27T09:51:54Z",
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
@@ -113,7 +176,7 @@
     "language": "Python",
     "name": "2841649220/astrbot_plugin_jitrl",
     "stars": 0,
-    "updated_at": "2026-10-27T09:27:13Z",
+    "updated_at": "2026-10-27T09:55:19Z",
     "url": "https://github.com/2841649220/astrbot_plugin_jitrl"
   },
   {
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5877,
-    "updated_at": "2026-10-27T09:42:39Z",
+    "updated_at": "2026-10-27T09:56:10Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 5,
-    "updated_at": "2026-10-27T09:30:30Z",
+    "updated_at": "2026-10-27T09:45:58Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -142,33 +205,6 @@
     "stars": 4,
     "updated_at": "2026-10-27T09:22:37Z",
     "url": "https://github.com/KaletoAI/anima-verse"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-27T09:17:53Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 56,
-    "updated_at": "2026-10-27T09:41:47Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Local-first Python vulnerability remediation with a 4B model on a 4 GB laptop GPU: fixes proven in a network-less Docker",
-    "id": "mdsvr/AeroPatch",
-    "language": "Python",
-    "name": "mdsvr/AeroPatch",
-    "stars": 0,
-    "updated_at": "2026-10-27T09:16:42Z",
-    "url": "https://github.com/mdsvr/AeroPatch"
   },
   {
     "description": "Reusable engineering procedures for reliable agent work: authority, evidence, side effects, verification and independent",
@@ -288,15 +324,6 @@
     "url": "https://github.com/initxy/noeta"
   },
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-27T08:28:32Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "\u628a\u5b98\u65b9\u6781\u7b80\u63d0\u793a\u8bcd\u4e0e PTC \u7f16\u6392\u7ec4\u5408\u8d77\u6765\uff0c\u63d0\u4f9b\u5b8c\u6574\u63d2\u4ef6\u5de5\u5177\u548c Windows \u7ec8\u7aef\u9002\u914d\u3002 \u6b22\u8fce\u63d0\u4ea4 issues \u548c PR\u3002",
     "id": "STARDUSTLC666/dsh-minimal-ptc",
     "language": "JavaScript",
@@ -319,9 +346,18 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34366,
+    "stars": 34372,
     "updated_at": "2026-10-27T08:20:42Z",
     "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "\u4f01\u4e1a\u7ea7 Data Agent\uff1a\u81ea\u7136\u8bed\u8a00 \u2192 \u53d7\u63a7 DSL \u2192 \u786e\u5b9a\u6027 SQL \u2192 \u4e94\u5f15\u64ce\uff08DuckDB/MySQL/PG/ClickHouse/Hive\uff09\uff1bStateGraph \u7f16\u6392 + \u6c99\u7bb1\u5206\u6790 + \u5f52\u56e0\u6280\u80fd\uff0cLLM \u7edd\u4e0d\u4ea7\u51fa\u88f8 SQL\u3002",
+    "id": "Cwentor/DataAgent",
+    "language": "Python",
+    "name": "Cwentor/DataAgent",
+    "stars": 1,
+    "updated_at": "2026-10-27T08:17:18Z",
+    "url": "https://github.com/Cwentor/DataAgent"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -329,7 +365,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-27T09:11:31Z",
+    "updated_at": "2026-10-27T09:59:16Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -356,7 +392,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1115,
-    "updated_at": "2026-10-27T09:29:04Z",
+    "updated_at": "2026-10-27T09:47:34Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -367,15 +403,6 @@
     "stars": 12,
     "updated_at": "2026-10-27T08:07:28Z",
     "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "Enterprise Data Agent: NL \u2192 contract-bound DSL \u2192 deterministic SQL \u2192 DuckDB. StateGraph orchestration, sandboxed analysi",
-    "id": "Cwentor/DataAgent",
-    "language": "Python",
-    "name": "Cwentor/DataAgent",
-    "stars": 1,
-    "updated_at": "2026-10-27T08:17:18Z",
-    "url": "https://github.com/Cwentor/DataAgent"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-27T07:40:57Z",
     "url": "https://github.com/Muvon/octomind-tap"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 80,
-    "updated_at": "2026-10-27T07:38:25Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Self-diagnosis and troubleshooting for Hermes Agent.",
-    "id": "iap/hermes-guide",
-    "language": "Python",
-    "name": "iap/hermes-guide",
-    "stars": 4,
-    "updated_at": "2026-10-27T07:34:36Z",
-    "url": "https://github.com/iap/hermes-guide"
-  },
-  {
-    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
-    "id": "lsdefine/GenericAgent",
-    "language": "Python",
-    "name": "lsdefine/GenericAgent",
-    "stars": 14353,
-    "updated_at": "2026-10-27T07:25:02Z",
-    "url": "https://github.com/lsdefine/GenericAgent"
   }
 ]
