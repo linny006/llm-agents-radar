@@ -1,30 +1,21 @@
 [
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-28T18:14:51Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
     "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T18:14:38Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
+    "name": "strands-agents/harness-sdk",
+    "stars": 8986,
+    "updated_at": "2026-10-28T18:26:44Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 824,
-    "updated_at": "2026-10-28T18:14:37Z",
-    "url": "https://github.com/helixml/helix"
+    "description": "Luna, a shopping research agent for Sweden. Tool-calling LLM agent with Python floors, hybrid retrieval and its own eval",
+    "id": "zheyun-shou/product-research-agent-luna",
+    "language": "Python",
+    "name": "zheyun-shou/product-research-agent-luna",
+    "stars": 0,
+    "updated_at": "2026-10-28T18:24:54Z",
+    "url": "https://github.com/zheyun-shou/product-research-agent-luna"
   },
   {
     "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
@@ -32,8 +23,44 @@
     "language": "Python",
     "name": "sharonita610/agent-harness",
     "stars": 0,
-    "updated_at": "2026-10-28T18:10:13Z",
+    "updated_at": "2026-10-28T18:23:38Z",
     "url": "https://github.com/sharonita610/agent-harness"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T18:22:54Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-28T18:17:54Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-28T18:17:26Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 824,
+    "updated_at": "2026-10-28T18:23:06Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "Async Python API for discovering and controlling Sonos speakers over UPnP \u2014 playback, volume, queue, groups, favorites, ",
@@ -70,24 +97,6 @@
     "stars": 50,
     "updated_at": "2026-10-28T18:13:25Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-28T17:52:36Z",
-    "url": "https://github.com/hay-chat/hay-core"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8986,
-    "updated_at": "2026-10-28T18:15:15Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
@@ -211,7 +220,7 @@
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 95,
+    "stars": 96,
     "updated_at": "2026-10-28T16:54:31Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
@@ -256,7 +265,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6698,
+    "stars": 6699,
     "updated_at": "2026-10-28T16:46:29Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-28T15:46:59Z",
     "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
-  },
-  {
-    "description": "Medicines chatbot that answers with real 3D molecular structures: RAG over FDA drug labels, agent tools over a local che",
-    "id": "DannyKuk/molecula",
-    "language": "Python",
-    "name": "DannyKuk/molecula",
-    "stars": 1,
-    "updated_at": "2026-10-28T15:43:24Z",
-    "url": "https://github.com/DannyKuk/molecula"
   }
 ]
