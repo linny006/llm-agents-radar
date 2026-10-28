@@ -1,5 +1,23 @@
 [
   {
+    "description": "PicoBot self-hosted personal assistant.",
+    "id": "jumping2000/picobot",
+    "language": "Python",
+    "name": "jumping2000/picobot",
+    "stars": 0,
+    "updated_at": "2026-10-28T23:29:30Z",
+    "url": "https://github.com/jumping2000/picobot"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-28T23:27:49Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
     "id": "mmporong/rl-triage-agent",
     "language": "Python",
@@ -25,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T23:10:00Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "PicoBot self-hosted personal assistant.",
-    "id": "jumping2000/picobot",
-    "language": "Python",
-    "name": "jumping2000/picobot",
-    "stars": 0,
-    "updated_at": "2026-10-28T23:15:16Z",
-    "url": "https://github.com/jumping2000/picobot"
   },
   {
     "description": "Free & Open Source AI Agent \u2014 Self-Hosted, Self-Learning, No Vendor API. Qwen2.5-7B + LoRA. 35 tools. Built on Islamic E",
@@ -229,7 +238,7 @@
     "id": "drawthingsai/local-code-community",
     "language": "C",
     "name": "drawthingsai/local-code-community",
-    "stars": 3,
+    "stars": 4,
     "updated_at": "2026-10-28T21:35:56Z",
     "url": "https://github.com/drawthingsai/local-code-community"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T20:02:03Z",
     "url": "https://github.com/fawkesdx/ARPESskill"
-  },
-  {
-    "description": "\u0421\u043a\u0438\u043b\u043b \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u043e\u0433\u043e \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430 \u0434\u043b\u044f Hermes Agent: \u043f\u043e\u0440\u0442\u0444\u0435\u043b\u044c, \u0432\u043e\u0440\u043e\u043d\u043a\u0430, \u044e\u043d\u0438\u0442-\u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430, \u043f\u0440\u043e\u0433\u043d\u043e\u0437. \u041e\u0442\u0447\u0451\u0442\u044b DOCX/PDF/XLSX/PPTX/RTF/",
-    "id": "DenisZakharov2/financial-analyst-skill",
-    "language": "Python",
-    "name": "DenisZakharov2/financial-analyst-skill",
-    "stars": 0,
-    "updated_at": "2026-10-28T20:00:32Z",
-    "url": "https://github.com/DenisZakharov2/financial-analyst-skill"
   }
 ]
