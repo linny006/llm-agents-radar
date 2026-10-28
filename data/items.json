@@ -1,11 +1,92 @@
 [
   {
+    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
+    "id": "edjafarov/kiagent-core",
+    "language": "TypeScript",
+    "name": "edjafarov/kiagent-core",
+    "stars": 7,
+    "updated_at": "2026-10-28T08:29:49Z",
+    "url": "https://github.com/edjafarov/kiagent-core"
+  },
+  {
+    "description": "\u4f01\u4e1a\u7ea7 Data Agent\uff1a\u81ea\u7136\u8bed\u8a00 \u2192 \u53d7\u63a7 DSL \u2192 \u786e\u5b9a\u6027 SQL \u2192 \u4e94\u5f15\u64ce\uff08DuckDB/MySQL/PG/ClickHouse/Hive\uff09\uff1bStateGraph \u7f16\u6392 + \u6c99\u7bb1\u5206\u6790 + \u5f52\u56e0\u6280\u80fd\uff0cLLM \u7edd\u4e0d\u4ea7\u51fa\u88f8 SQL\u3002",
+    "id": "Cwentor/DataAgent",
+    "language": "Python",
+    "name": "Cwentor/DataAgent",
+    "stars": 1,
+    "updated_at": "2026-10-28T08:29:34Z",
+    "url": "https://github.com/Cwentor/DataAgent"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-28T08:29:29Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-28T08:28:58Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 31,
+    "updated_at": "2026-10-28T08:28:42Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-28T08:23:44Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 60,
+    "updated_at": "2026-10-28T08:23:20Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-28T08:26:04Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-28T08:19:51Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-28T08:14:20Z",
+    "updated_at": "2026-10-28T08:22:03Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 17,
-    "updated_at": "2026-10-28T08:12:21Z",
+    "updated_at": "2026-10-28T08:25:38Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -61,24 +142,6 @@
     "stars": 132,
     "updated_at": "2026-10-28T08:10:58Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:10:44Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:10:25Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -144,15 +207,6 @@
     "url": "https://github.com/shakhruz/mila"
   },
   {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-28T08:01:55Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
     "description": "Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and",
     "id": "jiayi-ThE-CREATOR/es-coach-skills",
     "language": "Python",
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T07:59:33Z",
     "url": "https://github.com/jiayi-ThE-CREATOR/es-coach-skills"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-28T08:00:09Z",
-    "url": "https://github.com/oldfunk/paper-trading"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
@@ -193,7 +238,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34562,
+    "stars": 34565,
     "updated_at": "2026-10-28T07:54:52Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3711,
-    "updated_at": "2026-10-28T08:09:06Z",
+    "updated_at": "2026-10-28T08:27:47Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -259,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T07:26:24Z",
     "url": "https://github.com/atarico/portfolio-agent"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-28T07:22:41Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "DARWIN \u2014 evolutionary strategy foundry: an LLM proposes crypto trading strategies, a leakage-proof gauntlet kills 90% of",
@@ -387,15 +423,6 @@
     "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 59,
-    "updated_at": "2026-10-28T06:07:33Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
-  },
-  {
     "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
     "id": "bitcloud-ai/Bittune",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T06:22:19Z",
     "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
-    "description": "Async, event-driven library of production-deployable agent algorithms over arbitrary data, with a pluggable LLM gateway ",
-    "id": "innerkorehq/AutonomousAgentArchitecture",
-    "language": "Python",
-    "name": "innerkorehq/AutonomousAgentArchitecture",
-    "stars": 1,
-    "updated_at": "2026-10-28T05:46:11Z",
-    "url": "https://github.com/innerkorehq/AutonomousAgentArchitecture"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6677,
-    "updated_at": "2026-10-28T05:45:51Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-28T05:36:19Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   }
 ]
