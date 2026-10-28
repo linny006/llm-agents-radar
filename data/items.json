@@ -1,5 +1,59 @@
 [
   {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-28T18:55:18Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
+    "id": "sharonita610/agent-harness",
+    "language": "Python",
+    "name": "sharonita610/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-28T18:54:27Z",
+    "url": "https://github.com/sharonita610/agent-harness"
+  },
+  {
+    "description": "Hidden Tokens Profile",
+    "id": "hidden-tokens/.github",
+    "language": "\u2014",
+    "name": "hidden-tokens/.github",
+    "stars": 0,
+    "updated_at": "2026-10-28T18:53:59Z",
+    "url": "https://github.com/hidden-tokens/.github"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8986,
+    "updated_at": "2026-10-28T18:56:09Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-28T18:48:53Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T18:48:12Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
     "description": "An LLM agent plays Heroes of Might and Magic III on the VCMI engine \u2014 fair, verifiable, recordable. MCP server (33 tools",
     "id": "Passerby-Hans/auto-heros3",
     "language": "Python",
@@ -18,13 +72,13 @@
     "url": "https://github.com/fawkesdx/ARPESskill"
   },
   {
-    "description": "Hidden Tokens Profile",
-    "id": "hidden-tokens/.github",
-    "language": "\u2014",
-    "name": "hidden-tokens/.github",
+    "description": "Asistente de clima con FastAPI y agente LLM. Consejos deterministas, tool calling, chat SSE y PostgreSQL. Consume weathe",
+    "id": "FabricioPorcelli/weather-assistant",
+    "language": "Python",
+    "name": "FabricioPorcelli/weather-assistant",
     "stars": 0,
-    "updated_at": "2026-10-28T18:42:18Z",
-    "url": "https://github.com/hidden-tokens/.github"
+    "updated_at": "2026-10-28T18:43:49Z",
+    "url": "https://github.com/FabricioPorcelli/weather-assistant"
   },
   {
     "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
@@ -36,24 +90,6 @@
     "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-28T18:39:00Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
-    "id": "sharonita610/agent-harness",
-    "language": "Python",
-    "name": "sharonita610/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-28T18:45:13Z",
-    "url": "https://github.com/sharonita610/agent-harness"
-  },
-  {
     "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
     "id": "jphall663/GWU_LLM",
     "language": "Jupyter Notebook",
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T18:37:40Z",
     "url": "https://github.com/jphall663/GWU_LLM"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T18:35:25Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -99,15 +126,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8986,
-    "updated_at": "2026-10-28T18:26:44Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Luna, a shopping research agent for Sweden. Tool-calling LLM agent with Python floors, hybrid retrieval and its own eval",
     "id": "zheyun-shou/product-research-agent-luna",
     "language": "Python",
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T18:24:54Z",
     "url": "https://github.com/zheyun-shou/product-research-agent-luna"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-28T18:17:54Z",
-    "url": "https://github.com/hay-chat/hay-core"
   },
   {
     "description": "Async Python API for discovering and controlling Sonos speakers over UPnP \u2014 playback, volume, queue, groups, favorites, ",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-28T16:02:51Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
-    "id": "dundundun0116/atlas",
-    "language": "Python",
-    "name": "dundundun0116/atlas",
-    "stars": 0,
-    "updated_at": "2026-10-28T16:00:08Z",
-    "url": "https://github.com/dundundun0116/atlas"
   }
 ]
