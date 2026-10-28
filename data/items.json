@@ -1,5 +1,68 @@
 [
   {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-28T17:58:04Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-28T17:56:32Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T17:53:09Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-28T17:52:36Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-28T17:48:31Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8986,
+    "updated_at": "2026-10-28T17:46:21Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Async Python API for discovering and controlling Sonos speakers over UPnP \u2014 playback, volume, queue, groups, favorites, ",
+    "id": "mathisarends/sonosify",
+    "language": "Python",
+    "name": "mathisarends/sonosify",
+    "stars": 0,
+    "updated_at": "2026-10-28T17:45:55Z",
+    "url": "https://github.com/mathisarends/sonosify"
+  },
+  {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
     "id": "sindredg/ai-security-platform",
     "language": "Python",
@@ -16,33 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T17:41:18Z",
     "url": "https://github.com/sharonita610/agent-harness"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T17:40:56Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-28T17:38:43Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8986,
-    "updated_at": "2026-10-28T17:41:01Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
@@ -117,6 +153,15 @@
     "url": "https://github.com/SuppaTessta/channelpulse"
   },
   {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 172,
+    "updated_at": "2026-10-28T17:08:36Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -126,13 +171,13 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 171,
-    "updated_at": "2026-10-28T17:08:36Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
+    "description": "Website for for SEISMOS: A Statistical Signal Detection Framework for Semantic Chunking",
+    "id": "SEISMOS-sc/SEISMOS-sc.github.io",
+    "language": "HTML",
+    "name": "SEISMOS-sc/SEISMOS-sc.github.io",
+    "stars": 0,
+    "updated_at": "2026-10-28T16:58:16Z",
+    "url": "https://github.com/SEISMOS-sc/SEISMOS-sc.github.io"
   },
   {
     "description": "The self-improving SRE agent",
@@ -157,7 +202,7 @@
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 92,
+    "stars": 95,
     "updated_at": "2026-10-28T16:54:31Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
@@ -198,20 +243,11 @@
     "url": "https://github.com/joaobenites/nym"
   },
   {
-    "description": "Async Python API for discovering and controlling Sonos speakers over UPnP \u2014 playback, volume, queue, groups, favorites, ",
-    "id": "mathisarends/sonosify",
-    "language": "Python",
-    "name": "mathisarends/sonosify",
-    "stars": 0,
-    "updated_at": "2026-10-28T16:50:07Z",
-    "url": "https://github.com/mathisarends/sonosify"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6697,
+    "stars": 6698,
     "updated_at": "2026-10-28T16:46:29Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -306,15 +342,6 @@
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-28T16:08:30Z",
-    "url": "https://github.com/hay-chat/hay-core"
-  },
-  {
     "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
     "id": "karvidsson/kbots",
     "language": "Python",
@@ -358,15 +385,6 @@
     "stars": 365,
     "updated_at": "2026-10-28T15:58:06Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-28T15:54:23Z",
-    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -430,23 +448,5 @@
     "stars": 3716,
     "updated_at": "2026-10-28T16:47:30Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "A research agent for scientific discovery \u2014 part of Aviskaar's applied AI research suite.",
-    "id": "aviskaar/zorp",
-    "language": "Rust",
-    "name": "aviskaar/zorp",
-    "stars": 3,
-    "updated_at": "2026-10-28T15:38:45Z",
-    "url": "https://github.com/aviskaar/zorp"
-  },
-  {
-    "description": "Self-evolving agent framework on DeepSeek Harness (dsh): 40 Cordis plugins, 4 presets, memory \u00b7 reflection \u00b7 gates \u00b7 met",
-    "id": "Anmulzhao/DSH-AGINT",
-    "language": "JavaScript",
-    "name": "Anmulzhao/DSH-AGINT",
-    "stars": 1,
-    "updated_at": "2026-10-28T15:37:02Z",
-    "url": "https://github.com/Anmulzhao/DSH-AGINT"
   }
 ]
