@@ -1,5 +1,32 @@
 [
   {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 50,
+    "updated_at": "2026-10-28T04:57:37Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-28T04:52:20Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Chat with a GitHub portfolio: an LLM agent that calls an MCP server over live GitHub data and the owner's CV to answer q",
+    "id": "atarico/portfolio-agent",
+    "language": "TypeScript",
+    "name": "atarico/portfolio-agent",
+    "stars": 0,
+    "updated_at": "2026-10-28T04:50:47Z",
+    "url": "https://github.com/atarico/portfolio-agent"
+  },
+  {
     "description": "Braid \ud83e\udd68 Metacognitive extension suite for Pi coding agent",
     "id": "kifirkin/pi-braid",
     "language": "JavaScript",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "LacerdaTraderCode/observable-analytics-agent",
     "stars": 0,
-    "updated_at": "2026-10-28T04:41:20Z",
+    "updated_at": "2026-10-28T04:55:54Z",
     "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
   },
   {
@@ -104,7 +131,7 @@
     "language": "TypeScript",
     "name": "JCPSer/EasyVibe",
     "stars": 4,
-    "updated_at": "2026-10-28T04:10:13Z",
+    "updated_at": "2026-10-28T04:52:59Z",
     "url": "https://github.com/JCPSer/EasyVibe"
   },
   {
@@ -157,7 +184,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 364,
+    "stars": 365,
     "updated_at": "2026-10-28T04:01:03Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -175,7 +202,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34521,
+    "stars": 34520,
     "updated_at": "2026-10-28T03:53:40Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -333,15 +360,6 @@
     "url": "https://github.com/ximing/vital"
   },
   {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-28T02:22:21Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
     "description": "The self-improving SRE agent",
     "id": "Smana/runlore",
     "language": "Go",
@@ -430,23 +448,5 @@
     "stars": 492,
     "updated_at": "2026-10-28T01:40:23Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Mizan \u2014 an AI triage agent for security vulnerability reports, built on Meta's models. Reads reports and code, flags pro",
-    "id": "aimenhamzi01-dot/mizan",
-    "language": "Python",
-    "name": "aimenhamzi01-dot/mizan",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:12:43Z",
-    "url": "https://github.com/aimenhamzi01-dot/mizan"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 132,
-    "updated_at": "2026-10-28T01:04:58Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
   }
 ]
