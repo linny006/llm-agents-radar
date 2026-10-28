@@ -1,12 +1,75 @@
 [
   {
+    "description": "Braid \ud83e\udd68 Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-28T04:45:00Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
+    "id": "char-46/copilot-muze",
+    "language": "Python",
+    "name": "char-46/copilot-muze",
+    "stars": 0,
+    "updated_at": "2026-10-28T04:44:04Z",
+    "url": "https://github.com/char-46/copilot-muze"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 345,
+    "updated_at": "2026-10-28T04:43:47Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "LLM data analyst agent on LangGraph with per-call tracing, cost and latency, versioned prompts and a record/replay evalu",
+    "id": "LacerdaTraderCode/observable-analytics-agent",
+    "language": "Python",
+    "name": "LacerdaTraderCode/observable-analytics-agent",
+    "stars": 0,
+    "updated_at": "2026-10-28T04:41:20Z",
+    "url": "https://github.com/LacerdaTraderCode/observable-analytics-agent"
+  },
+  {
+    "description": "Build AI agents that actually do things. Synapse is an open-source platform for creating, connecting, and orchestrating ",
+    "id": "synapseorch-ai/synapse-ai",
+    "language": "Python",
+    "name": "synapseorch-ai/synapse-ai",
+    "stars": 335,
+    "updated_at": "2026-10-28T04:36:32Z",
+    "url": "https://github.com/synapseorch-ai/synapse-ai"
+  },
+  {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
     "id": "haibingzhao/easyai",
     "language": "Kotlin",
     "name": "haibingzhao/easyai",
     "stars": 1,
-    "updated_at": "2026-10-28T04:27:37Z",
+    "updated_at": "2026-10-28T04:34:51Z",
     "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
+    "id": "bigduu/Zenith",
+    "language": "Shell",
+    "name": "bigduu/Zenith",
+    "stars": 6,
+    "updated_at": "2026-10-28T04:32:07Z",
+    "url": "https://github.com/bigduu/Zenith"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T04:30:40Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
@@ -14,7 +77,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-28T04:22:58Z",
+    "updated_at": "2026-10-28T04:44:05Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -36,6 +99,15 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
+    "description": "AI \u9a71\u52a8\u7684\u67b6\u6784\u6cbb\u7406\u684c\u9762\u5ba2\u6237\u7aef\uff1a\u8ba9 LLM agent \u6210\u4e3a\u56e2\u961f\u7684\u67b6\u6784\u5730\u56fe\u5de5\u7a0b\u5e08\u2014\u2014\u81ea\u52a8\u5f52\u7eb3\u4ed3\u5e93\u67b6\u6784\u5730\u56fe\uff08\u5206\u5c42+\u5065\u5eb7\u5ea6\uff09\u3001\u6f02\u79fb\u68c0\u6d4b\u3001\u4e00\u952e\u5de1\u68c0\u3001\u53ef\u5ba1\u8ba1\u7684\u4efb\u52a1\u6d41\u6c34\u7ebf\uff08\u9700\u6c42\u5206\u6790\u2192\u65b9\u6848\u8bbe\u8ba1\u2192\u5b9e\u65bd\u2192\u5ba1\u67e5\u2192\u5f52\u6863\uff09\u3002AI-driven architect",
+    "id": "JCPSer/EasyVibe",
+    "language": "TypeScript",
+    "name": "JCPSer/EasyVibe",
+    "stars": 4,
+    "updated_at": "2026-10-28T04:10:13Z",
+    "url": "https://github.com/JCPSer/EasyVibe"
+  },
+  {
     "description": "OpenHands SDK \uae30\ubc18 \ud63c\uc7a1\ub3c4 \ubd84\uc11d LLM \uc5d0\uc774\uc804\ud2b8",
     "id": "jwhitekim/cong-agent",
     "language": "Python",
@@ -50,17 +122,8 @@
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-28T04:28:32Z",
+    "updated_at": "2026-10-28T04:44:26Z",
     "url": "https://github.com/hellices/korvid"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T04:07:03Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -68,7 +131,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-28T04:23:36Z",
+    "updated_at": "2026-10-28T04:30:39Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -94,7 +157,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 363,
+    "stars": 364,
     "updated_at": "2026-10-28T04:01:03Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -112,7 +175,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34520,
+    "stars": 34521,
     "updated_at": "2026-10-28T03:53:40Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -140,17 +203,8 @@
     "language": "Python",
     "name": "IAmNo1Special/mvge",
     "stars": 2,
-    "updated_at": "2026-10-28T03:49:17Z",
+    "updated_at": "2026-10-28T04:39:12Z",
     "url": "https://github.com/IAmNo1Special/mvge"
-  },
-  {
-    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
-    "id": "char-46/copilot-muze",
-    "language": "Python",
-    "name": "char-46/copilot-muze",
-    "stars": 0,
-    "updated_at": "2026-10-28T03:48:40Z",
-    "url": "https://github.com/char-46/copilot-muze"
   },
   {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
@@ -160,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T03:46:58Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Braid \ud83e\udd68 Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-28T03:45:29Z",
-    "url": "https://github.com/kifirkin/pi-braid"
   },
   {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
@@ -221,7 +266,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1136,
-    "updated_at": "2026-10-28T04:18:52Z",
+    "updated_at": "2026-10-28T04:38:20Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 132,
     "updated_at": "2026-10-28T01:04:58Z",
     "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-28T01:04:21Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 12,
-    "updated_at": "2026-10-28T00:56:50Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-28T00:52:44Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-28T00:36:37Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
-    "id": "xufenghe/aimo3-agentic-inference",
-    "language": "Python",
-    "name": "xufenghe/aimo3-agentic-inference",
-    "stars": 0,
-    "updated_at": "2026-10-28T00:31:10Z",
-    "url": "https://github.com/xufenghe/aimo3-agentic-inference"
   }
 ]
