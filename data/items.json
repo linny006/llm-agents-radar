@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "jumping2000/picobot",
     "stars": 0,
-    "updated_at": "2026-10-28T23:29:30Z",
+    "updated_at": "2026-10-28T23:44:18Z",
     "url": "https://github.com/jumping2000/picobot"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-28T23:42:49Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "Zxy876/voyager-vlml-mve",
     "stars": 2,
-    "updated_at": "2026-10-28T23:27:49Z",
+    "updated_at": "2026-10-28T23:40:41Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
@@ -23,8 +32,35 @@
     "language": "Python",
     "name": "mmporong/rl-triage-agent",
     "stars": 2,
-    "updated_at": "2026-10-28T23:14:39Z",
+    "updated_at": "2026-10-28T23:40:16Z",
     "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-10-28T23:39:24Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-28T23:38:55Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u55b5\u7483\u306e\u672c\u4f53 \u2014\u2014 \u8dd1\u5728 Ncatbot\uff08NapCat / OneBot 11\uff09\u4e0a\u7684 LLM Agent QQ \u673a\u5668\u4eba\uff1aLangGraph edgeless \u4e8b\u4ef6\u7ba1\u7ebf\u628a\u79c1\u804a / \u7fa4\u804a\u6d88\u606f\u63a5\u5165\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08DeepSeek \u7b49\uff09",
+    "id": "lyt2011/miaoli_bot",
+    "language": "Python",
+    "name": "lyt2011/miaoli_bot",
+    "stars": 2,
+    "updated_at": "2026-10-28T23:35:15Z",
+    "url": "https://github.com/lyt2011/miaoli_bot"
   },
   {
     "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
@@ -79,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T22:50:59Z",
     "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-28T22:38:09Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -221,7 +248,7 @@
     "language": "TypeScript",
     "name": "alexwkleung/reika",
     "stars": 12,
-    "updated_at": "2026-10-28T21:44:03Z",
+    "updated_at": "2026-10-28T23:41:14Z",
     "url": "https://github.com/alexwkleung/reika"
   },
   {
@@ -243,15 +270,6 @@
     "url": "https://github.com/drawthingsai/local-code-community"
   },
   {
-    "description": "\u55b5\u7483\u306e\u672c\u4f53 \u2014\u2014 \u8dd1\u5728 Ncatbot\uff08NapCat / OneBot 11\uff09\u4e0a\u7684 LLM Agent QQ \u673a\u5668\u4eba\uff1aLangGraph edgeless \u4e8b\u4ef6\u7ba1\u7ebf\u628a\u79c1\u804a / \u7fa4\u804a\u6d88\u606f\u63a5\u5165\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08DeepSeek \u7b49\uff09",
-    "id": "lyt2011/miaoli_bot",
-    "language": "Python",
-    "name": "lyt2011/miaoli_bot",
-    "stars": 2,
-    "updated_at": "2026-10-28T21:32:04Z",
-    "url": "https://github.com/lyt2011/miaoli_bot"
-  },
-  {
     "description": "Async Python API for discovering and controlling Sonos speakers over UPnP \u2014 playback, volume, queue, groups, favorites, ",
     "id": "mathisarends/sonosify",
     "language": "Python",
@@ -259,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T21:26:00Z",
     "url": "https://github.com/mathisarends/sonosify"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-10-28T21:24:58Z",
-    "url": "https://github.com/haibingzhao/easyai"
   },
   {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T20:04:24Z",
     "url": "https://github.com/SEISMOS-sc/SEISMOS-sc.github.io"
-  },
-  {
-    "description": "LLM agent skill for ARPES analysis",
-    "id": "fawkesdx/ARPESskill",
-    "language": "Python",
-    "name": "fawkesdx/ARPESskill",
-    "stars": 0,
-    "updated_at": "2026-10-28T20:02:03Z",
-    "url": "https://github.com/fawkesdx/ARPESskill"
   }
 ]
