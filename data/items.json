@@ -1,21 +1,21 @@
 [
   {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-28T19:14:44Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 345,
+    "updated_at": "2026-10-28T19:26:11Z",
+    "url": "https://github.com/monocle2ai/monocle"
   },
   {
-    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
-    "id": "sharonita610/agent-harness",
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
     "language": "Python",
-    "name": "sharonita610/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-28T19:11:02Z",
-    "url": "https://github.com/sharonita610/agent-harness"
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T19:26:06Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -23,8 +23,71 @@
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-28T19:05:33Z",
+    "updated_at": "2026-10-28T19:25:09Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-28T19:18:56Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-28T19:18:53Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 510,
+    "updated_at": "2026-10-28T19:16:45Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8986,
+    "updated_at": "2026-10-28T19:16:19Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
+    "id": "sharonita610/agent-harness",
+    "language": "Python",
+    "name": "sharonita610/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-28T19:15:24Z",
+    "url": "https://github.com/sharonita610/agent-harness"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-28T19:15:20Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-28T19:14:44Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
@@ -45,15 +108,6 @@
     "url": "https://github.com/hidden-tokens/.github"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8986,
-    "updated_at": "2026-10-28T18:56:09Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
     "id": "hay-chat/hay-core",
     "language": "TypeScript",
@@ -61,15 +115,6 @@
     "stars": 5,
     "updated_at": "2026-10-28T18:48:53Z",
     "url": "https://github.com/hay-chat/hay-core"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T18:48:12Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "An LLM agent plays Heroes of Might and Magic III on the VCMI engine \u2014 fair, verifiable, recordable. MCP server (33 tools",
@@ -169,15 +214,6 @@
     "stars": 7,
     "updated_at": "2026-10-28T18:01:47Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-28T19:09:54Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
@@ -284,7 +320,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-28T16:55:00Z",
+    "updated_at": "2026-10-28T19:25:05Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-28T16:18:54Z",
     "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
-  },
-  {
-    "description": "Team calendar & tracker for events, talks and forums. Week and month views, forums with nested sessions, statuses and fi",
-    "id": "Cyclopswar/events-rpocket-tracker",
-    "language": "HTML",
-    "name": "Cyclopswar/events-rpocket-tracker",
-    "stars": 0,
-    "updated_at": "2026-10-28T16:16:49Z",
-    "url": "https://github.com/Cyclopswar/events-rpocket-tracker"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-28T16:11:54Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
-    "id": "karvidsson/kbots",
-    "language": "Python",
-    "name": "karvidsson/kbots",
-    "stars": 1,
-    "updated_at": "2026-10-28T16:07:37Z",
-    "url": "https://github.com/karvidsson/kbots"
-  },
-  {
-    "description": "Geoscience agent API (Hermes-Geo): answers questions about sedimentary basins with cited data from a read-only GeoDB, bu",
-    "id": "ArthurFachel/Lightsail-Petrobras",
-    "language": "Python",
-    "name": "ArthurFachel/Lightsail-Petrobras",
-    "stars": 0,
-    "updated_at": "2026-10-28T16:03:35Z",
-    "url": "https://github.com/ArthurFachel/Lightsail-Petrobras"
   }
 ]
