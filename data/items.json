@@ -1,12 +1,57 @@
 [
   {
+    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
+    "id": "sins-gif/moonshadow",
+    "language": "Python",
+    "name": "sins-gif/moonshadow",
+    "stars": 0,
+    "updated_at": "2026-10-28T22:14:17Z",
+    "url": "https://github.com/sins-gif/moonshadow"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 137,
+    "updated_at": "2026-10-28T22:10:42Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-28T22:10:40Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-28T22:06:35Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
     "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
     "id": "hay-chat/hay-core",
     "language": "TypeScript",
     "name": "hay-chat/hay-core",
     "stars": 5,
-    "updated_at": "2026-10-28T21:56:49Z",
+    "updated_at": "2026-10-28T22:06:09Z",
     "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-28T22:03:42Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
@@ -135,15 +180,6 @@
     "url": "https://github.com/haibingzhao/easyai"
   },
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-28T21:22:15Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
     "id": "gerardogrisolini/ZenCODE",
     "language": "Swift",
@@ -189,15 +225,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-28T21:08:12Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
     "description": "An open-source research agent system for your Zotero library.",
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
@@ -241,15 +268,6 @@
     "stars": 20,
     "updated_at": "2026-10-28T20:51:06Z",
     "url": "https://github.com/Smana/runlore"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
-    "id": "sins-gif/moonshadow",
-    "language": "Python",
-    "name": "sins-gif/moonshadow",
-    "stars": 0,
-    "updated_at": "2026-10-28T20:40:33Z",
-    "url": "https://github.com/sins-gif/moonshadow"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -322,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T20:22:19Z",
     "url": "https://github.com/mino19790622-dot/visual-inspection-report-generator"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-28T20:13:42Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Hidden Tokens Profile",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T19:02:43Z",
     "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
-  },
-  {
-    "description": "An LLM agent plays Heroes of Might and Magic III on the VCMI engine \u2014 fair, verifiable, recordable. MCP server (33 tools",
-    "id": "Passerby-Hans/auto-heros3",
-    "language": "Python",
-    "name": "Passerby-Hans/auto-heros3",
-    "stars": 0,
-    "updated_at": "2026-10-28T18:44:31Z",
-    "url": "https://github.com/Passerby-Hans/auto-heros3"
   }
 ]
