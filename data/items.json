@@ -1,5 +1,113 @@
 [
   {
+    "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
+    "id": "dundundun0116/atlas",
+    "language": "Python",
+    "name": "dundundun0116/atlas",
+    "stars": 0,
+    "updated_at": "2026-10-28T16:00:08Z",
+    "url": "https://github.com/dundundun0116/atlas"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 85,
+    "updated_at": "2026-10-28T15:58:30Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 365,
+    "updated_at": "2026-10-28T15:58:06Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-28T15:54:23Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-28T15:53:48Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-28T15:52:41Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
+  },
+  {
+    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
+    "id": "grandgaming9321-prog/reality-engine",
+    "language": "HTML",
+    "name": "grandgaming9321-prog/reality-engine",
+    "stars": 132,
+    "updated_at": "2026-10-28T15:51:56Z",
+    "url": "https://github.com/grandgaming9321-prog/reality-engine"
+  },
+  {
+    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
+    "id": "iammonth1997/paperwiki-research-compiler",
+    "language": "HTML",
+    "name": "iammonth1997/paperwiki-research-compiler",
+    "stars": 2,
+    "updated_at": "2026-10-28T15:51:19Z",
+    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
+  },
+  {
+    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
+    "id": "tya5/shellboy",
+    "language": "Rust",
+    "name": "tya5/shellboy",
+    "stars": 0,
+    "updated_at": "2026-10-28T15:50:24Z",
+    "url": "https://github.com/tya5/shellboy"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-28T15:59:17Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T15:47:40Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Qwen3-8B \u533b\u5b66\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5de5\u5177\u68c0\u7d22\u3001QLoRA SFT\u3001\u5206\u9636\u6bb5\u7a20\u5bc6\u5956\u52b1\u4e0e GRPO \u98ce\u683c LoRA \u540e\u8bad\u7ec3\uff0c\u9762\u5411\u672c\u5730\u90e8\u7f72\u3002",
+    "id": "MaSunKing/medical-research-agent-grpo",
+    "language": "Python",
+    "name": "MaSunKing/medical-research-agent-grpo",
+    "stars": 1,
+    "updated_at": "2026-10-28T15:46:59Z",
+    "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
+  },
+  {
     "description": "Medicines chatbot that answers with real 3D molecular structures: RAG over FDA drug labels, agent tools over a local che",
     "id": "DannyKuk/molecula",
     "language": "Python",
@@ -14,7 +122,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3716,
-    "updated_at": "2026-10-28T15:42:42Z",
+    "updated_at": "2026-10-28T15:49:03Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -27,15 +135,6 @@
     "url": "https://github.com/aviskaar/zorp"
   },
   {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 85,
-    "updated_at": "2026-10-28T15:37:38Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
-  },
-  {
     "description": "Self-evolving agent framework on DeepSeek Harness (dsh): 40 Cordis plugins, 4 presets, memory \u00b7 reflection \u00b7 gates \u00b7 met",
     "id": "Anmulzhao/DSH-AGINT",
     "language": "JavaScript",
@@ -43,24 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T15:37:02Z",
     "url": "https://github.com/Anmulzhao/DSH-AGINT"
-  },
-  {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-28T15:36:45Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
-    "id": "tya5/shellboy",
-    "language": "Rust",
-    "name": "tya5/shellboy",
-    "stars": 0,
-    "updated_at": "2026-10-28T15:35:53Z",
-    "url": "https://github.com/tya5/shellboy"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -99,24 +180,6 @@
     "url": "https://github.com/mathisarends/sonosify"
   },
   {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 365,
-    "updated_at": "2026-10-28T15:33:12Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T15:31:03Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -130,18 +193,9 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 376,
+    "stars": 377,
     "updated_at": "2026-10-28T15:30:06Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-28T15:43:51Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "\u26a1 Rotom \u2014 \u81ea\u52a8\u5316 CTF \u7b54\u9898 Agent:\u9ed1\u677f\u534f\u540c \u00b7 \u5e7f\u5ea6\u4f18\u5148\u8c03\u5ea6 \u00b7 \u5168\u7a0b\u5ba1\u8ba1\u3002\u50cf\u6d1b\u6258\u59c6\u4e00\u6837,\u6f5c\u5165\u54ea\u7c7b\u9898,\u5c31\u957f\u6210\u89e3\u51b3\u5b83\u7684\u5f62\u72b6",
@@ -196,6 +250,15 @@
     "stars": 2,
     "updated_at": "2026-10-28T15:23:53Z",
     "url": "https://github.com/Kiru-Sama/Kiru-Astrbot-Addons"
+  },
+  {
+    "description": "RikkaHub Agent \u00b7 Pure \u2014 an Android AI agent that survives long runs. Independent hardening pass on the rikkahub on-devic",
+    "id": "wuyhong715/rikkahub-agent-pure",
+    "language": "Kotlin",
+    "name": "wuyhong715/rikkahub-agent-pure",
+    "stars": 69,
+    "updated_at": "2026-10-28T15:23:30Z",
+    "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
     "description": "Private, offline AI assistant for your desktop: a local ChatGPT alternative powered by Ollama, in 12 languages. 9 agents",
@@ -266,7 +329,7 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 171,
-    "updated_at": "2026-10-28T15:12:56Z",
+    "updated_at": "2026-10-28T15:45:27Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -295,15 +358,6 @@
     "stars": 6,
     "updated_at": "2026-10-28T15:09:07Z",
     "url": "https://github.com/HumanStudy-Hub/HumanStudy-Bench"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-28T15:08:22Z",
-    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "Local-first, private ChatGPT-style AI system that runs entirely on your own machine. Ollama-powered LLM inference, persi",
@@ -369,15 +423,6 @@
     "url": "https://github.com/hay-chat/hay-core"
   },
   {
-    "description": "Qwen3-8B \u533b\u5b66\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5de5\u5177\u68c0\u7d22\u3001QLoRA SFT\u3001\u5206\u9636\u6bb5\u7a20\u5bc6\u5956\u52b1\u4e0e GRPO \u98ce\u683c LoRA \u540e\u8bad\u7ec3\uff0c\u9762\u5411\u672c\u5730\u90e8\u7f72\u3002",
-    "id": "MaSunKing/medical-research-agent-grpo",
-    "language": "Python",
-    "name": "MaSunKing/medical-research-agent-grpo",
-    "stars": 1,
-    "updated_at": "2026-10-28T14:47:30Z",
-    "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
-  },
-  {
     "description": "A programming framework for agentic AI",
     "id": "microsoft/autogen",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 80,
     "updated_at": "2026-10-28T14:40:35Z",
     "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
-    "id": "Pan-Chera/Multi-Agent-CAD",
-    "language": "Python",
-    "name": "Pan-Chera/Multi-Agent-CAD",
-    "stars": 1055,
-    "updated_at": "2026-10-28T14:37:56Z",
-    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
-  },
-  {
-    "description": "Let LLMs run commands on a Windows machine you have no shell on, by having someone there paste one PowerShell snippet in",
-    "id": "SolusKossi/TempShell",
-    "language": "TypeScript",
-    "name": "SolusKossi/TempShell",
-    "stars": 1,
-    "updated_at": "2026-10-28T14:30:39Z",
-    "url": "https://github.com/SolusKossi/TempShell"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-28T14:28:51Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "A personal knowledge assistant leveraging LLM to answer questions from document collections with verifiable source citat",
-    "id": "AdhamAymanAlrfae/Personal-AI-Cortex",
-    "language": "Python",
-    "name": "AdhamAymanAlrfae/Personal-AI-Cortex",
-    "stars": 0,
-    "updated_at": "2026-10-28T14:27:26Z",
-    "url": "https://github.com/AdhamAymanAlrfae/Personal-AI-Cortex"
-  },
-  {
-    "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
-    "id": "dundundun0116/atlas",
-    "language": "Python",
-    "name": "dundundun0116/atlas",
-    "stars": 0,
-    "updated_at": "2026-10-28T14:27:20Z",
-    "url": "https://github.com/dundundun0116/atlas"
   }
 ]
