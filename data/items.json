@@ -1,11 +1,29 @@
 [
   {
+    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
+    "id": "sindredg/ai-security-platform",
+    "language": "Python",
+    "name": "sindredg/ai-security-platform",
+    "stars": 0,
+    "updated_at": "2026-10-28T17:42:44Z",
+    "url": "https://github.com/sindredg/ai-security-platform"
+  },
+  {
+    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
+    "id": "sharonita610/agent-harness",
+    "language": "Python",
+    "name": "sharonita610/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-28T17:41:18Z",
+    "url": "https://github.com/sharonita610/agent-harness"
+  },
+  {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
     "id": "mmporong/rl-triage-agent",
     "language": "Python",
     "name": "mmporong/rl-triage-agent",
     "stars": 2,
-    "updated_at": "2026-10-28T17:29:43Z",
+    "updated_at": "2026-10-28T17:40:56Z",
     "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
@@ -14,8 +32,35 @@
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-28T17:24:32Z",
+    "updated_at": "2026-10-28T17:38:43Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8986,
+    "updated_at": "2026-10-28T17:41:01Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvge",
+    "language": "Python",
+    "name": "IAmNo1Special/mvge",
+    "stars": 2,
+    "updated_at": "2026-10-28T17:34:10Z",
+    "url": "https://github.com/IAmNo1Special/mvge"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-28T17:32:55Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
@@ -72,15 +117,6 @@
     "url": "https://github.com/SuppaTessta/channelpulse"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8986,
-    "updated_at": "2026-10-28T17:05:17Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
     "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
     "language": "HTML",
@@ -121,7 +157,7 @@
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 91,
+    "stars": 92,
     "updated_at": "2026-10-28T16:54:31Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
@@ -153,15 +189,6 @@
     "url": "https://github.com/Sigmanih/SigmaStudio"
   },
   {
-    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
-    "id": "sharonita610/agent-harness",
-    "language": "Python",
-    "name": "sharonita610/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-28T16:50:55Z",
-    "url": "https://github.com/sharonita610/agent-harness"
-  },
-  {
     "description": "Nym: a local-first personal digital companion (virtual pet in the spirit of Digimon and MegaMan Battle Network)",
     "id": "joaobenites/nym",
     "language": "Python",
@@ -180,6 +207,15 @@
     "url": "https://github.com/mathisarends/sonosify"
   },
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6697,
+    "updated_at": "2026-10-28T16:46:29Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
     "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
     "id": "bigduu/Bodhi-AI",
     "language": "JavaScript",
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T16:37:25Z",
     "url": "https://github.com/santoshshinde2012/deck-smith-local"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-28T16:31:48Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
@@ -342,15 +369,6 @@
     "url": "https://github.com/kyleslight/shun"
   },
   {
-    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
-    "id": "sindredg/ai-security-platform",
-    "language": "Python",
-    "name": "sindredg/ai-security-platform",
-    "stars": 0,
-    "updated_at": "2026-10-28T17:29:43Z",
-    "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-28T15:37:02Z",
     "url": "https://github.com/Anmulzhao/DSH-AGINT"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6696,
-    "updated_at": "2026-10-28T16:46:29Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "\u26a1 Rotom \u2014 \u81ea\u52a8\u5316 CTF \u7b54\u9898 Agent:\u9ed1\u677f\u534f\u540c \u00b7 \u5e7f\u5ea6\u4f18\u5148\u8c03\u5ea6 \u00b7 \u5168\u7a0b\u5ba1\u8ba1\u3002\u50cf\u6d1b\u6258\u59c6\u4e00\u6837,\u6f5c\u5165\u54ea\u7c7b\u9898,\u5c31\u957f\u6210\u89e3\u51b3\u5b83\u7684\u5f62\u72b6",
-    "id": "JerryXie599/Rotom",
-    "language": "Python",
-    "name": "JerryXie599/Rotom",
-    "stars": 13,
-    "updated_at": "2026-10-28T15:28:55Z",
-    "url": "https://github.com/JerryXie599/Rotom"
   }
 ]
