@@ -1,12 +1,111 @@
 [
   {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-28T05:29:34Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Open-source AI agent harness and desktop app that runs on your machine. Bring your own model (Anthropic, OpenAI, Gemini,",
+    "id": "othermind-tech/eva",
+    "language": "Python",
+    "name": "othermind-tech/eva",
+    "stars": 0,
+    "updated_at": "2026-10-28T05:29:27Z",
+    "url": "https://github.com/othermind-tech/eva"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-28T05:26:04Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
     "stars": 365,
-    "updated_at": "2026-10-28T05:15:09Z",
+    "updated_at": "2026-10-28T05:25:31Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
+    "id": "char-46/copilot-muze",
+    "language": "Python",
+    "name": "char-46/copilot-muze",
+    "stars": 0,
+    "updated_at": "2026-10-28T05:25:09Z",
+    "url": "https://github.com/char-46/copilot-muze"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-28T05:24:47Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-28T05:24:21Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-28T05:25:29Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-28T05:20:38Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T05:20:31Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
+    "id": "IAmNo1Special/mvge",
+    "language": "Python",
+    "name": "IAmNo1Special/mvge",
+    "stars": 2,
+    "updated_at": "2026-10-28T05:19:47Z",
+    "url": "https://github.com/IAmNo1Special/mvge"
+  },
+  {
+    "description": "Reproducible DeepResearch trajectory-synthesis pipeline built on a trimmed Qwen-Agent fork: research agent, resumable an",
+    "id": "Xigmoid/Qwen-Agent-DeepResearch",
+    "language": "Python",
+    "name": "Xigmoid/Qwen-Agent-DeepResearch",
+    "stars": 0,
+    "updated_at": "2026-10-28T05:16:19Z",
+    "url": "https://github.com/Xigmoid/Qwen-Agent-DeepResearch"
   },
   {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
@@ -18,21 +117,12 @@
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
-    "description": "Open-source AI agent harness and desktop app that runs on your machine. Bring your own model (Anthropic, OpenAI, Gemini,",
-    "id": "othermind-tech/eva",
-    "language": "Python",
-    "name": "othermind-tech/eva",
-    "stars": 0,
-    "updated_at": "2026-10-28T05:14:40Z",
-    "url": "https://github.com/othermind-tech/eva"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
     "stars": 6663,
-    "updated_at": "2026-10-28T05:11:46Z",
+    "updated_at": "2026-10-28T05:28:12Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -43,24 +133,6 @@
     "stars": 4,
     "updated_at": "2026-10-28T05:09:12Z",
     "url": "https://github.com/JCPSer/EasyVibe"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T05:08:35Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
-    "id": "char-46/copilot-muze",
-    "language": "Python",
-    "name": "char-46/copilot-muze",
-    "stars": 0,
-    "updated_at": "2026-10-28T05:06:06Z",
-    "url": "https://github.com/char-46/copilot-muze"
   },
   {
     "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
@@ -76,18 +148,9 @@
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 51,
+    "stars": 53,
     "updated_at": "2026-10-28T05:03:19Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
-  },
-  {
-    "description": "Reproducible DeepResearch trajectory-synthesis pipeline built on a trimmed Qwen-Agent fork: research agent, resumable an",
-    "id": "Xigmoid/Qwen-Agent-DeepResearch",
-    "language": "Python",
-    "name": "Xigmoid/Qwen-Agent-DeepResearch",
-    "stars": 0,
-    "updated_at": "2026-10-28T05:02:05Z",
-    "url": "https://github.com/Xigmoid/Qwen-Agent-DeepResearch"
   },
   {
     "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
@@ -171,24 +234,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-28T04:44:05Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-28T04:19:35Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -212,17 +257,8 @@
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-28T04:44:26Z",
+    "updated_at": "2026-10-28T05:22:40Z",
     "url": "https://github.com/hellices/korvid"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-28T04:30:39Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
@@ -256,7 +292,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34522,
+    "stars": 34523,
     "updated_at": "2026-10-28T03:53:40Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -279,21 +315,12 @@
     "url": "https://github.com/andrewalhaj/custom-hermesagent"
   },
   {
-    "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
-    "id": "IAmNo1Special/mvge",
-    "language": "Python",
-    "name": "IAmNo1Special/mvge",
-    "stars": 2,
-    "updated_at": "2026-10-28T04:39:12Z",
-    "url": "https://github.com/IAmNo1Special/mvge"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 2,
-    "updated_at": "2026-10-28T03:46:58Z",
+    "updated_at": "2026-10-28T05:30:01Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -338,7 +365,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1136,
-    "updated_at": "2026-10-28T04:38:20Z",
+    "updated_at": "2026-10-28T05:25:56Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -358,15 +385,6 @@
     "stars": 1240,
     "updated_at": "2026-10-28T03:12:13Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 6,
-    "updated_at": "2026-10-28T03:07:36Z",
-    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T02:13:44Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:11:52Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
-    "id": "lusipad/browser-agent",
-    "language": "TypeScript",
-    "name": "lusipad/browser-agent",
-    "stars": 3,
-    "updated_at": "2026-10-28T02:04:48Z",
-    "url": "https://github.com/lusipad/browser-agent"
   }
 ]
