@@ -1,12 +1,102 @@
 [
   {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 365,
+    "updated_at": "2026-10-28T05:15:09Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-28T05:13:26Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Open-source AI agent harness and desktop app that runs on your machine. Bring your own model (Anthropic, OpenAI, Gemini,",
+    "id": "othermind-tech/eva",
+    "language": "Python",
+    "name": "othermind-tech/eva",
+    "stars": 0,
+    "updated_at": "2026-10-28T05:14:40Z",
+    "url": "https://github.com/othermind-tech/eva"
+  },
+  {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "Mai-with-u/MaiBot",
+    "language": "Python",
+    "name": "Mai-with-u/MaiBot",
+    "stars": 6663,
+    "updated_at": "2026-10-28T05:11:46Z",
+    "url": "https://github.com/Mai-with-u/MaiBot"
+  },
+  {
+    "description": "AI \u9a71\u52a8\u7684\u67b6\u6784\u6cbb\u7406\u684c\u9762\u5ba2\u6237\u7aef\uff1a\u8ba9 LLM agent \u6210\u4e3a\u56e2\u961f\u7684\u67b6\u6784\u5730\u56fe\u5de5\u7a0b\u5e08\u2014\u2014\u81ea\u52a8\u5f52\u7eb3\u4ed3\u5e93\u67b6\u6784\u5730\u56fe\uff08\u5206\u5c42+\u5065\u5eb7\u5ea6\uff09\u3001\u6f02\u79fb\u68c0\u6d4b\u3001\u4e00\u952e\u5de1\u68c0\u3001\u53ef\u5ba1\u8ba1\u7684\u4efb\u52a1\u6d41\u6c34\u7ebf\uff08\u9700\u6c42\u5206\u6790\u2192\u65b9\u6848\u8bbe\u8ba1\u2192\u5b9e\u65bd\u2192\u5ba1\u67e5\u2192\u5f52\u6863\uff09\u3002AI-driven architect",
+    "id": "JCPSer/EasyVibe",
+    "language": "TypeScript",
+    "name": "JCPSer/EasyVibe",
+    "stars": 4,
+    "updated_at": "2026-10-28T05:09:12Z",
+    "url": "https://github.com/JCPSer/EasyVibe"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T05:08:35Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
+    "id": "char-46/copilot-muze",
+    "language": "Python",
+    "name": "char-46/copilot-muze",
+    "stars": 0,
+    "updated_at": "2026-10-28T05:06:06Z",
+    "url": "https://github.com/char-46/copilot-muze"
+  },
+  {
+    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
+    "id": "shakhruz/mila",
+    "language": "Python",
+    "name": "shakhruz/mila",
+    "stars": 1,
+    "updated_at": "2026-10-28T05:03:21Z",
+    "url": "https://github.com/shakhruz/mila"
+  },
+  {
     "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 50,
-    "updated_at": "2026-10-28T04:57:37Z",
+    "stars": 51,
+    "updated_at": "2026-10-28T05:03:19Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "Reproducible DeepResearch trajectory-synthesis pipeline built on a trimmed Qwen-Agent fork: research agent, resumable an",
+    "id": "Xigmoid/Qwen-Agent-DeepResearch",
+    "language": "Python",
+    "name": "Xigmoid/Qwen-Agent-DeepResearch",
+    "stars": 0,
+    "updated_at": "2026-10-28T05:02:05Z",
+    "url": "https://github.com/Xigmoid/Qwen-Agent-DeepResearch"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16758,
+    "updated_at": "2026-10-28T05:01:21Z",
+    "url": "https://github.com/HKUDS/DeepCode"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -34,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T04:45:00Z",
     "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
-    "id": "char-46/copilot-muze",
-    "language": "Python",
-    "name": "char-46/copilot-muze",
-    "stars": 0,
-    "updated_at": "2026-10-28T04:44:04Z",
-    "url": "https://github.com/char-46/copilot-muze"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -90,15 +171,6 @@
     "url": "https://github.com/bigduu/Zenith"
   },
   {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T04:30:40Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
@@ -124,15 +196,6 @@
     "stars": 31,
     "updated_at": "2026-10-28T04:17:28Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "AI \u9a71\u52a8\u7684\u67b6\u6784\u6cbb\u7406\u684c\u9762\u5ba2\u6237\u7aef\uff1a\u8ba9 LLM agent \u6210\u4e3a\u56e2\u961f\u7684\u67b6\u6784\u5730\u56fe\u5de5\u7a0b\u5e08\u2014\u2014\u81ea\u52a8\u5f52\u7eb3\u4ed3\u5e93\u67b6\u6784\u5730\u56fe\uff08\u5206\u5c42+\u5065\u5eb7\u5ea6\uff09\u3001\u6f02\u79fb\u68c0\u6d4b\u3001\u4e00\u952e\u5de1\u68c0\u3001\u53ef\u5ba1\u8ba1\u7684\u4efb\u52a1\u6d41\u6c34\u7ebf\uff08\u9700\u6c42\u5206\u6790\u2192\u65b9\u6848\u8bbe\u8ba1\u2192\u5b9e\u65bd\u2192\u5ba1\u67e5\u2192\u5f52\u6863\uff09\u3002AI-driven architect",
-    "id": "JCPSer/EasyVibe",
-    "language": "TypeScript",
-    "name": "JCPSer/EasyVibe",
-    "stars": 4,
-    "updated_at": "2026-10-28T04:52:59Z",
-    "url": "https://github.com/JCPSer/EasyVibe"
   },
   {
     "description": "OpenHands SDK \uae30\ubc18 \ud63c\uc7a1\ub3c4 \ubd84\uc11d LLM \uc5d0\uc774\uc804\ud2b8",
@@ -180,15 +243,6 @@
     "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   },
   {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 365,
-    "updated_at": "2026-10-28T04:01:03Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
     "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
     "id": "dundundun0116/atlas",
     "language": "Python",
@@ -202,7 +256,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34520,
+    "stars": 34522,
     "updated_at": "2026-10-28T03:53:40Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -241,15 +295,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T03:46:58Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-28T03:45:10Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "\uacf5\uacf5 API \uc2e4\ud328\ub97c \uc8fc\uc785\ud574 \uac70\ub798\ucc98 \uc810\uac80 \uc5d0\uc774\uc804\ud2b8\uc758 \ubcf5\uad6c\uc728\uacfc \uc870\uc6a9\ud55c \uc624\ub2f5 \ube44\uc728\uc744 \uc7ac\ub294 \uc2e4\ud5d8 (LangGraph\u00b7MCP)",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-28T02:04:48Z",
     "url": "https://github.com/lusipad/browser-agent"
-  },
-  {
-    "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
-    "id": "duongnq2798/vestiarion",
-    "language": "TypeScript",
-    "name": "duongnq2798/vestiarion",
-    "stars": 2,
-    "updated_at": "2026-10-28T01:57:27Z",
-    "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
-    "id": "HaikeiLabs/agentware",
-    "language": "Python",
-    "name": "HaikeiLabs/agentware",
-    "stars": 2,
-    "updated_at": "2026-10-28T01:58:07Z",
-    "url": "https://github.com/HaikeiLabs/agentware"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
-    "id": "sins-gif/moonshadow",
-    "language": "Python",
-    "name": "sins-gif/moonshadow",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:51:44Z",
-    "url": "https://github.com/sins-gif/moonshadow"
-  },
-  {
-    "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
-    "id": "orderye/memory-hub",
-    "language": "Rust",
-    "name": "orderye/memory-hub",
-    "stars": 0,
-    "updated_at": "2026-10-28T01:31:40Z",
-    "url": "https://github.com/orderye/memory-hub"
-  },
-  {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 492,
-    "updated_at": "2026-10-28T01:40:23Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
   }
 ]
