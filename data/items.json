@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "andrewalhaj/custom-hermesagent",
     "stars": 0,
-    "updated_at": "2026-10-28T01:28:03Z",
+    "updated_at": "2026-10-28T01:44:35Z",
     "url": "https://github.com/andrewalhaj/custom-hermesagent"
+  },
+  {
+    "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
+    "id": "HaikeiLabs/agentware",
+    "language": "Python",
+    "name": "HaikeiLabs/agentware",
+    "stars": 2,
+    "updated_at": "2026-10-28T01:42:37Z",
+    "url": "https://github.com/HaikeiLabs/agentware"
+  },
+  {
+    "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
+    "id": "orderye/memory-hub",
+    "language": "Rust",
+    "name": "orderye/memory-hub",
+    "stars": 0,
+    "updated_at": "2026-10-28T01:31:40Z",
+    "url": "https://github.com/orderye/memory-hub"
   },
   {
     "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
@@ -41,7 +59,7 @@
     "language": "Python",
     "name": "410979729/scope-recall-hermes",
     "stars": 492,
-    "updated_at": "2026-10-28T01:19:57Z",
+    "updated_at": "2026-10-28T01:40:23Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
   },
   {
@@ -68,7 +86,7 @@
     "language": "C++",
     "name": "b-macker/NAAb",
     "stars": 2,
-    "updated_at": "2026-10-28T01:20:54Z",
+    "updated_at": "2026-10-28T01:43:43Z",
     "url": "https://github.com/b-macker/NAAb"
   },
   {
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-28T00:56:11Z",
+    "updated_at": "2026-10-28T01:42:38Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-27T23:11:09Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-27T21:41:19Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
-    "id": "b7216309-jpg/little-bot",
-    "language": "JavaScript",
-    "name": "b7216309-jpg/little-bot",
-    "stars": 0,
-    "updated_at": "2026-10-27T21:36:19Z",
-    "url": "https://github.com/b7216309-jpg/little-bot"
   }
 ]
