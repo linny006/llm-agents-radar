@@ -1,30 +1,84 @@
 [
   {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-28T07:44:51Z",
-    "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 368,
-    "updated_at": "2026-10-28T07:44:22Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
     "id": "xieguigang/sciBASIC",
     "language": "Visual Basic .NET",
     "name": "xieguigang/sciBASIC",
     "stars": 80,
-    "updated_at": "2026-10-28T07:43:24Z",
+    "updated_at": "2026-10-28T07:59:49Z",
     "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
+    "id": "shakhruz/mila",
+    "language": "Python",
+    "name": "shakhruz/mila",
+    "stars": 1,
+    "updated_at": "2026-10-28T07:59:35Z",
+    "url": "https://github.com/shakhruz/mila"
+  },
+  {
+    "description": "Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and",
+    "id": "jiayi-ThE-CREATOR/es-coach-skills",
+    "language": "Python",
+    "name": "jiayi-ThE-CREATOR/es-coach-skills",
+    "stars": 0,
+    "updated_at": "2026-10-28T07:59:33Z",
+    "url": "https://github.com/jiayi-ThE-CREATOR/es-coach-skills"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-28T07:59:24Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
+    "id": "char-46/copilot-muze",
+    "language": "Python",
+    "name": "char-46/copilot-muze",
+    "stars": 0,
+    "updated_at": "2026-10-28T07:58:31Z",
+    "url": "https://github.com/char-46/copilot-muze"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-28T07:57:40Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 34561,
+    "updated_at": "2026-10-28T07:54:52Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 171,
+    "updated_at": "2026-10-28T07:50:36Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 3,
+    "updated_at": "2026-10-28T07:46:19Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -32,17 +86,17 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 17,
-    "updated_at": "2026-10-28T07:42:45Z",
+    "updated_at": "2026-10-28T07:57:13Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 34558,
-    "updated_at": "2026-10-28T07:42:42Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 369,
+    "updated_at": "2026-10-28T07:44:22Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -68,17 +122,8 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-28T07:31:22Z",
+    "updated_at": "2026-10-28T07:54:41Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
-    "id": "char-46/copilot-muze",
-    "language": "Python",
-    "name": "char-46/copilot-muze",
-    "stars": 0,
-    "updated_at": "2026-10-28T07:28:03Z",
-    "url": "https://github.com/char-46/copilot-muze"
   },
   {
     "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
@@ -158,7 +203,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1137,
-    "updated_at": "2026-10-28T06:58:59Z",
+    "updated_at": "2026-10-28T07:59:17Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -292,7 +337,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6673,
+    "stars": 6674,
     "updated_at": "2026-10-28T05:45:51Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -338,7 +383,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-28T06:54:51Z",
+    "updated_at": "2026-10-28T07:48:38Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -358,15 +403,6 @@
     "stars": 4,
     "updated_at": "2026-10-28T05:09:12Z",
     "url": "https://github.com/JCPSer/EasyVibe"
-  },
-  {
-    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
-    "id": "shakhruz/mila",
-    "language": "Python",
-    "name": "shakhruz/mila",
-    "stars": 1,
-    "updated_at": "2026-10-28T05:03:21Z",
-    "url": "https://github.com/shakhruz/mila"
   },
   {
     "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-28T04:34:51Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-28T04:32:07Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 31,
-    "updated_at": "2026-10-28T04:17:28Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "OpenHands SDK \uae30\ubc18 \ud63c\uc7a1\ub3c4 \ubd84\uc11d LLM \uc5d0\uc774\uc804\ud2b8",
-    "id": "jwhitekim/cong-agent",
-    "language": "Python",
-    "name": "jwhitekim/cong-agent",
-    "stars": 0,
-    "updated_at": "2026-10-28T04:08:13Z",
-    "url": "https://github.com/jwhitekim/cong-agent"
-  },
-  {
-    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
-    "id": "hellices/korvid",
-    "language": "Python",
-    "name": "hellices/korvid",
-    "stars": 3,
-    "updated_at": "2026-10-28T05:22:40Z",
-    "url": "https://github.com/hellices/korvid"
   }
 ]
