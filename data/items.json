@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "mmporong/rl-triage-agent",
     "stars": 2,
-    "updated_at": "2026-10-28T22:42:18Z",
+    "updated_at": "2026-10-28T23:00:02Z",
     "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-28T22:52:31Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-28T22:50:59Z",
+    "url": "https://github.com/kifirkin/pi-braid"
   },
   {
     "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
@@ -14,7 +32,7 @@
     "language": "TypeScript",
     "name": "hay-chat/hay-core",
     "stars": 5,
-    "updated_at": "2026-10-28T22:40:45Z",
+    "updated_at": "2026-10-28T22:47:41Z",
     "url": "https://github.com/hay-chat/hay-core"
   },
   {
@@ -34,15 +52,6 @@
     "stars": 173,
     "updated_at": "2026-10-28T22:37:26Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-28T22:27:21Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
@@ -70,15 +79,6 @@
     "stars": 5,
     "updated_at": "2026-10-28T22:20:49Z",
     "url": "https://github.com/cunhaax/ai-workflow"
-  },
-  {
-    "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-28T22:19:25Z",
-    "url": "https://github.com/kifirkin/pi-braid"
   },
   {
     "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
@@ -140,7 +140,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-28T21:53:23Z",
+    "updated_at": "2026-10-28T22:51:43Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -193,9 +193,18 @@
     "id": "drawthingsai/local-code-community",
     "language": "C",
     "name": "drawthingsai/local-code-community",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-10-28T21:35:56Z",
     "url": "https://github.com/drawthingsai/local-code-community"
+  },
+  {
+    "description": "\u55b5\u7483\u306e\u672c\u4f53 \u2014\u2014 \u8dd1\u5728 Ncatbot\uff08NapCat / OneBot 11\uff09\u4e0a\u7684 LLM Agent QQ \u673a\u5668\u4eba\uff1aLangGraph edgeless \u4e8b\u4ef6\u7ba1\u7ebf\u628a\u79c1\u804a / \u7fa4\u804a\u6d88\u606f\u63a5\u5165\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08DeepSeek \u7b49\uff09",
+    "id": "lyt2011/miaoli_bot",
+    "language": "Python",
+    "name": "lyt2011/miaoli_bot",
+    "stars": 2,
+    "updated_at": "2026-10-28T21:32:04Z",
+    "url": "https://github.com/lyt2011/miaoli_bot"
   },
   {
     "description": "Async Python API for discovering and controlling Sonos speakers over UPnP \u2014 playback, volume, queue, groups, favorites, ",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-28T19:34:10Z",
     "url": "https://github.com/iamvisheshsrivastava/AirKube"
-  },
-  {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 345,
-    "updated_at": "2026-10-28T19:26:11Z",
-    "url": "https://github.com/monocle2ai/monocle"
   }
 ]
