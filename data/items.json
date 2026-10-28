@@ -1,12 +1,57 @@
 [
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
+    "description": "OpenHands SDK \uae30\ubc18 \ud63c\uc7a1\ub3c4 \ubd84\uc11d LLM \uc5d0\uc774\uc804\ud2b8",
+    "id": "jwhitekim/cong-agent",
     "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 34503,
-    "updated_at": "2026-10-28T02:56:26Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
+    "name": "jwhitekim/cong-agent",
+    "stars": 0,
+    "updated_at": "2026-10-28T03:12:21Z",
+    "url": "https://github.com/jwhitekim/cong-agent"
+  },
+  {
+    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
+    "id": "ongridio/ongrid",
+    "language": "Go",
+    "name": "ongridio/ongrid",
+    "stars": 1240,
+    "updated_at": "2026-10-28T03:12:13Z",
+    "url": "https://github.com/ongridio/ongrid"
+  },
+  {
+    "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
+    "id": "impsland/imp",
+    "language": "Swift",
+    "name": "impsland/imp",
+    "stars": 1,
+    "updated_at": "2026-10-28T03:11:01Z",
+    "url": "https://github.com/impsland/imp"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-28T03:07:36Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 56,
+    "updated_at": "2026-10-28T03:05:57Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-28T03:04:38Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
@@ -14,8 +59,26 @@
     "language": "Python",
     "name": "mmporong/rl-triage-agent",
     "stars": 2,
-    "updated_at": "2026-10-28T02:56:22Z",
+    "updated_at": "2026-10-28T03:03:55Z",
     "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and",
+    "id": "jiayi-ThE-CREATOR/es-coach-skills",
+    "language": "Python",
+    "name": "jiayi-ThE-CREATOR/es-coach-skills",
+    "stars": 0,
+    "updated_at": "2026-10-28T03:02:37Z",
+    "url": "https://github.com/jiayi-ThE-CREATOR/es-coach-skills"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
+    "language": "Python",
+    "name": "agentscope-ai/agentscope",
+    "stars": 34507,
+    "updated_at": "2026-10-28T02:56:26Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
@@ -140,17 +203,8 @@
     "language": "Python",
     "name": "andrewalhaj/custom-hermesagent",
     "stars": 0,
-    "updated_at": "2026-10-28T02:56:43Z",
+    "updated_at": "2026-10-28T03:10:52Z",
     "url": "https://github.com/andrewalhaj/custom-hermesagent"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 6,
-    "updated_at": "2026-10-28T02:07:17Z",
-    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
@@ -178,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T01:58:07Z",
     "url": "https://github.com/HaikeiLabs/agentware"
-  },
-  {
-    "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
-    "id": "impsland/imp",
-    "language": "Swift",
-    "name": "impsland/imp",
-    "stars": 1,
-    "updated_at": "2026-10-28T01:53:20Z",
-    "url": "https://github.com/impsland/imp"
   },
   {
     "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
@@ -338,7 +383,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1134,
-    "updated_at": "2026-10-28T00:06:15Z",
+    "updated_at": "2026-10-28T03:10:04Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -374,7 +419,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5881,
-    "updated_at": "2026-10-27T23:51:13Z",
+    "updated_at": "2026-10-28T03:12:00Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T23:42:32Z",
     "url": "https://github.com/ubata-mamezou/developer-site-article-examples"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8975,
-    "updated_at": "2026-10-27T23:36:38Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 137,
-    "updated_at": "2026-10-27T23:29:08Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
-    "id": "NicoGenti/opencode-orchestrator-kit",
-    "language": "TypeScript",
-    "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 8,
-    "updated_at": "2026-10-27T23:51:24Z",
-    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
-  },
-  {
-    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
-    "id": "sharonita610/agent-harness",
-    "language": "Python",
-    "name": "sharonita610/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-27T23:20:08Z",
-    "url": "https://github.com/sharonita610/agent-harness"
-  },
-  {
-    "description": "OpenHands SDK \uae30\ubc18 \ud63c\uc7a1\ub3c4 \ubd84\uc11d LLM \uc5d0\uc774\uc804\ud2b8",
-    "id": "jwhitekim/cong-agent",
-    "language": "Python",
-    "name": "jwhitekim/cong-agent",
-    "stars": 0,
-    "updated_at": "2026-10-27T23:18:31Z",
-    "url": "https://github.com/jwhitekim/cong-agent"
   }
 ]
