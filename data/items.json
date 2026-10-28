@@ -1,21 +1,12 @@
 [
   {
-    "description": "Braid \ud83e\udd68 Metacognitive extension suite for Pi coding agent",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-27T23:59:06Z",
-    "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "The self-improving SRE agent",
-    "id": "Smana/runlore",
-    "language": "Go",
-    "name": "Smana/runlore",
-    "stars": 20,
-    "updated_at": "2026-10-27T23:55:11Z",
-    "url": "https://github.com/Smana/runlore"
+    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
+    "id": "hellices/korvid",
+    "language": "Python",
+    "name": "hellices/korvid",
+    "stars": 3,
+    "updated_at": "2026-10-28T00:12:55Z",
+    "url": "https://github.com/hellices/korvid"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -23,8 +14,80 @@
     "language": "TypeScript",
     "name": "kyleslight/shun",
     "stars": 7,
-    "updated_at": "2026-10-27T23:52:21Z",
+    "updated_at": "2026-10-28T00:10:08Z",
     "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "The self-improving SRE agent",
+    "id": "Smana/runlore",
+    "language": "Go",
+    "name": "Smana/runlore",
+    "stars": 20,
+    "updated_at": "2026-10-28T00:09:20Z",
+    "url": "https://github.com/Smana/runlore"
+  },
+  {
+    "description": "",
+    "id": "andrewalhaj/custom-hermesagent",
+    "language": "Python",
+    "name": "andrewalhaj/custom-hermesagent",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:10:39Z",
+    "url": "https://github.com/andrewalhaj/custom-hermesagent"
+  },
+  {
+    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
+    "id": "tya5/shellboy",
+    "language": "Rust",
+    "name": "tya5/shellboy",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:06:19Z",
+    "url": "https://github.com/tya5/shellboy"
+  },
+  {
+    "description": "PicoBot self-hosted personal assistant.",
+    "id": "jumping2000/picobot",
+    "language": "Python",
+    "name": "jumping2000/picobot",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:12:29Z",
+    "url": "https://github.com/jumping2000/picobot"
+  },
+  {
+    "description": "Embeddable agent runtime (agent harness) for Android and the JVM: agent loop, sandboxed workspace, MCP, skills, subagent",
+    "id": "NoHarry/android-agent-runtime",
+    "language": "Kotlin",
+    "name": "NoHarry/android-agent-runtime",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:03:20Z",
+    "url": "https://github.com/NoHarry/android-agent-runtime"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:00:57Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1130,
+    "updated_at": "2026-10-28T00:06:15Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "Braid \ud83e\udd68 Metacognitive extension suite for Pi coding agent",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-27T23:59:06Z",
+    "url": "https://github.com/kifirkin/pi-braid"
   },
   {
     "description": "Scrapling \u98ce\u683c\u9690\u8eab\u722c\u866b\u5e93\uff1a\u81ea\u9002\u5e94\u9009\u62e9\u5668 \u00b7 TLS \u6307\u7eb9 HTTP \u00b7 JS \u6e32\u67d3 \u00b7 \u56de\u8c03\u5f0f Spider \u6846\u67b6\uff08\u91cd\u8bd5/robots/\u53bb\u91cd/\u4e2d\u95f4\u4ef6\u7ba1\u9053\uff09\u00b7 JS \u9006\u5411 Agent \u00b7 \u9a8c\u8bc1\u7801\u8bc6\u522b \u00b7 MCP \u670d\u52a1 \u00b7 \u672c\u5730 We",
@@ -43,15 +106,6 @@
     "stars": 164,
     "updated_at": "2026-10-27T23:44:26Z",
     "url": "https://github.com/haoyiyin/basjoo"
-  },
-  {
-    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
-    "id": "tya5/shellboy",
-    "language": "Rust",
-    "name": "tya5/shellboy",
-    "stars": 0,
-    "updated_at": "2026-10-27T23:55:14Z",
-    "url": "https://github.com/tya5/shellboy"
   },
   {
     "description": "\u30c7\u30d9\u30ed\u30c3\u30d1\u30fc\u30b5\u30a4\u30c8\u306e\u57f7\u7b46\u3067\u4f5c\u6210\u3057\u305f\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
@@ -85,7 +139,7 @@
     "id": "strands-agents/harness-sdk",
     "language": "Python",
     "name": "strands-agents/harness-sdk",
-    "stars": 8971,
+    "stars": 8972,
     "updated_at": "2026-10-27T23:36:38Z",
     "url": "https://github.com/strands-agents/harness-sdk"
   },
@@ -187,15 +241,6 @@
     "stars": 12,
     "updated_at": "2026-10-27T23:24:36Z",
     "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1129,
-    "updated_at": "2026-10-27T22:38:09Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
@@ -378,15 +423,6 @@
     "url": "https://github.com/kanderson-ai-dev/mcp-agent-toolkit"
   },
   {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-27T20:40:01Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
@@ -401,7 +437,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-27T20:32:57Z",
+    "updated_at": "2026-10-28T00:10:50Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T20:31:43Z",
     "url": "https://github.com/Lyle-0015/photo-guided-field-dispatch-agent"
-  },
-  {
-    "description": "Production-grade, guardrailed LangGraph agent behind a FastAPI micro-service \u2014 prompt-injection defenses, retries, multi",
-    "id": "kanderson-ai-dev/agentic-api",
-    "language": "Python",
-    "name": "kanderson-ai-dev/agentic-api",
-    "stars": 0,
-    "updated_at": "2026-10-27T20:21:19Z",
-    "url": "https://github.com/kanderson-ai-dev/agentic-api"
-  },
-  {
-    "description": "Layer-aware Dockerfile audit \u2014 32 deterministic rules, zero dependencies, SARIF for CI, MCP server",
-    "id": "xuange-hu/layerlint",
-    "language": "Python",
-    "name": "xuange-hu/layerlint",
-    "stars": 0,
-    "updated_at": "2026-10-27T20:16:53Z",
-    "url": "https://github.com/xuange-hu/layerlint"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 4,
-    "updated_at": "2026-10-27T20:14:56Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "\u7814\u7a76\u6b63\u6587\u7684\u591a\u683c\u5f0f\u5448\u73b0\u8584\u58f3\uff1aarticle.md \u2192 beautiful \u957f\u6587\u548c/\u6216 Design+Slides\uff085173 \u5ba1\u9605\uff09",
-    "id": "JoeLiaoo/my-slides",
-    "language": "Python",
-    "name": "JoeLiaoo/my-slides",
-    "stars": 0,
-    "updated_at": "2026-10-27T20:15:14Z",
-    "url": "https://github.com/JoeLiaoo/my-slides"
   }
 ]
