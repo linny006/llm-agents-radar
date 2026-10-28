@@ -1,12 +1,57 @@
 [
   {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T21:26:10Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Async Python API for discovering and controlling Sonos speakers over UPnP \u2014 playback, volume, queue, groups, favorites, ",
+    "id": "mathisarends/sonosify",
+    "language": "Python",
+    "name": "mathisarends/sonosify",
+    "stars": 0,
+    "updated_at": "2026-10-28T21:26:00Z",
+    "url": "https://github.com/mathisarends/sonosify"
+  },
+  {
+    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
+    "id": "haibingzhao/easyai",
+    "language": "Kotlin",
+    "name": "haibingzhao/easyai",
+    "stars": 1,
+    "updated_at": "2026-10-28T21:24:58Z",
+    "url": "https://github.com/haibingzhao/easyai"
+  },
+  {
+    "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-28T21:23:11Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-28T21:12:04Z",
+    "updated_at": "2026-10-28T21:22:15Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-28T21:21:18Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
@@ -25,15 +70,6 @@
     "stars": 8986,
     "updated_at": "2026-10-28T21:11:25Z",
     "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T21:11:13Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
@@ -95,7 +131,7 @@
     "language": "TypeScript",
     "name": "alexwkleung/reika",
     "stars": 12,
-    "updated_at": "2026-10-28T20:56:25Z",
+    "updated_at": "2026-10-28T21:29:36Z",
     "url": "https://github.com/alexwkleung/reika"
   },
   {
@@ -151,15 +187,6 @@
     "stars": 6,
     "updated_at": "2026-10-28T20:31:53Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-28T20:30:21Z",
-    "url": "https://github.com/kifirkin/pi-braid"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -306,15 +333,6 @@
     "url": "https://github.com/b7216309-jpg/little-bot"
   },
   {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-28T19:39:54Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
     "description": "Asistente de clima con FastAPI y agente LLM. Consejos deterministas, tool calling, chat SSE y PostgreSQL. Consume weathe",
     "id": "FabricioPorcelli/weather-assistant",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T18:24:54Z",
     "url": "https://github.com/zheyun-shou/product-research-agent-luna"
-  },
-  {
-    "description": "Async Python API for discovering and controlling Sonos speakers over UPnP \u2014 playback, volume, queue, groups, favorites, ",
-    "id": "mathisarends/sonosify",
-    "language": "Python",
-    "name": "mathisarends/sonosify",
-    "stars": 0,
-    "updated_at": "2026-10-28T18:05:53Z",
-    "url": "https://github.com/mathisarends/sonosify"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-28T18:01:47Z",
-    "url": "https://github.com/kyleslight/shun"
   }
 ]
