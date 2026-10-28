@@ -1,5 +1,32 @@
 [
   {
+    "description": "",
+    "id": "andrewalhaj/custom-hermesagent",
+    "language": "Python",
+    "name": "andrewalhaj/custom-hermesagent",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:44:07Z",
+    "url": "https://github.com/andrewalhaj/custom-hermesagent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:36:37Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
+    "id": "xufenghe/aimo3-agentic-inference",
+    "language": "Python",
+    "name": "xufenghe/aimo3-agentic-inference",
+    "stars": 0,
+    "updated_at": "2026-10-28T00:31:10Z",
+    "url": "https://github.com/xufenghe/aimo3-agentic-inference"
+  },
+  {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
     "id": "mmporong/rl-triage-agent",
     "language": "Python",
@@ -18,21 +45,12 @@
     "url": "https://github.com/Anmulzhao/DSH-AGINT"
   },
   {
-    "description": "",
-    "id": "andrewalhaj/custom-hermesagent",
-    "language": "Python",
-    "name": "andrewalhaj/custom-hermesagent",
-    "stars": 0,
-    "updated_at": "2026-10-28T00:17:30Z",
-    "url": "https://github.com/andrewalhaj/custom-hermesagent"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-28T00:26:36Z",
+    "updated_at": "2026-10-28T00:38:17Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-28T00:12:55Z",
+    "updated_at": "2026-10-28T00:41:36Z",
     "url": "https://github.com/hellices/korvid"
   },
   {
@@ -90,6 +108,15 @@
     "url": "https://github.com/tya5/shellboy"
   },
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1131,
+    "updated_at": "2026-10-28T00:06:15Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "PicoBot self-hosted personal assistant.",
     "id": "jumping2000/picobot",
     "language": "Python",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T00:00:57Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1130,
-    "updated_at": "2026-10-28T00:06:15Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Braid \ud83e\udd68 Metacognitive extension suite for Pi coding agent",
@@ -248,7 +266,7 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-27T23:07:22Z",
+    "updated_at": "2026-10-28T00:40:19Z",
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
@@ -331,15 +349,6 @@
     "stars": 5,
     "updated_at": "2026-10-27T23:11:09Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-27T21:42:26Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T21:00:29Z",
     "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
-    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-27T21:19:41Z",
-    "url": "https://github.com/bigduu/Zenith"
   }
 ]
