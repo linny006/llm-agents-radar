@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-28 01:58 UTC
+> ⏰ Last updated: 2026-10-28 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 2 | TypeScript | 2026-10-28 | Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc  |
-| 2 | [HaikeiLabs/agentware](https://github.com/HaikeiLabs/agentware) | 2 | Python | 2026-10-28 | tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r |
-| 3 | [impsland/imp](https://github.com/impsland/imp) | 1 | Swift | 2026-10-28 | Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor |
-| 4 | [sins-gif/moonshadow](https://github.com/sins-gif/moonshadow) | 0 | Python | 2026-10-28 | 本地优先、可回溯的 Agent 时间分层记忆系统｜纯 Python 标准库｜196 项测试 + 13 条审计命令 |
-| 5 | [IAmNo1Special/mvge](https://github.com/IAmNo1Special/mvge) | 2 | Python | 2026-10-28 | An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to |
-| 6 | [andrewalhaj/custom-hermesagent](https://github.com/andrewalhaj/custom-hermesagent) | 0 | Python | 2026-10-28 |  |
+| 1 | [andrewalhaj/custom-hermesagent](https://github.com/andrewalhaj/custom-hermesagent) | 0 | Python | 2026-10-28 |  |
+| 2 | [duongnq2798/vestiarion](https://github.com/duongnq2798/vestiarion) | 2 | TypeScript | 2026-10-28 | Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc  |
+| 3 | [HaikeiLabs/agentware](https://github.com/HaikeiLabs/agentware) | 2 | Python | 2026-10-28 | tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r |
+| 4 | [impsland/imp](https://github.com/impsland/imp) | 1 | Swift | 2026-10-28 | Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor |
+| 5 | [sins-gif/moonshadow](https://github.com/sins-gif/moonshadow) | 0 | Python | 2026-10-28 | 本地优先、可回溯的 Agent 时间分层记忆系统｜纯 Python 标准库｜196 项测试 + 13 条审计命令 |
+| 6 | [IAmNo1Special/mvge](https://github.com/IAmNo1Special/mvge) | 2 | Python | 2026-10-28 | An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to |
 | 7 | [mmporong/rl-triage-agent](https://github.com/mmporong/rl-triage-agent) | 2 | Python | 2026-10-28 | Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe |
 | 8 | [orderye/memory-hub](https://github.com/orderye/memory-hub) | 0 | Rust | 2026-10-28 | 多智能体长期记忆基础设施 · 18 个 MCP 工具 · OAuth 2.1 账户沙箱 · Chat/Working/Coding 三层认知记忆（Rust + PostgreSQL/pgvector） |
 | 9 | [JSL107/personal_agents](https://github.com/JSL107/personal_agents) | 0 | TypeScript | 2026-10-28 | Slack 에서 PM · 백엔드 · 코드리뷰어 · CTO 역할을 나눠 맡는 멀티 에이전트 업무 자동화 봇 |
