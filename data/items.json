@@ -1,11 +1,29 @@
 [
   {
+    "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
+    "id": "dundundun0116/atlas",
+    "language": "Python",
+    "name": "dundundun0116/atlas",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:44:52Z",
+    "url": "https://github.com/dundundun0116/atlas"
+  },
+  {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-28T02:43:14Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
     "stars": 363,
-    "updated_at": "2026-10-28T02:29:48Z",
+    "updated_at": "2026-10-28T02:41:30Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
@@ -90,15 +108,6 @@
     "url": "https://github.com/g761007/daily-dispatch"
   },
   {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:18:10Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "andrewalhaj/custom-hermesagent",
     "stars": 0,
-    "updated_at": "2026-10-28T02:27:45Z",
+    "updated_at": "2026-10-28T02:40:30Z",
     "url": "https://github.com/andrewalhaj/custom-hermesagent"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-27T23:01:24Z",
     "url": "https://github.com/xiongweilin/agent-skills"
-  },
-  {
-    "description": "DSB (\u9017\u6c99\u5305): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu",
-    "id": "tianye1999/dsb",
-    "language": "Python",
-    "name": "tianye1999/dsb",
-    "stars": 1,
-    "updated_at": "2026-10-27T22:53:51Z",
-    "url": "https://github.com/tianye1999/dsb"
   }
 ]
