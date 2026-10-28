@@ -1,30 +1,21 @@
 [
   {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-28T14:15:00Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8983,
-    "updated_at": "2026-10-28T14:14:55Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
-    "description": "\u53c2\u7167 Qwen-Agent \u67b6\u6784\u4ece\u96f6\u5b9e\u73b0\u7684 Agent harness\uff1a\u4e3b\u5faa\u73af / \u5de5\u5177\u7cfb\u7edf / \u8bb0\u5fc6 / \u591a\u667a\u80fd\u4f53 / MCP / \u6c99\u7bb1 / checkpoint / \u8bc4\u6d4b\uff08314 \u6761\u79bb\u7ebf\u6d4b\u8bd5\uff09",
-    "id": "DFY04/miniagent",
-    "language": "Python",
-    "name": "DFY04/miniagent",
+    "name": "aiterrariumcontrol/terrarium-life",
     "stars": 0,
-    "updated_at": "2026-10-28T14:11:43Z",
-    "url": "https://github.com/DFY04/miniagent"
+    "updated_at": "2026-10-28T14:29:54Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 83,
+    "updated_at": "2026-10-28T14:29:29Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
   {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
@@ -32,17 +23,71 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 171,
-    "updated_at": "2026-10-28T14:11:29Z",
+    "updated_at": "2026-10-28T14:29:00Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-28T14:28:51Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "A personal knowledge assistant leveraging LLM to answer questions from document collections with verifiable source citat",
+    "id": "AdhamAymanAlrfae/Personal-AI-Cortex",
+    "language": "Python",
+    "name": "AdhamAymanAlrfae/Personal-AI-Cortex",
+    "stars": 0,
+    "updated_at": "2026-10-28T14:27:26Z",
+    "url": "https://github.com/AdhamAymanAlrfae/Personal-AI-Cortex"
+  },
+  {
+    "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
+    "id": "dundundun0116/atlas",
+    "language": "Python",
+    "name": "dundundun0116/atlas",
+    "stars": 0,
+    "updated_at": "2026-10-28T14:27:20Z",
+    "url": "https://github.com/dundundun0116/atlas"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
     "stars": 80,
-    "updated_at": "2026-10-28T14:11:15Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+    "updated_at": "2026-10-28T14:25:08Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8983,
+    "updated_at": "2026-10-28T14:24:32Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
+    "id": "NicoGenti/opencode-orchestrator-kit",
+    "language": "TypeScript",
+    "name": "NicoGenti/opencode-orchestrator-kit",
+    "stars": 8,
+    "updated_at": "2026-10-28T14:22:58Z",
+    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
+  },
+  {
+    "description": "\u53c2\u7167 Qwen-Agent \u67b6\u6784\u4ece\u96f6\u5b9e\u73b0\u7684 Agent harness\uff1a\u4e3b\u5faa\u73af / \u5de5\u5177\u7cfb\u7edf / \u8bb0\u5fc6 / \u591a\u667a\u80fd\u4f53 / MCP / \u6c99\u7bb1 / checkpoint / \u8bc4\u6d4b\uff08314 \u6761\u79bb\u7ebf\u6d4b\u8bd5\uff09",
+    "id": "DFY04/miniagent",
+    "language": "Python",
+    "name": "DFY04/miniagent",
+    "stars": 0,
+    "updated_at": "2026-10-28T14:22:27Z",
+    "url": "https://github.com/DFY04/miniagent"
   },
   {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
@@ -50,8 +95,35 @@
     "language": "TypeScript",
     "name": "duongnq2798/vestiarion",
     "stars": 2,
-    "updated_at": "2026-10-28T14:04:28Z",
+    "updated_at": "2026-10-28T14:19:43Z",
     "url": "https://github.com/duongnq2798/vestiarion"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T14:17:18Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "\u8ba9 AstrBot \u7684 Agent \u8fb9\u804a\u8fb9\u5b66\uff1a\u7ecf\u9a8c\u8bb0\u5fc6 + \u52a8\u4f5c\u4f18\u52bf\u4f30\u8ba1 + \u65e0\u68af\u5ea6\u7b56\u7565\u4f18\u5316\uff08JitRL, ICML 2026\uff09",
+    "id": "2841649220/astrbot_plugin_jitrl",
+    "language": "Python",
+    "name": "2841649220/astrbot_plugin_jitrl",
+    "stars": 0,
+    "updated_at": "2026-10-28T14:17:13Z",
+    "url": "https://github.com/2841649220/astrbot_plugin_jitrl"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-28T14:15:00Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
@@ -104,7 +176,7 @@
     "language": "JavaScript",
     "name": "bigduu/Bodhi-AI",
     "stars": 17,
-    "updated_at": "2026-10-28T14:11:39Z",
+    "updated_at": "2026-10-28T14:30:09Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
@@ -112,7 +184,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6691,
+    "stars": 6692,
     "updated_at": "2026-10-28T13:47:24Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -180,33 +252,6 @@
     "url": "https://github.com/plurnk/plurnk"
   },
   {
-    "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
-    "id": "dundundun0116/atlas",
-    "language": "Python",
-    "name": "dundundun0116/atlas",
-    "stars": 0,
-    "updated_at": "2026-10-28T13:31:43Z",
-    "url": "https://github.com/dundundun0116/atlas"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-28T13:28:47Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T13:28:17Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -223,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T13:17:33Z",
     "url": "https://github.com/iamzices/neo4j-guard"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-28T13:09:39Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Document-grounded adaptive tutoring with bounded tool-use agents",
@@ -306,15 +342,6 @@
     "url": "https://github.com/MLeona020839/boodschappen-agent"
   },
   {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 80,
-    "updated_at": "2026-10-28T12:47:09Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
     "description": "Vibe-coded experiment in LLM-driven character simulation. First-class chat AND image generation, world map, soul system,",
     "id": "KaletoAI/anima-verse",
     "language": "Python",
@@ -347,7 +374,7 @@
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-28T14:12:49Z",
+    "updated_at": "2026-10-28T14:21:53Z",
     "url": "https://github.com/hellices/korvid"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T11:47:03Z",
     "url": "https://github.com/junaid51/job-pulse"
-  },
-  {
-    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
-    "id": "ljchang/mecha",
-    "language": "Rust",
-    "name": "ljchang/mecha",
-    "stars": 7,
-    "updated_at": "2026-10-28T11:43:13Z",
-    "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall,",
-    "id": "410979729/scope-recall-hermes",
-    "language": "Python",
-    "name": "410979729/scope-recall-hermes",
-    "stars": 494,
-    "updated_at": "2026-10-28T11:28:57Z",
-    "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
-    "id": "NicoGenti/opencode-orchestrator-kit",
-    "language": "TypeScript",
-    "name": "NicoGenti/opencode-orchestrator-kit",
-    "stars": 8,
-    "updated_at": "2026-10-28T13:48:44Z",
-    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   }
 ]
