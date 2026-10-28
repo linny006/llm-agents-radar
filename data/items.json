@@ -1,10 +1,100 @@
 [
   {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 80,
+    "updated_at": "2026-10-28T09:45:07Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:43:04Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T09:41:28Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 17,
+    "updated_at": "2026-10-28T09:40:00Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 63,
+    "updated_at": "2026-10-28T09:38:28Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 3,
+    "updated_at": "2026-10-28T09:38:12Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "\u4fe1\u606f\u6e90\u805a\u5408 DSH \u63d2\u4ef6\uff1a\u5b9a\u65f6\u6444\u53d6 RSS / B \u7ad9 / YouTube\uff0c\u8bfb\u6b63\u6587\u4e0e\u5b57\u5e55\u505a\u672c\u5730\u9884\u7b5b\u548c\u4e09\u6863\u5224\u65ad\uff0c\u6bcf\u8f6e\u51fa\u4e00\u4efd\u589e\u91cf\u6c47\u62a5\u3002\u5f7b\u5e95\u4e0d\u505a\u5e73\u53f0\u4e92\u52a8\u3002",
+    "id": "slow-stack/baleen",
+    "language": "JavaScript",
+    "name": "slow-stack/baleen",
+    "stars": 0,
+    "updated_at": "2026-10-28T09:39:23Z",
+    "url": "https://github.com/slow-stack/baleen"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-28T09:36:02Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-28T09:30:21Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
+    "id": "bitcloud-ai/Bittune",
+    "language": "TypeScript",
+    "name": "bitcloud-ai/Bittune",
+    "stars": 110,
+    "updated_at": "2026-10-28T09:29:50Z",
+    "url": "https://github.com/bitcloud-ai/Bittune"
+  },
+  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34575,
+    "stars": 34577,
     "updated_at": "2026-10-28T09:29:09Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -16,24 +106,6 @@
     "stars": 5,
     "updated_at": "2026-10-28T09:28:40Z",
     "url": "https://github.com/Muvon/octomind-tap"
-  },
-  {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 63,
-    "updated_at": "2026-10-28T09:28:39Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
-  },
-  {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-28T09:24:40Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -63,15 +135,6 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-28T09:28:27Z",
-    "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
     "description": "Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and",
     "id": "jiayi-ThE-CREATOR/es-coach-skills",
     "language": "Python",
@@ -90,21 +153,12 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 80,
-    "updated_at": "2026-10-28T09:12:04Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3712,
-    "updated_at": "2026-10-28T09:09:29Z",
+    "stars": 3713,
+    "updated_at": "2026-10-28T09:39:21Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -144,15 +198,6 @@
     "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 3,
-    "updated_at": "2026-10-28T09:04:32Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
@@ -180,24 +225,6 @@
     "url": "https://github.com/shakhruz/mila"
   },
   {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T09:01:12Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 17,
-    "updated_at": "2026-10-28T09:00:57Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
     "description": "Designs Azure systems for any region, priced live in your currency, checked against your uploaded policies, with diagram",
     "id": "samiulhuda360/cloud-architect-agent",
     "language": "Python",
@@ -205,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T08:59:49Z",
     "url": "https://github.com/samiulhuda360/cloud-architect-agent"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:58:45Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "ant-research/AntOmniEvo",
     "stars": 1212,
-    "updated_at": "2026-10-28T08:07:58Z",
+    "updated_at": "2026-10-28T09:33:01Z",
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 171,
     "updated_at": "2026-10-28T07:50:36Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 369,
-    "updated_at": "2026-10-28T07:44:22Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
-    "id": "ArthurReboulSalze/Sherka-Compagnon",
-    "language": "Rust",
-    "name": "ArthurReboulSalze/Sherka-Compagnon",
-    "stars": 0,
-    "updated_at": "2026-10-28T07:26:25Z",
-    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
   }
 ]
