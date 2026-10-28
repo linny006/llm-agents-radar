@@ -1,12 +1,111 @@
 [
   {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T10:45:05Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 370,
+    "updated_at": "2026-10-28T10:44:03Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "\u0410\u043b\u044c\u0444\u0430-\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0445\u0430\u043a\u0430\u0442\u043e\u043d \u00b7 \u0443\u043c\u043d\u044b\u0439 \u043a\u0440\u0435\u0434\u0438\u0442\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044f",
+    "id": "gitAlphaMerge/credit-cabinet",
+    "language": "TypeScript",
+    "name": "gitAlphaMerge/credit-cabinet",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:43:58Z",
+    "url": "https://github.com/gitAlphaMerge/credit-cabinet"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 31,
+    "updated_at": "2026-10-28T10:43:05Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-28T10:40:14Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "\u4fe1\u606f\u6e90\u805a\u5408 DSH \u63d2\u4ef6\uff1a\u5b9a\u65f6\u6444\u53d6 RSS / B \u7ad9 / YouTube\uff0c\u8bfb\u6b63\u6587\u4e0e\u5b57\u5e55\u505a\u672c\u5730\u9884\u7b5b\u548c\u4e09\u6863\u5224\u65ad\uff0c\u6bcf\u8f6e\u51fa\u4e00\u4efd\u589e\u91cf\u6c47\u62a5\u3002\u5f7b\u5e95\u4e0d\u505a\u5e73\u53f0\u4e92\u52a8\u3002",
+    "id": "slow-stack/baleen",
+    "language": "JavaScript",
+    "name": "slow-stack/baleen",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:39:42Z",
+    "url": "https://github.com/slow-stack/baleen"
+  },
+  {
+    "description": "LLM-assisted Chrome agent for repeat orders, tracking and GST invoices on Amazon.in and JioMart. Cheap-first fallback la",
+    "id": "badalsharma9929/orderpilot",
+    "language": "TypeScript",
+    "name": "badalsharma9929/orderpilot",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:37:42Z",
+    "url": "https://github.com/badalsharma9929/orderpilot"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-28T10:37:10Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 83,
+    "updated_at": "2026-10-28T10:34:54Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
     "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
     "stars": 64,
-    "updated_at": "2026-10-28T10:30:20Z",
+    "updated_at": "2026-10-28T10:32:28Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:31:50Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Grocery agent for Dutch supermarkets: Claude tool use, meal planning and cheapest-basket pricing across 10 stores, with ",
+    "id": "MLeona020839/boodschappen-agent",
+    "language": "Python",
+    "name": "MLeona020839/boodschappen-agent",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:31:40Z",
+    "url": "https://github.com/MLeona020839/boodschappen-agent"
   },
   {
     "description": "RETECO: A SemEval-2027 Shared Task on Reasoning-Oriented Retrieval",
@@ -45,33 +144,6 @@
     "url": "https://github.com/tt519660/stock-agent"
   },
   {
-    "description": "\u4fe1\u606f\u6e90\u805a\u5408 DSH \u63d2\u4ef6\uff1a\u5b9a\u65f6\u6444\u53d6 RSS / B \u7ad9 / YouTube\uff0c\u8bfb\u6b63\u6587\u4e0e\u5b57\u5e55\u505a\u672c\u5730\u9884\u7b5b\u548c\u4e09\u6863\u5224\u65ad\uff0c\u6bcf\u8f6e\u51fa\u4e00\u4efd\u589e\u91cf\u6c47\u62a5\u3002\u5f7b\u5e95\u4e0d\u505a\u5e73\u53f0\u4e92\u52a8\u3002",
-    "id": "slow-stack/baleen",
-    "language": "JavaScript",
-    "name": "slow-stack/baleen",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:19:24Z",
-    "url": "https://github.com/slow-stack/baleen"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T10:15:19Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:13:30Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
     "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
     "id": "b-macker/NAAb",
     "language": "C++",
@@ -79,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T10:14:01Z",
     "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Grocery agent for Dutch supermarkets: Claude tool use, meal planning and cheapest-basket pricing across 10 stores, with ",
-    "id": "MLeona020839/boodschappen-agent",
-    "language": "Python",
-    "name": "MLeona020839/boodschappen-agent",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:02:42Z",
-    "url": "https://github.com/MLeona020839/boodschappen-agent"
   },
   {
     "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
@@ -103,7 +166,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6682,
+    "stars": 6683,
     "updated_at": "2026-10-28T10:01:05Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -153,15 +216,6 @@
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 370,
-    "updated_at": "2026-10-28T09:50:59Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
     "id": "xieguigang/sciBASIC",
     "language": "Visual Basic .NET",
@@ -193,7 +247,7 @@
     "id": "bitcloud-ai/Bittune",
     "language": "TypeScript",
     "name": "bitcloud-ai/Bittune",
-    "stars": 110,
+    "stars": 111,
     "updated_at": "2026-10-28T09:29:50Z",
     "url": "https://github.com/bitcloud-ai/Bittune"
   },
@@ -202,7 +256,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34580,
+    "stars": 34582,
     "updated_at": "2026-10-28T09:29:09Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "xianyu-sheng/Xenon",
     "stars": 56,
-    "updated_at": "2026-10-28T09:23:27Z",
+    "updated_at": "2026-10-28T10:43:11Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
@@ -248,7 +302,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-28T09:26:00Z",
+    "updated_at": "2026-10-28T10:32:56Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -257,7 +311,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3713,
-    "updated_at": "2026-10-28T10:25:59Z",
+    "updated_at": "2026-10-28T10:42:27Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -342,15 +396,6 @@
     "url": "https://github.com/mdsvr/AeroPatch"
   },
   {
-    "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-28T08:41:08Z",
-    "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -358,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T08:36:07Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-28T08:36:35Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "\u8de8\u5de5\u4f5c\u533a\u72ec\u7acb\u4eba\u683c\u3001\u81ea\u9002\u5e94\u98ce\u683c\u4e0e\u966a\u4f34\u9884\u8bbe\uff1a\u4e3a\u9879\u76ee\u548c\u5bf9\u8bdd\u5206\u522b\u7ef4\u62a4\u4eba\u683c\u4e0e\u786e\u8ba4\u540e\u7684\u901a\u7528\u504f\u597d\uff0c\u652f\u6301\u4efb\u610f DSH \u5df2\u6ce8\u518c\u6a21\u578b\u7684\u5b50\u4ee3\u7406\u8def\u7531\uff08\u542b\u901a\u8fc7\u5176\u4ed6\u63d2\u4ef6\u63a5\u5165\u7684 Codex\u3001Claude Code\uff09\u3002",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-28T08:29:34Z",
     "url": "https://github.com/Cwentor/DataAgent"
-  },
-  {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 31,
-    "updated_at": "2026-10-28T10:20:53Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Private, offline AI assistant for your desktop: a local ChatGPT alternative powered by Ollama, in 12 languages. 9 agents",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 12,
-    "updated_at": "2026-10-28T08:14:18Z",
-    "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "Journals on learning from daily work",
-    "id": "ksankeerth/fde-diary",
-    "language": "Python",
-    "name": "ksankeerth/fde-diary",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:12:10Z",
-    "url": "https://github.com/ksankeerth/fde-diary"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1141,
-    "updated_at": "2026-10-28T08:12:09Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   }
 ]
