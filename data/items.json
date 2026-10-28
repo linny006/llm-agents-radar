@@ -1,12 +1,30 @@
 [
   {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 365,
+    "updated_at": "2026-10-28T07:13:37Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Autonomous plumbing dispatch & field operations platform powered by OpenRouter AI, FastAPI, and React.",
+    "id": "IAMSHIVAM19/Flowfix-Agent",
+    "language": "JavaScript",
+    "name": "IAMSHIVAM19/Flowfix-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-28T07:12:39Z",
+    "url": "https://github.com/IAMSHIVAM19/Flowfix-Agent"
+  },
+  {
+    "description": "Build and run agents you can see, understand and trust.",
+    "id": "agentscope-ai/agentscope",
     "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T06:57:58Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
+    "name": "agentscope-ai/agentscope",
+    "stars": 34550,
+    "updated_at": "2026-10-28T07:09:01Z",
+    "url": "https://github.com/agentscope-ai/agentscope"
   },
   {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
@@ -14,17 +32,44 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 17,
-    "updated_at": "2026-10-28T06:58:09Z",
+    "updated_at": "2026-10-28T07:14:27Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 365,
-    "updated_at": "2026-10-28T06:54:28Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+    "description": "Autonomous DFIR agent: point it at disk images, memory dumps or log exports and get back an investigation that shows its",
+    "id": "AtlasFO/Atlas-Community",
+    "language": "Python",
+    "name": "AtlasFO/Atlas-Community",
+    "stars": 4,
+    "updated_at": "2026-10-28T07:07:27Z",
+    "url": "https://github.com/AtlasFO/Atlas-Community"
+  },
+  {
+    "description": "Reproducible DeepResearch trajectory-synthesis pipeline built on a trimmed Qwen-Agent fork: research agent, resumable an",
+    "id": "Xigmoid/Qwen-Agent-DeepResearch",
+    "language": "Python",
+    "name": "Xigmoid/Qwen-Agent-DeepResearch",
+    "stars": 0,
+    "updated_at": "2026-10-28T07:05:46Z",
+    "url": "https://github.com/Xigmoid/Qwen-Agent-DeepResearch"
+  },
+  {
+    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
+    "id": "char-46/copilot-muze",
+    "language": "Python",
+    "name": "char-46/copilot-muze",
+    "stars": 0,
+    "updated_at": "2026-10-28T07:03:17Z",
+    "url": "https://github.com/char-46/copilot-muze"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T06:57:58Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
@@ -77,26 +122,8 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-28T06:52:15Z",
+    "updated_at": "2026-10-28T07:15:14Z",
     "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Autonomous plumbing dispatch & field operations platform powered by OpenRouter AI, FastAPI, and React.",
-    "id": "IAMSHIVAM19/Flowfix-Agent",
-    "language": "JavaScript",
-    "name": "IAMSHIVAM19/Flowfix-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-28T06:41:49Z",
-    "url": "https://github.com/IAMSHIVAM19/Flowfix-Agent"
-  },
-  {
-    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
-    "id": "char-46/copilot-muze",
-    "language": "Python",
-    "name": "char-46/copilot-muze",
-    "stars": 0,
-    "updated_at": "2026-10-28T06:39:41Z",
-    "url": "https://github.com/char-46/copilot-muze"
   },
   {
     "description": "Braid \ud83e\udd68 Metacognitive extension suite for Pi coding agent",
@@ -175,9 +202,18 @@
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 56,
+    "stars": 57,
     "updated_at": "2026-10-28T06:07:33Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
+    "id": "bitcloud-ai/Bittune",
+    "language": "TypeScript",
+    "name": "bitcloud-ai/Bittune",
+    "stars": 109,
+    "updated_at": "2026-10-28T06:06:46Z",
+    "url": "https://github.com/bitcloud-ai/Bittune"
   },
   {
     "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
@@ -223,15 +259,6 @@
     "stars": 6669,
     "updated_at": "2026-10-28T05:45:51Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Reproducible DeepResearch trajectory-synthesis pipeline built on a trimmed Qwen-Agent fork: research agent, resumable an",
-    "id": "Xigmoid/Qwen-Agent-DeepResearch",
-    "language": "Python",
-    "name": "Xigmoid/Qwen-Agent-DeepResearch",
-    "stars": 0,
-    "updated_at": "2026-10-28T05:40:26Z",
-    "url": "https://github.com/Xigmoid/Qwen-Agent-DeepResearch"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -414,15 +441,6 @@
     "url": "https://github.com/dundundun0116/atlas"
   },
   {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 34546,
-    "updated_at": "2026-10-28T03:53:40Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 83,
     "updated_at": "2026-10-28T03:51:47Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "",
-    "id": "andrewalhaj/custom-hermesagent",
-    "language": "Python",
-    "name": "andrewalhaj/custom-hermesagent",
-    "stars": 0,
-    "updated_at": "2026-10-28T03:49:42Z",
-    "url": "https://github.com/andrewalhaj/custom-hermesagent"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-10-28T06:28:23Z",
-    "url": "https://github.com/b-macker/NAAb"
   }
 ]
