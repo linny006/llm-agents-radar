@@ -1,10 +1,73 @@
 [
   {
+    "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
+    "id": "NicoGenti/opencode-orchestrator-kit",
+    "language": "TypeScript",
+    "name": "NicoGenti/opencode-orchestrator-kit",
+    "stars": 8,
+    "updated_at": "2026-10-28T11:28:18Z",
+    "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:28:07Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 3,
+    "updated_at": "2026-10-28T11:26:49Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:26:49Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\ud83c\udf0d WorldSim AI \u2014 AI-powered world simulation engine. Generate, explore & interact with dynamic virtual worlds. For resear",
+    "id": "rudra496/worldsim-ai",
+    "language": "Python",
+    "name": "rudra496/worldsim-ai",
+    "stars": 14,
+    "updated_at": "2026-10-28T11:22:44Z",
+    "url": "https://github.com/rudra496/worldsim-ai"
+  },
+  {
+    "description": "\u0410\u043b\u044c\u0444\u0430-\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0445\u0430\u043a\u0430\u0442\u043e\u043d \u00b7 \u0443\u043c\u043d\u044b\u0439 \u043a\u0440\u0435\u0434\u0438\u0442\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044f",
+    "id": "gitAlphaMerge/credit-cabinet",
+    "language": "TypeScript",
+    "name": "gitAlphaMerge/credit-cabinet",
+    "stars": 0,
+    "updated_at": "2026-10-28T11:20:56Z",
+    "url": "https://github.com/gitAlphaMerge/credit-cabinet"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-28T11:15:34Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
     "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 66,
+    "stars": 67,
     "updated_at": "2026-10-28T11:13:51Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
@@ -16,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T11:13:31Z",
     "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-28T11:09:35Z",
-    "url": "https://github.com/oldfunk/paper-trading"
   },
   {
     "description": "2026\u5e74\uff08\u7b2c14\u5c4a\uff09\u6cf0\u8fea\u676f\u6570\u636e\u6316\u6398\u6311\u6218\u8d5b B\u9898\uff1a\u4e0a\u5e02\u516c\u53f8\u8d22\u62a5\u667a\u80fd\u95ee\u6570\u52a9\u624b\uff08\u5168\u56fd\u672c\u79d1\u7ec4\u4e00\u7b49\u5956\uff0c\u5165\u56f4\u7279\u7b49\u5956\u7b54\u8fa9\uff09",
@@ -144,15 +198,6 @@
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
-    "description": "\u0410\u043b\u044c\u0444\u0430-\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0445\u0430\u043a\u0430\u0442\u043e\u043d \u00b7 \u0443\u043c\u043d\u044b\u0439 \u043a\u0440\u0435\u0434\u0438\u0442\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044f",
-    "id": "gitAlphaMerge/credit-cabinet",
-    "language": "TypeScript",
-    "name": "gitAlphaMerge/credit-cabinet",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:43:58Z",
-    "url": "https://github.com/gitAlphaMerge/credit-cabinet"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -167,7 +212,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1142,
-    "updated_at": "2026-10-28T11:05:11Z",
+    "updated_at": "2026-10-28T11:27:24Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -214,15 +259,6 @@
     "stars": 6,
     "updated_at": "2026-10-28T10:28:27Z",
     "url": "https://github.com/DataScienceUIBK/RETECO"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:25:42Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\u4e0d\u7528\u6846\u67b6\u7684 A \u80a1 ReAct Agent \u53c2\u8003\uff1a\u53cc\u5b9e\u73b0\u5bf9\u7167\u5b66\u4e60 \u00b7 8 \u5de5\u5177\u771f\u5b9e\u6570\u636e \u00b7 \u7f13\u5b58/\u91cd\u8bd5/\u6253\u65ad \u751f\u4ea7\u7ea7\u5065\u58ee\u6027",
@@ -315,15 +351,6 @@
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 3,
-    "updated_at": "2026-10-28T09:38:12Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
     "id": "bitcloud-ai/Bittune",
     "language": "TypeScript",
@@ -374,7 +401,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-28T10:32:56Z",
+    "updated_at": "2026-10-28T11:29:43Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 68,
     "updated_at": "2026-10-28T09:05:30Z",
     "url": "https://github.com/agentscope-ai/agentscope-go"
-  },
-  {
-    "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
-    "id": "sindredg/ai-security-platform",
-    "language": "Python",
-    "name": "sindredg/ai-security-platform",
-    "stars": 0,
-    "updated_at": "2026-10-28T09:03:05Z",
-    "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
-    "description": "Designs Azure systems for any region, priced live in your currency, checked against your uploaded policies, with diagram",
-    "id": "samiulhuda360/cloud-architect-agent",
-    "language": "Python",
-    "name": "samiulhuda360/cloud-architect-agent",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:59:49Z",
-    "url": "https://github.com/samiulhuda360/cloud-architect-agent"
-  },
-  {
-    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
-    "id": "no42-org/twiki",
-    "language": "TypeScript",
-    "name": "no42-org/twiki",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:56:13Z",
-    "url": "https://github.com/no42-org/twiki"
   }
 ]
