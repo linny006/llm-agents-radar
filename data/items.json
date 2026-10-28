@@ -1,12 +1,12 @@
 [
   {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
     "stars": 0,
-    "updated_at": "2026-10-28T18:55:18Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
+    "updated_at": "2026-10-28T19:14:44Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
   },
   {
     "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "sharonita610/agent-harness",
     "stars": 0,
-    "updated_at": "2026-10-28T18:54:27Z",
+    "updated_at": "2026-10-28T19:11:02Z",
     "url": "https://github.com/sharonita610/agent-harness"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-28T19:05:33Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
+    "id": "ArthurReboulSalze/Sherka-Compagnon",
+    "language": "Rust",
+    "name": "ArthurReboulSalze/Sherka-Compagnon",
+    "stars": 0,
+    "updated_at": "2026-10-28T19:02:43Z",
+    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
   },
   {
     "description": "Hidden Tokens Profile",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T18:43:49Z",
     "url": "https://github.com/FabricioPorcelli/weather-assistant"
-  },
-  {
-    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
-    "id": "ArthurReboulSalze/Sherka-Compagnon",
-    "language": "Rust",
-    "name": "ArthurReboulSalze/Sherka-Compagnon",
-    "stars": 0,
-    "updated_at": "2026-10-28T18:41:12Z",
-    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
   },
   {
     "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
@@ -167,7 +176,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-28T18:13:25Z",
+    "updated_at": "2026-10-28T19:09:54Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -203,7 +212,7 @@
     "language": "TypeScript",
     "name": "memoways/ava-proto1",
     "stars": 0,
-    "updated_at": "2026-10-28T17:20:05Z",
+    "updated_at": "2026-10-28T19:09:05Z",
     "url": "https://github.com/memoways/ava-proto1"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T16:03:35Z",
     "url": "https://github.com/ArthurFachel/Lightsail-Petrobras"
-  },
-  {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-28T16:02:51Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   }
 ]
