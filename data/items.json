@@ -1,5 +1,50 @@
 [
   {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-28T06:15:17Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
+    "id": "ArthurReboulSalze/Sherka-Compagnon",
+    "language": "Rust",
+    "name": "ArthurReboulSalze/Sherka-Compagnon",
+    "stars": 0,
+    "updated_at": "2026-10-28T06:12:33Z",
+    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 54,
+    "updated_at": "2026-10-28T06:07:33Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "A curated list of AI Agent evolution, memory systems, multi-agent architectures, and self-improvement projects. | evomap",
+    "id": "EvoMap/awesome-agent-evolution",
+    "language": "JavaScript",
+    "name": "EvoMap/awesome-agent-evolution",
+    "stars": 235,
+    "updated_at": "2026-10-28T06:03:43Z",
+    "url": "https://github.com/EvoMap/awesome-agent-evolution"
+  },
+  {
+    "description": "Chat with a GitHub portfolio: an LLM agent that calls an MCP server over live GitHub data and the owner's CV to answer q",
+    "id": "atarico/portfolio-agent",
+    "language": "TypeScript",
+    "name": "atarico/portfolio-agent",
+    "stars": 0,
+    "updated_at": "2026-10-28T06:03:10Z",
+    "url": "https://github.com/atarico/portfolio-agent"
+  },
+  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "tx3457/study-loop",
     "stars": 0,
-    "updated_at": "2026-10-28T05:58:24Z",
+    "updated_at": "2026-10-28T06:11:41Z",
     "url": "https://github.com/tx3457/study-loop"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-28T05:56:35Z",
+    "updated_at": "2026-10-28T06:01:08Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 17,
-    "updated_at": "2026-10-28T05:54:23Z",
+    "updated_at": "2026-10-28T06:06:28Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -41,17 +86,8 @@
     "language": "Python",
     "name": "sindredg/ai-security-platform",
     "stars": 0,
-    "updated_at": "2026-10-28T05:52:46Z",
+    "updated_at": "2026-10-28T06:13:33Z",
     "url": "https://github.com/sindredg/ai-security-platform"
-  },
-  {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 54,
-    "updated_at": "2026-10-28T05:51:25Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
   {
     "description": "Open-source AI agent harness and desktop app that runs on your machine. Bring your own model (Anthropic, OpenAI, Gemini,",
@@ -85,7 +121,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6664,
+    "stars": 6665,
     "updated_at": "2026-10-28T05:45:51Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -117,15 +153,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "Chat with a GitHub portfolio: an LLM agent that calls an MCP server over live GitHub data and the owner's CV to answer q",
-    "id": "atarico/portfolio-agent",
-    "language": "TypeScript",
-    "name": "atarico/portfolio-agent",
-    "stars": 0,
-    "updated_at": "2026-10-28T05:44:26Z",
-    "url": "https://github.com/atarico/portfolio-agent"
-  },
-  {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
     "id": "plurnk/plurnk",
     "language": "TypeScript",
@@ -140,7 +167,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-28T05:26:04Z",
+    "updated_at": "2026-10-28T06:01:44Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -220,7 +247,7 @@
     "id": "HKUDS/DeepCode",
     "language": "Python",
     "name": "HKUDS/DeepCode",
-    "stars": 16758,
+    "stars": 16759,
     "updated_at": "2026-10-28T05:01:21Z",
     "url": "https://github.com/HKUDS/DeepCode"
   },
@@ -337,7 +364,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34526,
+    "stars": 34535,
     "updated_at": "2026-10-28T03:53:40Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -421,32 +448,5 @@
     "stars": 129,
     "updated_at": "2026-10-28T03:21:32Z",
     "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
-  },
-  {
-    "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
-    "id": "ongridio/ongrid",
-    "language": "Go",
-    "name": "ongridio/ongrid",
-    "stars": 1240,
-    "updated_at": "2026-10-28T03:12:13Z",
-    "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Claude Code skills for Japanese job-hunting (shukatsu) ES coaching: distill offer-holder patterns, critique your ES, and",
-    "id": "jiayi-ThE-CREATOR/es-coach-skills",
-    "language": "Python",
-    "name": "jiayi-ThE-CREATOR/es-coach-skills",
-    "stars": 0,
-    "updated_at": "2026-10-28T03:02:37Z",
-    "url": "https://github.com/jiayi-ThE-CREATOR/es-coach-skills"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-28T02:54:20Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
   }
 ]
