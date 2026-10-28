@@ -1,5 +1,104 @@
 [
   {
+    "description": "Async Python API for discovering and controlling Sonos speakers over UPnP \u2014 playback, volume, queue, groups, favorites, ",
+    "id": "mathisarends/sonosify",
+    "language": "Python",
+    "name": "mathisarends/sonosify",
+    "stars": 0,
+    "updated_at": "2026-10-28T16:14:06Z",
+    "url": "https://github.com/mathisarends/sonosify"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T16:13:55Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 31,
+    "updated_at": "2026-10-28T16:13:28Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-28T16:11:54Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 86,
+    "updated_at": "2026-10-28T16:10:39Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-28T16:09:40Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-28T16:08:30Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 1,
+    "updated_at": "2026-10-28T16:07:37Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "Geoscience agent API (Hermes-Geo): answers questions about sedimentary basins with cited data from a read-only GeoDB, bu",
+    "id": "ArthurFachel/Lightsail-Petrobras",
+    "language": "Python",
+    "name": "ArthurFachel/Lightsail-Petrobras",
+    "stars": 0,
+    "updated_at": "2026-10-28T16:03:35Z",
+    "url": "https://github.com/ArthurFachel/Lightsail-Petrobras"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-28T16:02:51Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
+    "id": "shakhruz/mila",
+    "language": "Python",
+    "name": "shakhruz/mila",
+    "stars": 1,
+    "updated_at": "2026-10-28T16:02:36Z",
+    "url": "https://github.com/shakhruz/mila"
+  },
+  {
     "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
     "id": "dundundun0116/atlas",
     "language": "Python",
@@ -7,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T16:00:08Z",
     "url": "https://github.com/dundundun0116/atlas"
-  },
-  {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 85,
-    "updated_at": "2026-10-28T15:58:30Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
   {
     "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
@@ -34,15 +124,6 @@
     "stars": 7,
     "updated_at": "2026-10-28T15:54:23Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-28T15:53:48Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
@@ -86,17 +167,17 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-28T15:59:17Z",
+    "updated_at": "2026-10-28T16:14:18Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T15:47:40Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1144,
+    "updated_at": "2026-10-28T16:12:11Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Qwen3-8B \u533b\u5b66\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5de5\u5177\u68c0\u7d22\u3001QLoRA SFT\u3001\u5206\u9636\u6bb5\u7a20\u5bc6\u5956\u52b1\u4e0e GRPO \u98ce\u683c LoRA \u540e\u8bad\u7ec3\uff0c\u9762\u5411\u672c\u5730\u90e8\u7f72\u3002",
@@ -122,7 +203,7 @@
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3716,
-    "updated_at": "2026-10-28T15:49:03Z",
+    "updated_at": "2026-10-28T16:05:14Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -144,15 +225,6 @@
     "url": "https://github.com/Anmulzhao/DSH-AGINT"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-28T15:35:27Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
     "id": "strands-agents/harness-sdk",
     "language": "Python",
@@ -171,15 +243,6 @@
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
-    "description": "Async Python API for discovering and controlling Sonos speakers over UPnP \u2014 playback, volume, queue, groups, favorites, ",
-    "id": "mathisarends/sonosify",
-    "language": "Python",
-    "name": "mathisarends/sonosify",
-    "stars": 0,
-    "updated_at": "2026-10-28T15:34:25Z",
-    "url": "https://github.com/mathisarends/sonosify"
-  },
-  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -193,7 +256,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 377,
+    "stars": 378,
     "updated_at": "2026-10-28T15:30:06Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -257,7 +320,7 @@
     "language": "Kotlin",
     "name": "wuyhong715/rikkahub-agent-pure",
     "stars": 69,
-    "updated_at": "2026-10-28T15:23:30Z",
+    "updated_at": "2026-10-28T16:05:54Z",
     "url": "https://github.com/wuyhong715/rikkahub-agent-pure"
   },
   {
@@ -329,7 +392,7 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 171,
-    "updated_at": "2026-10-28T15:45:27Z",
+    "updated_at": "2026-10-28T16:13:10Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -369,15 +432,6 @@
     "url": "https://github.com/dkblinux98/nyxGPT"
   },
   {
-    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
-    "id": "shakhruz/mila",
-    "language": "Python",
-    "name": "shakhruz/mila",
-    "stars": 1,
-    "updated_at": "2026-10-28T15:03:09Z",
-    "url": "https://github.com/shakhruz/mila"
-  },
-  {
     "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
     "id": "haibingzhao/easyai",
     "language": "Kotlin",
@@ -394,59 +448,5 @@
     "stars": 16,
     "updated_at": "2026-10-28T14:55:25Z",
     "url": "https://github.com/EvannZhongg/Nosis"
-  },
-  {
-    "description": "\u0421\u043a\u0438\u043b\u043b \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u043e\u0433\u043e \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430 \u0434\u043b\u044f Hermes Agent: \u043f\u043e\u0440\u0442\u0444\u0435\u043b\u044c, \u0432\u043e\u0440\u043e\u043d\u043a\u0430, \u044e\u043d\u0438\u0442-\u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430, \u043f\u0440\u043e\u0433\u043d\u043e\u0437. \u041e\u0442\u0447\u0451\u0442\u044b DOCX/PDF/XLSX/PPTX/RTF/",
-    "id": "DenisZakharov2/financial-analyst-skill",
-    "language": "Python",
-    "name": "DenisZakharov2/financial-analyst-skill",
-    "stars": 0,
-    "updated_at": "2026-10-28T15:13:45Z",
-    "url": "https://github.com/DenisZakharov2/financial-analyst-skill"
-  },
-  {
-    "description": "An open-source research agent system for your Zotero library.",
-    "id": "yilewang/llm-for-zotero",
-    "language": "TypeScript",
-    "name": "yilewang/llm-for-zotero",
-    "stars": 3441,
-    "updated_at": "2026-10-28T14:53:59Z",
-    "url": "https://github.com/yilewang/llm-for-zotero"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-28T14:51:47Z",
-    "url": "https://github.com/hay-chat/hay-core"
-  },
-  {
-    "description": "A programming framework for agentic AI",
-    "id": "microsoft/autogen",
-    "language": "Python",
-    "name": "microsoft/autogen",
-    "stars": 61604,
-    "updated_at": "2026-10-28T14:45:27Z",
-    "url": "https://github.com/microsoft/autogen"
-  },
-  {
-    "description": "\u4fe1\u606f\u6e90\u805a\u5408 DSH \u63d2\u4ef6\uff1a\u5b9a\u65f6\u6444\u53d6 RSS / B \u7ad9 / YouTube\uff0c\u8bfb\u6b63\u6587\u4e0e\u5b57\u5e55\u505a\u672c\u5730\u9884\u7b5b\u548c\u4e09\u6863\u5224\u65ad\uff0c\u6bcf\u8f6e\u51fa\u4e00\u4efd\u589e\u91cf\u6c47\u62a5\u3002\u5f7b\u5e95\u4e0d\u505a\u5e73\u53f0\u4e92\u52a8\u3002",
-    "id": "slow-stack/baleen",
-    "language": "JavaScript",
-    "name": "slow-stack/baleen",
-    "stars": 0,
-    "updated_at": "2026-10-28T14:45:17Z",
-    "url": "https://github.com/slow-stack/baleen"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 80,
-    "updated_at": "2026-10-28T14:40:35Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
   }
 ]
