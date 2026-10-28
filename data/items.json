@@ -1,12 +1,21 @@
 [
   {
-    "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
-    "id": "dundundun0116/atlas",
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
     "language": "Python",
-    "name": "dundundun0116/atlas",
+    "name": "g761007/daily-dispatch",
     "stars": 0,
-    "updated_at": "2026-10-28T12:00:01Z",
-    "url": "https://github.com/dundundun0116/atlas"
+    "updated_at": "2026-10-28T12:14:56Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-28T12:12:10Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
@@ -14,8 +23,89 @@
     "language": "Visual Basic .NET",
     "name": "xieguigang/sciBASIC",
     "stars": 80,
-    "updated_at": "2026-10-28T11:59:23Z",
+    "updated_at": "2026-10-28T12:11:41Z",
     "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T12:10:47Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Qwen3-8B \u533b\u5b66\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5de5\u5177\u68c0\u7d22\u3001QLoRA SFT\u3001\u5206\u9636\u6bb5\u7a20\u5bc6\u5956\u52b1\u4e0e GRPO \u98ce\u683c LoRA \u540e\u8bad\u7ec3\uff0c\u9762\u5411\u672c\u5730\u90e8\u7f72\u3002",
+    "id": "MaSunKing/medical-research-agent-grpo",
+    "language": "Python",
+    "name": "MaSunKing/medical-research-agent-grpo",
+    "stars": 1,
+    "updated_at": "2026-10-28T12:10:29Z",
+    "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 3,
+    "updated_at": "2026-10-28T12:09:56Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 68,
+    "updated_at": "2026-10-28T12:09:16Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
+    "id": "Sigmanih/SigmaStudio",
+    "language": "Python",
+    "name": "Sigmanih/SigmaStudio",
+    "stars": 9,
+    "updated_at": "2026-10-28T12:08:16Z",
+    "url": "https://github.com/Sigmanih/SigmaStudio"
+  },
+  {
+    "description": "",
+    "id": "andrewalhaj/custom-hermesagent",
+    "language": "Python",
+    "name": "andrewalhaj/custom-hermesagent",
+    "stars": 0,
+    "updated_at": "2026-10-28T12:04:19Z",
+    "url": "https://github.com/andrewalhaj/custom-hermesagent"
+  },
+  {
+    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
+    "id": "shakhruz/mila",
+    "language": "Python",
+    "name": "shakhruz/mila",
+    "stars": 1,
+    "updated_at": "2026-10-28T12:03:26Z",
+    "url": "https://github.com/shakhruz/mila"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-28T12:01:50Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
+    "id": "dundundun0116/atlas",
+    "language": "Python",
+    "name": "dundundun0116/atlas",
+    "stars": 0,
+    "updated_at": "2026-10-28T12:00:01Z",
+    "url": "https://github.com/dundundun0116/atlas"
   },
   {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
@@ -27,24 +117,6 @@
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-28T11:56:36Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T11:53:37Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
     "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
     "id": "kifirkin/pi-braid",
     "language": "JavaScript",
@@ -54,15 +126,6 @@
     "url": "https://github.com/kifirkin/pi-braid"
   },
   {
-    "description": "Qwen3-8B \u533b\u5b66\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5de5\u5177\u68c0\u7d22\u3001QLoRA SFT\u3001\u5206\u9636\u6bb5\u7a20\u5bc6\u5956\u52b1\u4e0e GRPO \u98ce\u683c LoRA \u540e\u8bad\u7ec3\uff0c\u9762\u5411\u672c\u5730\u90e8\u7f72\u3002",
-    "id": "MaSunKing/medical-research-agent-grpo",
-    "language": "Python",
-    "name": "MaSunKing/medical-research-agent-grpo",
-    "stars": 1,
-    "updated_at": "2026-10-28T11:49:22Z",
-    "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
-  },
-  {
     "description": "Watches public company job boards and pushes new matches to your phone. One Go binary, Postgres, a React PWA, and a dail",
     "id": "junaid51/job-pulse",
     "language": "Go",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T11:47:03Z",
     "url": "https://github.com/junaid51/job-pulse"
-  },
-  {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 68,
-    "updated_at": "2026-10-28T11:46:13Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -117,21 +171,12 @@
     "url": "https://github.com/MLeona020839/boodschappen-agent"
   },
   {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 9,
-    "updated_at": "2026-10-28T11:33:40Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
     "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
     "id": "NicoGenti/opencode-orchestrator-kit",
     "language": "TypeScript",
     "name": "NicoGenti/opencode-orchestrator-kit",
     "stars": 8,
-    "updated_at": "2026-10-28T11:58:03Z",
+    "updated_at": "2026-10-28T12:09:22Z",
     "url": "https://github.com/NicoGenti/opencode-orchestrator-kit"
   },
   {
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T11:28:07Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 3,
-    "updated_at": "2026-10-28T11:26:49Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -275,7 +311,7 @@
     "language": "TypeScript",
     "name": "hay-chat/hay-core",
     "stars": 5,
-    "updated_at": "2026-10-28T11:58:08Z",
+    "updated_at": "2026-10-28T12:12:48Z",
     "url": "https://github.com/hay-chat/hay-core"
   },
   {
@@ -360,20 +396,11 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
-    "id": "shakhruz/mila",
-    "language": "Python",
-    "name": "shakhruz/mila",
-    "stars": 1,
-    "updated_at": "2026-10-28T10:02:33Z",
-    "url": "https://github.com/shakhruz/mila"
-  },
-  {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6687,
+    "stars": 6688,
     "updated_at": "2026-10-28T10:01:05Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -421,32 +448,5 @@
     "stars": 112,
     "updated_at": "2026-10-28T09:29:50Z",
     "url": "https://github.com/bitcloud-ai/Bittune"
-  },
-  {
-    "description": "Build and run agents you can see, understand and trust.",
-    "id": "agentscope-ai/agentscope",
-    "language": "Python",
-    "name": "agentscope-ai/agentscope",
-    "stars": 34587,
-    "updated_at": "2026-10-28T09:29:09Z",
-    "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "Community registry of AI agent manifests, capabilities, skills, and workflows for Octomind \u2014 run a fully-configured spec",
-    "id": "Muvon/octomind-tap",
-    "language": "Python",
-    "name": "Muvon/octomind-tap",
-    "stars": 5,
-    "updated_at": "2026-10-28T09:28:40Z",
-    "url": "https://github.com/Muvon/octomind-tap"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 824,
-    "updated_at": "2026-10-28T09:21:46Z",
-    "url": "https://github.com/helixml/helix"
   }
 ]
