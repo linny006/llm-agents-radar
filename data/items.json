@@ -1,5 +1,86 @@
 [
   {
+    "description": "Nosis is a lightweight personal agent runtime: per-session execution boundaries with OS-level sandboxing, computer use, ",
+    "id": "EvannZhongg/Nosis",
+    "language": "Python",
+    "name": "EvannZhongg/Nosis",
+    "stars": 16,
+    "updated_at": "2026-10-28T14:42:01Z",
+    "url": "https://github.com/EvannZhongg/Nosis"
+  },
+  {
+    "description": "Qwen3-8B \u533b\u5b66\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5de5\u5177\u68c0\u7d22\u3001QLoRA SFT\u3001\u5206\u9636\u6bb5\u7a20\u5bc6\u5956\u52b1\u4e0e GRPO \u98ce\u683c LoRA \u540e\u8bad\u7ec3\uff0c\u9762\u5411\u672c\u5730\u90e8\u7f72\u3002",
+    "id": "MaSunKing/medical-research-agent-grpo",
+    "language": "Python",
+    "name": "MaSunKing/medical-research-agent-grpo",
+    "stars": 1,
+    "updated_at": "2026-10-28T14:41:59Z",
+    "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "Python",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8983,
+    "updated_at": "2026-10-28T14:41:11Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 80,
+    "updated_at": "2026-10-28T14:40:35Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+    "id": "Pan-Chera/Multi-Agent-CAD",
+    "language": "Python",
+    "name": "Pan-Chera/Multi-Agent-CAD",
+    "stars": 1055,
+    "updated_at": "2026-10-28T14:37:56Z",
+    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
+  },
+  {
+    "description": "AstrBot \u7684\u63d2\u4ef6\u4e0e\u8865\u4e01\u5408\u96c6\uff1a\u81ea\u5efa\u7f51\u9875\u68c0\u7d22\uff08\u8d70\u672c\u673a Edge\uff0c\u4e0d\u4f9d\u8d56\u641c\u7d22 API\uff09\u3001\u628a QQ \u6536\u85cf\u8868\u60c5\u53d1\u8fdb\u4f1a\u8bdd\u3001\u8131\u79bb ComfyUI \u7684 SDXL \u751f\u56fe\u540e\u7aef\uff08\u591a\u5e95\u6a21/\u591a\u753b\u98ce/\u4e24\u6863\u91c7\u6837\u5668/\u753b\u5e45\u4e0a\u9650\u5168\u90e8\u53ef\u914d\uff09\u3001\u770b\u5934\u50cf\u4e0e\u5386\u53f2\u56de\u6eaf",
+    "id": "Kiru-Sama/Kiru-Astrbot-Addons",
+    "language": "Python",
+    "name": "Kiru-Sama/Kiru-Astrbot-Addons",
+    "stars": 2,
+    "updated_at": "2026-10-28T14:32:29Z",
+    "url": "https://github.com/Kiru-Sama/Kiru-Astrbot-Addons"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-28T14:31:26Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T14:30:50Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Let LLMs run commands on a Windows machine you have no shell on, by having someone there paste one PowerShell snippet in",
+    "id": "SolusKossi/TempShell",
+    "language": "TypeScript",
+    "name": "SolusKossi/TempShell",
+    "stars": 1,
+    "updated_at": "2026-10-28T14:30:39Z",
+    "url": "https://github.com/SolusKossi/TempShell"
+  },
+  {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
     "id": "aiterrariumcontrol/terrarium-life",
     "language": "Python",
@@ -23,7 +104,7 @@
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 171,
-    "updated_at": "2026-10-28T14:29:00Z",
+    "updated_at": "2026-10-28T14:39:50Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
@@ -54,24 +135,6 @@
     "url": "https://github.com/dundundun0116/atlas"
   },
   {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 80,
-    "updated_at": "2026-10-28T14:25:08Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8983,
-    "updated_at": "2026-10-28T14:24:32Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Cost-aware multi-agent orchestrator kit for OpenCode CLI \u2014 one routing agent, 14 specialized subagents, zero application",
     "id": "NicoGenti/opencode-orchestrator-kit",
     "language": "TypeScript",
@@ -99,15 +162,6 @@
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T14:17:18Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
     "description": "\u8ba9 AstrBot \u7684 Agent \u8fb9\u804a\u8fb9\u5b66\uff1a\u7ecf\u9a8c\u8bb0\u5fc6 + \u52a8\u4f5c\u4f18\u52bf\u4f30\u8ba1 + \u65e0\u68af\u5ea6\u7b56\u7565\u4f18\u5316\uff08JitRL, ICML 2026\uff09",
     "id": "2841649220/astrbot_plugin_jitrl",
     "language": "Python",
@@ -115,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T14:17:13Z",
     "url": "https://github.com/2841649220/astrbot_plugin_jitrl"
-  },
-  {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-28T14:15:00Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
@@ -176,7 +221,7 @@
     "language": "JavaScript",
     "name": "bigduu/Bodhi-AI",
     "stars": 17,
-    "updated_at": "2026-10-28T14:30:09Z",
+    "updated_at": "2026-10-28T14:36:59Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
@@ -184,8 +229,8 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6692,
-    "updated_at": "2026-10-28T13:47:24Z",
+    "stars": 6693,
+    "updated_at": "2026-10-28T14:35:50Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/hellices/korvid"
   },
   {
-    "description": "Qwen3-8B \u533b\u5b66\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5de5\u5177\u68c0\u7d22\u3001QLoRA SFT\u3001\u5206\u9636\u6bb5\u7a20\u5bc6\u5956\u52b1\u4e0e GRPO \u98ce\u683c LoRA \u540e\u8bad\u7ec3\uff0c\u9762\u5411\u672c\u5730\u90e8\u7f72\u3002",
-    "id": "MaSunKing/medical-research-agent-grpo",
-    "language": "Python",
-    "name": "MaSunKing/medical-research-agent-grpo",
-    "stars": 1,
-    "updated_at": "2026-10-28T12:23:09Z",
-    "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
-  },
-  {
     "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
     "id": "memoways/ava-proto1",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-28T12:09:56Z",
     "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "Sigma Studio is a modular AI platform for orchestrating local and distributed AI workloads. Manage LLMs, multimodal mode",
-    "id": "Sigmanih/SigmaStudio",
-    "language": "Python",
-    "name": "Sigmanih/SigmaStudio",
-    "stars": 9,
-    "updated_at": "2026-10-28T12:08:16Z",
-    "url": "https://github.com/Sigmanih/SigmaStudio"
-  },
-  {
-    "description": "",
-    "id": "andrewalhaj/custom-hermesagent",
-    "language": "Python",
-    "name": "andrewalhaj/custom-hermesagent",
-    "stars": 0,
-    "updated_at": "2026-10-28T12:04:19Z",
-    "url": "https://github.com/andrewalhaj/custom-hermesagent"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1143,
-    "updated_at": "2026-10-28T11:59:25Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Watches public company job boards and pushes new matches to your phone. One Go binary, Postgres, a React PWA, and a dail",
-    "id": "junaid51/job-pulse",
-    "language": "Go",
-    "name": "junaid51/job-pulse",
-    "stars": 0,
-    "updated_at": "2026-10-28T11:47:03Z",
-    "url": "https://github.com/junaid51/job-pulse"
   }
 ]
