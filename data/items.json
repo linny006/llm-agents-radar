@@ -1,5 +1,77 @@
 [
   {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 137,
+    "updated_at": "2026-10-28T10:57:45Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
+    "id": "sky-valley/pi",
+    "language": "Go",
+    "name": "sky-valley/pi",
+    "stars": 83,
+    "updated_at": "2026-10-28T10:56:06Z",
+    "url": "https://github.com/sky-valley/pi"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:52:30Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
+    "id": "memoways/ava-proto1",
+    "language": "TypeScript",
+    "name": "memoways/ava-proto1",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:52:27Z",
+    "url": "https://github.com/memoways/ava-proto1"
+  },
+  {
+    "description": "MAC (Multi-Agent CAD): A decoupled multi-agent framework for text-to-CAD generation via constrained test-time compute",
+    "id": "Pan-Chera/Multi-Agent-CAD",
+    "language": "Python",
+    "name": "Pan-Chera/Multi-Agent-CAD",
+    "stars": 1055,
+    "updated_at": "2026-10-28T10:52:23Z",
+    "url": "https://github.com/Pan-Chera/Multi-Agent-CAD"
+  },
+  {
+    "description": "Transaction risk guard where a deterministic rule engine is authoritative and the LLM agent cannot overrule it \u2014 measure",
+    "id": "Intermountainh8ter/txwarden",
+    "language": "Python",
+    "name": "Intermountainh8ter/txwarden",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:48:49Z",
+    "url": "https://github.com/Intermountainh8ter/txwarden"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-28T10:47:18Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "\u4fe1\u606f\u6e90\u805a\u5408 DSH \u63d2\u4ef6\uff1a\u5b9a\u65f6\u6444\u53d6 RSS / B \u7ad9 / YouTube\uff0c\u8bfb\u6b63\u6587\u4e0e\u5b57\u5e55\u505a\u672c\u5730\u9884\u7b5b\u548c\u4e09\u6863\u5224\u65ad\uff0c\u6bcf\u8f6e\u51fa\u4e00\u4efd\u589e\u91cf\u6c47\u62a5\u3002\u5f7b\u5e95\u4e0d\u505a\u5e73\u53f0\u4e92\u52a8\u3002",
+    "id": "slow-stack/baleen",
+    "language": "JavaScript",
+    "name": "slow-stack/baleen",
+    "stars": 0,
+    "updated_at": "2026-10-28T10:46:39Z",
+    "url": "https://github.com/slow-stack/baleen"
+  },
+  {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
     "id": "mmporong/rl-triage-agent",
     "language": "Python",
@@ -13,7 +85,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 370,
+    "stars": 371,
     "updated_at": "2026-10-28T10:44:03Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -36,6 +108,15 @@
     "url": "https://github.com/tomcounsell/ai"
   },
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1142,
+    "updated_at": "2026-10-28T10:56:42Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
     "id": "kifirkin/pi-braid",
     "language": "JavaScript",
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-10-28T10:40:14Z",
     "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "\u4fe1\u606f\u6e90\u805a\u5408 DSH \u63d2\u4ef6\uff1a\u5b9a\u65f6\u6444\u53d6 RSS / B \u7ad9 / YouTube\uff0c\u8bfb\u6b63\u6587\u4e0e\u5b57\u5e55\u505a\u672c\u5730\u9884\u7b5b\u548c\u4e09\u6863\u5224\u65ad\uff0c\u6bcf\u8f6e\u51fa\u4e00\u4efd\u589e\u91cf\u6c47\u62a5\u3002\u5f7b\u5e95\u4e0d\u505a\u5e73\u53f0\u4e92\u52a8\u3002",
-    "id": "slow-stack/baleen",
-    "language": "JavaScript",
-    "name": "slow-stack/baleen",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:39:42Z",
-    "url": "https://github.com/slow-stack/baleen"
   },
   {
     "description": "LLM-assisted Chrome agent for repeat orders, tracking and GST invoices on Amazon.in and JioMart. Cheap-first fallback la",
@@ -72,31 +144,13 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "A pure-Go port of pi (earendil-works/pi) \u2014 the pi-ai unified multi-provider LLM API, pi-agent-core agent loop, and pi-co",
-    "id": "sky-valley/pi",
-    "language": "Go",
-    "name": "sky-valley/pi",
-    "stars": 83,
-    "updated_at": "2026-10-28T10:34:54Z",
-    "url": "https://github.com/sky-valley/pi"
-  },
-  {
     "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 64,
+    "stars": 65,
     "updated_at": "2026-10-28T10:32:28Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:31:50Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "Grocery agent for Dutch supermarkets: Claude tool use, meal planning and cheapest-basket pricing across 10 stores, with ",
@@ -176,7 +230,7 @@
     "language": "Python",
     "name": "oldfunk/paper-trading",
     "stars": 1,
-    "updated_at": "2026-10-28T09:59:16Z",
+    "updated_at": "2026-10-28T10:48:49Z",
     "url": "https://github.com/oldfunk/paper-trading"
   },
   {
@@ -247,7 +301,7 @@
     "id": "bitcloud-ai/Bittune",
     "language": "TypeScript",
     "name": "bitcloud-ai/Bittune",
-    "stars": 111,
+    "stars": 112,
     "updated_at": "2026-10-28T09:29:50Z",
     "url": "https://github.com/bitcloud-ai/Bittune"
   },
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "xianyu-sheng/Xenon",
     "stars": 56,
-    "updated_at": "2026-10-28T10:43:11Z",
+    "updated_at": "2026-10-28T10:57:37Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
@@ -351,15 +405,6 @@
     "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-28T09:03:21Z",
-    "url": "https://github.com/memoways/ava-proto1"
-  },
-  {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
     "id": "sindredg/ai-security-platform",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T08:36:07Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u8de8\u5de5\u4f5c\u533a\u72ec\u7acb\u4eba\u683c\u3001\u81ea\u9002\u5e94\u98ce\u683c\u4e0e\u966a\u4f34\u9884\u8bbe\uff1a\u4e3a\u9879\u76ee\u548c\u5bf9\u8bdd\u5206\u522b\u7ef4\u62a4\u4eba\u683c\u4e0e\u786e\u8ba4\u540e\u7684\u901a\u7528\u504f\u597d\uff0c\u652f\u6301\u4efb\u610f DSH \u5df2\u6ce8\u518c\u6a21\u578b\u7684\u5b50\u4ee3\u7406\u8def\u7531\uff08\u542b\u901a\u8fc7\u5176\u4ed6\u63d2\u4ef6\u63a5\u5165\u7684 Codex\u3001Claude Code\uff09\u3002",
-    "id": "ZekaiShi/dsh-evo-subagent",
-    "language": "JavaScript",
-    "name": "ZekaiShi/dsh-evo-subagent",
-    "stars": 7,
-    "updated_at": "2026-10-28T08:35:03Z",
-    "url": "https://github.com/ZekaiShi/dsh-evo-subagent"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:30:57Z",
-    "url": "https://github.com/JSL107/personal_agents"
-  },
-  {
-    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
-    "id": "char-46/copilot-muze",
-    "language": "Python",
-    "name": "char-46/copilot-muze",
-    "stars": 0,
-    "updated_at": "2026-10-28T08:30:50Z",
-    "url": "https://github.com/char-46/copilot-muze"
-  },
-  {
-    "description": "kiagent-core \u2014 open-source personal AI brain \u2014 local, open source, speaks MCP",
-    "id": "edjafarov/kiagent-core",
-    "language": "TypeScript",
-    "name": "edjafarov/kiagent-core",
-    "stars": 7,
-    "updated_at": "2026-10-28T08:29:49Z",
-    "url": "https://github.com/edjafarov/kiagent-core"
-  },
-  {
-    "description": "\u4f01\u4e1a\u7ea7 Data Agent\uff1a\u81ea\u7136\u8bed\u8a00 \u2192 \u53d7\u63a7 DSL \u2192 \u786e\u5b9a\u6027 SQL \u2192 \u4e94\u5f15\u64ce\uff08DuckDB/MySQL/PG/ClickHouse/Hive\uff09\uff1bStateGraph \u7f16\u6392 + \u6c99\u7bb1\u5206\u6790 + \u5f52\u56e0\u6280\u80fd\uff0cLLM \u7edd\u4e0d\u4ea7\u51fa\u88f8 SQL\u3002",
-    "id": "Cwentor/DataAgent",
-    "language": "Python",
-    "name": "Cwentor/DataAgent",
-    "stars": 1,
-    "updated_at": "2026-10-28T08:29:34Z",
-    "url": "https://github.com/Cwentor/DataAgent"
   }
 ]
