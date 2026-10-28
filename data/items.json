@@ -1,12 +1,111 @@
 [
   {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T07:29:22Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3709,
+    "updated_at": "2026-10-28T07:30:04Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 80,
+    "updated_at": "2026-10-28T07:28:10Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
+    "id": "char-46/copilot-muze",
+    "language": "Python",
+    "name": "char-46/copilot-muze",
+    "stars": 0,
+    "updated_at": "2026-10-28T07:28:03Z",
+    "url": "https://github.com/char-46/copilot-muze"
+  },
+  {
+    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
+    "id": "ArthurReboulSalze/Sherka-Compagnon",
+    "language": "Rust",
+    "name": "ArthurReboulSalze/Sherka-Compagnon",
+    "stars": 0,
+    "updated_at": "2026-10-28T07:26:25Z",
+    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
+  },
+  {
+    "description": "Chat with a GitHub portfolio: an LLM agent that calls an MCP server over live GitHub data and the owner's CV to answer q",
+    "id": "atarico/portfolio-agent",
+    "language": "TypeScript",
+    "name": "atarico/portfolio-agent",
+    "stars": 0,
+    "updated_at": "2026-10-28T07:26:24Z",
+    "url": "https://github.com/atarico/portfolio-agent"
+  },
+  {
     "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 365,
-    "updated_at": "2026-10-28T07:13:37Z",
+    "stars": 368,
+    "updated_at": "2026-10-28T07:26:14Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-28T07:22:41Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 17,
+    "updated_at": "2026-10-28T07:21:44Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
+    "id": "oldfunk/paper-trading",
+    "language": "Python",
+    "name": "oldfunk/paper-trading",
+    "stars": 1,
+    "updated_at": "2026-10-28T07:18:54Z",
+    "url": "https://github.com/oldfunk/paper-trading"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5881,
+    "updated_at": "2026-10-28T07:18:14Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "DARWIN \u2014 evolutionary strategy foundry: an LLM proposes crypto trading strategies, a leakage-proof gauntlet kills 90% of",
+    "id": "dobrinsm/darwin",
+    "language": "HTML",
+    "name": "dobrinsm/darwin",
+    "stars": 0,
+    "updated_at": "2026-10-28T07:18:09Z",
+    "url": "https://github.com/dobrinsm/darwin"
   },
   {
     "description": "Autonomous plumbing dispatch & field operations platform powered by OpenRouter AI, FastAPI, and React.",
@@ -22,18 +121,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34550,
+    "stars": 34554,
     "updated_at": "2026-10-28T07:09:01Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 17,
-    "updated_at": "2026-10-28T07:14:27Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Autonomous DFIR agent: point it at disk images, memory dumps or log exports and get back an investigation that shows its",
@@ -54,24 +144,6 @@
     "url": "https://github.com/Xigmoid/Qwen-Agent-DeepResearch"
   },
   {
-    "description": "Personal QQ copilot: message archive with roaming backfill, multimodal LLM agent, RAG, WebUI/CLI. Speaks the Milky proto",
-    "id": "char-46/copilot-muze",
-    "language": "Python",
-    "name": "char-46/copilot-muze",
-    "stars": 0,
-    "updated_at": "2026-10-28T07:03:17Z",
-    "url": "https://github.com/char-46/copilot-muze"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T06:57:58Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
     "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
     "id": "frontierlabai/JevHub",
     "language": "Python",
@@ -81,31 +153,13 @@
     "url": "https://github.com/frontierlabai/JevHub"
   },
   {
-    "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
-    "id": "oldfunk/paper-trading",
-    "language": "Python",
-    "name": "oldfunk/paper-trading",
-    "stars": 1,
-    "updated_at": "2026-10-28T06:48:19Z",
-    "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
     "description": "Open-source AI agent harness and desktop app that runs on your machine. Bring your own model (Anthropic, OpenAI, Gemini,",
     "id": "othermind-tech/eva",
     "language": "Python",
     "name": "othermind-tech/eva",
     "stars": 0,
-    "updated_at": "2026-10-28T06:43:56Z",
+    "updated_at": "2026-10-28T07:16:48Z",
     "url": "https://github.com/othermind-tech/eva"
-  },
-  {
-    "description": "A voice AI companion for Windows and Linux. Create characters with ComfyUI, give them voices, emotions and memories. Loc",
-    "id": "ArthurReboulSalze/Sherka-Compagnon",
-    "language": "Rust",
-    "name": "ArthurReboulSalze/Sherka-Compagnon",
-    "stars": 0,
-    "updated_at": "2026-10-28T06:43:56Z",
-    "url": "https://github.com/ArthurReboulSalze/Sherka-Compagnon"
   },
   {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
@@ -122,7 +176,7 @@
     "language": "TypeScript",
     "name": "JSL107/personal_agents",
     "stars": 0,
-    "updated_at": "2026-10-28T07:15:14Z",
+    "updated_at": "2026-10-28T07:23:51Z",
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 20,
     "updated_at": "2026-10-28T06:36:56Z",
     "url": "https://github.com/Smana/runlore"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3709,
-    "updated_at": "2026-10-28T06:34:28Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
     "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T06:45:22Z",
     "url": "https://github.com/tx3457/study-loop"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-28T06:21:39Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
@@ -225,15 +261,6 @@
     "url": "https://github.com/EvoMap/awesome-agent-evolution"
   },
   {
-    "description": "Chat with a GitHub portfolio: an LLM agent that calls an MCP server over live GitHub data and the owner's CV to answer q",
-    "id": "atarico/portfolio-agent",
-    "language": "TypeScript",
-    "name": "atarico/portfolio-agent",
-    "stars": 0,
-    "updated_at": "2026-10-28T06:03:10Z",
-    "url": "https://github.com/atarico/portfolio-agent"
-  },
-  {
     "description": "Self-hosted AI agent that investigates security findings on a service it cannot reach, and proposes fixes rehearsed befo",
     "id": "sindredg/ai-security-platform",
     "language": "Python",
@@ -256,7 +283,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6669,
+    "stars": 6671,
     "updated_at": "2026-10-28T05:45:51Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-28T04:02:26Z",
     "url": "https://github.com/impsland/imp"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 137,
-    "updated_at": "2026-10-28T04:01:35Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
-    "id": "dundundun0116/atlas",
-    "language": "Python",
-    "name": "dundundun0116/atlas",
-    "stars": 0,
-    "updated_at": "2026-10-28T04:00:29Z",
-    "url": "https://github.com/dundundun0116/atlas"
-  },
-  {
-    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
-    "id": "rekursiv-ai/sagent",
-    "language": "Python",
-    "name": "rekursiv-ai/sagent",
-    "stars": 83,
-    "updated_at": "2026-10-28T03:51:47Z",
-    "url": "https://github.com/rekursiv-ai/sagent"
   }
 ]
