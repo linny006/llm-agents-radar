@@ -1,12 +1,66 @@
 [
   {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 12,
+    "updated_at": "2026-10-28T21:44:03Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-28T21:44:03Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-28T21:42:36Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
     "id": "mmporong/rl-triage-agent",
     "language": "Python",
     "name": "mmporong/rl-triage-agent",
     "stars": 2,
-    "updated_at": "2026-10-28T21:26:10Z",
+    "updated_at": "2026-10-28T21:42:05Z",
     "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-28T21:37:06Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": " Source code of Local Code, a private AI agent for Mac, iPad and iPhone. Runs DeepSeek 4.1 on device, with Python, Node.",
+    "id": "drawthingsai/local-code-community",
+    "language": "C",
+    "name": "drawthingsai/local-code-community",
+    "stars": 2,
+    "updated_at": "2026-10-28T21:35:56Z",
+    "url": "https://github.com/drawthingsai/local-code-community"
+  },
+  {
+    "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-28T21:32:59Z",
+    "url": "https://github.com/kifirkin/pi-braid"
   },
   {
     "description": "Async Python API for discovering and controlling Sonos speakers over UPnP \u2014 playback, volume, queue, groups, favorites, ",
@@ -27,15 +81,6 @@
     "url": "https://github.com/haibingzhao/easyai"
   },
   {
-    "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-28T21:23:11Z",
-    "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
@@ -52,6 +97,15 @@
     "stars": 6,
     "updated_at": "2026-10-28T21:21:18Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1146,
+    "updated_at": "2026-10-28T21:14:58Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
@@ -126,15 +180,6 @@
     "url": "https://github.com/guzmandrade-dev/lyx-acp-assist"
   },
   {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 12,
-    "updated_at": "2026-10-28T21:29:36Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -169,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T20:40:33Z",
     "url": "https://github.com/sins-gif/moonshadow"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-28T20:36:00Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -288,15 +324,6 @@
     "url": "https://github.com/SEISMOS-sc/SEISMOS-sc.github.io"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1145,
-    "updated_at": "2026-10-28T21:14:58Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "LLM agent skill for ARPES analysis",
     "id": "fawkesdx/ARPESskill",
     "language": "Python",
@@ -329,7 +356,7 @@
     "language": "JavaScript",
     "name": "b7216309-jpg/little-bot",
     "stars": 0,
-    "updated_at": "2026-10-28T19:57:38Z",
+    "updated_at": "2026-10-28T21:41:04Z",
     "url": "https://github.com/b7216309-jpg/little-bot"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-28T18:37:40Z",
     "url": "https://github.com/jphall663/GWU_LLM"
-  },
-  {
-    "description": "LangGraph tool-calling agent for ACCESS-CI user support: documentation retrieval plus live infrastructure tools, with a ",
-    "id": "connectci-platform/access-agent",
-    "language": "Python",
-    "name": "connectci-platform/access-agent",
-    "stars": 0,
-    "updated_at": "2026-10-28T18:31:44Z",
-    "url": "https://github.com/connectci-platform/access-agent"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 824,
-    "updated_at": "2026-10-28T18:31:20Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Luna, a shopping research agent for Sweden. Tool-calling LLM agent with Python floors, hybrid retrieval and its own eval",
-    "id": "zheyun-shou/product-research-agent-luna",
-    "language": "Python",
-    "name": "zheyun-shou/product-research-agent-luna",
-    "stars": 0,
-    "updated_at": "2026-10-28T18:24:54Z",
-    "url": "https://github.com/zheyun-shou/product-research-agent-luna"
   }
 ]
