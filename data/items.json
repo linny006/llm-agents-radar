@@ -1,19 +1,91 @@
 [
   {
+    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
+    "id": "JSL107/personal_agents",
+    "language": "TypeScript",
+    "name": "JSL107/personal_agents",
+    "stars": 0,
+    "updated_at": "2026-10-28T04:13:40Z",
+    "url": "https://github.com/JSL107/personal_agents"
+  },
+  {
+    "description": "OpenHands SDK \uae30\ubc18 \ud63c\uc7a1\ub3c4 \ubd84\uc11d LLM \uc5d0\uc774\uc804\ud2b8",
+    "id": "jwhitekim/cong-agent",
+    "language": "Python",
+    "name": "jwhitekim/cong-agent",
+    "stars": 0,
+    "updated_at": "2026-10-28T04:08:13Z",
+    "url": "https://github.com/jwhitekim/cong-agent"
+  },
+  {
+    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
+    "id": "hellices/korvid",
+    "language": "Python",
+    "name": "hellices/korvid",
+    "stars": 3,
+    "updated_at": "2026-10-28T04:08:10Z",
+    "url": "https://github.com/hellices/korvid"
+  },
+  {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
     "id": "mmporong/rl-triage-agent",
     "language": "Python",
     "name": "mmporong/rl-triage-agent",
     "stars": 2,
-    "updated_at": "2026-10-28T03:58:30Z",
+    "updated_at": "2026-10-28T04:07:03Z",
     "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-28T04:06:10Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
+    "id": "impsland/imp",
+    "language": "Swift",
+    "name": "impsland/imp",
+    "stars": 1,
+    "updated_at": "2026-10-28T04:02:26Z",
+    "url": "https://github.com/impsland/imp"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 137,
+    "updated_at": "2026-10-28T04:01:35Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
+    "id": "Soodok/Deepseek-Harness-Local-Android",
+    "language": "Kotlin",
+    "name": "Soodok/Deepseek-Harness-Local-Android",
+    "stars": 363,
+    "updated_at": "2026-10-28T04:01:03Z",
+    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
+  },
+  {
+    "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
+    "id": "dundundun0116/atlas",
+    "language": "Python",
+    "name": "dundundun0116/atlas",
+    "stars": 0,
+    "updated_at": "2026-10-28T04:00:29Z",
+    "url": "https://github.com/dundundun0116/atlas"
   },
   {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34517,
+    "stars": 34520,
     "updated_at": "2026-10-28T03:53:40Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -25,15 +97,6 @@
     "stars": 83,
     "updated_at": "2026-10-28T03:51:47Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 363,
-    "updated_at": "2026-10-28T03:49:52Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
     "description": "",
@@ -90,15 +153,6 @@
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
-    "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
-    "id": "dundundun0116/atlas",
-    "language": "Python",
-    "name": "dundundun0116/atlas",
-    "stars": 0,
-    "updated_at": "2026-10-28T03:43:13Z",
-    "url": "https://github.com/dundundun0116/atlas"
-  },
-  {
     "description": "\uacf5\uacf5 API \uc2e4\ud328\ub97c \uc8fc\uc785\ud574 \uac70\ub798\ucc98 \uc810\uac80 \uc5d0\uc774\uc804\ud2b8\uc758 \ubcf5\uad6c\uc728\uacfc \uc870\uc6a9\ud55c \uc624\ub2f5 \ube44\uc728\uc744 \uc7ac\ub294 \uc2e4\ud5d8 (LangGraph\u00b7MCP)",
     "id": "parksungyun0411/vendor-check-agent",
     "language": "Python",
@@ -140,7 +194,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1136,
-    "updated_at": "2026-10-28T03:31:37Z",
+    "updated_at": "2026-10-28T04:14:12Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -162,15 +216,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "OpenHands SDK \uae30\ubc18 \ud63c\uc7a1\ub3c4 \ubd84\uc11d LLM \uc5d0\uc774\uc804\ud2b8",
-    "id": "jwhitekim/cong-agent",
-    "language": "Python",
-    "name": "jwhitekim/cong-agent",
-    "stars": 0,
-    "updated_at": "2026-10-28T03:12:21Z",
-    "url": "https://github.com/jwhitekim/cong-agent"
-  },
-  {
     "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it \u2014 right from Slack, Telegram, L",
     "id": "ongridio/ongrid",
     "language": "Go",
@@ -178,15 +223,6 @@
     "stars": 1240,
     "updated_at": "2026-10-28T03:12:13Z",
     "url": "https://github.com/ongridio/ongrid"
-  },
-  {
-    "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
-    "id": "impsland/imp",
-    "language": "Swift",
-    "name": "impsland/imp",
-    "stars": 1,
-    "updated_at": "2026-10-28T03:11:01Z",
-    "url": "https://github.com/impsland/imp"
   },
   {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
@@ -214,15 +250,6 @@
     "stars": 50,
     "updated_at": "2026-10-28T02:54:20Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
-    "id": "JSL107/personal_agents",
-    "language": "TypeScript",
-    "name": "JSL107/personal_agents",
-    "stars": 0,
-    "updated_at": "2026-10-28T02:55:26Z",
-    "url": "https://github.com/JSL107/personal_agents"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-28T00:17:11Z",
     "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
-    "id": "hellices/korvid",
-    "language": "Python",
-    "name": "hellices/korvid",
-    "stars": 3,
-    "updated_at": "2026-10-28T03:46:56Z",
-    "url": "https://github.com/hellices/korvid"
-  },
-  {
-    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
-    "id": "tya5/shellboy",
-    "language": "Rust",
-    "name": "tya5/shellboy",
-    "stars": 0,
-    "updated_at": "2026-10-28T00:06:19Z",
-    "url": "https://github.com/tya5/shellboy"
-  },
-  {
-    "description": "PicoBot self-hosted personal assistant.",
-    "id": "jumping2000/picobot",
-    "language": "Python",
-    "name": "jumping2000/picobot",
-    "stars": 0,
-    "updated_at": "2026-10-28T00:12:29Z",
-    "url": "https://github.com/jumping2000/picobot"
   }
 ]
