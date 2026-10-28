@@ -1,12 +1,84 @@
 [
   {
+    "description": "Private, offline AI assistant for your desktop: a local ChatGPT alternative powered by Ollama, in 12 languages. 9 agents",
+    "id": "gonicolas12/My_AI",
+    "language": "Python",
+    "name": "gonicolas12/My_AI",
+    "stars": 12,
+    "updated_at": "2026-10-28T13:29:56Z",
+    "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-28T13:28:47Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
     "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
     "id": "Zxy876/voyager-vlml-mve",
     "language": "Python",
     "name": "Zxy876/voyager-vlml-mve",
     "stars": 2,
-    "updated_at": "2026-10-28T13:15:00Z",
+    "updated_at": "2026-10-28T13:30:16Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-28T13:28:17Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "LLM agent skill for ARPES analysis with PyARPES (load, EDC/MDC, k/kz, near-EF)",
+    "id": "fawkesdx/ARPESskill",
+    "language": "\u2014",
+    "name": "fawkesdx/ARPESskill",
+    "stars": 0,
+    "updated_at": "2026-10-28T13:27:59Z",
+    "url": "https://github.com/fawkesdx/ARPESskill"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 365,
+    "updated_at": "2026-10-28T13:19:56Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-28T13:18:07Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 56,
+    "updated_at": "2026-10-28T13:17:37Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "neo4j-guard is a Python library that blocks unsafe Cypher queries before execution.",
+    "id": "iamzices/neo4j-guard",
+    "language": "Python",
+    "name": "iamzices/neo4j-guard",
+    "stars": 0,
+    "updated_at": "2026-10-28T13:17:33Z",
+    "url": "https://github.com/iamzices/neo4j-guard"
   },
   {
     "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
@@ -41,7 +113,7 @@
     "language": "Python",
     "name": "tx3457/study-loop",
     "stars": 0,
-    "updated_at": "2026-10-28T13:07:09Z",
+    "updated_at": "2026-10-28T13:24:46Z",
     "url": "https://github.com/tx3457/study-loop"
   },
   {
@@ -112,7 +184,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 373,
+    "stars": 374,
     "updated_at": "2026-10-28T12:57:01Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -124,24 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-28T12:56:01Z",
     "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 56,
-    "updated_at": "2026-10-28T13:11:51Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-28T12:48:25Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "Grocery agent for Dutch supermarkets: Claude tool use, meal planning and cheapest-basket pricing across 10 stores, with ",
@@ -171,15 +225,6 @@
     "url": "https://github.com/KaletoAI/anima-verse"
   },
   {
-    "description": "Private, offline AI assistant for your desktop: a local ChatGPT alternative powered by Ollama, in 12 languages. 9 agents",
-    "id": "gonicolas12/My_AI",
-    "language": "Python",
-    "name": "gonicolas12/My_AI",
-    "stars": 12,
-    "updated_at": "2026-10-28T12:43:04Z",
-    "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
     "description": "HumanStudy-Bench: Community Edition \u2014 Standardized human study replays for AI agent evaluation",
     "id": "HumanStudy-Hub/HumanStudy-Bench",
     "language": "Python",
@@ -207,21 +252,12 @@
     "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
   },
   {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-28T12:27:50Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
     "id": "hellices/korvid",
     "language": "Python",
     "name": "hellices/korvid",
     "stars": 3,
-    "updated_at": "2026-10-28T13:04:47Z",
+    "updated_at": "2026-10-28T13:24:03Z",
     "url": "https://github.com/hellices/korvid"
   },
   {
@@ -265,7 +301,7 @@
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 72,
+    "stars": 74,
     "updated_at": "2026-10-28T12:09:16Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T12:04:19Z",
     "url": "https://github.com/andrewalhaj/custom-hermesagent"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-28T12:01:50Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
@@ -421,32 +448,5 @@
     "stars": 83,
     "updated_at": "2026-10-28T10:56:06Z",
     "url": "https://github.com/sky-valley/pi"
-  },
-  {
-    "description": "Transaction risk guard where a deterministic rule engine is authoritative and the LLM agent cannot overrule it \u2014 measure",
-    "id": "Intermountainh8ter/txwarden",
-    "language": "Python",
-    "name": "Intermountainh8ter/txwarden",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:48:49Z",
-    "url": "https://github.com/Intermountainh8ter/txwarden"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-28T12:12:48Z",
-    "url": "https://github.com/hay-chat/hay-core"
-  },
-  {
-    "description": "\u4fe1\u606f\u6e90\u805a\u5408 DSH \u63d2\u4ef6\uff1a\u5b9a\u65f6\u6444\u53d6 RSS / B \u7ad9 / YouTube\uff0c\u8bfb\u6b63\u6587\u4e0e\u5b57\u5e55\u505a\u672c\u5730\u9884\u7b5b\u548c\u4e09\u6863\u5224\u65ad\uff0c\u6bcf\u8f6e\u51fa\u4e00\u4efd\u589e\u91cf\u6c47\u62a5\u3002\u5f7b\u5e95\u4e0d\u505a\u5e73\u53f0\u4e92\u52a8\u3002",
-    "id": "slow-stack/baleen",
-    "language": "JavaScript",
-    "name": "slow-stack/baleen",
-    "stars": 0,
-    "updated_at": "2026-10-28T10:46:39Z",
-    "url": "https://github.com/slow-stack/baleen"
   }
 ]
