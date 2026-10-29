@@ -1,11 +1,119 @@
 [
   {
+    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 4,
+    "updated_at": "2026-10-29T07:15:01Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-29T07:12:29Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "AI agent written from scratch in TypeScript, no framework (no LangChain). One file per layer; the model layer calls any ",
+    "id": "max1874/demo-agent",
+    "language": "TypeScript",
+    "name": "max1874/demo-agent",
+    "stars": 0,
+    "updated_at": "2026-10-29T07:10:46Z",
+    "url": "https://github.com/max1874/demo-agent"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-29T07:10:44Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-29T07:10:16Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-29T07:10:09Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 3,
+    "updated_at": "2026-10-29T07:09:45Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
+    "id": "shakhruz/mila",
+    "language": "Python",
+    "name": "shakhruz/mila",
+    "stars": 1,
+    "updated_at": "2026-10-29T07:04:43Z",
+    "url": "https://github.com/shakhruz/mila"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-29T07:04:33Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 12,
+    "updated_at": "2026-10-29T07:03:50Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "JevHub \u00b7 Jev \u751f\u6001\u70ed\u699c \u628a\u503c\u5f97\u5173\u6ce8\u7684 Jev \u9879\u76ee\u3001\u6559\u7a0b\u548c\u8ba8\u8bba\uff0c\u6c47\u5230\u4e00\u9875\u3002 \u81ea\u52a8\u53d1\u73b0 \u00b7 \u6bcf\u65e5\u66f4\u65b0 \u00b7 \u6309 Stars \u6392\u5e8f \u00b7 \u4e2d\u82f1\u53cc\u8bed",
+    "id": "frontierlabai/JevHub",
+    "language": "Python",
+    "name": "frontierlabai/JevHub",
+    "stars": 8,
+    "updated_at": "2026-10-29T07:03:28Z",
+    "url": "https://github.com/frontierlabai/JevHub"
+  },
+  {
+    "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
+    "id": "orderye/memory-hub",
+    "language": "Rust",
+    "name": "orderye/memory-hub",
+    "stars": 0,
+    "updated_at": "2026-10-29T07:01:24Z",
+    "url": "https://github.com/orderye/memory-hub"
+  },
+  {
     "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
     "id": "protoLabsAI/protoAgent",
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-29T06:59:46Z",
+    "updated_at": "2026-10-29T07:11:13Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -23,7 +131,7 @@
     "language": "Python",
     "name": "oldfunk/paper-trading",
     "stars": 1,
-    "updated_at": "2026-10-29T06:54:03Z",
+    "updated_at": "2026-10-29T07:10:13Z",
     "url": "https://github.com/oldfunk/paper-trading"
   },
   {
@@ -45,15 +153,6 @@
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   },
   {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 4,
-    "updated_at": "2026-10-29T06:52:03Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
     "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
     "id": "kifirkin/pi-braid",
     "language": "JavaScript",
@@ -63,21 +162,12 @@
     "url": "https://github.com/kifirkin/pi-braid"
   },
   {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-29T06:47:45Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
     "description": "Open-Source Intelligent Command Layer",
     "id": "AVADSA25/codec",
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-10-29T06:59:43Z",
+    "updated_at": "2026-10-29T07:15:13Z",
     "url": "https://github.com/AVADSA25/codec"
   },
   {
@@ -99,15 +189,6 @@
     "url": "https://github.com/drawthingsai/local-code-community"
   },
   {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-29T06:45:13Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
     "id": "kyleslight/shun",
     "language": "TypeScript",
@@ -121,7 +202,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34695,
+    "stars": 34700,
     "updated_at": "2026-10-29T06:38:37Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -162,15 +243,6 @@
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-29T06:32:03Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
     "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
     "id": "weihuaguo270-ops/react-agent",
     "language": "Python",
@@ -207,24 +279,6 @@
     "url": "https://github.com/b-macker/NAAb"
   },
   {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 12,
-    "updated_at": "2026-10-29T06:45:27Z",
-    "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 3,
-    "updated_at": "2026-10-29T06:14:24Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -232,15 +286,6 @@
     "stars": 31,
     "updated_at": "2026-10-29T06:07:51Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
-    "id": "shakhruz/mila",
-    "language": "Python",
-    "name": "shakhruz/mila",
-    "stars": 1,
-    "updated_at": "2026-10-29T06:04:15Z",
-    "url": "https://github.com/shakhruz/mila"
   },
   {
     "description": "Skill-first operating layer for agentic brokerage trading \u2014 strategy, guardrails, and provider adapters an LLM agent fol",
@@ -266,7 +311,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 6,
-    "updated_at": "2026-10-29T05:56:11Z",
+    "updated_at": "2026-10-29T07:02:36Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -311,7 +356,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1152,
-    "updated_at": "2026-10-29T06:25:10Z",
+    "updated_at": "2026-10-29T07:13:36Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5887,
-    "updated_at": "2026-10-29T05:33:24Z",
+    "updated_at": "2026-10-29T07:08:44Z",
     "url": "https://github.com/areal-project/AReaL"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 498,
     "updated_at": "2026-10-29T04:58:01Z",
     "url": "https://github.com/410979729/scope-recall-hermes"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "Mai-with-u/MaiBot",
-    "language": "Python",
-    "name": "Mai-with-u/MaiBot",
-    "stars": 6706,
-    "updated_at": "2026-10-29T04:37:27Z",
-    "url": "https://github.com/Mai-with-u/MaiBot"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-29T04:36:34Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "GeoAgent\uff1a\u628a GIS \u5206\u6790\u80fd\u529b\u5c01\u88c5\u4e3a\u5927\u6a21\u578b\u53ef\u8c03\u7528\u7684\u5de5\u5177\uff0c\u81ea\u7136\u8bed\u8a00\u9a71\u52a8\u300c\u89c4\u5212-\u6267\u884c-\u53cd\u601d\u300d\uff0c\u7ed3\u679c\u6e32\u67d3\u5230 CesiumJS \u4e09\u7ef4\u5730\u7403",
-    "id": "kzccIneko/cesium_gis_agent",
-    "language": "JavaScript",
-    "name": "kzccIneko/cesium_gis_agent",
-    "stars": 0,
-    "updated_at": "2026-10-29T04:33:42Z",
-    "url": "https://github.com/kzccIneko/cesium_gis_agent"
-  },
-  {
-    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
-    "id": "liumiaoqi/MaiBot",
-    "language": "Python",
-    "name": "liumiaoqi/MaiBot",
-    "stars": 1,
-    "updated_at": "2026-10-29T04:29:53Z",
-    "url": "https://github.com/liumiaoqi/MaiBot"
-  },
-  {
-    "description": "Autonomous plumbing dispatch & field operations platform powered by OpenRouter AI, FastAPI, and React.",
-    "id": "IAMSHIVAM19/Flowfix-Agent",
-    "language": "JavaScript",
-    "name": "IAMSHIVAM19/Flowfix-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-29T04:16:00Z",
-    "url": "https://github.com/IAMSHIVAM19/Flowfix-Agent"
   }
 ]
