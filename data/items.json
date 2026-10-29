@@ -1,5 +1,68 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-29T02:30:09Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-29T02:25:44Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
+    "id": "tya5/shellboy",
+    "language": "Rust",
+    "name": "tya5/shellboy",
+    "stars": 0,
+    "updated_at": "2026-10-29T02:25:27Z",
+    "url": "https://github.com/tya5/shellboy"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-29T02:25:25Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
+    "id": "dundundun0116/atlas",
+    "language": "Python",
+    "name": "dundundun0116/atlas",
+    "stars": 0,
+    "updated_at": "2026-10-29T02:19:56Z",
+    "url": "https://github.com/dundundun0116/atlas"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 345,
+    "updated_at": "2026-10-29T02:17:37Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-29T02:17:39Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
     "description": "\u30c7\u30d9\u30ed\u30c3\u30d1\u30fc\u30b5\u30a4\u30c8\u306e\u57f7\u7b46\u3067\u4f5c\u6210\u3057\u305f\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
     "id": "ubata-mamezou/developer-site-article-examples",
     "language": "TypeScript",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T02:12:02Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
-    "id": "tya5/shellboy",
-    "language": "Rust",
-    "name": "tya5/shellboy",
-    "stars": 0,
-    "updated_at": "2026-10-29T02:09:41Z",
-    "url": "https://github.com/tya5/shellboy"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -54,15 +108,6 @@
     "url": "https://github.com/plurnk/plurnk"
   },
   {
-    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
-    "id": "monocle2ai/monocle",
-    "language": "Python",
-    "name": "monocle2ai/monocle",
-    "stars": 345,
-    "updated_at": "2026-10-29T02:01:51Z",
-    "url": "https://github.com/monocle2ai/monocle"
-  },
-  {
     "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
     "id": "HaikeiLabs/agentware",
     "language": "Python",
@@ -72,22 +117,22 @@
     "url": "https://github.com/HaikeiLabs/agentware"
   },
   {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1150,
+    "updated_at": "2026-10-29T01:58:15Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
     "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
     "id": "ximing/vital",
     "language": "TypeScript",
     "name": "ximing/vital",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-10-29T01:56:42Z",
     "url": "https://github.com/ximing/vital"
-  },
-  {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-29T01:57:50Z",
-    "url": "https://github.com/hsaghir/looplet"
   },
   {
     "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
@@ -198,21 +243,12 @@
     "url": "https://github.com/andrewalhaj/custom-hermesagent"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-29T02:02:22Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "The Self-Improving Coding Agent",
     "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-29T01:24:36Z",
+    "updated_at": "2026-10-29T02:30:15Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T01:23:47Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-29T01:52:24Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -286,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T00:42:12Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1149,
-    "updated_at": "2026-10-29T01:58:15Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
@@ -430,23 +448,5 @@
     "stars": 173,
     "updated_at": "2026-10-28T22:37:26Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "\ud83d\udc27 is currently a work in progress... Stay tuned! ",
-    "id": "Maximooch/penguin",
-    "language": "Python",
-    "name": "Maximooch/penguin",
-    "stars": 6,
-    "updated_at": "2026-10-28T22:42:18Z",
-    "url": "https://github.com/Maximooch/penguin"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 384,
-    "updated_at": "2026-10-28T22:24:22Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   }
 ]
