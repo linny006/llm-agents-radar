@@ -1,10 +1,64 @@
 [
   {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 108,
+    "updated_at": "2026-10-29T05:42:51Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-29T05:42:38Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Chat with a GitHub portfolio: an LLM agent that calls an MCP server over live GitHub data and the owner's CV to answer q",
+    "id": "atarico/portfolio-agent",
+    "language": "TypeScript",
+    "name": "atarico/portfolio-agent",
+    "stars": 0,
+    "updated_at": "2026-10-29T05:41:42Z",
+    "url": "https://github.com/atarico/portfolio-agent"
+  },
+  {
+    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
+    "id": "9Ashwin/ShuaDouyin",
+    "language": "TypeScript",
+    "name": "9Ashwin/ShuaDouyin",
+    "stars": 0,
+    "updated_at": "2026-10-29T05:39:33Z",
+    "url": "https://github.com/9Ashwin/ShuaDouyin"
+  },
+  {
+    "description": "Source-grounded deep research, writing, and learning plugin for DeepSeek Harness (dsh): steerable checkpoints, mid-run s",
+    "id": "wxxb789/dsh-raven-research",
+    "language": "TypeScript",
+    "name": "wxxb789/dsh-raven-research",
+    "stars": 0,
+    "updated_at": "2026-10-29T05:32:03Z",
+    "url": "https://github.com/wxxb789/dsh-raven-research"
+  },
+  {
+    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
+    "id": "weihuaguo270-ops/react-agent",
+    "language": "Python",
+    "name": "weihuaguo270-ops/react-agent",
+    "stars": 0,
+    "updated_at": "2026-10-29T05:31:54Z",
+    "url": "https://github.com/weihuaguo270-ops/react-agent"
+  },
+  {
     "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 125,
+    "stars": 129,
     "updated_at": "2026-10-29T05:30:02Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
@@ -16,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T05:29:43Z",
     "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 108,
-    "updated_at": "2026-10-29T05:27:52Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
@@ -52,15 +97,6 @@
     "stars": 14,
     "updated_at": "2026-10-29T05:14:45Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-29T05:12:21Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "mmporong/rl-triage-agent",
     "stars": 2,
-    "updated_at": "2026-10-29T04:56:22Z",
+    "updated_at": "2026-10-29T05:45:13Z",
     "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Python",
     "name": "aiterrariumcontrol/terrarium-life",
     "stars": 0,
-    "updated_at": "2026-10-29T04:44:14Z",
+    "updated_at": "2026-10-29T05:45:16Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
@@ -220,7 +256,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34685,
+    "stars": 34689,
     "updated_at": "2026-10-29T04:08:24Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -275,7 +311,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 17,
-    "updated_at": "2026-10-29T03:50:28Z",
+    "updated_at": "2026-10-29T05:43:32Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -293,7 +329,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1151,
-    "updated_at": "2026-10-29T04:25:24Z",
+    "updated_at": "2026-10-29T05:35:09Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T02:12:02Z",
     "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 137,
-    "updated_at": "2026-10-29T02:05:13Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
-    "id": "lusipad/browser-agent",
-    "language": "TypeScript",
-    "name": "lusipad/browser-agent",
-    "stars": 3,
-    "updated_at": "2026-10-29T02:05:12Z",
-    "url": "https://github.com/lusipad/browser-agent"
-  },
-  {
-    "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
-    "id": "HaikeiLabs/agentware",
-    "language": "Python",
-    "name": "HaikeiLabs/agentware",
-    "stars": 2,
-    "updated_at": "2026-10-29T02:09:20Z",
-    "url": "https://github.com/HaikeiLabs/agentware"
-  },
-  {
-    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
-    "id": "ximing/vital",
-    "language": "TypeScript",
-    "name": "ximing/vital",
-    "stars": 5,
-    "updated_at": "2026-10-29T01:56:42Z",
-    "url": "https://github.com/ximing/vital"
   }
 ]
