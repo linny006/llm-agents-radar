@@ -1,12 +1,84 @@
 [
   {
-    "description": "LangGraph bug-fixing agent run on local Ollama models, with a 5-task benchmark comparing system prompts, tool designs an",
-    "id": "GKiyan/bugfix-agent-lab",
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
-    "name": "GKiyan/bugfix-agent-lab",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-29T17:24:55Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\u628a\u957f\u7bc7\u5c0f\u8bf4\u5199\u4f5c\u5f53\u4f5c\u5de5\u7a0b\u7ba1\u7406\u7684\u672c\u5730\u684c\u9762\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5b57\u6570\u95e8\u7981\u3001\u65ad\u70b9\u6062\u590d\u3001\u6587\u4ef6\u5373\u9879\u76ee\uff0c\u6570\u636e\u4e0d\u51fa\u7535\u8111\u3002A local-first desktop agent that manages long-form novel writing like an ",
+    "id": "wh520-wh/wwriting-novel-agent",
+    "language": "JavaScript",
+    "name": "wh520-wh/wwriting-novel-agent",
     "stars": 0,
-    "updated_at": "2026-10-29T17:13:52Z",
-    "url": "https://github.com/GKiyan/bugfix-agent-lab"
+    "updated_at": "2026-10-29T17:24:51Z",
+    "url": "https://github.com/wh520-wh/wwriting-novel-agent"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4468,
+    "updated_at": "2026-10-29T17:25:30Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 1326,
+    "updated_at": "2026-10-29T17:23:06Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-29T17:23:04Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-29T17:21:06Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8996,
+    "updated_at": "2026-10-29T17:21:04Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
+    "id": "9Ashwin/ShuaDouyin",
+    "language": "TypeScript",
+    "name": "9Ashwin/ShuaDouyin",
+    "stars": 1,
+    "updated_at": "2026-10-29T17:18:17Z",
+    "url": "https://github.com/9Ashwin/ShuaDouyin"
+  },
+  {
+    "description": "\u0421\u043a\u0438\u043b\u043b \u0444\u0438\u043d\u0430\u043d\u0441\u043e\u0432\u043e\u0433\u043e \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u043a\u0430 \u0434\u043b\u044f Hermes Agent: \u043f\u043e\u0440\u0442\u0444\u0435\u043b\u044c, \u0432\u043e\u0440\u043e\u043d\u043a\u0430, \u044e\u043d\u0438\u0442-\u044d\u043a\u043e\u043d\u043e\u043c\u0438\u043a\u0430, \u043f\u0440\u043e\u0433\u043d\u043e\u0437. \u041e\u0442\u0447\u0451\u0442\u044b DOCX/PDF/XLSX/PPTX/RTF/",
+    "id": "DenisZakharov2/financial-analyst-skill",
+    "language": "Python",
+    "name": "DenisZakharov2/financial-analyst-skill",
+    "stars": 0,
+    "updated_at": "2026-10-29T17:16:13Z",
+    "url": "https://github.com/DenisZakharov2/financial-analyst-skill"
   },
   {
     "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
@@ -14,17 +86,35 @@
     "language": "TypeScript",
     "name": "hay-chat/hay-core",
     "stars": 5,
-    "updated_at": "2026-10-29T17:13:56Z",
+    "updated_at": "2026-10-29T17:16:18Z",
     "url": "https://github.com/hay-chat/hay-core"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
+    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
+    "id": "tya5/shellboy",
+    "language": "Rust",
+    "name": "tya5/shellboy",
+    "stars": 0,
+    "updated_at": "2026-10-29T17:16:03Z",
+    "url": "https://github.com/tya5/shellboy"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-29T17:15:24Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "LangGraph bug-fixing agent run on local Ollama models, with a 5-task benchmark comparing system prompts, tool designs an",
+    "id": "GKiyan/bugfix-agent-lab",
     "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-29T17:13:15Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
+    "name": "GKiyan/bugfix-agent-lab",
+    "stars": 0,
+    "updated_at": "2026-10-29T17:13:52Z",
+    "url": "https://github.com/GKiyan/bugfix-agent-lab"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -113,7 +203,7 @@
     "language": "Rust",
     "name": "yologdev/yoagent",
     "stars": 366,
-    "updated_at": "2026-10-29T17:12:50Z",
+    "updated_at": "2026-10-29T17:16:26Z",
     "url": "https://github.com/yologdev/yoagent"
   },
   {
@@ -135,15 +225,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8996,
-    "updated_at": "2026-10-29T16:54:36Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "PicoBot self-hosted personal assistant.",
     "id": "jumping2000/picobot",
     "language": "Python",
@@ -153,21 +234,12 @@
     "url": "https://github.com/jumping2000/picobot"
   },
   {
-    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
-    "id": "9Ashwin/ShuaDouyin",
-    "language": "TypeScript",
-    "name": "9Ashwin/ShuaDouyin",
-    "stars": 1,
-    "updated_at": "2026-10-29T16:49:27Z",
-    "url": "https://github.com/9Ashwin/ShuaDouyin"
-  },
-  {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
     "stars": 3725,
-    "updated_at": "2026-10-29T16:43:46Z",
+    "updated_at": "2026-10-29T17:25:54Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
   {
@@ -178,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T16:40:53Z",
     "url": "https://github.com/impsland/imp"
-  },
-  {
-    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
-    "id": "tya5/shellboy",
-    "language": "Rust",
-    "name": "tya5/shellboy",
-    "stars": 0,
-    "updated_at": "2026-10-29T16:58:18Z",
-    "url": "https://github.com/tya5/shellboy"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -243,21 +306,12 @@
     "url": "https://github.com/vinaosb/austringer"
   },
   {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 6,
-    "updated_at": "2026-10-29T16:21:54Z",
-    "url": "https://github.com/plurnk/plurnk"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 17,
-    "updated_at": "2026-10-29T16:19:36Z",
+    "updated_at": "2026-10-29T17:19:39Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -268,15 +322,6 @@
     "stars": 7,
     "updated_at": "2026-10-29T16:18:22Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1326,
-    "updated_at": "2026-10-29T16:15:47Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
@@ -313,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T16:06:19Z",
     "url": "https://github.com/lij768423-svg/pluggable-city-travel-agent"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-29T16:02:12Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "DSB (\u9017\u6c99\u5305): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu",
@@ -410,43 +446,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 824,
-    "updated_at": "2026-10-29T15:18:05Z",
+    "updated_at": "2026-10-29T17:24:08Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "Run the DeepSeek Harness AI agent natively on Android \u2014 no root, no Termux, extension center included | \u624b\u673a\u672c\u5730\u8fd0\u884c DeepSeek ",
-    "id": "Soodok/Deepseek-Harness-Local-Android",
-    "language": "Kotlin",
-    "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 394,
-    "updated_at": "2026-10-29T15:04:54Z",
-    "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
-    "id": "no42-org/twiki",
-    "language": "TypeScript",
-    "name": "no42-org/twiki",
-    "stars": 0,
-    "updated_at": "2026-10-29T15:05:36Z",
-    "url": "https://github.com/no42-org/twiki"
-  },
-  {
-    "description": "OpenHands SDK \uae30\ubc18 \ud63c\uc7a1\ub3c4 \ubd84\uc11d LLM \uc5d0\uc774\uc804\ud2b8",
-    "id": "jwhitekim/cong-agent",
-    "language": "Python",
-    "name": "jwhitekim/cong-agent",
-    "stars": 0,
-    "updated_at": "2026-10-29T14:50:12Z",
-    "url": "https://github.com/jwhitekim/cong-agent"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-29T14:47:39Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
   }
 ]
