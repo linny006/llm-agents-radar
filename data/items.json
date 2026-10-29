@@ -1,21 +1,12 @@
 [
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-29T15:44:07Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-29T15:45:17Z",
-    "url": "https://github.com/hay-chat/hay-core"
+    "name": "hhyqhh/inno-agent",
+    "stars": 1324,
+    "updated_at": "2026-10-29T15:59:19Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
@@ -23,17 +14,80 @@
     "language": "JavaScript",
     "name": "Canvixel-Eloweny/ai-bot-groupmate",
     "stars": 96,
-    "updated_at": "2026-10-29T15:42:57Z",
+    "updated_at": "2026-10-29T15:57:26Z",
     "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
   },
   {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
     "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1323,
-    "updated_at": "2026-10-29T15:41:42Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-29T15:56:58Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-29T15:56:48Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-29T15:55:40Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-29T15:59:40Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
+    "id": "9Ashwin/ShuaDouyin",
+    "language": "TypeScript",
+    "name": "9Ashwin/ShuaDouyin",
+    "stars": 1,
+    "updated_at": "2026-10-29T15:54:51Z",
+    "url": "https://github.com/9Ashwin/ShuaDouyin"
+  },
+  {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3725,
+    "updated_at": "2026-10-29T15:55:14Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
+    "description": "\u628a\u6d77\u91cf\u5546\u54c1\u8bc4\u8bba\u6574\u7406\u6210\u53ef\u56de\u67e5\u3001\u53ef\u590d\u6838\u7684\u8fd0\u8425\u8bc1\u636e:\u53d7\u7ea6\u675f Agent + \u672c\u5730\u8bc1\u636e\u5f15\u64ce + \u9010\u5b57\u6bb5\u6821\u9a8c\u3002\u4ed3\u5e93\u81ea\u5e26 3 \u5546\u54c1\u6f14\u793a\u5b50\u96c6,\u514b\u9686\u5373\u53ef\u8fd0\u884c;AI \u6b65\u9aa4\u652f\u6301\u8bbf\u95ee\u8005\u81ea\u5e26 DeepSeek key\u3002",
+    "id": "TheSKY-3/ecom-review-intelligence",
+    "language": "Python",
+    "name": "TheSKY-3/ecom-review-intelligence",
+    "stars": 0,
+    "updated_at": "2026-10-29T15:47:11Z",
+    "url": "https://github.com/TheSKY-3/ecom-review-intelligence"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-29T15:59:31Z",
+    "url": "https://github.com/hay-chat/hay-core"
   },
   {
     "description": "A multi-agent research system for the humanities and social sciences.",
@@ -52,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T15:40:11Z",
     "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-29T15:35:41Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
@@ -126,15 +171,6 @@
     "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
-    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
-    "id": "9Ashwin/ShuaDouyin",
-    "language": "TypeScript",
-    "name": "9Ashwin/ShuaDouyin",
-    "stars": 1,
-    "updated_at": "2026-10-29T15:18:21Z",
-    "url": "https://github.com/9Ashwin/ShuaDouyin"
-  },
-  {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
     "id": "helixml/helix",
     "language": "Go",
@@ -176,26 +212,8 @@
     "language": "Python",
     "name": "tianye1999/dsb",
     "stars": 1,
-    "updated_at": "2026-10-29T14:59:54Z",
+    "updated_at": "2026-10-29T15:59:34Z",
     "url": "https://github.com/tianye1999/dsb"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-29T14:54:32Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "\u628a\u6d77\u91cf\u5546\u54c1\u8bc4\u8bba\u6574\u7406\u6210\u53ef\u56de\u67e5\u3001\u53ef\u590d\u6838\u7684\u8fd0\u8425\u8bc1\u636e:\u53d7\u7ea6\u675f Agent + \u672c\u5730\u8bc1\u636e\u5f15\u64ce + \u9010\u5b57\u6bb5\u6821\u9a8c\u3002\u4ed3\u5e93\u81ea\u5e26 3 \u5546\u54c1\u6f14\u793a\u5b50\u96c6,\u514b\u9686\u5373\u53ef\u8fd0\u884c;AI \u6b65\u9aa4\u652f\u6301\u8bbf\u95ee\u8005\u81ea\u5e26 DeepSeek key\u3002",
-    "id": "TheSKY-3/ecom-review-intelligence",
-    "language": "Python",
-    "name": "TheSKY-3/ecom-review-intelligence",
-    "stars": 0,
-    "updated_at": "2026-10-29T14:51:47Z",
-    "url": "https://github.com/TheSKY-3/ecom-review-intelligence"
   },
   {
     "description": "OpenHands SDK \uae30\ubc18 \ud63c\uc7a1\ub3c4 \ubd84\uc11d LLM \uc5d0\uc774\uc804\ud2b8",
@@ -256,7 +274,7 @@
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
-    "stars": 174,
+    "stars": 175,
     "updated_at": "2026-10-29T14:34:46Z",
     "url": "https://github.com/bigfish1913/pi-rust"
   },
@@ -409,7 +427,7 @@
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 176,
+    "stars": 177,
     "updated_at": "2026-10-29T13:38:44Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-10-29T13:33:28Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-29T13:31:49Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
-    "id": "expectedparrot/edsl",
-    "language": "Python",
-    "name": "expectedparrot/edsl",
-    "stars": 510,
-    "updated_at": "2026-10-29T13:24:35Z",
-    "url": "https://github.com/expectedparrot/edsl"
   }
 ]
