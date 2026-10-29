@@ -1,12 +1,48 @@
 [
   {
+    "description": "Open-source AIMO3 math reasoning agent for vLLM and OpenAI-compatible models, with Python verification and consensus vot",
+    "id": "xufenghe/aimo3-agentic-inference",
+    "language": "Python",
+    "name": "xufenghe/aimo3-agentic-inference",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:28:37Z",
+    "url": "https://github.com/xufenghe/aimo3-agentic-inference"
+  },
+  {
+    "description": "One AI Security Platform: Protect, Operate, Respond",
+    "id": "EayonLee/SecPlexus",
+    "language": "TypeScript",
+    "name": "EayonLee/SecPlexus",
+    "stars": 3,
+    "updated_at": "2026-10-29T00:28:07Z",
+    "url": "https://github.com/EayonLee/SecPlexus"
+  },
+  {
+    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
+    "id": "gerardogrisolini/ZenCODE",
+    "language": "Swift",
+    "name": "gerardogrisolini/ZenCODE",
+    "stars": 6,
+    "updated_at": "2026-10-29T00:25:35Z",
+    "url": "https://github.com/gerardogrisolini/ZenCODE"
+  },
+  {
     "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
     "id": "Zxy876/voyager-vlml-mve",
     "language": "Python",
     "name": "Zxy876/voyager-vlml-mve",
     "stars": 2,
-    "updated_at": "2026-10-29T00:15:02Z",
+    "updated_at": "2026-10-29T00:24:33Z",
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Mizan \u2014 an AI triage agent for security vulnerability reports, built on Meta's models. Reads reports and code, flags pro",
+    "id": "aimenhamzi01-dot/mizan",
+    "language": "Python",
+    "name": "aimenhamzi01-dot/mizan",
+    "stars": 0,
+    "updated_at": "2026-10-29T00:20:18Z",
+    "url": "https://github.com/aimenhamzi01-dot/mizan"
   },
   {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
@@ -41,7 +77,7 @@
     "language": "JavaScript",
     "name": "bigduu/Bodhi-AI",
     "stars": 17,
-    "updated_at": "2026-10-29T00:05:33Z",
+    "updated_at": "2026-10-29T00:29:24Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
@@ -54,21 +90,12 @@
     "url": "https://github.com/helixml/helix"
   },
   {
-    "description": "Mizan \u2014 an AI triage agent for security vulnerability reports, built on Meta's models. Reads reports and code, flags pro",
-    "id": "aimenhamzi01-dot/mizan",
-    "language": "Python",
-    "name": "aimenhamzi01-dot/mizan",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:01:48Z",
-    "url": "https://github.com/aimenhamzi01-dot/mizan"
-  },
-  {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1148,
-    "updated_at": "2026-10-29T00:00:48Z",
+    "updated_at": "2026-10-29T00:21:42Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Python",
     "name": "jumping2000/picobot",
     "stars": 0,
-    "updated_at": "2026-10-28T23:44:18Z",
+    "updated_at": "2026-10-29T00:23:14Z",
     "url": "https://github.com/jumping2000/picobot"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-28T23:42:49Z",
+    "updated_at": "2026-10-29T00:29:19Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -229,7 +256,7 @@
     "id": "sins-gif/moonshadow",
     "language": "Python",
     "name": "sins-gif/moonshadow",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-28T22:14:17Z",
     "url": "https://github.com/sins-gif/moonshadow"
   },
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "zhixuli0406/DuDuClaw",
     "stars": 50,
-    "updated_at": "2026-10-28T22:51:43Z",
+    "updated_at": "2026-10-29T00:28:22Z",
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
@@ -319,7 +346,7 @@
     "id": "drawthingsai/local-code-community",
     "language": "C",
     "name": "drawthingsai/local-code-community",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-10-28T21:35:56Z",
     "url": "https://github.com/drawthingsai/local-code-community"
   },
@@ -331,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-10-28T21:26:00Z",
     "url": "https://github.com/mathisarends/sonosify"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-28T21:21:18Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
   },
   {
     "description": "Vector search that ships as a file. Compile a corpus into one self-contained, hash-verified .pikelet \u2014 search it anywher",
@@ -430,23 +448,5 @@
     "stars": 3717,
     "updated_at": "2026-10-28T20:26:01Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 4,
-    "updated_at": "2026-10-28T20:24:37Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "Le prototype de l'exp\u00e9rience conversationnelle \u00e0 partir d'un univers d'un film de fiction",
-    "id": "memoways/ava-proto1",
-    "language": "TypeScript",
-    "name": "memoways/ava-proto1",
-    "stars": 0,
-    "updated_at": "2026-10-28T20:23:43Z",
-    "url": "https://github.com/memoways/ava-proto1"
   }
 ]
