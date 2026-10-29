@@ -1,5 +1,14 @@
 [
   {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-29T17:29:13Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
@@ -23,7 +32,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4468,
-    "updated_at": "2026-10-29T17:25:30Z",
+    "updated_at": "2026-10-29T17:29:21Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -115,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T17:13:52Z",
     "url": "https://github.com/GKiyan/bugfix-agent-lab"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-29T17:09:59Z",
-    "url": "https://github.com/plurnk/plurnk-service"
   },
   {
     "description": "AI-powered image generation and chat studio",
@@ -311,7 +311,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 17,
-    "updated_at": "2026-10-29T17:19:39Z",
+    "updated_at": "2026-10-29T17:29:23Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {

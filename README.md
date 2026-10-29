@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-29 17:28 UTC
+> ⏰ Last updated: 2026-10-29 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-29 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
-| 2 | [wh520-wh/wwriting-novel-agent](https://github.com/wh520-wh/wwriting-novel-agent) | 0 | JavaScript | 2026-10-29 | 把长篇小说写作当作工程管理的本地桌面智能体：真实字数门禁、断点恢复、文件即项目，数据不出电脑。A local-first desktop agent that manages long-form novel writing like an  |
-| 3 | [gptme/gptme](https://github.com/gptme/gptme) | 4468 | Python | 2026-10-29 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
-| 4 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 1326 | TypeScript | 2026-10-29 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
-| 5 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 6 | TypeScript | 2026-10-29 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
-| 6 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-29 | The Self-Improving Coding Agent |
-| 7 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8996 | TypeScript | 2026-10-29 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
-| 8 | [9Ashwin/ShuaDouyin](https://github.com/9Ashwin/ShuaDouyin) | 1 | TypeScript | 2026-10-29 | CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory |
-| 9 | [DenisZakharov2/financial-analyst-skill](https://github.com/DenisZakharov2/financial-analyst-skill) | 0 | Python | 2026-10-29 | Скилл финансового аналитика для Hermes Agent: портфель, воронка, юнит-экономика, прогноз. Отчёты DOCX/PDF/XLSX/PPTX/RTF/ |
-| 10 | [hay-chat/hay-core](https://github.com/hay-chat/hay-core) | 5 | TypeScript | 2026-10-29 | AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b |
-| 11 | [tya5/shellboy](https://github.com/tya5/shellboy) | 0 | Rust | 2026-10-29 | Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran |
-| 12 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-29 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 13 | [GKiyan/bugfix-agent-lab](https://github.com/GKiyan/bugfix-agent-lab) | 0 | Python | 2026-10-29 | LangGraph bug-fixing agent run on local Ollama models, with a 5-task benchmark comparing system prompts, tool designs an |
-| 14 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-29 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 1 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-29 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 2 | [genaforvena/mishe-tauftauf](https://github.com/genaforvena/mishe-tauftauf) | 3 | Python | 2026-10-29 | A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation. |
+| 3 | [wh520-wh/wwriting-novel-agent](https://github.com/wh520-wh/wwriting-novel-agent) | 0 | JavaScript | 2026-10-29 | 把长篇小说写作当作工程管理的本地桌面智能体：真实字数门禁、断点恢复、文件即项目，数据不出电脑。A local-first desktop agent that manages long-form novel writing like an  |
+| 4 | [gptme/gptme](https://github.com/gptme/gptme) | 4468 | Python | 2026-10-29 | Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p |
+| 5 | [hhyqhh/inno-agent](https://github.com/hhyqhh/inno-agent) | 1326 | TypeScript | 2026-10-29 | An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati |
+| 6 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 6 | TypeScript | 2026-10-29 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
+| 7 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-29 | The Self-Improving Coding Agent |
+| 8 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | 8996 | TypeScript | 2026-10-29 | Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any  |
+| 9 | [9Ashwin/ShuaDouyin](https://github.com/9Ashwin/ShuaDouyin) | 1 | TypeScript | 2026-10-29 | CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory |
+| 10 | [DenisZakharov2/financial-analyst-skill](https://github.com/DenisZakharov2/financial-analyst-skill) | 0 | Python | 2026-10-29 | Скилл финансового аналитика для Hermes Agent: портфель, воронка, юнит-экономика, прогноз. Отчёты DOCX/PDF/XLSX/PPTX/RTF/ |
+| 11 | [hay-chat/hay-core](https://github.com/hay-chat/hay-core) | 5 | TypeScript | 2026-10-29 | AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b |
+| 12 | [tya5/shellboy](https://github.com/tya5/shellboy) | 0 | Rust | 2026-10-29 | Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran |
+| 13 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-29 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 14 | [GKiyan/bugfix-agent-lab](https://github.com/GKiyan/bugfix-agent-lab) | 0 | Python | 2026-10-29 | LangGraph bug-fixing agent run on local Ollama models, with a 5-task benchmark comparing system prompts, tool designs an |
 | 15 | [juliopolycarpo/mangostudio](https://github.com/juliopolycarpo/mangostudio) | 6 | TypeScript | 2026-10-29 | AI-powered image generation and chat studio |
 | 16 | [shakhruz/mila](https://github.com/shakhruz/mila) | 1 | Python | 2026-10-29 | Mila — open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem |
 | 17 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16770 | Python | 2026-10-29 | "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)" |
