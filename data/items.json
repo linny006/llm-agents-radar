@@ -1,5 +1,68 @@
 [
   {
+    "description": "A productive AI coworker that learns, self-improves, and ships work.",
+    "id": "tomcounsell/ai",
+    "language": "Python",
+    "name": "tomcounsell/ai",
+    "stars": 31,
+    "updated_at": "2026-10-29T08:23:57Z",
+    "url": "https://github.com/tomcounsell/ai"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-29T08:23:54Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-29T08:28:08Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 4,
+    "updated_at": "2026-10-29T08:19:14Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+    "id": "areal-project/AReaL",
+    "language": "Python",
+    "name": "areal-project/AReaL",
+    "stars": 5887,
+    "updated_at": "2026-10-29T08:25:28Z",
+    "url": "https://github.com/areal-project/AReaL"
+  },
+  {
+    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
+    "id": "9Ashwin/ShuaDouyin",
+    "language": "TypeScript",
+    "name": "9Ashwin/ShuaDouyin",
+    "stars": 1,
+    "updated_at": "2026-10-29T08:16:47Z",
+    "url": "https://github.com/9Ashwin/ShuaDouyin"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 137,
+    "updated_at": "2026-10-29T08:16:22Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -14,7 +77,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-29T08:13:23Z",
+    "updated_at": "2026-10-29T08:20:33Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -25,15 +88,6 @@
     "stars": 56,
     "updated_at": "2026-10-29T08:09:46Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-29T08:13:15Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
     "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
@@ -50,17 +104,8 @@
     "language": "Python",
     "name": "AVADSA25/codec",
     "stars": 108,
-    "updated_at": "2026-10-29T08:03:26Z",
+    "updated_at": "2026-10-29T08:25:01Z",
     "url": "https://github.com/AVADSA25/codec"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 4,
-    "updated_at": "2026-10-29T08:02:41Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
     "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
@@ -81,15 +126,6 @@
     "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
-    "description": "A productive AI coworker that learns, self-improves, and ships work.",
-    "id": "tomcounsell/ai",
-    "language": "Python",
-    "name": "tomcounsell/ai",
-    "stars": 31,
-    "updated_at": "2026-10-29T07:59:34Z",
-    "url": "https://github.com/tomcounsell/ai"
-  },
-  {
     "description": "Slack \uc5d0\uc11c PM \u00b7 \ubc31\uc5d4\ub4dc \u00b7 \ucf54\ub4dc\ub9ac\ubdf0\uc5b4 \u00b7 CTO \uc5ed\ud560\uc744 \ub098\ub220 \ub9e1\ub294 \uba40\ud2f0 \uc5d0\uc774\uc804\ud2b8 \uc5c5\ubb34 \uc790\ub3d9\ud654 \ubd07",
     "id": "JSL107/personal_agents",
     "language": "TypeScript",
@@ -106,15 +142,6 @@
     "stars": 1153,
     "updated_at": "2026-10-29T08:09:49Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Multi-step LLM agent (Gemini) that calls tools: web search, calculator, read-only SQL and a sandboxed file reader. Pydan",
-    "id": "faizanjutt473/ToolMind-Tool-Using-LLM-Agent-with-Validation-Retries-and-Full-Logging",
-    "language": "Python",
-    "name": "faizanjutt473/ToolMind-Tool-Using-LLM-Agent-with-Validation-Retries-and-Full-Logging",
-    "stars": 0,
-    "updated_at": "2026-10-29T07:56:26Z",
-    "url": "https://github.com/faizanjutt473/ToolMind-Tool-Using-LLM-Agent-with-Validation-Retries-and-Full-Logging"
   },
   {
     "description": "DSB (\u9017\u6c99\u5305): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu",
@@ -142,15 +169,6 @@
     "stars": 16766,
     "updated_at": "2026-10-29T07:53:20Z",
     "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 137,
-    "updated_at": "2026-10-29T07:51:35Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
   {
     "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
@@ -184,27 +202,9 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34709,
+    "stars": 34710,
     "updated_at": "2026-10-29T07:44:27Z",
     "url": "https://github.com/agentscope-ai/agentscope"
-  },
-  {
-    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
-    "id": "9Ashwin/ShuaDouyin",
-    "language": "TypeScript",
-    "name": "9Ashwin/ShuaDouyin",
-    "stars": 1,
-    "updated_at": "2026-10-29T07:43:15Z",
-    "url": "https://github.com/9Ashwin/ShuaDouyin"
-  },
-  {
-    "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
-    "id": "haoyiyin/basjoo",
-    "language": "Python",
-    "name": "haoyiyin/basjoo",
-    "stars": 164,
-    "updated_at": "2026-10-29T07:40:01Z",
-    "url": "https://github.com/haoyiyin/basjoo"
   },
   {
     "description": "End-to-end agentic chatbot built with LangGraph, FastAPI & Streamlit \u2014 tool-calling LLM agent with calculator, time & we",
@@ -250,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T07:19:41Z",
     "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-29T07:17:35Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
@@ -324,15 +315,6 @@
     "url": "https://github.com/frontierlabai/JevHub"
   },
   {
-    "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 18 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
-    "id": "orderye/memory-hub",
-    "language": "Rust",
-    "name": "orderye/memory-hub",
-    "stars": 0,
-    "updated_at": "2026-10-29T07:01:24Z",
-    "url": "https://github.com/orderye/memory-hub"
-  },
-  {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
     "id": "grandgaming9321-prog/reality-engine",
     "language": "HTML",
@@ -355,25 +337,16 @@
     "id": "drawthingsai/local-code-community",
     "language": "C",
     "name": "drawthingsai/local-code-community",
-    "stars": 12,
+    "stars": 13,
     "updated_at": "2026-10-29T06:46:08Z",
     "url": "https://github.com/drawthingsai/local-code-community"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-29T06:40:36Z",
-    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3720,
+    "stars": 3721,
     "updated_at": "2026-10-29T06:37:51Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -439,14 +412,5 @@
     "stars": 6,
     "updated_at": "2026-10-29T07:32:59Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-29T05:55:56Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   }
 ]
