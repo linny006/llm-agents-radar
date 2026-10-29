@@ -1,12 +1,75 @@
 [
   {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-29T19:30:09Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "My collection of Claude Code, Codex and OMP Agent Skills for web and iOS Development",
+    "id": "mintuz/skills",
+    "language": "Python",
+    "name": "mintuz/skills",
+    "stars": 29,
+    "updated_at": "2026-10-29T19:29:10Z",
+    "url": "https://github.com/mintuz/skills"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-29T19:14:33Z",
+    "updated_at": "2026-10-29T19:28:21Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
+    "id": "rekursiv-ai/sagent",
+    "language": "Python",
+    "name": "rekursiv-ai/sagent",
+    "stars": 83,
+    "updated_at": "2026-10-29T19:27:28Z",
+    "url": "https://github.com/rekursiv-ai/sagent"
+  },
+  {
+    "description": "A small, typed agent harness for Claude: tool registry with validated inputs, approval gates, context budgeting, verific",
+    "id": "Dhairya-007/agent-harness",
+    "language": "TypeScript",
+    "name": "Dhairya-007/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-29T19:26:59Z",
+    "url": "https://github.com/Dhairya-007/agent-harness"
+  },
+  {
+    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
+    "id": "9Ashwin/ShuaDouyin",
+    "language": "TypeScript",
+    "name": "9Ashwin/ShuaDouyin",
+    "stars": 1,
+    "updated_at": "2026-10-29T19:24:45Z",
+    "url": "https://github.com/9Ashwin/ShuaDouyin"
+  },
+  {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 3,
+    "updated_at": "2026-10-29T19:24:16Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "Agent-friendly Slack CLI on browser tokens (xoxc/xoxd): URL-first, key=value/JSON output, Block Kit tables, mermaid\u2192PNG,",
+    "id": "AnatoliBu/slack-tools",
+    "language": "Python",
+    "name": "AnatoliBu/slack-tools",
+    "stars": 0,
+    "updated_at": "2026-10-29T19:19:26Z",
+    "url": "https://github.com/AnatoliBu/slack-tools"
   },
   {
     "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
@@ -108,15 +171,6 @@
     "url": "https://github.com/sindredg/ai-security-platform"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 3,
-    "updated_at": "2026-10-29T18:49:08Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -124,15 +178,6 @@
     "stars": 17,
     "updated_at": "2026-10-29T18:47:31Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
-  },
-  {
-    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
-    "id": "9Ashwin/ShuaDouyin",
-    "language": "TypeScript",
-    "name": "9Ashwin/ShuaDouyin",
-    "stars": 1,
-    "updated_at": "2026-10-29T18:47:26Z",
-    "url": "https://github.com/9Ashwin/ShuaDouyin"
   },
   {
     "description": "PicoBot self-hosted personal assistant.",
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-29T18:44:39Z",
+    "updated_at": "2026-10-29T19:28:23Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4468,
-    "updated_at": "2026-10-29T19:13:29Z",
+    "updated_at": "2026-10-29T19:21:26Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 17,
-    "updated_at": "2026-10-29T19:08:02Z",
+    "updated_at": "2026-10-29T19:29:47Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -279,6 +324,15 @@
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
+    "description": "SRE Agent - CNCF Sandbox Project",
+    "id": "HolmesGPT/holmesgpt",
+    "language": "Python",
+    "name": "HolmesGPT/holmesgpt",
+    "stars": 3726,
+    "updated_at": "2026-10-29T17:39:51Z",
+    "url": "https://github.com/HolmesGPT/holmesgpt"
+  },
+  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -322,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T17:16:13Z",
     "url": "https://github.com/DenisZakharov2/financial-analyst-skill"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-29T17:16:18Z",
-    "url": "https://github.com/hay-chat/hay-core"
   },
   {
     "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-10-29T17:09:32Z",
     "url": "https://github.com/addsumtech/job-hunt"
-  },
-  {
-    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
-    "id": "hellices/korvid",
-    "language": "Python",
-    "name": "hellices/korvid",
-    "stars": 3,
-    "updated_at": "2026-10-29T19:07:44Z",
-    "url": "https://github.com/hellices/korvid"
-  },
-  {
-    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
-    "id": "yologdev/yoagent",
-    "language": "Rust",
-    "name": "yologdev/yoagent",
-    "stars": 366,
-    "updated_at": "2026-10-29T17:16:26Z",
-    "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3725,
-    "updated_at": "2026-10-29T17:39:51Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
-    "id": "impsland/imp",
-    "language": "Swift",
-    "name": "impsland/imp",
-    "stars": 1,
-    "updated_at": "2026-10-29T16:40:53Z",
-    "url": "https://github.com/impsland/imp"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 137,
-    "updated_at": "2026-10-29T16:35:11Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
   }
 ]
