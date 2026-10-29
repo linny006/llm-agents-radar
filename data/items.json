@@ -1,5 +1,59 @@
 [
   {
+    "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
+    "id": "liumiaoqi/MaiBot",
+    "language": "Python",
+    "name": "liumiaoqi/MaiBot",
+    "stars": 1,
+    "updated_at": "2026-10-29T04:29:53Z",
+    "url": "https://github.com/liumiaoqi/MaiBot"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-29T04:29:03Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Qwen3-8B \u533b\u5b66\u7814\u7a76\u667a\u80fd\u4f53\uff1a\u771f\u5b9e\u5de5\u5177\u68c0\u7d22\u3001QLoRA SFT\u3001\u5206\u9636\u6bb5\u7a20\u5bc6\u5956\u52b1\u4e0e GRPO \u98ce\u683c LoRA \u540e\u8bad\u7ec3\uff0c\u9762\u5411\u672c\u5730\u90e8\u7f72\u3002",
+    "id": "MaSunKing/medical-research-agent-grpo",
+    "language": "Python",
+    "name": "MaSunKing/medical-research-agent-grpo",
+    "stars": 1,
+    "updated_at": "2026-10-29T04:22:58Z",
+    "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-29T04:22:36Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 117,
+    "updated_at": "2026-10-29T04:20:42Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "Autonomous plumbing dispatch & field operations platform powered by OpenRouter AI, FastAPI, and React.",
+    "id": "IAMSHIVAM19/Flowfix-Agent",
+    "language": "JavaScript",
+    "name": "IAMSHIVAM19/Flowfix-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-29T04:16:00Z",
+    "url": "https://github.com/IAMSHIVAM19/Flowfix-Agent"
+  },
+  {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
     "id": "lzmd-arch/BioSNN-Plug",
     "language": "Python",
@@ -22,7 +76,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34675,
+    "stars": 34676,
     "updated_at": "2026-10-29T04:08:24Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -45,15 +99,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "Autonomous plumbing dispatch & field operations platform powered by OpenRouter AI, FastAPI, and React.",
-    "id": "IAMSHIVAM19/Flowfix-Agent",
-    "language": "JavaScript",
-    "name": "IAMSHIVAM19/Flowfix-Agent",
-    "stars": 0,
-    "updated_at": "2026-10-29T04:04:17Z",
-    "url": "https://github.com/IAMSHIVAM19/Flowfix-Agent"
-  },
-  {
     "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
     "id": "kifirkin/pi-braid",
     "language": "JavaScript",
@@ -70,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T04:00:48Z",
     "url": "https://github.com/SuppaTessta/channelpulse"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-29T03:59:53Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "",
-    "id": "andrewalhaj/custom-hermesagent",
-    "language": "Python",
-    "name": "andrewalhaj/custom-hermesagent",
-    "stars": 0,
-    "updated_at": "2026-10-29T03:59:49Z",
-    "url": "https://github.com/andrewalhaj/custom-hermesagent"
   },
   {
     "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
@@ -131,7 +158,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1151,
-    "updated_at": "2026-10-29T04:06:07Z",
+    "updated_at": "2026-10-29T04:25:24Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 56,
     "updated_at": "2026-10-29T03:42:34Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-29T03:38:49Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-29T04:03:52Z",
+    "updated_at": "2026-10-29T04:26:18Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 14,
     "updated_at": "2026-10-29T01:04:32Z",
     "url": "https://github.com/scrapfly/scrapfly-mcp"
-  },
-  {
-    "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
-    "id": "grandgaming9321-prog/reality-engine",
-    "language": "HTML",
-    "name": "grandgaming9321-prog/reality-engine",
-    "stars": 132,
-    "updated_at": "2026-10-29T00:43:10Z",
-    "url": "https://github.com/grandgaming9321-prog/reality-engine"
-  },
-  {
-    "description": "AI Research Wiki 2026: Auto-Building Knowledge Base with Deep Citation Syntheses",
-    "id": "iammonth1997/paperwiki-research-compiler",
-    "language": "HTML",
-    "name": "iammonth1997/paperwiki-research-compiler",
-    "stars": 2,
-    "updated_at": "2026-10-29T00:42:12Z",
-    "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
   }
 ]
