@@ -1,21 +1,120 @@
 [
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1155,
-    "updated_at": "2026-10-29T10:30:04Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
     "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
     "stars": 145,
-    "updated_at": "2026-10-29T10:28:47Z",
+    "updated_at": "2026-10-29T10:43:44Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-29T10:43:06Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Attune \u2014 the agent that reads your block's taste graph (Qloo Taste AI) and turns it into tonight's operating playbook. M",
+    "id": "CHAMA18/attune",
+    "language": "HTML",
+    "name": "CHAMA18/attune",
+    "stars": 0,
+    "updated_at": "2026-10-29T10:43:10Z",
+    "url": "https://github.com/CHAMA18/attune"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1155,
+    "updated_at": "2026-10-29T10:43:17Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-29T10:41:00Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-29T10:40:46Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-29T10:39:43Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "\u884c\u8bb0\uff1a\u53ef\u63d2\u62d4\u57ce\u5e02\u7684\u5927\u6a21\u578b\u65c5\u884c\u89c4\u5212 Agent\uff08Web \u7aef + MCP \u670d\u52a1\uff09\u3002\u4e00\u6761\u547d\u4ee4\u63a5\u5165\u65b0\u57ce\u5e02\uff0c\u5df2\u63a5\u5317\u4eac\u3001\u4e0a\u6d77\u3001\u5e7f\u5dde\u3001\u6df1\u5733\u3001\u6210\u90fd\u3001\u91cd\u5e86\u3001\u6b66\u6c49\u3001\u676d\u5dde\u3001\u5357\u4eac\u3001\u82cf\u5dde\u5341\u57ce\uff1b\u4e00\u53e5\u8bdd\u8bf4\u9700\u6c42\u3001\u89c4\u5212\u524d\u786e\u8ba4\uff1bLangGraph + OR-Tools \u6392\u7a0b\u4e0e",
+    "id": "lij768423-svg/pluggable-city-travel-agent",
+    "language": "Python",
+    "name": "lij768423-svg/pluggable-city-travel-agent",
+    "stars": 1,
+    "updated_at": "2026-10-29T10:37:44Z",
+    "url": "https://github.com/lij768423-svg/pluggable-city-travel-agent"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16766,
+    "updated_at": "2026-10-29T10:37:34Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-29T10:36:20Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-29T10:35:59Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
+    "id": "9Ashwin/ShuaDouyin",
+    "language": "TypeScript",
+    "name": "9Ashwin/ShuaDouyin",
+    "stars": 1,
+    "updated_at": "2026-10-29T10:33:20Z",
+    "url": "https://github.com/9Ashwin/ShuaDouyin"
+  },
+  {
+    "description": "Community DSH host plugin that automatically resumes root-agent sessions after max-token truncation, with bounded retrie",
+    "id": "Wepoi9/dsh-max-token-auto-continue",
+    "language": "TypeScript",
+    "name": "Wepoi9/dsh-max-token-auto-continue",
+    "stars": 0,
+    "updated_at": "2026-10-29T10:30:38Z",
+    "url": "https://github.com/Wepoi9/dsh-max-token-auto-continue"
   },
   {
     "description": "Autonomous DFIR agent: point it at disk images, memory dumps or log exports and get back an investigation that shows its",
@@ -36,47 +135,11 @@
     "url": "https://github.com/nilikun/dss5105-gm-copilot-public"
   },
   {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-29T10:27:41Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16766,
-    "updated_at": "2026-10-29T10:27:20Z",
-    "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-29T10:25:50Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-29T10:25:01Z",
-    "url": "https://github.com/hay-chat/hay-core"
-  },
-  {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
     "id": "areal-project/AReaL",
     "language": "Python",
     "name": "areal-project/AReaL",
-    "stars": 5887,
+    "stars": 5888,
     "updated_at": "2026-10-29T10:23:19Z",
     "url": "https://github.com/areal-project/AReaL"
   },
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4468,
-    "updated_at": "2026-10-29T10:25:22Z",
+    "updated_at": "2026-10-29T10:38:44Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -158,17 +221,8 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-29T10:14:44Z",
+    "updated_at": "2026-10-29T10:31:14Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Attune \u2014 the agent that reads your block's taste graph (Qloo Taste AI) and turns it into tonight's operating playbook. M",
-    "id": "CHAMA18/attune",
-    "language": "HTML",
-    "name": "CHAMA18/attune",
-    "stars": 0,
-    "updated_at": "2026-10-29T10:14:49Z",
-    "url": "https://github.com/CHAMA18/attune"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -178,15 +232,6 @@
     "stars": 56,
     "updated_at": "2026-10-29T10:04:58Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Community DSH host plugin that automatically resumes root-agent sessions after max-token truncation, with bounded retrie",
-    "id": "Wepoi9/dsh-max-token-auto-continue",
-    "language": "TypeScript",
-    "name": "Wepoi9/dsh-max-token-auto-continue",
-    "stars": 0,
-    "updated_at": "2026-10-29T10:04:46Z",
-    "url": "https://github.com/Wepoi9/dsh-max-token-auto-continue"
   },
   {
     "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
@@ -225,7 +270,7 @@
     "url": "https://github.com/ant-research/AntOmniEvo"
   },
   {
-    "description": "DeepSeek Harness plugin: tool-call prefetch predictor. Spawns a CT-GNN prediction gateway (Python sidecar) and registers",
+    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u5de5\u5177\u8c03\u7528\u9884\u6d4b\u4e0e\u9884\u53d6\u3002\u4ee5 Python \u8fb9\u8f66\u65b9\u5f0f\u62c9\u8d77 CT-GNN \u9884\u6d4b\u7f51\u5173\uff0c\u628a\u5176\u5de5\u5177\u539f\u751f\u6ce8\u518c\u5230 ctx.tools\u2014\u2014\u9884\u6d4b\u4e0b\u4e00\u4e2a\u5de5\u5177\u8c03\u7528\u3001\u5206\u5c42\u9884\u70ed\uff08L0-L3\uff09\u3001\u5728\u7ebf\u547d\u4e2d\u7387\u9065\u6d4b\u3001\u8bad\u7ec3\u6570\u636e\u81ea\u52a8\u91c7\u96c6\u3002",
     "id": "Liman-cmd/dsh-plugin-tool-prefetch",
     "language": "JavaScript",
     "name": "Liman-cmd/dsh-plugin-tool-prefetch",
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "oldfunk/paper-trading",
     "stars": 1,
-    "updated_at": "2026-10-29T10:26:10Z",
+    "updated_at": "2026-10-29T10:44:57Z",
     "url": "https://github.com/oldfunk/paper-trading"
   },
   {
@@ -259,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T09:48:13Z",
     "url": "https://github.com/MaSunKing/medical-research-agent-grpo"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-29T09:42:31Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -347,7 +383,7 @@
     "language": "TypeScript",
     "name": "juliopolycarpo/mangostudio",
     "stars": 6,
-    "updated_at": "2026-10-29T09:45:59Z",
+    "updated_at": "2026-10-29T10:37:57Z",
     "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-29T08:56:50Z",
     "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
-    "id": "xieguigang/sciBASIC",
-    "language": "Visual Basic .NET",
-    "name": "xieguigang/sciBASIC",
-    "stars": 80,
-    "updated_at": "2026-10-29T08:49:17Z",
-    "url": "https://github.com/xieguigang/sciBASIC"
-  },
-  {
-    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
-    "id": "9Ashwin/ShuaDouyin",
-    "language": "TypeScript",
-    "name": "9Ashwin/ShuaDouyin",
-    "stars": 1,
-    "updated_at": "2026-10-29T08:48:02Z",
-    "url": "https://github.com/9Ashwin/ShuaDouyin"
-  },
-  {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 3,
-    "updated_at": "2026-10-29T08:42:18Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
-    "description": "",
-    "id": "vinaosb/austringer",
-    "language": "Rust",
-    "name": "vinaosb/austringer",
-    "stars": 0,
-    "updated_at": "2026-10-29T08:41:54Z",
-    "url": "https://github.com/vinaosb/austringer"
   }
 ]
