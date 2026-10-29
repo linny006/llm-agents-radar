@@ -1,11 +1,74 @@
 [
   {
+    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
+    "id": "zeng6125-rgb/suixing",
+    "language": "Kotlin",
+    "name": "zeng6125-rgb/suixing",
+    "stars": 3,
+    "updated_at": "2026-10-29T08:42:18Z",
+    "url": "https://github.com/zeng6125-rgb/suixing"
+  },
+  {
+    "description": "",
+    "id": "vinaosb/austringer",
+    "language": "Rust",
+    "name": "vinaosb/austringer",
+    "stars": 0,
+    "updated_at": "2026-10-29T08:41:54Z",
+    "url": "https://github.com/vinaosb/austringer"
+  },
+  {
+    "description": "One AI Security Platform: Protect, Operate, Respond",
+    "id": "EayonLee/SecPlexus",
+    "language": "TypeScript",
+    "name": "EayonLee/SecPlexus",
+    "stars": 3,
+    "updated_at": "2026-10-29T08:41:47Z",
+    "url": "https://github.com/EayonLee/SecPlexus"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-29T08:40:58Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 4,
+    "updated_at": "2026-10-29T08:39:09Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 137,
+    "updated_at": "2026-10-29T08:37:29Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-29T08:36:37Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
     "name": "tomcounsell/ai",
     "stars": 31,
-    "updated_at": "2026-10-29T08:23:57Z",
+    "updated_at": "2026-10-29T08:34:27Z",
     "url": "https://github.com/tomcounsell/ai"
   },
   {
@@ -14,8 +77,26 @@
     "language": "Python",
     "name": "lzmd-arch/BioSNN-Plug",
     "stars": 7,
-    "updated_at": "2026-10-29T08:23:54Z",
+    "updated_at": "2026-10-29T08:31:47Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
+    "id": "Shuffle-1992/dsh-context-pilot",
+    "language": "JavaScript",
+    "name": "Shuffle-1992/dsh-context-pilot",
+    "stars": 4,
+    "updated_at": "2026-10-29T08:31:42Z",
+    "url": "https://github.com/Shuffle-1992/dsh-context-pilot"
+  },
+  {
+    "description": "\u8de8\u5de5\u4f5c\u533a\u72ec\u7acb\u4eba\u683c\u3001\u81ea\u9002\u5e94\u98ce\u683c\u4e0e\u966a\u4f34\u9884\u8bbe\uff1a\u4e3a\u9879\u76ee\u548c\u5bf9\u8bdd\u5206\u522b\u7ef4\u62a4\u4eba\u683c\u4e0e\u786e\u8ba4\u540e\u7684\u901a\u7528\u504f\u597d\uff0c\u652f\u6301\u4efb\u610f DSH \u5df2\u6ce8\u518c\u6a21\u578b\u7684\u5b50\u4ee3\u7406\u8def\u7531\uff08\u542b\u901a\u8fc7\u5176\u4ed6\u63d2\u4ef6\u63a5\u5165\u7684 Codex\u3001Claude Code\uff09\u3002",
+    "id": "ZekaiShi/dsh-evo-subagent",
+    "language": "JavaScript",
+    "name": "ZekaiShi/dsh-evo-subagent",
+    "stars": 7,
+    "updated_at": "2026-10-29T08:30:19Z",
+    "url": "https://github.com/ZekaiShi/dsh-evo-subagent"
   },
   {
     "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
@@ -25,15 +106,6 @@
     "stars": 7,
     "updated_at": "2026-10-29T08:28:08Z",
     "url": "https://github.com/kyleslight/shun"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 4,
-    "updated_at": "2026-10-29T08:19:14Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
     "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
@@ -54,15 +126,6 @@
     "url": "https://github.com/9Ashwin/ShuaDouyin"
   },
   {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 137,
-    "updated_at": "2026-10-29T08:16:22Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
-  },
-  {
     "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
     "id": "denn-gubsky/loomcycle",
     "language": "Go",
@@ -77,8 +140,17 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-29T08:20:33Z",
+    "updated_at": "2026-10-29T08:43:42Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
+    "id": "NomaDamas/CozyClay",
+    "language": "JavaScript",
+    "name": "NomaDamas/CozyClay",
+    "stars": 1154,
+    "updated_at": "2026-10-29T08:09:49Z",
+    "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
     "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
@@ -86,7 +158,7 @@
     "language": "Python",
     "name": "xianyu-sheng/Xenon",
     "stars": 56,
-    "updated_at": "2026-10-29T08:09:46Z",
+    "updated_at": "2026-10-29T08:40:48Z",
     "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
@@ -135,13 +207,13 @@
     "url": "https://github.com/JSL107/personal_agents"
   },
   {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1153,
-    "updated_at": "2026-10-29T08:09:49Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
+    "description": "Multi-step LLM agent (Gemini) that calls tools: web search, calculator, read-only SQL and a sandboxed file reader. Pydan",
+    "id": "faizanjutt473/ToolMind-Tool-Using-LLM-Agent-with-Validation-Retries-and-Full-Logging",
+    "language": "Python",
+    "name": "faizanjutt473/ToolMind-Tool-Using-LLM-Agent-with-Validation-Retries-and-Full-Logging",
+    "stars": 0,
+    "updated_at": "2026-10-29T07:56:26Z",
+    "url": "https://github.com/faizanjutt473/ToolMind-Tool-Using-LLM-Agent-with-Validation-Retries-and-Full-Logging"
   },
   {
     "description": "DSB (\u9017\u6c99\u5305): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu",
@@ -189,22 +261,22 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-29T07:46:44Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34710,
+    "stars": 34713,
     "updated_at": "2026-10-29T07:44:27Z",
     "url": "https://github.com/agentscope-ai/agentscope"
+  },
+  {
+    "description": "Open-source AI customer support platform \u2014 RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAP",
+    "id": "haoyiyin/basjoo",
+    "language": "Python",
+    "name": "haoyiyin/basjoo",
+    "stars": 164,
+    "updated_at": "2026-10-29T07:40:01Z",
+    "url": "https://github.com/haoyiyin/basjoo"
   },
   {
     "description": "End-to-end agentic chatbot built with LangGraph, FastAPI & Streamlit \u2014 tool-calling LLM agent with calculator, time & we",
@@ -232,6 +304,15 @@
     "stars": 0,
     "updated_at": "2026-10-29T07:36:08Z",
     "url": "https://github.com/xhqing/ExecutiveAssistantAgent"
+  },
+  {
+    "description": "\u0410\u043b\u044c\u0444\u0430-\u0411\u0443\u0434\u0443\u0449\u0435\u0435 \u0445\u0430\u043a\u0430\u0442\u043e\u043d \u00b7 \u0443\u043c\u043d\u044b\u0439 \u043a\u0440\u0435\u0434\u0438\u0442\u043d\u044b\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442 \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044f",
+    "id": "gitAlphaMerge/credit-cabinet",
+    "language": "TypeScript",
+    "name": "gitAlphaMerge/credit-cabinet",
+    "stars": 0,
+    "updated_at": "2026-10-29T07:26:19Z",
+    "url": "https://github.com/gitAlphaMerge/credit-cabinet"
   },
   {
     "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
@@ -279,15 +360,6 @@
     "url": "https://github.com/TrungHuy2128/octium-wisp"
   },
   {
-    "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
-    "id": "zeng6125-rgb/suixing",
-    "language": "Kotlin",
-    "name": "zeng6125-rgb/suixing",
-    "stars": 3,
-    "updated_at": "2026-10-29T07:09:45Z",
-    "url": "https://github.com/zeng6125-rgb/suixing"
-  },
-  {
     "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
     "id": "g761007/daily-dispatch",
     "language": "Python",
@@ -313,6 +385,15 @@
     "stars": 8,
     "updated_at": "2026-10-29T07:03:28Z",
     "url": "https://github.com/frontierlabai/JevHub"
+  },
+  {
+    "description": "\u591a\u667a\u80fd\u4f53\u957f\u671f\u8bb0\u5fc6\u57fa\u7840\u8bbe\u65bd \u00b7 38 \u4e2a MCP \u5de5\u5177 \u00b7 OAuth 2.1 \u8d26\u6237\u6c99\u7bb1 \u00b7 Chat/Working/Coding \u4e09\u5c42\u8ba4\u77e5\u8bb0\u5fc6\uff08Rust + PostgreSQL/pgvector\uff09",
+    "id": "orderye/memory-hub",
+    "language": "Rust",
+    "name": "orderye/memory-hub",
+    "stars": 0,
+    "updated_at": "2026-10-29T07:01:24Z",
+    "url": "https://github.com/orderye/memory-hub"
   },
   {
     "description": "Top Dynamic AI World Simulation & Storytelling Tools 2026",
@@ -346,7 +427,7 @@
     "id": "HolmesGPT/holmesgpt",
     "language": "Python",
     "name": "HolmesGPT/holmesgpt",
-    "stars": 3721,
+    "stars": 3722,
     "updated_at": "2026-10-29T06:37:51Z",
     "url": "https://github.com/HolmesGPT/holmesgpt"
   },
@@ -367,50 +448,5 @@
     "stars": 17,
     "updated_at": "2026-10-29T06:41:12Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": "A multi-agent research system for the humanities and social sciences.",
-    "id": "Luciole-Studio/Misaka-Agent",
-    "language": "Python",
-    "name": "Luciole-Studio/Misaka-Agent",
-    "stars": 235,
-    "updated_at": "2026-10-29T06:28:05Z",
-    "url": "https://github.com/Luciole-Studio/Misaka-Agent"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-29T06:26:47Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
-  },
-  {
-    "description": "Stop AI agents before they do damage \u2014 behavioral sequence detection blocks credential exfiltration, config harvesting, ",
-    "id": "b-macker/NAAb",
-    "language": "C++",
-    "name": "b-macker/NAAb",
-    "stars": 2,
-    "updated_at": "2026-10-29T06:24:02Z",
-    "url": "https://github.com/b-macker/NAAb"
-  },
-  {
-    "description": "Skill-first operating layer for agentic brokerage trading \u2014 strategy, guardrails, and provider adapters an LLM agent fol",
-    "id": "jack-h-park/stock-trading-skills",
-    "language": "Python",
-    "name": "jack-h-park/stock-trading-skills",
-    "stars": 0,
-    "updated_at": "2026-10-29T05:57:01Z",
-    "url": "https://github.com/jack-h-park/stock-trading-skills"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 6,
-    "updated_at": "2026-10-29T07:32:59Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   }
 ]
