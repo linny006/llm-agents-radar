@@ -1,12 +1,84 @@
 [
   {
+    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
+    "id": "tya5/shellboy",
+    "language": "Rust",
+    "name": "tya5/shellboy",
+    "stars": 0,
+    "updated_at": "2026-10-29T03:28:00Z",
+    "url": "https://github.com/tya5/shellboy"
+  },
+  {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
     "id": "lzmd-arch/BioSNN-Plug",
     "language": "Python",
     "name": "lzmd-arch/BioSNN-Plug",
     "stars": 7,
-    "updated_at": "2026-10-29T03:15:06Z",
+    "updated_at": "2026-10-29T03:27:49Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-29T03:26:59Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 17,
+    "updated_at": "2026-10-29T03:26:57Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 68,
+    "updated_at": "2026-10-29T03:25:06Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-29T03:23:59Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
+    "id": "impsland/imp",
+    "language": "Swift",
+    "name": "impsland/imp",
+    "stars": 1,
+    "updated_at": "2026-10-29T03:20:35Z",
+    "url": "https://github.com/impsland/imp"
+  },
+  {
+    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
+    "id": "bigduu/Bamboo-agent",
+    "language": "Rust",
+    "name": "bigduu/Bamboo-agent",
+    "stars": 21,
+    "updated_at": "2026-10-29T03:17:05Z",
+    "url": "https://github.com/bigduu/Bamboo-agent"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 173,
+    "updated_at": "2026-10-29T03:29:55Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "DSB (\u9017\u6c99\u5305): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu",
@@ -18,15 +90,6 @@
     "url": "https://github.com/tianye1999/dsb"
   },
   {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "agentscope-ai/agentscope-go",
-    "language": "Go",
-    "name": "agentscope-ai/agentscope-go",
-    "stars": 68,
-    "updated_at": "2026-10-29T03:11:25Z",
-    "url": "https://github.com/agentscope-ai/agentscope-go"
-  },
-  {
     "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
     "id": "bigduu/Bodhi-AI",
     "language": "JavaScript",
@@ -36,15 +99,6 @@
     "url": "https://github.com/bigduu/Bodhi-AI"
   },
   {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-29T03:07:05Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
     "id": "mmporong/rl-triage-agent",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T03:06:53Z",
     "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
-    "id": "tya5/shellboy",
-    "language": "Rust",
-    "name": "tya5/shellboy",
-    "stars": 0,
-    "updated_at": "2026-10-29T03:06:29Z",
-    "url": "https://github.com/tya5/shellboy"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -85,7 +130,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34666,
+    "stars": 34669,
     "updated_at": "2026-10-29T02:57:18Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -133,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T02:40:11Z",
     "url": "https://github.com/dundundun0116/atlas"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-29T03:14:44Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
-    "id": "bigduu/Bamboo-agent",
-    "language": "Rust",
-    "name": "bigduu/Bamboo-agent",
-    "stars": 21,
-    "updated_at": "2026-10-29T03:13:17Z",
-    "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -241,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T01:54:16Z",
     "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
-  },
-  {
-    "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
-    "id": "impsland/imp",
-    "language": "Swift",
-    "name": "impsland/imp",
-    "stars": 1,
-    "updated_at": "2026-10-29T01:49:27Z",
-    "url": "https://github.com/impsland/imp"
   },
   {
     "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-28T23:39:24Z",
     "url": "https://github.com/haibingzhao/easyai"
-  },
-  {
-    "description": "\u55b5\u7483\u306e\u672c\u4f53 \u2014\u2014 \u8dd1\u5728 Ncatbot\uff08NapCat / OneBot 11\uff09\u4e0a\u7684 LLM Agent QQ \u673a\u5668\u4eba\uff1aLangGraph edgeless \u4e8b\u4ef6\u7ba1\u7ebf\u628a\u79c1\u804a / \u7fa4\u804a\u6d88\u606f\u63a5\u5165\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08DeepSeek \u7b49\uff09",
-    "id": "lyt2011/miaoli_bot",
-    "language": "Python",
-    "name": "lyt2011/miaoli_bot",
-    "stars": 2,
-    "updated_at": "2026-10-28T23:35:15Z",
-    "url": "https://github.com/lyt2011/miaoli_bot"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-28T23:10:12Z",
-    "url": "https://github.com/hay-chat/hay-core"
   }
 ]
