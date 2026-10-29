@@ -1,12 +1,75 @@
 [
   {
+    "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
+    "id": "jphall663/GWU_LLM",
+    "language": "Jupyter Notebook",
+    "name": "jphall663/GWU_LLM",
+    "stars": 0,
+    "updated_at": "2026-10-29T15:29:48Z",
+    "url": "https://github.com/jphall663/GWU_LLM"
+  },
+  {
     "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
     "id": "Canvixel-Eloweny/ai-bot-groupmate",
     "language": "JavaScript",
     "name": "Canvixel-Eloweny/ai-bot-groupmate",
     "stars": 96,
-    "updated_at": "2026-10-29T15:11:26Z",
+    "updated_at": "2026-10-29T15:28:43Z",
     "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8995,
+    "updated_at": "2026-10-29T15:27:09Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
+    "id": "impsland/imp",
+    "language": "Swift",
+    "name": "impsland/imp",
+    "stars": 1,
+    "updated_at": "2026-10-29T15:25:46Z",
+    "url": "https://github.com/impsland/imp"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-29T15:25:42Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "My collection of Claude Code, Codex and OMP Agent Skills for web and iOS Development",
+    "id": "mintuz/skills",
+    "language": "Python",
+    "name": "mintuz/skills",
+    "stars": 29,
+    "updated_at": "2026-10-29T15:24:23Z",
+    "url": "https://github.com/mintuz/skills"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-29T15:22:29Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "DevOps & Cloud SI Assistant that runs locally on taraengine for complete privacy.",
+    "id": "tara-vision/taracode",
+    "language": "Go",
+    "name": "tara-vision/taracode",
+    "stars": 51,
+    "updated_at": "2026-10-29T15:21:34Z",
+    "url": "https://github.com/tara-vision/taracode"
   },
   {
     "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
@@ -14,8 +77,26 @@
     "language": "TypeScript",
     "name": "hay-chat/hay-core",
     "stars": 5,
-    "updated_at": "2026-10-29T15:13:41Z",
+    "updated_at": "2026-10-29T15:27:28Z",
     "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-29T15:18:28Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
+    "id": "9Ashwin/ShuaDouyin",
+    "language": "TypeScript",
+    "name": "9Ashwin/ShuaDouyin",
+    "stars": 1,
+    "updated_at": "2026-10-29T15:18:21Z",
+    "url": "https://github.com/9Ashwin/ShuaDouyin"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -23,7 +104,7 @@
     "language": "Go",
     "name": "helixml/helix",
     "stars": 824,
-    "updated_at": "2026-10-29T15:05:01Z",
+    "updated_at": "2026-10-29T15:18:05Z",
     "url": "https://github.com/helixml/helix"
   },
   {
@@ -113,7 +194,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 17,
-    "updated_at": "2026-10-29T14:46:21Z",
+    "updated_at": "2026-10-29T15:23:50Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -131,7 +212,7 @@
     "language": "Python",
     "name": "CIRISAI/CIRISAgent",
     "stars": 58,
-    "updated_at": "2026-10-29T15:12:50Z",
+    "updated_at": "2026-10-29T15:28:56Z",
     "url": "https://github.com/CIRISAI/CIRISAgent"
   },
   {
@@ -144,15 +225,6 @@
     "url": "https://github.com/Wepoi9/dsh-max-token-auto-continue"
   },
   {
-    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
-    "id": "9Ashwin/ShuaDouyin",
-    "language": "TypeScript",
-    "name": "9Ashwin/ShuaDouyin",
-    "stars": 1,
-    "updated_at": "2026-10-29T14:37:00Z",
-    "url": "https://github.com/9Ashwin/ShuaDouyin"
-  },
-  {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
@@ -160,15 +232,6 @@
     "stars": 174,
     "updated_at": "2026-10-29T14:34:46Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8995,
-    "updated_at": "2026-10-29T14:47:47Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -297,15 +360,6 @@
     "url": "https://github.com/whatxin7/dsh-mcp-safe-tools"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-29T13:55:37Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "",
     "id": "protokol11/pi-paste",
     "language": "TypeScript",
@@ -346,7 +400,7 @@
     "id": "SAOS-3624/dsh-video-storyboard",
     "language": "JavaScript",
     "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 172,
+    "stars": 175,
     "updated_at": "2026-10-29T13:38:44Z",
     "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T13:22:16Z",
     "url": "https://github.com/vinaosb/austringer"
-  },
-  {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-29T13:20:23Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1323,
-    "updated_at": "2026-10-29T14:50:27Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3725,
-    "updated_at": "2026-10-29T12:51:28Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Self-hosted AI customer-support platform \u2014 per-KB RAG on Qdrant, 13 LLM providers, SSE streaming, embeddable chat widget",
-    "id": "haoyiyin/basjoo",
-    "language": "Python",
-    "name": "haoyiyin/basjoo",
-    "stars": 164,
-    "updated_at": "2026-10-29T12:36:41Z",
-    "url": "https://github.com/haoyiyin/basjoo"
-  },
-  {
-    "description": "\u884c\u8bb0\uff1a\u53ef\u63d2\u62d4\u57ce\u5e02\u7684\u5927\u6a21\u578b\u65c5\u884c\u89c4\u5212 Agent\uff08Web \u7aef + MCP \u670d\u52a1\uff09\u3002\u4e00\u6761\u547d\u4ee4\u63a5\u5165\u65b0\u57ce\u5e02\uff0c\u5df2\u63a5\u5317\u4eac\u3001\u4e0a\u6d77\u3001\u5e7f\u5dde\u3001\u6df1\u5733\u3001\u6210\u90fd\u3001\u91cd\u5e86\u3001\u6b66\u6c49\u3001\u676d\u5dde\u3001\u5357\u4eac\u3001\u82cf\u5dde\u5341\u57ce\uff1b\u4e00\u53e5\u8bdd\u8bf4\u9700\u6c42\u3001\u89c4\u5212\u524d\u786e\u8ba4\uff1bLangGraph + OR-Tools \u6392\u7a0b\u4e0e",
-    "id": "lij768423-svg/pluggable-city-travel-agent",
-    "language": "Python",
-    "name": "lij768423-svg/pluggable-city-travel-agent",
-    "stars": 2,
-    "updated_at": "2026-10-29T12:36:36Z",
-    "url": "https://github.com/lij768423-svg/pluggable-city-travel-agent"
-  },
-  {
-    "description": "Autonomous Workspace ORGanism",
-    "id": "kevinnading/aworg",
-    "language": "Python",
-    "name": "kevinnading/aworg",
-    "stars": 1,
-    "updated_at": "2026-10-29T12:34:23Z",
-    "url": "https://github.com/kevinnading/aworg"
   }
 ]
