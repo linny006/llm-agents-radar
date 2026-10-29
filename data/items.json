@@ -1,5 +1,122 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-29T12:41:55Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-29T12:40:50Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
+    "id": "CIRISAI/CIRISAgent",
+    "language": "Python",
+    "name": "CIRISAI/CIRISAgent",
+    "stars": 58,
+    "updated_at": "2026-10-29T12:39:14Z",
+    "url": "https://github.com/CIRISAI/CIRISAgent"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-29T12:37:39Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Self-hosted AI customer-support platform \u2014 per-KB RAG on Qdrant, 13 LLM providers, SSE streaming, embeddable chat widget",
+    "id": "haoyiyin/basjoo",
+    "language": "Python",
+    "name": "haoyiyin/basjoo",
+    "stars": 164,
+    "updated_at": "2026-10-29T12:36:41Z",
+    "url": "https://github.com/haoyiyin/basjoo"
+  },
+  {
+    "description": "\u884c\u8bb0\uff1a\u53ef\u63d2\u62d4\u57ce\u5e02\u7684\u5927\u6a21\u578b\u65c5\u884c\u89c4\u5212 Agent\uff08Web \u7aef + MCP \u670d\u52a1\uff09\u3002\u4e00\u6761\u547d\u4ee4\u63a5\u5165\u65b0\u57ce\u5e02\uff0c\u5df2\u63a5\u5317\u4eac\u3001\u4e0a\u6d77\u3001\u5e7f\u5dde\u3001\u6df1\u5733\u3001\u6210\u90fd\u3001\u91cd\u5e86\u3001\u6b66\u6c49\u3001\u676d\u5dde\u3001\u5357\u4eac\u3001\u82cf\u5dde\u5341\u57ce\uff1b\u4e00\u53e5\u8bdd\u8bf4\u9700\u6c42\u3001\u89c4\u5212\u524d\u786e\u8ba4\uff1bLangGraph + OR-Tools \u6392\u7a0b\u4e0e",
+    "id": "lij768423-svg/pluggable-city-travel-agent",
+    "language": "Python",
+    "name": "lij768423-svg/pluggable-city-travel-agent",
+    "stars": 1,
+    "updated_at": "2026-10-29T12:36:36Z",
+    "url": "https://github.com/lij768423-svg/pluggable-city-travel-agent"
+  },
+  {
+    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
+    "id": "9Ashwin/ShuaDouyin",
+    "language": "TypeScript",
+    "name": "9Ashwin/ShuaDouyin",
+    "stars": 1,
+    "updated_at": "2026-10-29T12:35:14Z",
+    "url": "https://github.com/9Ashwin/ShuaDouyin"
+  },
+  {
+    "description": "Autonomous Workspace ORGanism",
+    "id": "kevinnading/aworg",
+    "language": "Python",
+    "name": "kevinnading/aworg",
+    "stars": 1,
+    "updated_at": "2026-10-29T12:34:23Z",
+    "url": "https://github.com/kevinnading/aworg"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 157,
+    "updated_at": "2026-10-29T12:33:25Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 824,
+    "updated_at": "2026-10-29T12:32:54Z",
+    "url": "https://github.com/helixml/helix"
+  },
+  {
+    "description": "AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph",
+    "id": "holylong/luban",
+    "language": "TypeScript",
+    "name": "holylong/luban",
+    "stars": 0,
+    "updated_at": "2026-10-29T12:36:25Z",
+    "url": "https://github.com/holylong/luban"
+  },
+  {
+    "description": "\u91cf\u7eb2\u611f\u77e5\u7684\u7269\u7406\u5b9a\u5f8b\u81ea\u52a8\u53d1\u73b0\u667a\u80fd\u4f53\uff1a\u91cf\u7eb2\u526a\u679d + OMP \u7a00\u758f\u56de\u5f52 + \u5916\u63a8\u4e0e\u7b26\u53f7\u53cc\u91cd\u9a8c\u8bc1\uff0c\u7ed3\u679c\u53ef\u590d\u73b0\u3001\u53ef\u5ba1\u8ba1\uff1b\u7ecf MCP \u63a5\u5165 Agnes Harness (AGH)\u3002\u6c5f\u82cf\u7701 AI+ \u9ed1\u5ba2\u677e\u53c2\u8d5b\u4f5c\u54c1\u3002",
+    "id": "Arcticfox-star/SciFormula",
+    "language": "HTML",
+    "name": "Arcticfox-star/SciFormula",
+    "stars": 0,
+    "updated_at": "2026-10-29T12:32:16Z",
+    "url": "https://github.com/Arcticfox-star/SciFormula"
+  },
+  {
+    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u5de5\u5177\u8c03\u7528\u9884\u6d4b\u4e0e\u9884\u53d6\u3002\u4ee5 Python \u8fb9\u8f66\u65b9\u5f0f\u62c9\u8d77 CT-GNN \u9884\u6d4b\u7f51\u5173\uff0c\u628a\u5176\u5de5\u5177\u539f\u751f\u6ce8\u518c\u5230 ctx.tools\u2014\u2014\u9884\u6d4b\u4e0b\u4e00\u4e2a\u5de5\u5177\u8c03\u7528\u3001\u5206\u5c42\u9884\u70ed\uff08L0-L3\uff09\u3001\u5728\u7ebf\u547d\u4e2d\u7387\u9065\u6d4b\u3001\u8bad\u7ec3\u6570\u636e\u81ea\u52a8\u91c7\u96c6\u3002",
+    "id": "Liman-cmd/dsh-plugin-tool-prefetch",
+    "language": "JavaScript",
+    "name": "Liman-cmd/dsh-plugin-tool-prefetch",
+    "stars": 0,
+    "updated_at": "2026-10-29T12:31:55Z",
+    "url": "https://github.com/Liman-cmd/dsh-plugin-tool-prefetch"
+  },
+  {
     "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
     "id": "hay-chat/hay-core",
     "language": "TypeScript",
@@ -9,15 +126,6 @@
     "url": "https://github.com/hay-chat/hay-core"
   },
   {
-    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u5de5\u5177\u8c03\u7528\u9884\u6d4b\u4e0e\u9884\u53d6\u3002\u4ee5 Python \u8fb9\u8f66\u65b9\u5f0f\u62c9\u8d77 CT-GNN \u9884\u6d4b\u7f51\u5173\uff0c\u628a\u5176\u5de5\u5177\u539f\u751f\u6ce8\u518c\u5230 ctx.tools\u2014\u2014\u9884\u6d4b\u4e0b\u4e00\u4e2a\u5de5\u5177\u8c03\u7528\u3001\u5206\u5c42\u9884\u70ed\uff08L0-L3\uff09\u3001\u5728\u7ebf\u547d\u4e2d\u7387\u9065\u6d4b\u3001\u8bad\u7ec3\u6570\u636e\u81ea\u52a8\u91c7\u96c6\u3002",
-    "id": "Liman-cmd/dsh-plugin-tool-prefetch",
-    "language": "JavaScript",
-    "name": "Liman-cmd/dsh-plugin-tool-prefetch",
-    "stars": 0,
-    "updated_at": "2026-10-29T12:28:44Z",
-    "url": "https://github.com/Liman-cmd/dsh-plugin-tool-prefetch"
-  },
-  {
     "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
     "id": "Alucard1718/autonomous-code-sandbox",
     "language": "HTML",
@@ -25,42 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T12:27:47Z",
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-29T12:27:19Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
-  },
-  {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 154,
-    "updated_at": "2026-10-29T12:26:07Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-29T12:25:08Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph",
-    "id": "holylong/luban",
-    "language": "TypeScript",
-    "name": "holylong/luban",
-    "stars": 0,
-    "updated_at": "2026-10-29T12:27:41Z",
-    "url": "https://github.com/holylong/luban"
   },
   {
     "description": "A daily-driver AI agent runtime built solo: multi-process isolation pods (MCP/LSP/workflow), event-sourced task ledger, ",
@@ -162,24 +234,6 @@
     "url": "https://github.com/xhqing/DayTradingAgent"
   },
   {
-    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
-    "id": "9Ashwin/ShuaDouyin",
-    "language": "TypeScript",
-    "name": "9Ashwin/ShuaDouyin",
-    "stars": 1,
-    "updated_at": "2026-10-29T12:01:52Z",
-    "url": "https://github.com/9Ashwin/ShuaDouyin"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 824,
-    "updated_at": "2026-10-29T12:24:05Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
     "id": "mmporong/rl-triage-agent",
     "language": "Python",
@@ -216,15 +270,6 @@
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-29T11:47:57Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
@@ -238,7 +283,7 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 392,
+    "stars": 393,
     "updated_at": "2026-10-29T11:43:36Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
@@ -306,24 +351,6 @@
     "url": "https://github.com/Ven0m0/gemini-web-wrapper"
   },
   {
-    "description": "\u91cf\u7eb2\u611f\u77e5\u7684\u7269\u7406\u5b9a\u5f8b\u81ea\u52a8\u53d1\u73b0\u667a\u80fd\u4f53\uff1a\u91cf\u7eb2\u526a\u679d + OMP \u7a00\u758f\u56de\u5f52 + \u5916\u63a8\u4e0e\u7b26\u53f7\u53cc\u91cd\u9a8c\u8bc1\uff0c\u7ed3\u679c\u53ef\u590d\u73b0\u3001\u53ef\u5ba1\u8ba1\uff1b\u7ecf MCP \u63a5\u5165 Agnes Harness (AGH)\u3002\u6c5f\u82cf\u7701 AI+ \u9ed1\u5ba2\u677e\u53c2\u8d5b\u4f5c\u54c1\u3002",
-    "id": "Arcticfox-star/SciFormula",
-    "language": "HTML",
-    "name": "Arcticfox-star/SciFormula",
-    "stars": 0,
-    "updated_at": "2026-10-29T11:25:22Z",
-    "url": "https://github.com/Arcticfox-star/SciFormula"
-  },
-  {
-    "description": "Self-hosted AI customer-support platform \u2014 per-KB RAG on Qdrant, 13 LLM providers, SSE streaming, embeddable chat widget",
-    "id": "haoyiyin/basjoo",
-    "language": "Python",
-    "name": "haoyiyin/basjoo",
-    "stars": 164,
-    "updated_at": "2026-10-29T12:27:00Z",
-    "url": "https://github.com/haoyiyin/basjoo"
-  },
-  {
     "description": "Memory that becomes skill for DeepSeek Harness: capture turns, recall what matters, forge procedures into real SKILL.md ",
     "id": "Ricky74192/dsh-memory-forge",
     "language": "JavaScript",
@@ -338,7 +365,7 @@
     "language": "Python",
     "name": "oldfunk/paper-trading",
     "stars": 1,
-    "updated_at": "2026-10-29T12:25:49Z",
+    "updated_at": "2026-10-29T12:45:02Z",
     "url": "https://github.com/oldfunk/paper-trading"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4468,
     "updated_at": "2026-10-29T12:29:50Z",
     "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 6,
-    "updated_at": "2026-10-29T12:16:54Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1155,
-    "updated_at": "2026-10-29T10:53:20Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Autonomous DFIR agent: point it at disk images, memory dumps or log exports and get back an investigation that shows its",
-    "id": "AtlasFO/Atlas-Community",
-    "language": "Python",
-    "name": "AtlasFO/Atlas-Community",
-    "stars": 4,
-    "updated_at": "2026-10-29T10:59:47Z",
-    "url": "https://github.com/AtlasFO/Atlas-Community"
   }
 ]
