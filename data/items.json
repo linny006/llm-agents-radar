@@ -1,5 +1,140 @@
 [
   {
+    "description": "Run a team of AI agents on your own hardware, from the chat app you already use. Any model, local or frontier. They reme",
+    "id": "karvidsson/kbots",
+    "language": "Python",
+    "name": "karvidsson/kbots",
+    "stars": 1,
+    "updated_at": "2026-10-29T08:58:50Z",
+    "url": "https://github.com/karvidsson/kbots"
+  },
+  {
+    "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-29T08:57:47Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
+    "id": "xhqing/DayTradingAgent",
+    "language": "Python",
+    "name": "xhqing/DayTradingAgent",
+    "stars": 4,
+    "updated_at": "2026-10-29T08:56:50Z",
+    "url": "https://github.com/xhqing/DayTradingAgent"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-29T08:56:22Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
+    "id": "SAOS-3624/dsh-video-storyboard",
+    "language": "JavaScript",
+    "name": "SAOS-3624/dsh-video-storyboard",
+    "stars": 137,
+    "updated_at": "2026-10-29T08:54:25Z",
+    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
+  },
+  {
+    "description": "Open-Source Intelligent Command Layer",
+    "id": "AVADSA25/codec",
+    "language": "Python",
+    "name": "AVADSA25/codec",
+    "stars": 108,
+    "updated_at": "2026-10-29T08:52:18Z",
+    "url": "https://github.com/AVADSA25/codec"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 17,
+    "updated_at": "2026-10-29T08:57:31Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceler",
+    "id": "xieguigang/sciBASIC",
+    "language": "Visual Basic .NET",
+    "name": "xieguigang/sciBASIC",
+    "stars": 80,
+    "updated_at": "2026-10-29T08:49:17Z",
+    "url": "https://github.com/xieguigang/sciBASIC"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-29T08:48:52Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "\u8bba\u6587\u5168\u6d41\u7a0b Agent\uff1a\u68c0\u7d22/\u7cbe\u8bfb/\u5199\u4f5c/\u8bc1\u636e\u94fe\u4e00\u4f53\u5316\u6d41\u6c34\u7ebf\uff0c\u542b eval \u4e0e evidence \u76ee\u5f55",
+    "id": "aidless/paper_agent",
+    "language": "Python",
+    "name": "aidless/paper_agent",
+    "stars": 0,
+    "updated_at": "2026-10-29T08:48:29Z",
+    "url": "https://github.com/aidless/paper_agent"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-29T08:48:17Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-29T08:48:11Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
+    "id": "9Ashwin/ShuaDouyin",
+    "language": "TypeScript",
+    "name": "9Ashwin/ShuaDouyin",
+    "stars": 1,
+    "updated_at": "2026-10-29T08:48:02Z",
+    "url": "https://github.com/9Ashwin/ShuaDouyin"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 56,
+    "updated_at": "2026-10-29T08:59:20Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-29T08:45:34Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
     "description": "\u968f\u884c Suixing \u2014\u2014 \u624b\u673a\u7aef AI Agent\uff08Android \u00b7 Kotlin + Compose\uff09\uff1a\u8bfb\u5c4f\u3001\u70b9\u6309\u3001\u6539\u6587\u4ef6\u3001\u8dd1\u547d\u4ee4\uff0c\u7eaf\u672c\u5730\u3001\u65e0\u4e91\u540c\u6b65",
     "id": "zeng6125-rgb/suixing",
     "language": "Kotlin",
@@ -27,42 +162,6 @@
     "url": "https://github.com/EayonLee/SecPlexus"
   },
   {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-29T08:40:58Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "AI day-trading Agent that watches markets, emits structured trade signals, and auto-executes trades across HK / US / A-s",
-    "id": "xhqing/DayTradingAgent",
-    "language": "Python",
-    "name": "xhqing/DayTradingAgent",
-    "stars": 4,
-    "updated_at": "2026-10-29T08:39:09Z",
-    "url": "https://github.com/xhqing/DayTradingAgent"
-  },
-  {
-    "description": "Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe",
-    "id": "SAOS-3624/dsh-video-storyboard",
-    "language": "JavaScript",
-    "name": "SAOS-3624/dsh-video-storyboard",
-    "stars": 137,
-    "updated_at": "2026-10-29T08:37:29Z",
-    "url": "https://github.com/SAOS-3624/dsh-video-storyboard"
-  },
-  {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-29T08:36:37Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
     "description": "A productive AI coworker that learns, self-improves, and ships work.",
     "id": "tomcounsell/ai",
     "language": "Python",
@@ -70,15 +169,6 @@
     "stars": 31,
     "updated_at": "2026-10-29T08:34:27Z",
     "url": "https://github.com/tomcounsell/ai"
-  },
-  {
-    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
-    "id": "lzmd-arch/BioSNN-Plug",
-    "language": "Python",
-    "name": "lzmd-arch/BioSNN-Plug",
-    "stars": 7,
-    "updated_at": "2026-10-29T08:31:47Z",
-    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
   },
   {
     "description": "DSH \u4e0a\u4e0b\u6587\u667a\u80fd\u538b\u7f29 + \u667a\u80fd\u601d\u8003\uff1a\u6bcf\u8f6e\u6ce8\u5165\u7528\u91cf\u3001\u6a21\u578b\u81ea\u4e3b\u51b3\u5b9a\u538b\u7f29\u5e76\u81ea\u52a8\u7eed\u8dd1\uff1b\u53ef\u9009\u8ba9\u6a21\u578b\u6309\u4efb\u52a1\u96be\u5ea6\u81ea\u4e3b\u8c03\u6574\u601d\u8003\u5f3a\u5ea6\u6863\u4f4d",
@@ -113,26 +203,8 @@
     "language": "Python",
     "name": "areal-project/AReaL",
     "stars": 5887,
-    "updated_at": "2026-10-29T08:25:28Z",
+    "updated_at": "2026-10-29T08:57:40Z",
     "url": "https://github.com/areal-project/AReaL"
-  },
-  {
-    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
-    "id": "9Ashwin/ShuaDouyin",
-    "language": "TypeScript",
-    "name": "9Ashwin/ShuaDouyin",
-    "stars": 1,
-    "updated_at": "2026-10-29T08:16:47Z",
-    "url": "https://github.com/9Ashwin/ShuaDouyin"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 17,
-    "updated_at": "2026-10-29T08:14:11Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
@@ -140,7 +212,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-29T08:43:42Z",
+    "updated_at": "2026-10-29T08:51:49Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -149,17 +221,8 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1154,
-    "updated_at": "2026-10-29T08:09:49Z",
+    "updated_at": "2026-10-29T08:59:06Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 56,
-    "updated_at": "2026-10-29T08:40:48Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
   },
   {
     "description": "\u672c\u5730\u4e8b\u4ef6\u9a71\u52a8\u578b\u6a21\u62df\u4ea4\u6613\u6846\u67b6",
@@ -167,17 +230,8 @@
     "language": "Python",
     "name": "oldfunk/paper-trading",
     "stars": 1,
-    "updated_at": "2026-10-29T08:04:33Z",
+    "updated_at": "2026-10-29T08:48:54Z",
     "url": "https://github.com/oldfunk/paper-trading"
-  },
-  {
-    "description": "Open-Source Intelligent Command Layer",
-    "id": "AVADSA25/codec",
-    "language": "Python",
-    "name": "AVADSA25/codec",
-    "stars": 108,
-    "updated_at": "2026-10-29T08:25:01Z",
-    "url": "https://github.com/AVADSA25/codec"
   },
   {
     "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
@@ -243,29 +297,11 @@
     "url": "https://github.com/HKUDS/DeepCode"
   },
   {
-    "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-29T07:47:28Z",
-    "url": "https://github.com/kifirkin/pi-braid"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-29T07:47:25Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
     "description": "Build and run agents you can see, understand and trust.",
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34713,
+    "stars": 34714,
     "updated_at": "2026-10-29T07:44:27Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-29T06:52:45Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": " Source code of Local Code, a private AI agent for Mac, iPad and iPhone. Runs DeepSeek 4.1 on device, with Python, Node.",
-    "id": "drawthingsai/local-code-community",
-    "language": "C",
-    "name": "drawthingsai/local-code-community",
-    "stars": 13,
-    "updated_at": "2026-10-29T06:46:08Z",
-    "url": "https://github.com/drawthingsai/local-code-community"
-  },
-  {
-    "description": "SRE Agent - CNCF Sandbox Project",
-    "id": "HolmesGPT/holmesgpt",
-    "language": "Python",
-    "name": "HolmesGPT/holmesgpt",
-    "stars": 3722,
-    "updated_at": "2026-10-29T06:37:51Z",
-    "url": "https://github.com/HolmesGPT/holmesgpt"
-  },
-  {
-    "description": "Bodhi \u2014 a local-first AI agent workbench in Rust: desktop app, Bamboo runtime, Jiandu shared memory, Nova computer use a",
-    "id": "bigduu/Zenith",
-    "language": "Shell",
-    "name": "bigduu/Zenith",
-    "stars": 6,
-    "updated_at": "2026-10-29T06:41:15Z",
-    "url": "https://github.com/bigduu/Zenith"
-  },
-  {
-    "description": "Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B",
-    "id": "bigduu/Bodhi-AI",
-    "language": "JavaScript",
-    "name": "bigduu/Bodhi-AI",
-    "stars": 17,
-    "updated_at": "2026-10-29T06:41:12Z",
-    "url": "https://github.com/bigduu/Bodhi-AI"
   }
 ]
