@@ -1,5 +1,50 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-29T02:42:16Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
+    "id": "kifirkin/pi-braid",
+    "language": "JavaScript",
+    "name": "kifirkin/pi-braid",
+    "stars": 1,
+    "updated_at": "2026-10-29T02:41:54Z",
+    "url": "https://github.com/kifirkin/pi-braid"
+  },
+  {
+    "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
+    "id": "dundundun0116/atlas",
+    "language": "Python",
+    "name": "dundundun0116/atlas",
+    "stars": 0,
+    "updated_at": "2026-10-29T02:40:11Z",
+    "url": "https://github.com/dundundun0116/atlas"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-29T02:37:55Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-29T02:30:15Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
     "id": "plurnk/plurnk-service",
     "language": "TypeScript",
@@ -32,17 +77,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-29T02:25:25Z",
+    "updated_at": "2026-10-29T02:38:51Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Graph-state memory, carry-over context management, and multi-agent orchestration for long-horizon LLM tasks",
-    "id": "dundundun0116/atlas",
-    "language": "Python",
-    "name": "dundundun0116/atlas",
-    "stars": 0,
-    "updated_at": "2026-10-29T02:19:56Z",
-    "url": "https://github.com/dundundun0116/atlas"
   },
   {
     "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
@@ -180,22 +216,13 @@
     "url": "https://github.com/alexwkleung/reika"
   },
   {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-29T01:45:23Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
-    "id": "kifirkin/pi-braid",
-    "language": "JavaScript",
-    "name": "kifirkin/pi-braid",
-    "stars": 1,
-    "updated_at": "2026-10-29T01:42:20Z",
-    "url": "https://github.com/kifirkin/pi-braid"
+    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
+    "id": "bitcloud-ai/Bittune",
+    "language": "TypeScript",
+    "name": "bitcloud-ai/Bittune",
+    "stars": 116,
+    "updated_at": "2026-10-29T01:45:47Z",
+    "url": "https://github.com/bitcloud-ai/Bittune"
   },
   {
     "description": "Your AI agent for bills and payments, for small businesses: it checks every bill before it is paid, pays in USDC on Arc ",
@@ -205,24 +232,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T01:41:34Z",
     "url": "https://github.com/duongnq2798/vestiarion"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-29T01:41:09Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "Local-first engineering agent that deploys, benchmarks and tunes vLLM/SGLang inference services on your own GPUs, with a",
-    "id": "bitcloud-ai/Bittune",
-    "language": "TypeScript",
-    "name": "bitcloud-ai/Bittune",
-    "stars": 115,
-    "updated_at": "2026-10-29T01:45:47Z",
-    "url": "https://github.com/bitcloud-ai/Bittune"
   },
   {
     "description": "DSB (\u9017\u6c99\u5305): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu",
@@ -241,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T01:31:40Z",
     "url": "https://github.com/andrewalhaj/custom-hermesagent"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-29T02:30:15Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
   },
   {
     "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
