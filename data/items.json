@@ -1,11 +1,92 @@
 [
   {
+    "description": "An \"ask your data\" analyst on Claude over a dbt + Postgres warehouse for a synthetic Indian manufacturer: governed metri",
+    "id": "SuppaTessta/channelpulse",
+    "language": "Python",
+    "name": "SuppaTessta/channelpulse",
+    "stars": 0,
+    "updated_at": "2026-10-29T03:44:32Z",
+    "url": "https://github.com/SuppaTessta/channelpulse"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-29T03:43:13Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
+    "id": "xianyu-sheng/Xenon",
+    "language": "Python",
+    "name": "xianyu-sheng/Xenon",
+    "stars": 56,
+    "updated_at": "2026-10-29T03:42:34Z",
+    "url": "https://github.com/xianyu-sheng/Xenon"
+  },
+  {
+    "description": "Autonomous plumbing dispatch & field operations platform powered by OpenRouter AI, FastAPI, and React.",
+    "id": "IAMSHIVAM19/Flowfix-Agent",
+    "language": "JavaScript",
+    "name": "IAMSHIVAM19/Flowfix-Agent",
+    "stars": 0,
+    "updated_at": "2026-10-29T03:41:16Z",
+    "url": "https://github.com/IAMSHIVAM19/Flowfix-Agent"
+  },
+  {
+    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
+    "id": "Zxy876/voyager-vlml-mve",
+    "language": "Python",
+    "name": "Zxy876/voyager-vlml-mve",
+    "stars": 2,
+    "updated_at": "2026-10-29T03:38:49Z",
+    "url": "https://github.com/Zxy876/voyager-vlml-mve"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 173,
+    "updated_at": "2026-10-29T03:42:53Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
+    "id": "agentscope-ai/agentscope-go",
+    "language": "Go",
+    "name": "agentscope-ai/agentscope-go",
+    "stars": 68,
+    "updated_at": "2026-10-29T03:37:13Z",
+    "url": "https://github.com/agentscope-ai/agentscope-go"
+  },
+  {
+    "description": "\u8bc1\u636e\u7ea6\u675f\u7684\u4ee3\u7801\u8bca\u65ad\u5de5\u4f5c\u53f0\uff1a\u786e\u5b9a\u6027\u9759\u6001\u5206\u6790\u62e5\u6709\u6e90\u7801\u4e8b\u5b9e\uff0cLLM \u53ea\u63d0\u5047\u8bbe\uff0cresolver/validator \u51b3\u5b9a\u80fd\u5426\u7ed1\u5b9a\u56de\u771f\u5b9e\u64cd\u4f5c\u2014\u2014\u8bc1\u636e\u4e0d\u8db3\u4fdd\u6301 unknown/abstained\uff0c\u4ece\u67b6\u6784\u6291\u5236\u5e7b\u89c9\u3002\u5df2\u5728\u771f\u5b9e\u5f00\u6e90\u9879\u76ee\u53d1\u73b0 bug\uff08stun",
+    "id": "xianyu-sheng/SmartBench",
+    "language": "Python",
+    "name": "xianyu-sheng/SmartBench",
+    "stars": 3,
+    "updated_at": "2026-10-29T03:32:15Z",
+    "url": "https://github.com/xianyu-sheng/SmartBench"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-29T03:31:25Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
     "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
     "id": "tya5/shellboy",
     "language": "Rust",
     "name": "tya5/shellboy",
     "stars": 0,
-    "updated_at": "2026-10-29T03:28:00Z",
+    "updated_at": "2026-10-29T03:42:15Z",
     "url": "https://github.com/tya5/shellboy"
   },
   {
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-29T03:26:59Z",
+    "updated_at": "2026-10-29T03:31:01Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -32,17 +113,8 @@
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 17,
-    "updated_at": "2026-10-29T03:26:57Z",
+    "updated_at": "2026-10-29T03:39:52Z",
     "url": "https://github.com/yurika0211/lucky-agent"
-  },
-  {
-    "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
-    "id": "agentscope-ai/agentscope-go",
-    "language": "Go",
-    "name": "agentscope-ai/agentscope-go",
-    "stars": 68,
-    "updated_at": "2026-10-29T03:25:06Z",
-    "url": "https://github.com/agentscope-ai/agentscope-go"
   },
   {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
@@ -68,17 +140,8 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-29T03:17:05Z",
+    "updated_at": "2026-10-29T03:45:15Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 173,
-    "updated_at": "2026-10-29T03:29:55Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "DSB (\u9017\u6c99\u5305): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu",
@@ -130,7 +193,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34669,
+    "stars": 34671,
     "updated_at": "2026-10-29T02:57:18Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -151,15 +214,6 @@
     "stars": 6,
     "updated_at": "2026-10-29T02:47:53Z",
     "url": "https://github.com/plurnk/plurnk"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-29T02:42:16Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
@@ -292,7 +346,7 @@
     "id": "bitcloud-ai/Bittune",
     "language": "TypeScript",
     "name": "bitcloud-ai/Bittune",
-    "stars": 116,
+    "stars": 118,
     "updated_at": "2026-10-29T01:45:47Z",
     "url": "https://github.com/bitcloud-ai/Bittune"
   },
@@ -313,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T01:31:40Z",
     "url": "https://github.com/andrewalhaj/custom-hermesagent"
-  },
-  {
-    "description": "LLM Agent \u7684\u5728\u7ebf\u5f3a\u5316\u5b66\u4e60\u7cfb\u7edf \u00b7 Voyager \u8303\u5f0f\uff1a\u81ea\u52a8\u8bfe\u7a0b \u2192 \u771f\u5b9e\u53d6\u6570 \u2192 \u6280\u80fd\u7ed3\u6676 \u2192 \u68c0\u7d22\u590d\u7528\uff0c\u65e0\u68af\u5ea6\u65e0\u5fae\u8c03\uff0c\u6280\u80fd\u5e93\u5c31\u662f\u53c2\u6570\u66f4\u65b0\uff1b\u771f\u5b9e\u6570\u636e\u5e93\u4e0a 1\u2192n \u53ef\u63d2\u62d4\u5b66\u4e60\u95ed\u73af\uff08\u9762\u677f\u5df2\u4e0a\u7ebf\uff09",
-    "id": "Zxy876/voyager-vlml-mve",
-    "language": "Python",
-    "name": "Zxy876/voyager-vlml-mve",
-    "stars": 2,
-    "updated_at": "2026-10-29T01:23:47Z",
-    "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T00:20:18Z",
     "url": "https://github.com/aimenhamzi01-dot/mizan"
-  },
-  {
-    "description": "Autonomous AI Cloud Agent 2026: Auto-Fix Code & PRs with Multi-LLM Sandbox",
-    "id": "Alucard1718/autonomous-code-sandbox",
-    "language": "HTML",
-    "name": "Alucard1718/autonomous-code-sandbox",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:14:16Z",
-    "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 824,
-    "updated_at": "2026-10-29T00:12:04Z",
-    "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
-    "id": "JdominguezEcommium/agentic-self-regulation-loop",
-    "language": "HTML",
-    "name": "JdominguezEcommium/agentic-self-regulation-loop",
-    "stars": 0,
-    "updated_at": "2026-10-28T23:47:40Z",
-    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
-  },
-  {
-    "description": "PicoBot self-hosted personal assistant.",
-    "id": "jumping2000/picobot",
-    "language": "Python",
-    "name": "jumping2000/picobot",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:23:14Z",
-    "url": "https://github.com/jumping2000/picobot"
-  },
-  {
-    "description": "Use AI to Create AI \u2014 Full-stack LLM Agent framework with DAG swarm orchestration, adversarial debates, and desktop clie",
-    "id": "haibingzhao/easyai",
-    "language": "Kotlin",
-    "name": "haibingzhao/easyai",
-    "stars": 1,
-    "updated_at": "2026-10-28T23:39:24Z",
-    "url": "https://github.com/haibingzhao/easyai"
   }
 ]
