@@ -1,5 +1,95 @@
 [
   {
+    "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
+    "id": "HaikeiLabs/agentware",
+    "language": "Python",
+    "name": "HaikeiLabs/agentware",
+    "stars": 2,
+    "updated_at": "2026-10-29T01:59:21Z",
+    "url": "https://github.com/HaikeiLabs/agentware"
+  },
+  {
+    "description": "AI-first personal OS: capture \u2192 execute \u2192 reflect. Todos, read-later, habits & reports in one calm, self-hosted workspac",
+    "id": "ximing/vital",
+    "language": "TypeScript",
+    "name": "ximing/vital",
+    "stars": 4,
+    "updated_at": "2026-10-29T01:56:42Z",
+    "url": "https://github.com/ximing/vital"
+  },
+  {
+    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
+    "id": "hsaghir/looplet",
+    "language": "Python",
+    "name": "hsaghir/looplet",
+    "stars": 7,
+    "updated_at": "2026-10-29T01:57:50Z",
+    "url": "https://github.com/hsaghir/looplet"
+  },
+  {
+    "description": "Design, conduct and analyze results of AI-powered surveys and experiments. Simulate social science and market research w",
+    "id": "expectedparrot/edsl",
+    "language": "Python",
+    "name": "expectedparrot/edsl",
+    "stars": 510,
+    "updated_at": "2026-10-29T01:54:32Z",
+    "url": "https://github.com/expectedparrot/edsl"
+  },
+  {
+    "description": "DSH \u6781\u7b80 PTC \u9884\u8bbe\uff1aPython / TypeScript \u5de5\u5177\u7f16\u6392\u3001Windows \u7ec8\u7aef\u9002\u914d\u4e0e\u5bbf\u4e3b\u5173\u952e\u7ea6\u675f\u4fdd\u7559\u3002\u6b22\u8fce\u63d0\u4ea4 issues \u548c PR\u3002",
+    "id": "STARDUSTLC666/dsh-minimal-ptc",
+    "language": "JavaScript",
+    "name": "STARDUSTLC666/dsh-minimal-ptc",
+    "stars": 2,
+    "updated_at": "2026-10-29T01:54:16Z",
+    "url": "https://github.com/STARDUSTLC666/dsh-minimal-ptc"
+  },
+  {
+    "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
+    "id": "impsland/imp",
+    "language": "Swift",
+    "name": "impsland/imp",
+    "stars": 1,
+    "updated_at": "2026-10-29T01:49:27Z",
+    "url": "https://github.com/impsland/imp"
+  },
+  {
+    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
+    "id": "bitranox/vnc-remote-control",
+    "language": "Python",
+    "name": "bitranox/vnc-remote-control",
+    "stars": 1,
+    "updated_at": "2026-10-29T01:47:58Z",
+    "url": "https://github.com/bitranox/vnc-remote-control"
+  },
+  {
+    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
+    "id": "alexwkleung/reika",
+    "language": "TypeScript",
+    "name": "alexwkleung/reika",
+    "stars": 12,
+    "updated_at": "2026-10-29T01:47:03Z",
+    "url": "https://github.com/alexwkleung/reika"
+  },
+  {
+    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
+    "id": "tya5/shellboy",
+    "language": "Rust",
+    "name": "tya5/shellboy",
+    "stars": 0,
+    "updated_at": "2026-10-29T01:45:36Z",
+    "url": "https://github.com/tya5/shellboy"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-29T01:45:23Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
     "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
     "id": "kifirkin/pi-braid",
     "language": "JavaScript",
@@ -32,7 +122,7 @@
     "language": "TypeScript",
     "name": "bitcloud-ai/Bittune",
     "stars": 115,
-    "updated_at": "2026-10-29T01:41:06Z",
+    "updated_at": "2026-10-29T01:45:47Z",
     "url": "https://github.com/bitcloud-ai/Bittune"
   },
   {
@@ -43,24 +133,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T01:40:25Z",
     "url": "https://github.com/tianye1999/dsb"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-29T01:40:06Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
-  },
-  {
-    "description": "Coding agent CLI for local and hosted models, designed around small local models first",
-    "id": "alexwkleung/reika",
-    "language": "TypeScript",
-    "name": "alexwkleung/reika",
-    "stars": 12,
-    "updated_at": "2026-10-29T01:41:46Z",
-    "url": "https://github.com/alexwkleung/reika"
   },
   {
     "description": "",
@@ -77,7 +149,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-29T01:25:04Z",
+    "updated_at": "2026-10-29T01:59:37Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -99,21 +171,12 @@
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
-    "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
-    "id": "hsaghir/looplet",
-    "language": "Python",
-    "name": "hsaghir/looplet",
-    "stars": 7,
-    "updated_at": "2026-10-29T01:39:22Z",
-    "url": "https://github.com/hsaghir/looplet"
-  },
-  {
     "description": "Bamboo \u2014 a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule",
     "id": "bigduu/Bamboo-agent",
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-29T01:20:57Z",
+    "updated_at": "2026-10-29T01:52:24Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T01:14:47Z",
     "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
-    "id": "tya5/shellboy",
-    "language": "Rust",
-    "name": "tya5/shellboy",
-    "stars": 0,
-    "updated_at": "2026-10-29T01:06:25Z",
-    "url": "https://github.com/tya5/shellboy"
   },
   {
     "description": "Local pre-write containment & structural scoring for AI coding agents: deterministic policy, Mamba-3 SSM coherence, and ",
@@ -185,7 +239,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1149,
-    "updated_at": "2026-10-29T01:41:08Z",
+    "updated_at": "2026-10-29T01:58:15Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -387,15 +441,6 @@
     "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
-    "description": "Layout-aware VNC/RFB remote control CLI: type, key, click, screenshot, OCR, against any VNC/RFB server.",
-    "id": "bitranox/vnc-remote-control",
-    "language": "Python",
-    "name": "bitranox/vnc-remote-control",
-    "stars": 1,
-    "updated_at": "2026-10-28T21:56:28Z",
-    "url": "https://github.com/bitranox/vnc-remote-control"
-  },
-  {
     "description": "Make any agent harness token-native.",
     "id": "Lawhy/tokin",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-10-28T21:54:52Z",
     "url": "https://github.com/Lawhy/tokin"
-  },
-  {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-29T00:33:32Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
-    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
-    "id": "sharonita610/agent-harness",
-    "language": "Python",
-    "name": "sharonita610/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-28T21:52:18Z",
-    "url": "https://github.com/sharonita610/agent-harness"
-  },
-  {
-    "description": "A local-first AI companion for Windows: it remembers you, dreams over your day at night, follows up on what matters and ",
-    "id": "b7216309-jpg/little-bot",
-    "language": "JavaScript",
-    "name": "b7216309-jpg/little-bot",
-    "stars": 0,
-    "updated_at": "2026-10-28T21:46:27Z",
-    "url": "https://github.com/b7216309-jpg/little-bot"
-  },
-  {
-    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
-    "id": "RalfHermsen/x4-agent",
-    "language": "Python",
-    "name": "RalfHermsen/x4-agent",
-    "stars": 0,
-    "updated_at": "2026-10-28T21:45:52Z",
-    "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": " Source code of Local Code, a private AI agent for Mac, iPad and iPhone. Runs DeepSeek 4.1 on device, with Python, Node.",
-    "id": "drawthingsai/local-code-community",
-    "language": "C",
-    "name": "drawthingsai/local-code-community",
-    "stars": 6,
-    "updated_at": "2026-10-28T21:35:56Z",
-    "url": "https://github.com/drawthingsai/local-code-community"
   }
 ]
