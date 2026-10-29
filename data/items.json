@@ -5,8 +5,71 @@
     "language": "TypeScript",
     "name": "no42-org/twiki",
     "stars": 0,
-    "updated_at": "2026-10-29T14:29:29Z",
+    "updated_at": "2026-10-29T14:44:56Z",
     "url": "https://github.com/no42-org/twiki"
+  },
+  {
+    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
+    "id": "zqc3117/Spotter",
+    "language": "Python",
+    "name": "zqc3117/Spotter",
+    "stars": 165,
+    "updated_at": "2026-10-29T14:41:37Z",
+    "url": "https://github.com/zqc3117/Spotter"
+  },
+  {
+    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
+    "id": "CIRISAI/CIRISAgent",
+    "language": "Python",
+    "name": "CIRISAI/CIRISAgent",
+    "stars": 58,
+    "updated_at": "2026-10-29T14:41:08Z",
+    "url": "https://github.com/CIRISAI/CIRISAgent"
+  },
+  {
+    "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
+    "id": "Canvixel-Eloweny/ai-bot-groupmate",
+    "language": "JavaScript",
+    "name": "Canvixel-Eloweny/ai-bot-groupmate",
+    "stars": 96,
+    "updated_at": "2026-10-29T14:38:54Z",
+    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
+  },
+  {
+    "description": "Community DSH host plugin that automatically resumes root-agent sessions after max-token truncation, with bounded retrie",
+    "id": "Wepoi9/dsh-max-token-auto-continue",
+    "language": "TypeScript",
+    "name": "Wepoi9/dsh-max-token-auto-continue",
+    "stars": 0,
+    "updated_at": "2026-10-29T14:37:13Z",
+    "url": "https://github.com/Wepoi9/dsh-max-token-auto-continue"
+  },
+  {
+    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
+    "id": "9Ashwin/ShuaDouyin",
+    "language": "TypeScript",
+    "name": "9Ashwin/ShuaDouyin",
+    "stars": 1,
+    "updated_at": "2026-10-29T14:37:00Z",
+    "url": "https://github.com/9Ashwin/ShuaDouyin"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 174,
+    "updated_at": "2026-10-29T14:34:46Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8995,
+    "updated_at": "2026-10-29T14:36:36Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "The Self-Improving Coding Agent",
@@ -14,8 +77,17 @@
     "language": "TypeScript",
     "name": "kanishka-namdeo/Unown",
     "stars": 0,
-    "updated_at": "2026-10-29T14:28:30Z",
+    "updated_at": "2026-10-29T14:32:58Z",
     "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
+    "id": "helixml/helix",
+    "language": "Go",
+    "name": "helixml/helix",
+    "stars": 824,
+    "updated_at": "2026-10-29T14:39:46Z",
+    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
@@ -25,24 +97,6 @@
     "stars": 5,
     "updated_at": "2026-10-29T14:28:12Z",
     "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
-    "id": "Canvixel-Eloweny/ai-bot-groupmate",
-    "language": "JavaScript",
-    "name": "Canvixel-Eloweny/ai-bot-groupmate",
-    "stars": 96,
-    "updated_at": "2026-10-29T14:26:57Z",
-    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
-  },
-  {
-    "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
-    "id": "helixml/helix",
-    "language": "Go",
-    "name": "helixml/helix",
-    "stars": 824,
-    "updated_at": "2026-10-29T14:30:11Z",
-    "url": "https://github.com/helixml/helix"
   },
   {
     "description": "\u628a\u6d77\u91cf\u5546\u54c1\u8bc4\u8bba\u6574\u7406\u6210\u53ef\u56de\u67e5\u3001\u53ef\u590d\u6838\u7684\u8fd0\u8425\u8bc1\u636e:\u53d7\u7ea6\u675f Agent + \u672c\u5730\u8bc1\u636e\u5f15\u64ce + \u9010\u5b57\u6bb5\u6821\u9a8c\u3002\u4ed3\u5e93\u81ea\u5e26 3 \u5546\u54c1\u6f14\u793a\u5b50\u96c6,\u514b\u9686\u5373\u53ef\u8fd0\u884c;AI \u6b65\u9aa4\u652f\u6301\u8bbf\u95ee\u8005\u81ea\u5e26 DeepSeek key\u3002",
@@ -77,24 +131,15 @@
     "language": "TypeScript",
     "name": "hay-chat/hay-core",
     "stars": 5,
-    "updated_at": "2026-10-29T14:19:06Z",
+    "updated_at": "2026-10-29T14:37:19Z",
     "url": "https://github.com/hay-chat/hay-core"
-  },
-  {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 174,
-    "updated_at": "2026-10-29T14:16:36Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
   },
   {
     "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
     "id": "NomaDamas/CozyClay",
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
-    "stars": 1156,
+    "stars": 1157,
     "updated_at": "2026-10-29T14:15:42Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "roxm337/blacklance",
     "stars": 0,
-    "updated_at": "2026-10-29T14:01:53Z",
+    "updated_at": "2026-10-29T14:36:39Z",
     "url": "https://github.com/roxm337/blacklance"
   },
   {
@@ -297,15 +342,6 @@
     "url": "https://github.com/plurnk/plurnk-service"
   },
   {
-    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
-    "id": "9Ashwin/ShuaDouyin",
-    "language": "TypeScript",
-    "name": "9Ashwin/ShuaDouyin",
-    "stars": 1,
-    "updated_at": "2026-10-29T13:33:52Z",
-    "url": "https://github.com/9Ashwin/ShuaDouyin"
-  },
-  {
     "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
     "id": "plurnk/plurnk",
     "language": "TypeScript",
@@ -333,15 +369,6 @@
     "url": "https://github.com/expectedparrot/edsl"
   },
   {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 58,
-    "updated_at": "2026-10-29T14:29:47Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
     "description": "",
     "id": "vinaosb/austringer",
     "language": "Rust",
@@ -360,15 +387,6 @@
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8995,
-    "updated_at": "2026-10-29T14:19:30Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
     "id": "hhyqhh/inno-agent",
     "language": "TypeScript",
@@ -376,15 +394,6 @@
     "stars": 1323,
     "updated_at": "2026-10-29T13:09:08Z",
     "url": "https://github.com/hhyqhh/inno-agent"
-  },
-  {
-    "description": "Community DSH host plugin that automatically resumes root-agent sessions after max-token truncation, with bounded retrie",
-    "id": "Wepoi9/dsh-max-token-auto-continue",
-    "language": "TypeScript",
-    "name": "Wepoi9/dsh-max-token-auto-continue",
-    "stars": 0,
-    "updated_at": "2026-10-29T13:02:34Z",
-    "url": "https://github.com/Wepoi9/dsh-max-token-auto-continue"
   },
   {
     "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T12:32:16Z",
     "url": "https://github.com/Arcticfox-star/SciFormula"
-  },
-  {
-    "description": "DeepSeek Harness \u63d2\u4ef6\uff1a\u5de5\u5177\u8c03\u7528\u9884\u6d4b\u4e0e\u9884\u53d6\u3002\u4ee5 Python \u8fb9\u8f66\u65b9\u5f0f\u62c9\u8d77 CT-GNN \u9884\u6d4b\u7f51\u5173\uff0c\u628a\u5176\u5de5\u5177\u539f\u751f\u6ce8\u518c\u5230 ctx.tools\u2014\u2014\u9884\u6d4b\u4e0b\u4e00\u4e2a\u5de5\u5177\u8c03\u7528\u3001\u5206\u5c42\u9884\u70ed\uff08L0-L3\uff09\u3001\u5728\u7ebf\u547d\u4e2d\u7387\u9065\u6d4b\u3001\u8bad\u7ec3\u6570\u636e\u81ea\u52a8\u91c7\u96c6\u3002",
-    "id": "Liman-cmd/dsh-plugin-tool-prefetch",
-    "language": "JavaScript",
-    "name": "Liman-cmd/dsh-plugin-tool-prefetch",
-    "stars": 0,
-    "updated_at": "2026-10-29T12:31:55Z",
-    "url": "https://github.com/Liman-cmd/dsh-plugin-tool-prefetch"
   }
 ]
