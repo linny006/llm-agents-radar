@@ -1,5 +1,113 @@
 [
   {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-29T19:41:57Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "MonoLight \u662f\u4e00\u4e2a\u4e13\u6ce8\u4e8e\u5b89\u5168\u6267\u884c\u4e0e\u4eba\u673a\u534f\u540c\u7684\u901a\u7528\u81ea\u4e3b\u667a\u80fd\u4f53\uff08General Autonomous Agent\uff09\u8fd0\u884c\u65f6\u3002",
+    "id": "honestDS/MonoLight",
+    "language": "Python",
+    "name": "honestDS/MonoLight",
+    "stars": 9,
+    "updated_at": "2026-10-29T19:41:05Z",
+    "url": "https://github.com/honestDS/MonoLight"
+  },
+  {
+    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
+    "id": "sharonita610/agent-harness",
+    "language": "Python",
+    "name": "sharonita610/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-29T19:41:03Z",
+    "url": "https://github.com/sharonita610/agent-harness"
+  },
+  {
+    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
+    "id": "TrungHuy2128/octium-wisp",
+    "language": "HTML",
+    "name": "TrungHuy2128/octium-wisp",
+    "stars": 0,
+    "updated_at": "2026-10-29T19:41:02Z",
+    "url": "https://github.com/TrungHuy2128/octium-wisp"
+  },
+  {
+    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
+    "id": "gptme/gptme",
+    "language": "Python",
+    "name": "gptme/gptme",
+    "stars": 4467,
+    "updated_at": "2026-10-29T19:44:55Z",
+    "url": "https://github.com/gptme/gptme"
+  },
+  {
+    "description": "A 1.5 credit graduate class about the nuts and bolts of LLMs.",
+    "id": "jphall663/GWU_LLM",
+    "language": "Jupyter Notebook",
+    "name": "jphall663/GWU_LLM",
+    "stars": 0,
+    "updated_at": "2026-10-29T19:39:42Z",
+    "url": "https://github.com/jphall663/GWU_LLM"
+  },
+  {
+    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
+    "id": "protoLabsAI/protoAgent",
+    "language": "Python",
+    "name": "protoLabsAI/protoAgent",
+    "stars": 14,
+    "updated_at": "2026-10-29T19:44:50Z",
+    "url": "https://github.com/protoLabsAI/protoAgent"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 6,
+    "updated_at": "2026-10-29T19:41:29Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Miki: a local-first autonomous AI agent that plans, uses tools, browses the web and edits files, with one global memory ",
+    "id": "glayph/Agent",
+    "language": "TypeScript",
+    "name": "glayph/Agent",
+    "stars": 0,
+    "updated_at": "2026-10-29T19:37:59Z",
+    "url": "https://github.com/glayph/Agent"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-29T19:35:54Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "A small, typed agent harness for Claude: tool registry with validated inputs, approval gates, context budgeting, verific",
+    "id": "Dhairya-007/agent-harness",
+    "language": "TypeScript",
+    "name": "Dhairya-007/agent-harness",
+    "stars": 0,
+    "updated_at": "2026-10-29T19:35:15Z",
+    "url": "https://github.com/Dhairya-007/agent-harness"
+  },
+  {
+    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
+    "id": "gabrielmaialva33/winx-code-agent",
+    "language": "Rust",
+    "name": "gabrielmaialva33/winx-code-agent",
+    "stars": 38,
+    "updated_at": "2026-10-29T19:32:09Z",
+    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
+  },
+  {
     "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
     "id": "hay-chat/hay-core",
     "language": "TypeScript",
@@ -18,15 +126,6 @@
     "url": "https://github.com/mintuz/skills"
   },
   {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-29T19:28:21Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
     "description": "A coding-agent CLI and strongly-typed Python library -- self-mutating, hot-swapping, multi-provider, with async tool cal",
     "id": "rekursiv-ai/sagent",
     "language": "Python",
@@ -34,15 +133,6 @@
     "stars": 83,
     "updated_at": "2026-10-29T19:27:28Z",
     "url": "https://github.com/rekursiv-ai/sagent"
-  },
-  {
-    "description": "A small, typed agent harness for Claude: tool registry with validated inputs, approval gates, context budgeting, verific",
-    "id": "Dhairya-007/agent-harness",
-    "language": "TypeScript",
-    "name": "Dhairya-007/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-29T19:26:59Z",
-    "url": "https://github.com/Dhairya-007/agent-harness"
   },
   {
     "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
@@ -79,24 +169,6 @@
     "stars": 7,
     "updated_at": "2026-10-29T19:11:23Z",
     "url": "https://github.com/ljchang/mecha"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-29T19:10:54Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
-    "id": "sharonita610/agent-harness",
-    "language": "Python",
-    "name": "sharonita610/agent-harness",
-    "stars": 0,
-    "updated_at": "2026-10-29T19:08:11Z",
-    "url": "https://github.com/sharonita610/agent-harness"
   },
   {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
@@ -207,39 +279,12 @@
     "url": "https://github.com/Alucard1718/autonomous-code-sandbox"
   },
   {
-    "description": "Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT.",
-    "id": "protoLabsAI/protoAgent",
-    "language": "Python",
-    "name": "protoLabsAI/protoAgent",
-    "stars": 14,
-    "updated_at": "2026-10-29T19:28:23Z",
-    "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own p",
-    "id": "gptme/gptme",
-    "language": "Python",
-    "name": "gptme/gptme",
-    "stars": 4468,
-    "updated_at": "2026-10-29T19:21:26Z",
-    "url": "https://github.com/gptme/gptme"
-  },
-  {
-    "description": "\ud83e\udd80 A high-performance code agent written in Rust, combining the best features of WCGW for maximum efficiency and semantic",
-    "id": "gabrielmaialva33/winx-code-agent",
-    "language": "Rust",
-    "name": "gabrielmaialva33/winx-code-agent",
-    "stars": 38,
-    "updated_at": "2026-10-29T18:22:17Z",
-    "url": "https://github.com/gabrielmaialva33/winx-code-agent"
-  },
-  {
     "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
     "id": "yurika0211/lucky-agent",
     "language": "Go",
     "name": "yurika0211/lucky-agent",
     "stars": 17,
-    "updated_at": "2026-10-29T19:29:47Z",
+    "updated_at": "2026-10-29T19:42:40Z",
     "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
@@ -284,7 +329,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1164,
-    "updated_at": "2026-10-29T17:57:28Z",
+    "updated_at": "2026-10-29T19:40:59Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-29T17:15:17Z",
     "url": "https://github.com/DeepWave-KAUST/sweepx"
-  },
-  {
-    "description": "LangGraph bug-fixing agent run on local Ollama models, with a 5-task benchmark comparing system prompts, tool designs an",
-    "id": "GKiyan/bugfix-agent-lab",
-    "language": "Python",
-    "name": "GKiyan/bugfix-agent-lab",
-    "stars": 0,
-    "updated_at": "2026-10-29T17:13:52Z",
-    "url": "https://github.com/GKiyan/bugfix-agent-lab"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 6,
-    "updated_at": "2026-10-29T19:11:51Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
-  },
-  {
-    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
-    "id": "shakhruz/mila",
-    "language": "Python",
-    "name": "shakhruz/mila",
-    "stars": 1,
-    "updated_at": "2026-10-29T17:07:42Z",
-    "url": "https://github.com/shakhruz/mila"
-  },
-  {
-    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
-    "id": "HKUDS/DeepCode",
-    "language": "Python",
-    "name": "HKUDS/DeepCode",
-    "stars": 16770,
-    "updated_at": "2026-10-29T17:06:51Z",
-    "url": "https://github.com/HKUDS/DeepCode"
-  },
-  {
-    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
-    "id": "addsumtech/job-hunt",
-    "language": "Python",
-    "name": "addsumtech/job-hunt",
-    "stars": 5,
-    "updated_at": "2026-10-29T17:09:32Z",
-    "url": "https://github.com/addsumtech/job-hunt"
   }
 ]
