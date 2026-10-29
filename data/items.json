@@ -1,12 +1,93 @@
 [
   {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-29T17:57:43Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-29T17:56:48Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
+    "id": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
+    "language": "Python",
+    "name": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
+    "stars": 4,
+    "updated_at": "2026-10-29T17:56:31Z",
+    "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
+  },
+  {
+    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
+    "id": "9Ashwin/ShuaDouyin",
+    "language": "TypeScript",
+    "name": "9Ashwin/ShuaDouyin",
+    "stars": 1,
+    "updated_at": "2026-10-29T17:55:54Z",
+    "url": "https://github.com/9Ashwin/ShuaDouyin"
+  },
+  {
+    "description": "A standalone agent harness in Rust: a provider-agnostic loop, MCP tools, a path jail and prompt-injection interlock, san",
+    "id": "ljchang/mecha",
+    "language": "Rust",
+    "name": "ljchang/mecha",
+    "stars": 7,
+    "updated_at": "2026-10-29T17:51:31Z",
+    "url": "https://github.com/ljchang/mecha"
+  },
+  {
+    "description": "PicoBot self-hosted personal assistant.",
+    "id": "jumping2000/picobot",
+    "language": "Python",
+    "name": "jumping2000/picobot",
+    "stars": 0,
+    "updated_at": "2026-10-29T17:54:54Z",
+    "url": "https://github.com/jumping2000/picobot"
+  },
+  {
     "description": "An open, MIT-licensed AI coding agent in Python. Read the source, fork it, self-host it. A Mvge (agent) casts Spells (to",
     "id": "IAmNo1Special/mvge",
     "language": "Python",
     "name": "IAmNo1Special/mvge",
     "stars": 2,
-    "updated_at": "2026-10-29T17:45:04Z",
+    "updated_at": "2026-10-29T17:48:40Z",
     "url": "https://github.com/IAmNo1Special/mvge"
+  },
+  {
+    "description": "The Self-Improving Coding Agent",
+    "id": "kanishka-namdeo/Unown",
+    "language": "TypeScript",
+    "name": "kanishka-namdeo/Unown",
+    "stars": 0,
+    "updated_at": "2026-10-29T17:48:12Z",
+    "url": "https://github.com/kanishka-namdeo/Unown"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-29T17:47:47Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-29T17:53:16Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
     "description": "\u267e\ufe0f Private Agent Fleet with Spec Coding. Each agent gets their own GPU-accelerated desktop. Run Claude, Codex, Gemini an",
@@ -16,15 +97,6 @@
     "stars": 824,
     "updated_at": "2026-10-29T17:43:32Z",
     "url": "https://github.com/helixml/helix"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-29T17:42:34Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Domain-pluggable LLM agent runtime with tool permissions, human approval, MCP server, and a repeatable eval harness. Loc",
@@ -43,33 +115,6 @@
     "stars": 21,
     "updated_at": "2026-10-29T17:39:53Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
-  },
-  {
-    "description": "The Self-Improving Coding Agent",
-    "id": "kanishka-namdeo/Unown",
-    "language": "TypeScript",
-    "name": "kanishka-namdeo/Unown",
-    "stars": 0,
-    "updated_at": "2026-10-29T17:36:58Z",
-    "url": "https://github.com/kanishka-namdeo/Unown"
-  },
-  {
-    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
-    "id": "9Ashwin/ShuaDouyin",
-    "language": "TypeScript",
-    "name": "9Ashwin/ShuaDouyin",
-    "stars": 1,
-    "updated_at": "2026-10-29T17:35:40Z",
-    "url": "https://github.com/9Ashwin/ShuaDouyin"
-  },
-  {
-    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
-    "id": "kyleslight/shun",
-    "language": "TypeScript",
-    "name": "kyleslight/shun",
-    "stars": 7,
-    "updated_at": "2026-10-29T17:30:25Z",
-    "url": "https://github.com/kyleslight/shun"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "gptme/gptme",
     "stars": 4468,
-    "updated_at": "2026-10-29T17:44:43Z",
+    "updated_at": "2026-10-29T17:48:34Z",
     "url": "https://github.com/gptme/gptme"
   },
   {
@@ -216,15 +261,6 @@
     "url": "https://github.com/hellices/korvid"
   },
   {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-29T17:01:51Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
     "id": "mmporong/rl-triage-agent",
     "language": "Python",
@@ -241,33 +277,6 @@
     "stars": 366,
     "updated_at": "2026-10-29T17:16:26Z",
     "url": "https://github.com/yologdev/yoagent"
-  },
-  {
-    "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
-    "id": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
-    "language": "Python",
-    "name": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
-    "stars": 4,
-    "updated_at": "2026-10-29T16:56:59Z",
-    "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-29T16:56:41Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "PicoBot self-hosted personal assistant.",
-    "id": "jumping2000/picobot",
-    "language": "Python",
-    "name": "jumping2000/picobot",
-    "stars": 0,
-    "updated_at": "2026-10-29T16:53:36Z",
-    "url": "https://github.com/jumping2000/picobot"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -338,7 +347,7 @@
     "language": "Go",
     "name": "denn-gubsky/loomcycle",
     "stars": 17,
-    "updated_at": "2026-10-29T17:29:23Z",
+    "updated_at": "2026-10-29T17:52:27Z",
     "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
@@ -364,7 +373,7 @@
     "id": "yilewang/llm-for-zotero",
     "language": "TypeScript",
     "name": "yilewang/llm-for-zotero",
-    "stars": 3450,
+    "stars": 3451,
     "updated_at": "2026-10-29T16:12:57Z",
     "url": "https://github.com/yilewang/llm-for-zotero"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T15:29:48Z",
     "url": "https://github.com/jphall663/GWU_LLM"
-  },
-  {
-    "description": "My collection of Claude Code, Codex and OMP Agent Skills for web and iOS Development",
-    "id": "mintuz/skills",
-    "language": "Python",
-    "name": "mintuz/skills",
-    "stars": 29,
-    "updated_at": "2026-10-29T16:39:40Z",
-    "url": "https://github.com/mintuz/skills"
   }
 ]
