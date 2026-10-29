@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-29 04:59 UTC
+> ⏰ Last updated: 2026-10-29 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,41 +42,41 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mmporong/rl-triage-agent](https://github.com/mmporong/rl-triage-agent) | 2 | Python | 2026-10-29 | Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe |
-| 2 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 108 | Python | 2026-10-29 | Open-Source Intelligent Command Layer |
-| 3 | [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) | 121 | JavaScript | 2026-10-29 | Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe |
-| 4 | [MaSunKing/medical-research-agent-grpo](https://github.com/MaSunKing/medical-research-agent-grpo) | 1 | Python | 2026-10-29 | Qwen3-8B 医学研究智能体：真实工具检索、QLoRA SFT、分阶段稠密奖励与 GRPO 风格 LoRA 后训练，面向本地部署。 |
-| 5 | [Zxy876/voyager-vlml-mve](https://github.com/Zxy876/voyager-vlml-mve) | 2 | Python | 2026-10-29 | LLM Agent 的在线强化学习系统 · Voyager 范式：自动课程 → 真实取数 → 技能结晶 → 检索复用，无梯度无微调，技能库就是参数更新；真实数据库上 1→n 可插拔学习闭环（面板已上线） |
-| 6 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-29 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
-| 7 | [ccr-wer/dsh-copilot-vision](https://github.com/ccr-wer/dsh-copilot-vision) | 0 | JavaScript | 2026-10-29 | Computer Use enhancement plugin for DeepSeek Harness (DSH). 纯 JS 视觉差分、网格位置编码、长程任务闭环与人机共驾授权。 |
-| 8 | [kifirkin/pi-braid](https://github.com/kifirkin/pi-braid) | 1 | JavaScript | 2026-10-29 | 🥨 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an |
-| 9 | [lzmd-arch/BioSNN-Plug](https://github.com/lzmd-arch/BioSNN-Plug) | 7 | Python | 2026-10-29 | 脉冲神经网络认知原型：纯局部学习规则（无代理梯度）+ SNN 自主调度 LLM。Spiking neural network cognitive prototype — purely local learning rules (no sur |
-| 10 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 498 | Python | 2026-10-29 | Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, |
-| 11 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 6705 | Python | 2026-10-29 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
-| 12 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 50 | Rust | 2026-10-29 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
-| 13 | [kzccIneko/cesium_gis_agent](https://github.com/kzccIneko/cesium_gis_agent) | 0 | JavaScript | 2026-10-29 | GeoAgent：把 GIS 分析能力封装为大模型可调用的工具，自然语言驱动「规划-执行-反思」，结果渲染到 CesiumJS 三维地球 |
-| 14 | [liumiaoqi/MaiBot](https://github.com/liumiaoqi/MaiBot) | 1 | Python | 2026-10-29 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
-| 15 | [IAMSHIVAM19/Flowfix-Agent](https://github.com/IAMSHIVAM19/Flowfix-Agent) | 0 | JavaScript | 2026-10-29 | Autonomous plumbing dispatch & field operations platform powered by OpenRouter AI, FastAPI, and React. |
-| 16 | [OpenMMO-Agent-UI/openmmo-agent-ui](https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui) | 1 | JavaScript | 2026-10-29 | A desktop client for playing OpenMMO manually or with an LLM at the controls. |
-| 17 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 34680 | Python | 2026-10-29 | Build and run agents you can see, understand and trust. |
-| 18 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-10-29 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
-| 19 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-29 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
-| 20 | [SuppaTessta/channelpulse](https://github.com/SuppaTessta/channelpulse) | 0 | Python | 2026-10-29 | An "ask your data" analyst on Claude over a dbt + Postgres warehouse for a synthetic Indian manufacturer: governed metri |
-| 21 | [tya5/shellboy](https://github.com/tya5/shellboy) | 0 | Rust | 2026-10-29 | Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran |
-| 22 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-29 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
-| 23 | [yurika0211/lucky-agent](https://github.com/yurika0211/lucky-agent) | 17 | Go | 2026-10-29 | LuckyAgent — 注重长任务规划和系统记忆性的Agent框架 |
-| 24 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 6 | TypeScript | 2026-10-29 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
-| 25 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 1151 | JavaScript | 2026-10-29 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
-| 26 | [wq19901103wq/wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) | 130 | Python | 2026-10-29 | 基于多模态视觉感知与 LLM Agent 的 macOS 微信自动化框架 \| Visual RPA for WeChat |
-| 27 | [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | 173 | Rust | 2026-10-29 | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s |
-| 28 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 56 | Python | 2026-10-29 | Verifiable AI coding agent harness / 可验证的 AI 编码代理：evidence hash-chain · hollow-answer gate · manual verification checkli |
-| 29 | [agentscope-ai/agentscope-go](https://github.com/agentscope-ai/agentscope-go) | 68 | Go | 2026-10-29 | AgentScope Golang: Agent-Oriented Programming for Building LLM Applications |
-| 30 | [xianyu-sheng/SmartBench](https://github.com/xianyu-sheng/SmartBench) | 3 | Python | 2026-10-29 | 证据约束的代码诊断工作台：确定性静态分析拥有源码事实，LLM 只提假设，resolver/validator 决定能否绑定回真实操作——证据不足保持 unknown/abstained，从架构抑制幻觉。已在真实开源项目发现 bug（stun |
-| 31 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 14 | Python | 2026-10-29 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
-| 32 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 7 | Python | 2026-10-29 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
-| 33 | [impsland/imp](https://github.com/impsland/imp) | 1 | Swift | 2026-10-29 | Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor |
-| 34 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 21 | Rust | 2026-10-29 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
-| 35 | [tianye1999/dsb](https://github.com/tianye1999/dsb) | 1 | Python | 2026-10-29 | DSB (逗沙包): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu |
+| 1 | [tianye1999/dsb](https://github.com/tianye1999/dsb) | 1 | Python | 2026-10-29 | DSB (逗沙包): an open-source, trust-first Android AI agent. Delegate app chores on a background virtual display, with execu |
+| 2 | [Zxy876/voyager-vlml-mve](https://github.com/Zxy876/voyager-vlml-mve) | 2 | Python | 2026-10-29 | LLM Agent 的在线强化学习系统 · Voyager 范式：自动课程 → 真实取数 → 技能结晶 → 检索复用，无梯度无微调，技能库就是参数更新；真实数据库上 1→n 可插拔学习闭环（面板已上线） |
+| 3 | [mmporong/rl-triage-agent](https://github.com/mmporong/rl-triage-agent) | 2 | Python | 2026-10-29 | Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe |
+| 4 | [AVADSA25/codec](https://github.com/AVADSA25/codec) | 108 | Python | 2026-10-29 | Open-Source Intelligent Command Layer |
+| 5 | [SAOS-3624/dsh-video-storyboard](https://github.com/SAOS-3624/dsh-video-storyboard) | 121 | JavaScript | 2026-10-29 | Scene-aware storyboard for DeepSeek Harness: 9-16 numbered cells with timestamps + transcript + an audio envelope, packe |
+| 6 | [MaSunKing/medical-research-agent-grpo](https://github.com/MaSunKing/medical-research-agent-grpo) | 1 | Python | 2026-10-29 | Qwen3-8B 医学研究智能体：真实工具检索、QLoRA SFT、分阶段稠密奖励与 GRPO 风格 LoRA 后训练，面向本地部署。 |
+| 7 | [aiterrariumcontrol/terrarium-life](https://github.com/aiterrariumcontrol/terrarium-life) | 0 | Python | 2026-10-29 | The life record of an autonomous AI agent — its diary, work journal, and every wake it has taken. The observation window |
+| 8 | [ccr-wer/dsh-copilot-vision](https://github.com/ccr-wer/dsh-copilot-vision) | 0 | JavaScript | 2026-10-29 | Computer Use enhancement plugin for DeepSeek Harness (DSH). 纯 JS 视觉差分、网格位置编码、长程任务闭环与人机共驾授权。 |
+| 9 | [kifirkin/pi-braid](https://github.com/kifirkin/pi-braid) | 1 | JavaScript | 2026-10-29 | 🥨 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an |
+| 10 | [lzmd-arch/BioSNN-Plug](https://github.com/lzmd-arch/BioSNN-Plug) | 7 | Python | 2026-10-29 | 脉冲神经网络认知原型：纯局部学习规则（无代理梯度）+ SNN 自主调度 LLM。Spiking neural network cognitive prototype — purely local learning rules (no sur |
+| 11 | [410979729/scope-recall-hermes](https://github.com/410979729/scope-recall-hermes) | 498 | Python | 2026-10-29 | Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, |
+| 12 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | 6705 | Python | 2026-10-29 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 13 | [zhixuli0406/DuDuClaw](https://github.com/zhixuli0406/DuDuClaw) | 50 | Rust | 2026-10-29 | Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha |
+| 14 | [kzccIneko/cesium_gis_agent](https://github.com/kzccIneko/cesium_gis_agent) | 0 | JavaScript | 2026-10-29 | GeoAgent：把 GIS 分析能力封装为大模型可调用的工具，自然语言驱动「规划-执行-反思」，结果渲染到 CesiumJS 三维地球 |
+| 15 | [liumiaoqi/MaiBot](https://github.com/liumiaoqi/MaiBot) | 1 | Python | 2026-10-29 | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style |
+| 16 | [IAMSHIVAM19/Flowfix-Agent](https://github.com/IAMSHIVAM19/Flowfix-Agent) | 0 | JavaScript | 2026-10-29 | Autonomous plumbing dispatch & field operations platform powered by OpenRouter AI, FastAPI, and React. |
+| 17 | [OpenMMO-Agent-UI/openmmo-agent-ui](https://github.com/OpenMMO-Agent-UI/openmmo-agent-ui) | 1 | JavaScript | 2026-10-29 | A desktop client for playing OpenMMO manually or with an LLM at the controls. |
+| 18 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | 34681 | Python | 2026-10-29 | Build and run agents you can see, understand and trust. |
+| 19 | [RalfHermsen/x4-agent](https://github.com/RalfHermsen/x4-agent) | 0 | Python | 2026-10-29 | A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com |
+| 20 | [plurnk/plurnk-service](https://github.com/plurnk/plurnk-service) | 1 | TypeScript | 2026-10-29 | Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers. |
+| 21 | [SuppaTessta/channelpulse](https://github.com/SuppaTessta/channelpulse) | 0 | Python | 2026-10-29 | An "ask your data" analyst on Claude over a dbt + Postgres warehouse for a synthetic Indian manufacturer: governed metri |
+| 22 | [tya5/shellboy](https://github.com/tya5/shellboy) | 0 | Rust | 2026-10-29 | Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran |
+| 23 | [JdominguezEcommium/agentic-self-regulation-loop](https://github.com/JdominguezEcommium/agentic-self-regulation-loop) | 0 | HTML | 2026-10-29 | 2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing |
+| 24 | [yurika0211/lucky-agent](https://github.com/yurika0211/lucky-agent) | 17 | Go | 2026-10-29 | LuckyAgent — 注重长任务规划和系统记忆性的Agent框架 |
+| 25 | [plurnk/plurnk](https://github.com/plurnk/plurnk) | 6 | TypeScript | 2026-10-29 | Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models. |
+| 26 | [NomaDamas/CozyClay](https://github.com/NomaDamas/CozyClay) | 1151 | JavaScript | 2026-10-29 | Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the  |
+| 27 | [wq19901103wq/wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) | 130 | Python | 2026-10-29 | 基于多模态视觉感知与 LLM Agent 的 macOS 微信自动化框架 \| Visual RPA for WeChat |
+| 28 | [bigfish1913/pi-rust](https://github.com/bigfish1913/pi-rust) | 173 | Rust | 2026-10-29 | Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s |
+| 29 | [xianyu-sheng/Xenon](https://github.com/xianyu-sheng/Xenon) | 56 | Python | 2026-10-29 | Verifiable AI coding agent harness / 可验证的 AI 编码代理：evidence hash-chain · hollow-answer gate · manual verification checkli |
+| 30 | [agentscope-ai/agentscope-go](https://github.com/agentscope-ai/agentscope-go) | 68 | Go | 2026-10-29 | AgentScope Golang: Agent-Oriented Programming for Building LLM Applications |
+| 31 | [xianyu-sheng/SmartBench](https://github.com/xianyu-sheng/SmartBench) | 3 | Python | 2026-10-29 | 证据约束的代码诊断工作台：确定性静态分析拥有源码事实，LLM 只提假设，resolver/validator 决定能否绑定回真实操作——证据不足保持 unknown/abstained，从架构抑制幻觉。已在真实开源项目发现 bug（stun |
+| 32 | [protoLabsAI/protoAgent](https://github.com/protoLabsAI/protoAgent) | 14 | Python | 2026-10-29 | Local-first agent that drives Claude Code and Codex over ACP. Desktop app, git-URL plugins, A2A 1.0. MIT. |
+| 33 | [hsaghir/looplet](https://github.com/hsaghir/looplet) | 7 | Python | 2026-10-29 | Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change. |
+| 34 | [impsland/imp](https://github.com/impsland/imp) | 1 | Swift | 2026-10-29 | Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor |
+| 35 | [bigduu/Bamboo-agent](https://github.com/bigduu/Bamboo-agent) | 21 | Rust | 2026-10-29 | Bamboo — a local-first Rust agent harness and runtime with sessions, tools, skills, MCP, sub-agents, workflows, schedule |
 | 36 | [bigduu/Bodhi-AI](https://github.com/bigduu/Bodhi-AI) | 17 | JavaScript | 2026-10-29 | Tauri desktop shell for the local-first Bodhi agent: manages Bamboo startup/reuse and health; packaged builds open the B |
 | 37 | [kanishka-namdeo/Unown](https://github.com/kanishka-namdeo/Unown) | 0 | TypeScript | 2026-10-29 | The Self-Improving Coding Agent |
 | 38 | [SugarMGP/MumuBot](https://github.com/SugarMGP/MumuBot) | 26 | Go | 2026-10-29 | 一个会聊天、会记事、会融入群文化的赛博 QQ 群友 |
