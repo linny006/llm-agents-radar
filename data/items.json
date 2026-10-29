@@ -1,12 +1,48 @@
 [
   {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
+    "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
+    "id": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
     "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-29T16:43:34Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
+    "name": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
+    "stars": 4,
+    "updated_at": "2026-10-29T16:56:59Z",
+    "url": "https://github.com/roydonsequeira/CORTEX-Private-Intelligence-Framework"
+  },
+  {
+    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
+    "id": "aiterrariumcontrol/terrarium-life",
+    "language": "Python",
+    "name": "aiterrariumcontrol/terrarium-life",
+    "stars": 0,
+    "updated_at": "2026-10-29T16:56:41Z",
+    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-29T16:55:51Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8996,
+    "updated_at": "2026-10-29T16:54:36Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "PicoBot self-hosted personal assistant.",
+    "id": "jumping2000/picobot",
+    "language": "Python",
+    "name": "jumping2000/picobot",
+    "stars": 0,
+    "updated_at": "2026-10-29T16:53:36Z",
+    "url": "https://github.com/jumping2000/picobot"
   },
   {
     "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
@@ -14,8 +50,35 @@
     "language": "TypeScript",
     "name": "9Ashwin/ShuaDouyin",
     "stars": 1,
-    "updated_at": "2026-10-29T16:42:22Z",
+    "updated_at": "2026-10-29T16:49:27Z",
     "url": "https://github.com/9Ashwin/ShuaDouyin"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-29T16:48:55Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-29T16:59:39Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-29T16:43:34Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -36,21 +99,12 @@
     "url": "https://github.com/impsland/imp"
   },
   {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "Python",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8996,
-    "updated_at": "2026-10-29T16:39:25Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
-  },
-  {
     "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
     "id": "tya5/shellboy",
     "language": "Rust",
     "name": "tya5/shellboy",
     "stars": 0,
-    "updated_at": "2026-10-29T16:39:15Z",
+    "updated_at": "2026-10-29T16:58:18Z",
     "url": "https://github.com/tya5/shellboy"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-29T16:38:01Z",
+    "updated_at": "2026-10-29T16:59:21Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -70,24 +124,6 @@
     "stars": 2,
     "updated_at": "2026-10-29T16:38:42Z",
     "url": "https://github.com/Kiru-Sama/Kiru-Astrbot-Addons"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-29T16:37:29Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-29T16:44:26Z",
-    "url": "https://github.com/hay-chat/hay-core"
   },
   {
     "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
@@ -232,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T16:01:25Z",
     "url": "https://github.com/tianye1999/dsb"
-  },
-  {
-    "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
-    "id": "aiterrariumcontrol/terrarium-life",
-    "language": "Python",
-    "name": "aiterrariumcontrol/terrarium-life",
-    "stars": 0,
-    "updated_at": "2026-10-29T15:55:40Z",
-    "url": "https://github.com/aiterrariumcontrol/terrarium-life"
   },
   {
     "description": "MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style",
@@ -421,32 +448,5 @@
     "stars": 1159,
     "updated_at": "2026-10-29T14:15:42Z",
     "url": "https://github.com/NomaDamas/CozyClay"
-  },
-  {
-    "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
-    "id": "TrungHuy2128/octium-wisp",
-    "language": "HTML",
-    "name": "TrungHuy2128/octium-wisp",
-    "stars": 0,
-    "updated_at": "2026-10-29T14:15:09Z",
-    "url": "https://github.com/TrungHuy2128/octium-wisp"
-  },
-  {
-    "description": "Grocery agent for Dutch supermarkets: Claude tool use, meal planning and cheapest-basket pricing across 10 stores, with ",
-    "id": "MLeona020839/boodschappen-agent",
-    "language": "Python",
-    "name": "MLeona020839/boodschappen-agent",
-    "stars": 0,
-    "updated_at": "2026-10-29T14:10:49Z",
-    "url": "https://github.com/MLeona020839/boodschappen-agent"
-  },
-  {
-    "description": "Agent \u4e1a\u52a1\u6267\u884c\u5e95\u5ea7\uff1a\u53d7\u63a7\u5de5\u5177\u8c03\u7528\u3001\u591a\u5e94\u7528 HTTP\u3001\u53ef\u5ba1\u8ba1\u8f68\u8ff9\u4e0e\u56de\u5f52\u95ed\u73af",
-    "id": "weihuaguo270-ops/react-agent",
-    "language": "Python",
-    "name": "weihuaguo270-ops/react-agent",
-    "stars": 0,
-    "updated_at": "2026-10-29T14:09:15Z",
-    "url": "https://github.com/weihuaguo270-ops/react-agent"
   }
 ]
