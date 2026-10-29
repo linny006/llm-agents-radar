@@ -1,5 +1,86 @@
 [
   {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-29T03:59:53Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "",
+    "id": "andrewalhaj/custom-hermesagent",
+    "language": "Python",
+    "name": "andrewalhaj/custom-hermesagent",
+    "stars": 0,
+    "updated_at": "2026-10-29T03:59:49Z",
+    "url": "https://github.com/andrewalhaj/custom-hermesagent"
+  },
+  {
+    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
+    "id": "tya5/shellboy",
+    "language": "Rust",
+    "name": "tya5/shellboy",
+    "stars": 0,
+    "updated_at": "2026-10-29T03:58:08Z",
+    "url": "https://github.com/tya5/shellboy"
+  },
+  {
+    "description": "2026 AI Agent Loop v2.0: Autonomous Coding with Guardrails & Self-Healing",
+    "id": "JdominguezEcommium/agentic-self-regulation-loop",
+    "language": "HTML",
+    "name": "JdominguezEcommium/agentic-self-regulation-loop",
+    "stars": 0,
+    "updated_at": "2026-10-29T03:55:45Z",
+    "url": "https://github.com/JdominguezEcommium/agentic-self-regulation-loop"
+  },
+  {
+    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
+    "id": "yurika0211/lucky-agent",
+    "language": "Go",
+    "name": "yurika0211/lucky-agent",
+    "stars": 17,
+    "updated_at": "2026-10-29T03:50:28Z",
+    "url": "https://github.com/yurika0211/lucky-agent"
+  },
+  {
+    "description": "A local-LLM agent that plays X4: Foundations according to your own guidelines. The model plans, deterministic Python com",
+    "id": "RalfHermsen/x4-agent",
+    "language": "Python",
+    "name": "RalfHermsen/x4-agent",
+    "stars": 0,
+    "updated_at": "2026-10-29T03:49:41Z",
+    "url": "https://github.com/RalfHermsen/x4-agent"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-29T03:46:42Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "\u57fa\u4e8e\u591a\u6a21\u6001\u89c6\u89c9\u611f\u77e5\u4e0e LLM Agent \u7684 macOS \u5fae\u4fe1\u81ea\u52a8\u5316\u6846\u67b6 | Visual RPA for WeChat",
+    "id": "wq19901103wq/wechat-mac-rpa",
+    "language": "Python",
+    "name": "wq19901103wq/wechat-mac-rpa",
+    "stars": 130,
+    "updated_at": "2026-10-29T03:46:21Z",
+    "url": "https://github.com/wq19901103wq/wechat-mac-rpa"
+  },
+  {
+    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
+    "id": "bigfish1913/pi-rust",
+    "language": "Rust",
+    "name": "bigfish1913/pi-rust",
+    "stars": 173,
+    "updated_at": "2026-10-29T03:48:26Z",
+    "url": "https://github.com/bigfish1913/pi-rust"
+  },
+  {
     "description": "An \"ask your data\" analyst on Claude over a dbt + Postgres warehouse for a synthetic Indian manufacturer: governed metri",
     "id": "SuppaTessta/channelpulse",
     "language": "Python",
@@ -45,15 +126,6 @@
     "url": "https://github.com/Zxy876/voyager-vlml-mve"
   },
   {
-    "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
-    "id": "bigfish1913/pi-rust",
-    "language": "Rust",
-    "name": "bigfish1913/pi-rust",
-    "stars": 173,
-    "updated_at": "2026-10-29T03:42:53Z",
-    "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
     "description": "AgentScope Golang: Agent-Oriented Programming for Building LLM Applications",
     "id": "agentscope-ai/agentscope-go",
     "language": "Go",
@@ -81,15 +153,6 @@
     "url": "https://github.com/zhixuli0406/DuDuClaw"
   },
   {
-    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
-    "id": "tya5/shellboy",
-    "language": "Rust",
-    "name": "tya5/shellboy",
-    "stars": 0,
-    "updated_at": "2026-10-29T03:42:15Z",
-    "url": "https://github.com/tya5/shellboy"
-  },
-  {
     "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
     "id": "lzmd-arch/BioSNN-Plug",
     "language": "Python",
@@ -106,15 +169,6 @@
     "stars": 14,
     "updated_at": "2026-10-29T03:31:01Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
-  },
-  {
-    "description": "LuckyAgent \u2014 \u6ce8\u91cd\u957f\u4efb\u52a1\u89c4\u5212\u548c\u7cfb\u7edf\u8bb0\u5fc6\u6027\u7684Agent\u6846\u67b6",
-    "id": "yurika0211/lucky-agent",
-    "language": "Go",
-    "name": "yurika0211/lucky-agent",
-    "stars": 17,
-    "updated_at": "2026-10-29T03:39:52Z",
-    "url": "https://github.com/yurika0211/lucky-agent"
   },
   {
     "description": "Test-driven harness engineering for Python agents: own the loop, capture failures, and gate every change.",
@@ -140,7 +194,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-29T03:45:15Z",
+    "updated_at": "2026-10-29T03:56:19Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 17,
     "updated_at": "2026-10-29T03:09:01Z",
     "url": "https://github.com/bigduu/Bodhi-AI"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-29T03:06:53Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
@@ -193,7 +238,7 @@
     "id": "agentscope-ai/agentscope",
     "language": "Python",
     "name": "agentscope-ai/agentscope",
-    "stars": 34671,
+    "stars": 34674,
     "updated_at": "2026-10-29T02:57:18Z",
     "url": "https://github.com/agentscope-ai/agentscope"
   },
@@ -205,15 +250,6 @@
     "stars": 26,
     "updated_at": "2026-10-29T02:53:43Z",
     "url": "https://github.com/SugarMGP/MumuBot"
-  },
-  {
-    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
-    "id": "plurnk/plurnk",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk",
-    "stars": 6,
-    "updated_at": "2026-10-29T02:47:53Z",
-    "url": "https://github.com/plurnk/plurnk"
   },
   {
     "description": "\ud83e\udd68 Braid - Metacognitive extension suite for pi coding agent: Adds memory, plan tracking, structured cognitive signals an",
@@ -293,7 +329,7 @@
     "language": "JavaScript",
     "name": "NomaDamas/CozyClay",
     "stars": 1150,
-    "updated_at": "2026-10-29T01:58:15Z",
+    "updated_at": "2026-10-29T03:46:31Z",
     "url": "https://github.com/NomaDamas/CozyClay"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/duongnq2798/vestiarion"
   },
   {
-    "description": "",
-    "id": "andrewalhaj/custom-hermesagent",
-    "language": "Python",
-    "name": "andrewalhaj/custom-hermesagent",
-    "stars": 0,
-    "updated_at": "2026-10-29T01:31:40Z",
-    "url": "https://github.com/andrewalhaj/custom-hermesagent"
-  },
-  {
     "description": "Octium 2026: Best AI CLI Tool for GPT API - Fast Terminal Chat",
     "id": "TrungHuy2128/octium-wisp",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T00:28:37Z",
     "url": "https://github.com/xufenghe/aimo3-agentic-inference"
-  },
-  {
-    "description": "One AI Security Platform: Protect, Operate, Respond",
-    "id": "EayonLee/SecPlexus",
-    "language": "TypeScript",
-    "name": "EayonLee/SecPlexus",
-    "stars": 3,
-    "updated_at": "2026-10-29T00:28:07Z",
-    "url": "https://github.com/EayonLee/SecPlexus"
-  },
-  {
-    "description": " Native-Swift coding agent for the terminal and ACP. One binary, no Node runtime \u2014 customizable tools, parallel agentic ",
-    "id": "gerardogrisolini/ZenCODE",
-    "language": "Swift",
-    "name": "gerardogrisolini/ZenCODE",
-    "stars": 6,
-    "updated_at": "2026-10-29T00:25:35Z",
-    "url": "https://github.com/gerardogrisolini/ZenCODE"
-  },
-  {
-    "description": "Mizan \u2014 an AI triage agent for security vulnerability reports, built on Meta's models. Reads reports and code, flags pro",
-    "id": "aimenhamzi01-dot/mizan",
-    "language": "Python",
-    "name": "aimenhamzi01-dot/mizan",
-    "stars": 0,
-    "updated_at": "2026-10-29T00:20:18Z",
-    "url": "https://github.com/aimenhamzi01-dot/mizan"
   }
 ]
