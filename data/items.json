@@ -1,5 +1,122 @@
 [
   {
+    "description": "LangGraph bug-fixing agent run on local Ollama models, with a 5-task benchmark comparing system prompts, tool designs an",
+    "id": "GKiyan/bugfix-agent-lab",
+    "language": "Python",
+    "name": "GKiyan/bugfix-agent-lab",
+    "stars": 0,
+    "updated_at": "2026-10-29T17:13:52Z",
+    "url": "https://github.com/GKiyan/bugfix-agent-lab"
+  },
+  {
+    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
+    "id": "hay-chat/hay-core",
+    "language": "TypeScript",
+    "name": "hay-chat/hay-core",
+    "stars": 5,
+    "updated_at": "2026-10-29T17:13:56Z",
+    "url": "https://github.com/hay-chat/hay-core"
+  },
+  {
+    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
+    "id": "genaforvena/mishe-tauftauf",
+    "language": "Python",
+    "name": "genaforvena/mishe-tauftauf",
+    "stars": 3,
+    "updated_at": "2026-10-29T17:13:15Z",
+    "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
+    "id": "plurnk/plurnk-service",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk-service",
+    "stars": 1,
+    "updated_at": "2026-10-29T17:09:59Z",
+    "url": "https://github.com/plurnk/plurnk-service"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 6,
+    "updated_at": "2026-10-29T17:07:45Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
+    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
+    "id": "shakhruz/mila",
+    "language": "Python",
+    "name": "shakhruz/mila",
+    "stars": 1,
+    "updated_at": "2026-10-29T17:07:42Z",
+    "url": "https://github.com/shakhruz/mila"
+  },
+  {
+    "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+    "id": "HKUDS/DeepCode",
+    "language": "Python",
+    "name": "HKUDS/DeepCode",
+    "stars": 16770,
+    "updated_at": "2026-10-29T17:06:51Z",
+    "url": "https://github.com/HKUDS/DeepCode"
+  },
+  {
+    "description": "\u9002\u7528\u4e8e Claude Code \u548c Codex \u7684\u6c42\u804c Skill\uff1a\u67e5\u627e\u5c97\u4f4d\u3001\u5224\u65ad\u662f\u5426\u503c\u5f97\u6295\u9012\u3001\u5236\u4f5c\u7b80\u5386\u4e0e\u7533\u8bf7\u6750\u6599\u3001\u68c0\u9a8c\u7533\u8bf7\u6750\u6599\u5e76\u6a21\u62df\u9762\u8bd5\u3002\u4e0d\u7f16\u9020\u6280\u80fd\u6216\u4e1a\u7ee9\u6570\u5b57\uff0c\u4e0d\u9884\u6d4b\u5f55\u7528\u6982\u7387\uff1b\u68c0\u67e5\u7b80\u5386\u662f\u5426\u4fbf\u4e8e\u62db\u8058\u7ba1\u7406\u7cfb\u7edf\uff08ATS\uff09\u8bfb\u53d6\uff0c\u5e76\u4ece\u62db\u8058\u4eba\u5458\u548c\u7528\u4eba",
+    "id": "addsumtech/job-hunt",
+    "language": "Python",
+    "name": "addsumtech/job-hunt",
+    "stars": 5,
+    "updated_at": "2026-10-29T17:09:32Z",
+    "url": "https://github.com/addsumtech/job-hunt"
+  },
+  {
+    "description": "The harness that makes consumer-GPU models feel first-class. Local-first: no telemetry, no account, no cloud tier.",
+    "id": "kyleslight/shun",
+    "language": "TypeScript",
+    "name": "kyleslight/shun",
+    "stars": 7,
+    "updated_at": "2026-10-29T17:05:27Z",
+    "url": "https://github.com/kyleslight/shun"
+  },
+  {
+    "description": "Keyboard-first Kubernetes TUI with an AI agent that works on the same screen, plus an MCP bridge for your editor's assis",
+    "id": "hellices/korvid",
+    "language": "Python",
+    "name": "hellices/korvid",
+    "stars": 3,
+    "updated_at": "2026-10-29T17:02:41Z",
+    "url": "https://github.com/hellices/korvid"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-29T17:01:51Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
+    "id": "mmporong/rl-triage-agent",
+    "language": "Python",
+    "name": "mmporong/rl-triage-agent",
+    "stars": 2,
+    "updated_at": "2026-10-29T17:01:44Z",
+    "url": "https://github.com/mmporong/rl-triage-agent"
+  },
+  {
+    "description": "The agent loop for Rust \u2014 stream from 7 LLM protocols, run tools, loop until done. From a laptop to a Cloudflare Worker.",
+    "id": "yologdev/yoagent",
+    "language": "Rust",
+    "name": "yologdev/yoagent",
+    "stars": 366,
+    "updated_at": "2026-10-29T17:12:50Z",
+    "url": "https://github.com/yologdev/yoagent"
+  },
+  {
     "description": "Private, local-first AI agent: planning, sandboxed tools, four-tier memory, streaming UI and OpenTelemetry \u2014 runs entire",
     "id": "roydonsequeira/CORTEX-Private-Intelligence-Framework",
     "language": "Python",
@@ -16,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T16:56:41Z",
     "url": "https://github.com/aiterrariumcontrol/terrarium-life"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-29T16:55:51Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
   },
   {
     "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
@@ -52,33 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T16:49:27Z",
     "url": "https://github.com/9Ashwin/ShuaDouyin"
-  },
-  {
-    "description": "Plurnk engine: an operation language, searchable resources, persistent context, and cooperating workers.",
-    "id": "plurnk/plurnk-service",
-    "language": "TypeScript",
-    "name": "plurnk/plurnk-service",
-    "stars": 1,
-    "updated_at": "2026-10-29T16:48:55Z",
-    "url": "https://github.com/plurnk/plurnk-service"
-  },
-  {
-    "description": "AI-powered customer support platform. Automate conversations with configurable AI agents, train them on your knowledge b",
-    "id": "hay-chat/hay-core",
-    "language": "TypeScript",
-    "name": "hay-chat/hay-core",
-    "stars": 5,
-    "updated_at": "2026-10-29T16:59:39Z",
-    "url": "https://github.com/hay-chat/hay-core"
-  },
-  {
-    "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
-    "id": "mmporong/rl-triage-agent",
-    "language": "Python",
-    "name": "mmporong/rl-triage-agent",
-    "stars": 2,
-    "updated_at": "2026-10-29T16:43:34Z",
-    "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
     "description": "SRE Agent - CNCF Sandbox Project",
@@ -113,7 +194,7 @@
     "language": "Rust",
     "name": "bigduu/Bamboo-agent",
     "stars": 21,
-    "updated_at": "2026-10-29T16:59:21Z",
+    "updated_at": "2026-10-29T17:03:40Z",
     "url": "https://github.com/bigduu/Bamboo-agent"
   },
   {
@@ -153,21 +234,12 @@
     "url": "https://github.com/AandBorC/dsa-lite"
   },
   {
-    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
-    "id": "zhixuli0406/DuDuClaw",
-    "language": "Rust",
-    "name": "zhixuli0406/DuDuClaw",
-    "stars": 50,
-    "updated_at": "2026-10-29T16:34:50Z",
-    "url": "https://github.com/zhixuli0406/DuDuClaw"
-  },
-  {
     "description": "",
     "id": "vinaosb/austringer",
     "language": "Rust",
     "name": "vinaosb/austringer",
     "stars": 0,
-    "updated_at": "2026-10-29T16:24:29Z",
+    "updated_at": "2026-10-29T17:04:14Z",
     "url": "https://github.com/vinaosb/austringer"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 7,
     "updated_at": "2026-10-29T16:18:22Z",
     "url": "https://github.com/lzmd-arch/BioSNN-Plug"
-  },
-  {
-    "description": "AI-powered image generation and chat studio",
-    "id": "juliopolycarpo/mangostudio",
-    "language": "TypeScript",
-    "name": "juliopolycarpo/mangostudio",
-    "stars": 6,
-    "updated_at": "2026-10-29T16:38:33Z",
-    "url": "https://github.com/juliopolycarpo/mangostudio"
   },
   {
     "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
@@ -274,7 +337,7 @@
     "id": "Mai-with-u/MaiBot",
     "language": "Python",
     "name": "Mai-with-u/MaiBot",
-    "stars": 6715,
+    "stars": 6716,
     "updated_at": "2026-10-29T15:49:51Z",
     "url": "https://github.com/Mai-with-u/MaiBot"
   },
@@ -360,15 +423,6 @@
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
   },
   {
-    "description": "Mila \u2014 open-source digital employee in Telegram, built on Claude Code. Bring your own Claude account or API key; she rem",
-    "id": "shakhruz/mila",
-    "language": "Python",
-    "name": "shakhruz/mila",
-    "stars": 1,
-    "updated_at": "2026-10-29T15:03:13Z",
-    "url": "https://github.com/shakhruz/mila"
-  },
-  {
     "description": "Policy-driven autopilot for Dependabot PRs and patch releases, with Slack/Discord/Matrix digests",
     "id": "no42-org/twiki",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-29T14:47:39Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
-    "id": "zqc3117/Spotter",
-    "language": "Python",
-    "name": "zqc3117/Spotter",
-    "stars": 165,
-    "updated_at": "2026-10-29T14:41:37Z",
-    "url": "https://github.com/zqc3117/Spotter"
-  },
-  {
-    "description": "CIRIS: an open-source AI assistant with a conscience you can check. Signed, auditable reasoning on every decision, a hum",
-    "id": "CIRISAI/CIRISAgent",
-    "language": "Python",
-    "name": "CIRISAI/CIRISAgent",
-    "stars": 58,
-    "updated_at": "2026-10-29T15:28:56Z",
-    "url": "https://github.com/CIRISAI/CIRISAgent"
-  },
-  {
-    "description": "Community DSH host plugin that automatically resumes root-agent sessions after max-token truncation, with bounded retrie",
-    "id": "Wepoi9/dsh-max-token-auto-continue",
-    "language": "TypeScript",
-    "name": "Wepoi9/dsh-max-token-auto-continue",
-    "stars": 0,
-    "updated_at": "2026-10-29T14:37:13Z",
-    "url": "https://github.com/Wepoi9/dsh-max-token-auto-continue"
-  },
-  {
-    "description": "A transparent agent runtime in Rust: context, tools, permissions and requests as explicit state. Plus an MCP bridge and ",
-    "id": "ljedrz/nachalnik",
-    "language": "Rust",
-    "name": "ljedrz/nachalnik",
-    "stars": 5,
-    "updated_at": "2026-10-29T14:28:12Z",
-    "url": "https://github.com/ljedrz/nachalnik"
-  },
-  {
-    "description": "Verifiable AI coding agent harness / \u53ef\u9a8c\u8bc1\u7684 AI \u7f16\u7801\u4ee3\u7406\uff1aevidence hash-chain \u00b7 hollow-answer gate \u00b7 manual verification checkli",
-    "id": "xianyu-sheng/Xenon",
-    "language": "Python",
-    "name": "xianyu-sheng/Xenon",
-    "stars": 56,
-    "updated_at": "2026-10-29T14:22:42Z",
-    "url": "https://github.com/xianyu-sheng/Xenon"
-  },
-  {
-    "description": "Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the ",
-    "id": "NomaDamas/CozyClay",
-    "language": "JavaScript",
-    "name": "NomaDamas/CozyClay",
-    "stars": 1159,
-    "updated_at": "2026-10-29T14:15:42Z",
-    "url": "https://github.com/NomaDamas/CozyClay"
   }
 ]
