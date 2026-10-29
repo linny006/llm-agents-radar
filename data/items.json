@@ -1,11 +1,74 @@
 [
   {
+    "description": "\u30c7\u30d9\u30ed\u30c3\u30d1\u30fc\u30b5\u30a4\u30c8\u306e\u57f7\u7b46\u3067\u4f5c\u6210\u3057\u305f\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
+    "id": "ubata-mamezou/developer-site-article-examples",
+    "language": "TypeScript",
+    "name": "ubata-mamezou/developer-site-article-examples",
+    "stars": 0,
+    "updated_at": "2026-10-29T02:15:11Z",
+    "url": "https://github.com/ubata-mamezou/developer-site-article-examples"
+  },
+  {
+    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
+    "id": "g761007/daily-dispatch",
+    "language": "Python",
+    "name": "g761007/daily-dispatch",
+    "stars": 0,
+    "updated_at": "2026-10-29T02:12:02Z",
+    "url": "https://github.com/g761007/daily-dispatch"
+  },
+  {
+    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
+    "id": "tya5/shellboy",
+    "language": "Rust",
+    "name": "tya5/shellboy",
+    "stars": 0,
+    "updated_at": "2026-10-29T02:09:41Z",
+    "url": "https://github.com/tya5/shellboy"
+  },
+  {
+    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
+    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "language": "HTML",
+    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
+    "stars": 137,
+    "updated_at": "2026-10-29T02:05:13Z",
+    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
+  },
+  {
+    "description": "\ud83e\udd16 \u65b0\u4e00\u4ee3\u5f00\u6e90 Chrome \u4fa7\u8fb9\u680f\u81ea\u4e3b AI \u6d4f\u89c8\u5668\u667a\u80fd\u4f53\uff1a\u76ee\u6807\u9a71\u52a8\u3001\u957f\u7a0b\u89c4\u5212\u3001\u89c6\u89c9\u7a7a\u95f4\u611f\u77e5\u3001\u5feb\u6162\u53cc\u6838\u8ba4\u77e5\u4e0e\u7269\u7406\u7ea7\u64cd\u63a7\uff0c\u652f\u6301 DeepSeek \u601d\u8003\u6a21\u578b\u4e0e\u672c\u5730\u79bb\u7ebf LLM (BYOK)",
+    "id": "lusipad/browser-agent",
+    "language": "TypeScript",
+    "name": "lusipad/browser-agent",
+    "stars": 3,
+    "updated_at": "2026-10-29T02:05:12Z",
+    "url": "https://github.com/lusipad/browser-agent"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-29T02:03:45Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "Monocle is a framework for tracing GenAI app code. This repo contains implementation of Monocle for GenAI apps written i",
+    "id": "monocle2ai/monocle",
+    "language": "Python",
+    "name": "monocle2ai/monocle",
+    "stars": 345,
+    "updated_at": "2026-10-29T02:01:51Z",
+    "url": "https://github.com/monocle2ai/monocle"
+  },
+  {
     "description": "tools for building better agents. From tool calls to Governance and anything in between get your custom agents to work r",
     "id": "HaikeiLabs/agentware",
     "language": "Python",
     "name": "HaikeiLabs/agentware",
     "stars": 2,
-    "updated_at": "2026-10-29T01:59:21Z",
+    "updated_at": "2026-10-29T02:09:20Z",
     "url": "https://github.com/HaikeiLabs/agentware"
   },
   {
@@ -70,15 +133,6 @@
     "stars": 12,
     "updated_at": "2026-10-29T01:47:03Z",
     "url": "https://github.com/alexwkleung/reika"
-  },
-  {
-    "description": "Lightweight terminal AI agent in Rust. The model's only tool is the shell; through the shellboy CLI it searches and bran",
-    "id": "tya5/shellboy",
-    "language": "Rust",
-    "name": "tya5/shellboy",
-    "stars": 0,
-    "updated_at": "2026-10-29T01:45:36Z",
-    "url": "https://github.com/tya5/shellboy"
   },
   {
     "description": "Isaac Lab RL training triage agent: Nemotron 3 Super ranks failure mechanisms and picks approval-gated probes, a registe",
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "protoLabsAI/protoAgent",
     "stars": 14,
-    "updated_at": "2026-10-29T01:59:37Z",
+    "updated_at": "2026-10-29T02:02:22Z",
     "url": "https://github.com/protoLabsAI/protoAgent"
   },
   {
@@ -351,15 +405,6 @@
     "url": "https://github.com/hay-chat/hay-core"
   },
   {
-    "description": "\u6bcf\u65e5\u65b0\u805e\u81ea\u52d5\u5206\u6790\u8207\u6458\u8981\u7cfb\u7d71\uff1aClaude Code \u96f2\u7aef\u6392\u7a0b\uff08routines\uff09\u5b9a\u6642\u5206\u6790\u3001\u5f59\u6574\u6210\u6bcf\u65e5\u6458\u8981\uff0c\u900f\u904e GitHub Pages \u516c\u958b\u767c\u5e03\u4e26\u7528 Telegram \u63a8\u64ad\u3002",
-    "id": "g761007/daily-dispatch",
-    "language": "Python",
-    "name": "g761007/daily-dispatch",
-    "stars": 0,
-    "updated_at": "2026-10-28T23:10:00Z",
-    "url": "https://github.com/g761007/daily-dispatch"
-  },
-  {
     "description": "Free & Open Source AI Agent \u2014 Self-Hosted, Self-Learning, No Vendor API. Qwen2.5-7B + LoRA. 35 tools. Built on Islamic E",
     "id": "fahmiwol/sidix",
     "language": "Python",
@@ -400,53 +445,8 @@
     "id": "Soodok/Deepseek-Harness-Local-Android",
     "language": "Kotlin",
     "name": "Soodok/Deepseek-Harness-Local-Android",
-    "stars": 383,
+    "stars": 384,
     "updated_at": "2026-10-28T22:24:22Z",
     "url": "https://github.com/Soodok/Deepseek-Harness-Local-Android"
-  },
-  {
-    "description": "AI-Assisted Development Workflow \u2014 Claude Code Plugin",
-    "id": "cunhaax/ai-workflow",
-    "language": "Shell",
-    "name": "cunhaax/ai-workflow",
-    "stars": 5,
-    "updated_at": "2026-10-28T22:20:49Z",
-    "url": "https://github.com/cunhaax/ai-workflow"
-  },
-  {
-    "description": "\u672c\u5730\u4f18\u5148\u3001\u53ef\u56de\u6eaf\u7684 Agent \u65f6\u95f4\u5206\u5c42\u8bb0\u5fc6\u7cfb\u7edf\uff5c\u7eaf Python \u6807\u51c6\u5e93\uff5c196 \u9879\u6d4b\u8bd5 + 13 \u6761\u5ba1\u8ba1\u547d\u4ee4",
-    "id": "sins-gif/moonshadow",
-    "language": "Python",
-    "name": "sins-gif/moonshadow",
-    "stars": 1,
-    "updated_at": "2026-10-28T22:14:17Z",
-    "url": "https://github.com/sins-gif/moonshadow"
-  },
-  {
-    "description": "Smart Promise Tracker AI 2026 \u2013 Commit Memory Engine",
-    "id": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "language": "HTML",
-    "name": "muhammadalicusit56-glitch/otto-cognitive-nudge",
-    "stars": 137,
-    "updated_at": "2026-10-28T22:10:42Z",
-    "url": "https://github.com/muhammadalicusit56-glitch/otto-cognitive-nudge"
-  },
-  {
-    "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
-    "id": "genaforvena/mishe-tauftauf",
-    "language": "Python",
-    "name": "genaforvena/mishe-tauftauf",
-    "stars": 3,
-    "updated_at": "2026-10-28T22:03:42Z",
-    "url": "https://github.com/genaforvena/mishe-tauftauf"
-  },
-  {
-    "description": "Make any agent harness token-native.",
-    "id": "Lawhy/tokin",
-    "language": "Python",
-    "name": "Lawhy/tokin",
-    "stars": 7,
-    "updated_at": "2026-10-28T21:54:52Z",
-    "url": "https://github.com/Lawhy/tokin"
   }
 ]
