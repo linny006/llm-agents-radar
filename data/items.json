@@ -1,12 +1,111 @@
 [
   {
+    "description": "\u5e26\u7b56\u7565\u9a8c\u8bc1\u7684 A \u80a1 LLM \u5206\u6790\u7cfb\u7edf \u2014\u2014 \u591a\u6e90\u964d\u7ea7 + \u5b9a\u65f6\u4efb\u52a1 + \u591a\u901a\u9053\u63a8\u9001\uff1b\u6838\u5fc3\u589e\u91cf\u662f\u53ef\u8bc1\u4f2a\u7684\u56de\u6d4b\u4e0e\u9a8c\u8bc1\u5c42\uff08\u672a\u6765\u51fd\u6570\u63a2\u6d4b / \u6837\u672c\u5185\u5916\u5207\u5206 / t\u68c0\u9a8c / \u57fa\u51c6\u5bf9\u6bd4\uff09",
+    "id": "AandBorC/dsa-lite",
+    "language": "Python",
+    "name": "AandBorC/dsa-lite",
+    "stars": 0,
+    "updated_at": "2026-10-29T16:28:48Z",
+    "url": "https://github.com/AandBorC/dsa-lite"
+  },
+  {
+    "description": "Turn AI coding CLIs (Claude Code, Codex, Antigravity) into AI employees on LINE, Telegram, Discord, Slack and 7 more cha",
+    "id": "zhixuli0406/DuDuClaw",
+    "language": "Rust",
+    "name": "zhixuli0406/DuDuClaw",
+    "stars": 50,
+    "updated_at": "2026-10-29T16:27:51Z",
+    "url": "https://github.com/zhixuli0406/DuDuClaw"
+  },
+  {
+    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
+    "id": "9Ashwin/ShuaDouyin",
+    "language": "TypeScript",
+    "name": "9Ashwin/ShuaDouyin",
+    "stars": 1,
+    "updated_at": "2026-10-29T16:27:43Z",
+    "url": "https://github.com/9Ashwin/ShuaDouyin"
+  },
+  {
+    "description": "",
+    "id": "vinaosb/austringer",
+    "language": "Rust",
+    "name": "vinaosb/austringer",
+    "stars": 0,
+    "updated_at": "2026-10-29T16:24:29Z",
+    "url": "https://github.com/vinaosb/austringer"
+  },
+  {
+    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
+    "id": "strands-agents/harness-sdk",
+    "language": "TypeScript",
+    "name": "strands-agents/harness-sdk",
+    "stars": 8995,
+    "updated_at": "2026-10-29T16:30:15Z",
+    "url": "https://github.com/strands-agents/harness-sdk"
+  },
+  {
+    "description": "Terminal client for Plurnk: model-curated context, composable tools, and cooperating workers. Local or cloud models.",
+    "id": "plurnk/plurnk",
+    "language": "TypeScript",
+    "name": "plurnk/plurnk",
+    "stars": 6,
+    "updated_at": "2026-10-29T16:21:54Z",
+    "url": "https://github.com/plurnk/plurnk"
+  },
+  {
+    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
+    "id": "denn-gubsky/loomcycle",
+    "language": "Go",
+    "name": "denn-gubsky/loomcycle",
+    "stars": 17,
+    "updated_at": "2026-10-29T16:19:36Z",
+    "url": "https://github.com/denn-gubsky/loomcycle"
+  },
+  {
+    "description": "\u8109\u51b2\u795e\u7ecf\u7f51\u7edc\u8ba4\u77e5\u539f\u578b\uff1a\u7eaf\u5c40\u90e8\u5b66\u4e60\u89c4\u5219\uff08\u65e0\u4ee3\u7406\u68af\u5ea6\uff09+ SNN \u81ea\u4e3b\u8c03\u5ea6 LLM\u3002Spiking neural network cognitive prototype \u2014 purely local learning rules (no sur",
+    "id": "lzmd-arch/BioSNN-Plug",
+    "language": "Python",
+    "name": "lzmd-arch/BioSNN-Plug",
+    "stars": 7,
+    "updated_at": "2026-10-29T16:18:22Z",
+    "url": "https://github.com/lzmd-arch/BioSNN-Plug"
+  },
+  {
+    "description": "AI-powered image generation and chat studio",
+    "id": "juliopolycarpo/mangostudio",
+    "language": "TypeScript",
+    "name": "juliopolycarpo/mangostudio",
+    "stars": 6,
+    "updated_at": "2026-10-29T16:25:30Z",
+    "url": "https://github.com/juliopolycarpo/mangostudio"
+  },
+  {
     "description": "A small, plantable (parasitic but only in a good sense kefir) culture for development through self-observation.",
     "id": "genaforvena/mishe-tauftauf",
     "language": "Python",
     "name": "genaforvena/mishe-tauftauf",
     "stars": 3,
-    "updated_at": "2026-10-29T16:13:19Z",
+    "updated_at": "2026-10-29T16:16:51Z",
     "url": "https://github.com/genaforvena/mishe-tauftauf"
+  },
+  {
+    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
+    "id": "hhyqhh/inno-agent",
+    "language": "TypeScript",
+    "name": "hhyqhh/inno-agent",
+    "stars": 1325,
+    "updated_at": "2026-10-29T16:15:47Z",
+    "url": "https://github.com/hhyqhh/inno-agent"
+  },
+  {
+    "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
+    "id": "Canvixel-Eloweny/ai-bot-groupmate",
+    "language": "JavaScript",
+    "name": "Canvixel-Eloweny/ai-bot-groupmate",
+    "stars": 96,
+    "updated_at": "2026-10-29T16:22:10Z",
+    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
   },
   {
     "description": "An open-source research agent system for your Zotero library.",
@@ -36,31 +135,13 @@
     "url": "https://github.com/mmporong/rl-triage-agent"
   },
   {
-    "description": "CLI and terminal workspace for browsing Douyin with agent-owned personas and local memory",
-    "id": "9Ashwin/ShuaDouyin",
-    "language": "TypeScript",
-    "name": "9Ashwin/ShuaDouyin",
-    "stars": 1,
-    "updated_at": "2026-10-29T16:08:56Z",
-    "url": "https://github.com/9Ashwin/ShuaDouyin"
-  },
-  {
     "description": "Rust-native, library-first coding-agent runtime and terminal CLI inspired by Pi, with composable LLM providers, tools, s",
     "id": "bigfish1913/pi-rust",
     "language": "Rust",
     "name": "bigfish1913/pi-rust",
     "stars": 175,
-    "updated_at": "2026-10-29T16:08:29Z",
+    "updated_at": "2026-10-29T16:17:20Z",
     "url": "https://github.com/bigfish1913/pi-rust"
-  },
-  {
-    "description": "An open-source personal learning agent with three-layer memory (learner profile / wiki knowledge base / cross-conversati",
-    "id": "hhyqhh/inno-agent",
-    "language": "TypeScript",
-    "name": "hhyqhh/inno-agent",
-    "stars": 1325,
-    "updated_at": "2026-10-29T16:08:13Z",
-    "url": "https://github.com/hhyqhh/inno-agent"
   },
   {
     "description": "\u884c\u8bb0\uff1a\u53ef\u63d2\u62d4\u57ce\u5e02\u7684\u5927\u6a21\u578b\u65c5\u884c\u89c4\u5212 Agent\uff08Web \u7aef + MCP \u670d\u52a1\uff09\u3002\u4e00\u6761\u547d\u4ee4\u63a5\u5165\u65b0\u57ce\u5e02\uff0c\u5df2\u63a5\u5317\u4eac\u3001\u4e0a\u6d77\u3001\u5e7f\u5dde\u3001\u6df1\u5733\u3001\u6210\u90fd\u3001\u91cd\u5e86\u3001\u6b66\u6c49\u3001\u676d\u5dde\u3001\u5357\u4eac\u3001\u82cf\u5dde\u5341\u57ce\uff1b\u4e00\u53e5\u8bdd\u8bf4\u9700\u6c42\u3001\u89c4\u5212\u524d\u786e\u8ba4\uff1bLangGraph + OR-Tools \u6392\u7a0b\u4e0e",
@@ -88,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-10-29T16:01:25Z",
     "url": "https://github.com/tianye1999/dsb"
-  },
-  {
-    "description": "Estrella Bot \u00b7 QQ \u7fa4 AI \u7fa4\u53cb\u673a\u5668\u4eba\u3002\u628a QQ \u5c0f\u53f7\u63a5\u7ed9\u4efb\u610f OpenAI \u517c\u5bb9\u6a21\u578b\uff08\u672c\u673a / DeepSeek / \u667a\u8c31 / \u901a\u4e49\uff09\uff0c\u8ba9 AI \u50cf\u7fa4\u53cb\u4e00\u6837\u63d2\u8bdd\u3001\u63a5\u6897\u3001\u6f5c\u6c34\u3002OneBot v11 + NapCat\uff0c\u96f6\u6784\u5efa",
-    "id": "Canvixel-Eloweny/ai-bot-groupmate",
-    "language": "JavaScript",
-    "name": "Canvixel-Eloweny/ai-bot-groupmate",
-    "stars": 96,
-    "updated_at": "2026-10-29T15:57:26Z",
-    "url": "https://github.com/Canvixel-Eloweny/ai-bot-groupmate"
   },
   {
     "description": "The life record of an autonomous AI agent \u2014 its diary, work journal, and every wake it has taken. The observation window",
@@ -140,7 +212,7 @@
     "language": "TypeScript",
     "name": "hay-chat/hay-core",
     "stars": 5,
-    "updated_at": "2026-10-29T16:13:10Z",
+    "updated_at": "2026-10-29T16:25:53Z",
     "url": "https://github.com/hay-chat/hay-core"
   },
   {
@@ -169,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T15:29:48Z",
     "url": "https://github.com/jphall663/GWU_LLM"
-  },
-  {
-    "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any ",
-    "id": "strands-agents/harness-sdk",
-    "language": "TypeScript",
-    "name": "strands-agents/harness-sdk",
-    "stars": 8995,
-    "updated_at": "2026-10-29T15:27:09Z",
-    "url": "https://github.com/strands-agents/harness-sdk"
   },
   {
     "description": "Imp is a soft red mochi head with two curled horns and two white eyes. It floats above your windows, watches your cursor",
@@ -268,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-29T14:47:39Z",
     "url": "https://github.com/RalfHermsen/x4-agent"
-  },
-  {
-    "description": "The runtime substrate for agentic systems \u2014 one Go binary, six LLM providers, MCP-native, configurable as a managed sand",
-    "id": "denn-gubsky/loomcycle",
-    "language": "Go",
-    "name": "denn-gubsky/loomcycle",
-    "stars": 17,
-    "updated_at": "2026-10-29T15:31:54Z",
-    "url": "https://github.com/denn-gubsky/loomcycle"
   },
   {
     "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-29T14:01:49Z",
     "url": "https://github.com/iammonth1997/paperwiki-research-compiler"
-  },
-  {
-    "description": "BlackLance \u2014 LLM-orchestrated reconnaissance and security testing framework with attack-surface mapping, evidence tracki",
-    "id": "roxm337/blacklance",
-    "language": "Python",
-    "name": "roxm337/blacklance",
-    "stars": 0,
-    "updated_at": "2026-10-29T14:36:39Z",
-    "url": "https://github.com/roxm337/blacklance"
-  },
-  {
-    "description": "Read-only web search/fetch MCP servers with SSRF/DNS-rebinding guards and outbound redaction.",
-    "id": "whatxin7/dsh-mcp-safe-tools",
-    "language": "JavaScript",
-    "name": "whatxin7/dsh-mcp-safe-tools",
-    "stars": 0,
-    "updated_at": "2026-10-29T13:56:24Z",
-    "url": "https://github.com/whatxin7/dsh-mcp-safe-tools"
-  },
-  {
-    "description": "",
-    "id": "protokol11/pi-paste",
-    "language": "TypeScript",
-    "name": "protokol11/pi-paste",
-    "stars": 0,
-    "updated_at": "2026-10-29T13:54:16Z",
-    "url": "https://github.com/protokol11/pi-paste"
-  },
-  {
-    "description": "",
-    "id": "protokol11/pi-orchestration-graph",
-    "language": "TypeScript",
-    "name": "protokol11/pi-orchestration-graph",
-    "stars": 0,
-    "updated_at": "2026-10-29T13:53:57Z",
-    "url": "https://github.com/protokol11/pi-orchestration-graph"
-  },
-  {
-    "description": "Multi-agent LLM driven cell type annotation for single-cell RNA-Seq data",
-    "id": "NygenAnalytics/CyteType",
-    "language": "Python",
-    "name": "NygenAnalytics/CyteType",
-    "stars": 139,
-    "updated_at": "2026-10-29T13:46:18Z",
-    "url": "https://github.com/NygenAnalytics/CyteType"
-  },
-  {
-    "description": "AI coding agent for terminal, desktop and browser. Visible execution records, LAN mesh collaboration across machines, ph",
-    "id": "holylong/luban",
-    "language": "TypeScript",
-    "name": "holylong/luban",
-    "stars": 0,
-    "updated_at": "2026-10-29T13:39:35Z",
-    "url": "https://github.com/holylong/luban"
   }
 ]
